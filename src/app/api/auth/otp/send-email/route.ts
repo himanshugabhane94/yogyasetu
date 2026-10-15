@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import crypto from 'crypto';
 import bcrypt from 'bcryptjs';
 import prisma from '@/lib/prisma';
-import { sendOtpEmail } from '@/lib/resend';
+import { sendOtpEmail } from '@/lib/mailer';
 
 export const dynamic = 'force-dynamic';
 
@@ -68,12 +68,12 @@ export async function POST(req: NextRequest) {
       },
     });
 
-    // Send email via Resend
+    // Send email via Nodemailer Gmail SMTP
     const sendResult = await sendOtpEmail(cleanEmail, otp);
 
     if (!sendResult.success) {
       return NextResponse.json(
-        { error: sendResult.error || 'Failed to dispatch OTP email. Please try again.' },
+        { error: 'Could not send OTP, try again' },
         { status: 500 }
       );
     }
@@ -89,14 +89,11 @@ export async function POST(req: NextRequest) {
       success: true,
       message: `A 6-digit OTP has been sent to ${maskedEmail}.`,
       maskedEmail,
-      devMode: sendResult.devMode || false,
-      // In dev mode with no API key, return debug hint for testing convenience
-      ...(sendResult.devMode ? { debugOtp: otp } : {}),
     });
   } catch (err: any) {
     console.error('Error in send-email OTP route:', err);
     return NextResponse.json(
-      { error: err?.message || 'An unexpected error occurred while sending the OTP.' },
+      { error: 'Could not send OTP, try again' },
       { status: 500 }
     );
   }

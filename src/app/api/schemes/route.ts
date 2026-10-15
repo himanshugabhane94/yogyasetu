@@ -23,42 +23,75 @@ export async function GET(request: Request) {
     const session = await getServerSession(authOptions);
     const userId = (session?.user as any)?.id;
 
-    const where: any = {};
+    const conditions: any[] = [];
 
     // Status filter (allow all if admin/officer requests it)
     const isAdminOrOfficer = ['ADMIN', 'VERIFIED_OFFICER'].includes((session?.user as any)?.role);
     if (status !== 'ALL') {
-      where.status = status;
+      conditions.push({ status });
     } else if (!isAdminOrOfficer) {
-      where.status = 'PUBLISHED';
+      conditions.push({ status: 'PUBLISHED' });
     }
 
     // Category filter
     if (category && category !== 'all') {
-      where.category = {
-        OR: [
-          { slug: category },
-          { id: category },
-        ],
-      };
+      conditions.push({
+        category: {
+          OR: [
+            { slug: category },
+            { id: category },
+          ],
+        },
+      });
     }
 
     // Benefit Type filter
     if (benefitType && benefitType !== 'all') {
-      where.benefitType = benefitType;
+      conditions.push({ benefitType });
     }
 
-    // Search query (Postgres case-insensitive search)
-    if (search) {
-      where.OR = [
-        { titleEn: { contains: search, mode: 'insensitive' } },
-        { titleHi: { contains: search, mode: 'insensitive' } },
-        { descriptionEn: { contains: search, mode: 'insensitive' } },
-        { descriptionHi: { contains: search, mode: 'insensitive' } },
-        { departmentEn: { contains: search, mode: 'insensitive' } },
-        { departmentHi: { contains: search, mode: 'insensitive' } },
-      ];
+    // Level filter (CENTRAL vs STATE)
+    const level = searchParams.get('level')?.trim();
+    if (level && level.toLowerCase() !== 'all') {
+      conditions.push({ level: level.toUpperCase() });
     }
+
+    // State Scope filter (e.g. Maharashtra vs Central)
+    if (state && state !== 'All') {
+      if (state.toLowerCase() === 'maharashtra') {
+        conditions.push({
+          OR: [
+            { state: 'Maharashtra' },
+            { state: 'maharashtra' },
+          ],
+        });
+      } else if (state.toLowerCase() === 'central') {
+        conditions.push({ level: 'CENTRAL' });
+      } else {
+        conditions.push({
+          OR: [
+            { state: state },
+            { state: null },
+          ],
+        });
+      }
+    }
+
+    // Search query (case-insensitive search)
+    if (search) {
+      conditions.push({
+        OR: [
+          { titleEn: { contains: search, mode: 'insensitive' } },
+          { titleHi: { contains: search, mode: 'insensitive' } },
+          { descriptionEn: { contains: search, mode: 'insensitive' } },
+          { descriptionHi: { contains: search, mode: 'insensitive' } },
+          { departmentEn: { contains: search, mode: 'insensitive' } },
+          { departmentHi: { contains: search, mode: 'insensitive' } },
+        ],
+      });
+    }
+
+    const where = conditions.length > 0 ? { AND: conditions } : {};
 
     const [schemes, totalCount] = await Promise.all([
       prisma.scheme.findMany({

@@ -122,6 +122,38 @@ async function main() {
       descriptionEn: 'Cashless secondary and tertiary hospitalization cover, affordable generic medicines, and immunizations.',
       descriptionHi: 'निशुल्क द्वितीयक व तृतीयक अस्पताल भर्ती कवर, सस्ती जेनेरिक दवाएं और सार्वभौमिक टीकाकरण।',
     },
+    {
+      nameEn: 'Government Hostels',
+      nameHi: 'शासकीय वसतिगृह',
+      slug: 'hostels',
+      icon: 'Building2',
+      descriptionEn: 'Government hostels, residential schools and boarding allowances for students.',
+      descriptionHi: 'विद्यार्थ्यांसाठी शासकीय वसतिगृह, निवासी शाळा आणि भोजन निर्वाह भत्ता योजना.',
+    },
+    {
+      nameEn: 'Maha DBT',
+      nameHi: 'महाडीबीटी योजना',
+      slug: 'mahadbt',
+      icon: 'Landmark',
+      descriptionEn: 'Direct benefit transfer, education fee waivers and agriculture subsidies from Maharashtra State.',
+      descriptionHi: 'महाराष्ट्र शासनाचे थेट लाभ हस्तांतरण, शिक्षण शुल्क सवलती आणि कृषी अनुदान.',
+    },
+    {
+      nameEn: 'Skill Development',
+      nameHi: 'कौशल विकास',
+      slug: 'skills',
+      icon: 'Lightbulb',
+      descriptionEn: 'Vocational training courses, apprenticeships, ITI programs and employment certifications.',
+      descriptionHi: 'व्यावसायिक प्रशिक्षण अभ्यासक्रम, शिकाऊ उमेदवारी आणि रोजगारभिमुख कौशल्य विकास.',
+    },
+    {
+      nameEn: 'Minority Welfare',
+      nameHi: 'अल्पसंख्यक कल्याण',
+      slug: 'minority',
+      icon: 'Users',
+      descriptionEn: 'Scholarships, coaching assistance, and concessional loans for religious minority communities.',
+      descriptionHi: 'अल्पसंख्यक समुदायों के लिए विशेष छात्रवृत्तियां, कोचिंग सहायता और रियायती ऋण.',
+    },
   ];
 
   const categoriesMap: Record<string, string> = {};
@@ -129,7 +161,7 @@ async function main() {
     const created = await prisma.category.create({ data: cat });
     categoriesMap[cat.slug] = created.id;
   }
-  console.log('✅ Created 8 Master Categories');
+  console.log('✅ Created 12 Master Categories');
 
   // 3. Create Authentic Schemes
   const schemesData = [

@@ -58,9 +58,13 @@ export interface SchemeItem {
   documentsRequired: string; // parsed to string[]
   applicationProcess: string; // parsed to ApplicationStep[]
   officialLink: string;
+  sourceUrl?: string | null;
   departmentEn: string;
   departmentHi: string;
   level: string;
+  state?: string | null;
+  slug?: string | null;
+  lastVerified?: string | null;
   openDate?: string | null;
   closeDate?: string | null;
   status: 'DRAFT' | 'VERIFIED' | 'PUBLISHED' | 'CLOSED';

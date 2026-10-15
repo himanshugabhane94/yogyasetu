@@ -83,20 +83,16 @@ function LoginContent() {
       const data = await res.json();
 
       if (!res.ok) {
-        throw new Error(data.error || 'Failed to send verification code.');
+        throw new Error(data.error || 'Could not send OTP, try again');
       }
 
       setMaskedEmail(data.maskedEmail || email);
       setStep('otp');
       setOtp('');
 
-      if (data.devMode && data.debugOtp) {
-        setInfoMessage(`[Dev Mode] Verification OTP is: ${data.debugOtp}`);
-      } else {
-        setInfoMessage(data.message || 'OTP dispatched to your email.');
-      }
+      setInfoMessage(data.message || 'OTP dispatched to your email.');
     } catch (err: any) {
-      setError(err?.message || 'Unable to send OTP. Please try again.');
+      setError(err?.message || 'Could not send OTP, try again');
     } finally {
       setIsSendingOtp(false);
     }

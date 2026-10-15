@@ -47,7 +47,7 @@ YogyaSetu is a full-stack, production-ready digital bridge connecting Indian cit
    - 1-click CSV export of all schemes and registered citizens.
 
 8. **Production-Grade Real OTP Authentication (`/login`, `/register`)**:
-   - **Email OTP via Resend API (Free Tier: 3,000 emails/month)**:
+   - **Email OTP via Gmail SMTP (Nodemailer)**:
      - 6-digit cryptographically random OTP dispatched to citizen's email with branded GovTech HTML layout.
      - Stored in database as bcrypt-hashed record with 10-minute expiry and attempt limits.
      - Automatic citizen account creation upon first OTP verification.
@@ -71,7 +71,7 @@ YogyaSetu is a full-stack, production-ready digital bridge connecting Indian cit
 - **Backend**: Next.js 14 Route Handlers
 - **Database**: PostgreSQL (Supabase / Neon) with Prisma ORM; zero-config SQLite out-of-the-box for local testing
 - **Authentication**: NextAuth.js (bcryptjs, JWT sessions, role-based authorization) + Firebase Phone Auth SDK
-- **Email Delivery**: Resend API (`resend` SDK)
+- **Email Delivery**: Nodemailer via Gmail SMTP (`nodemailer` SDK)
 - **Internationalization (i18n)**: English & हिन्दी site-wide dictionary provider
 
 ---
@@ -88,9 +88,9 @@ DATABASE_URL="file:./dev.db"
 NEXTAUTH_URL="http://localhost:3000"
 NEXTAUTH_SECRET="yogyasetu_secret_jwt_encryption_key_2026_india"
 
-# 3. Resend Email OTP (Free Tier: https://resend.com)
-RESEND_API_KEY="re_your_resend_api_key"
-EMAIL_FROM="YogyaSetu <onboarding@resend.dev>"
+# 3. Gmail SMTP (Nodemailer)
+GMAIL_USER="your-email@gmail.com"
+GMAIL_APP_PASSWORD="your-16-character-app-password"
 
 # 4. Firebase Phone Authentication (https://console.firebase.google.com)
 NEXT_PUBLIC_FIREBASE_API_KEY="AIzaSy_your_key"
@@ -109,12 +109,14 @@ OPENAI_API_KEY=""
 
 ## 🔑 How to Setup Authentication Providers
 
-### 📧 1. Resend API Setup (Free Email OTP)
-1. Go to **[Resend.com](https://resend.com)** and create a free account.
-2. Navigate to **API Keys** $\to$ Click **Create API Key**.
-3. Copy the key (starts with `re_...`) and paste it as `RESEND_API_KEY` in your `.env` file.
-4. By default, you can send emails from `onboarding@resend.dev` to your registered email address. For custom domains, add and verify your domain in the Resend Domains tab.
-5. *(Development Note)*: If `RESEND_API_KEY` is left blank, YogyaSetu runs in local dev mode and prints the 6-digit OTP directly in your terminal console.
+### 📧 1. Gmail SMTP Setup (Google App Password)
+1. Go to your **[Google Account Security](https://myaccount.google.com/security)** and ensure **2-Step Verification** is enabled.
+2. Search for or navigate to **[App passwords](https://myaccount.google.com/apppasswords)**.
+3. Create an app password named `YogyaSetu`.
+4. Copy the 16-character generated password (without spaces).
+5. In your `.env` file, set:
+   - `GMAIL_USER="your-gmail-address@gmail.com"`
+   - `GMAIL_APP_PASSWORD="your-16-character-password"`
 
 ### 📱 2. Firebase Phone Authentication Setup (Free SMS OTP)
 1. Go to **[Firebase Console](https://console.firebase.google.com)** and click **Add Project** (e.g. `yogyasetu-portal`).

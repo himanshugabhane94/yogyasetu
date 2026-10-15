@@ -14,6 +14,7 @@ if (target === 'postgres' || target === 'postgresql') {
 } else if (target === 'sqlite') {
   let content = fs.readFileSync(prismaPath, 'utf8');
   content = content.replace(/provider\s*=\s*"postgresql"/g, 'provider = "sqlite"');
+  content = content.replace(/directUrl\s*=\s*env\(["']DIRECT_URL["']\)\s*\r?\n?/g, '');
   content = content.replace(/@db\.Text/g, '');
   fs.writeFileSync(prismaPath, content, 'utf8');
   console.log('✅ Switched Prisma schema to SQLite (Local zero-config dev)');

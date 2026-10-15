@@ -11,7 +11,8 @@
     "db:push": "prisma db push",
     "db:generate": "prisma generate",
     "seed": "ts-node prisma/seed.ts",
-    "import:schemes": "ts-node scripts/bulk-import-schemes.ts",
+    "seed:schemes2": "ts-node prisma/seed-schemes-batch2.ts",
+    "import:schemes": "ts-node prisma/import-schemes.ts",
     "db:postgres": "node scripts/switch-db.js postgres",
     "db:sqlite": "node scripts/switch-db.js sqlite"
   },
@@ -23,14 +24,15 @@
     "lucide-react": "^0.453.0",
     "next": "14.2.15",
     "next-auth": "^4.24.8",
+    "nodemailer": "^6.10.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "resend": "^6.24.0",
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20.17.0",
+    "@types/nodemailer": "^6.4.24",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "autoprefixer": "^10.4.20",

@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/lib/auth';
 import prisma from '@/lib/prisma';
-import { sendDeadlineReminderEmail } from '@/lib/resend';
+import { sendDeadlineReminderEmail } from '@/lib/mailer';
 
 export const dynamic = 'force-dynamic';
 

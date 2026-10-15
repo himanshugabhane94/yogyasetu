@@ -1,0 +1,2526 @@
+[
+  {
+    "slug": "babu-jagjivan-ram-chhatrawas-yojana-sc",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Babu Jagjivan Ram Chhatrawas Yojana (BJRCY) for SC Students",
+    "title_hi": "अनुसूचित जाति के छात्रों के लिए बाबू जगजीवन राम छात्रावास योजना",
+    "description_en": "A centrally sponsored scheme under the Ministry of Social Justice and Empowerment (now under PM-AJAY umbrella) aimed at providing residential hostel facilities for Scheduled Caste boys and girls pursuing middle school, higher secondary, undergraduate, and postgraduate education.",
+    "description_hi": "सामाजिक न्याय और अधिकारिता मंत्रालय (अब पीएम-अजय के तहत) द्वारा संचालित एक केंद्र प्रायोजित योजना, जिसका उद्देश्य माध्यमिक, उच्चतर माध्यमिक, स्नातक और स्नातकोत्तर शिक्षा प्राप्त कर रहे अनुसूचित जाति (SC) के छात्र-छात्राओं को निःशुल्क आवासीय छात्रावास सुविधाएं प्रदान करना है।",
+    "benefits_en": "Free lodging and secure hostel accommodation, library access, modern amenities, and 100% central assistance for girls hostels and 50% matching assistance for boys hostels constructed across low-literacy districts.",
+    "benefits_hi": "सुरक्षित छात्रावास आवास, पुस्तकालय सुविधा और आधुनिक सुविधाएं। कम साक्षरता वाले जिलों में बालिकाओं के छात्रावास के लिए 100% और बालकों के छात्रावास के लिए 50% केंद्रीय सहायता प्रदान की जाती है।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (SC) community",
+      "Must be enrolled in recognized government or government-aided schools, colleges, or universities",
+      "Family annual income ceiling as per state post-matric scholarship norms (usually up to ₹2.5 Lakh per annum)",
+      "Priority given to students from rural, remote, and aspirational districts"
+    ],
+    "eligibility_hi": [
+      "छात्र अनुसूचित जाति (SC) वर्ग से संबंधित होना चाहिए",
+      "मान्यता प्राप्त सरकारी या सहायता प्राप्त स्कूल, कॉलेज या विश्वविद्यालय में नामांकित होना चाहिए",
+      "पारिवारिक वार्षिक आय राज्य पोस्ट-मैट्रिक छात्रवृत्ति मानकों के अनुसार (सामान्यतः ₹2.5 लाख तक)",
+      "ग्रामीण, दूरदराज और आकांक्षी जिलों के छात्रों को प्राथमिकता"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "SC Caste Certificate",
+      "Income Certificate issued by competent revenue authority",
+      "Admission Receipt / Bonafide Certificate of the educational institution",
+      "Previous Year Marksheet"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "अनुसूचित जाति (SC) प्रमाण पत्र",
+      "सक्षम राजस्व प्राधिकारी द्वारा जारी आय प्रमाण पत्र",
+      "संस्थान की प्रवेश रसीद / बोनाफाइड प्रमाण पत्र",
+      "पिछली कक्षा की अंकतालिका"
+    ],
+    "steps_en": [
+      "Obtain hostel admission form from the college/university welfare office or District Social Welfare Office",
+      "Submit application along with verified academic and caste credentials",
+      "Hostel allotment committee verifies merit and distance from hometown to allot rooms"
+    ],
+    "steps_hi": [
+      "कॉलेज/विश्वविद्यालय कल्याण कार्यालय या जिला समाज कल्याण अधिकारी से छात्रावास प्रवेश फॉर्म प्राप्त करें",
+      "सत्यापित शैक्षणिक और जाति प्रमाण पत्रों के साथ आवेदन जमा करें",
+      "छात्रावास आवंटन समिति मेरिट और गृह नगर से दूरी के आधार पर कमरा आवंटित करती है"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/schemes/4",
+    "sourceUrl": "https://socialjustice.gov.in/schemes/4",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "hostels-for-obc-boys-and-girls-central",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Centrally Sponsored Scheme of Hostels for OBC Boys and Girls",
+    "title_hi": "अन्य पिछड़ा वर्ग (OBC) छात्र एवं छात्राओं के लिए छात्रावास योजना",
+    "description_en": "Implemented by the Ministry of Social Justice and Empowerment, this scheme creates hostel facilities to enable Other Backward Class students from rural and economically weaker backgrounds to pursue secondary and higher education in urban centers.",
+    "description_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय द्वारा संचालित, यह योजना ग्रामीण और आर्थिक रूप से कमजोर पृष्ठभूमि के अन्य पिछड़ा वर्ग (OBC) के छात्रों को शहरी केंद्रों में माध्यमिक और उच्च शिक्षा प्राप्त करने के लिए छात्रावास की सुविधा प्रदान करती है।",
+    "benefits_en": "Subsidized or free boarding, modern hostel accommodation, electricity, reading room facilities, and nutritious mess support located near educational institutions.",
+    "benefits_hi": "शैक्षणिक संस्थानों के पास रियायती या निःशुल्क छात्रावास आवास, बिजली, अध्ययन कक्ष की सुविधा और पौष्टिक भोजन सहायता।",
+    "eligibility_en": [
+      "Applicant must belong to Other Backward Classes (OBC) category included in Central or State list",
+      "Enrolled in Class 9 onwards in recognized secondary schools, colleges, or polytechnic institutions",
+      "Annual family income must not exceed ₹2.50 Lakh per annum",
+      "Student must not be a local resident of the town/city where the institution is located"
+    ],
+    "eligibility_hi": [
+      "आवेदक केंद्रीय या राज्य सूची में शामिल अन्य पिछड़ा वर्ग (OBC) श्रेणी से होना चाहिए",
+      "कक्षा 9वीं या उससे ऊपर मान्यता प्राप्त माध्यमिक विद्यालय, कॉलेज या पॉलिटेक्निक में नामांकित होना चाहिए",
+      "वार्षिक पारिवारिक आय ₹2.50 लाख से अधिक नहीं होनी चाहिए",
+      "छात्र उस शहर का स्थानीय निवासी नहीं होना चाहिए जहां संस्थान स्थित है"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "OBC Non-Creamy Layer (NCL) Caste Certificate",
+      "Family Income Certificate",
+      "College / School Bonafide Certificate",
+      "Residential / Domicile Certificate"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "ओबीसी नॉन-क्रीमी लेयर (NCL) जाति प्रमाण पत्र",
+      "पारिवारिक आय प्रमाण पत्र",
+      "कॉलेज / स्कूल का बोनाफाइड प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Check availability at the government OBC hostel through the District Backward Classes Welfare Officer",
+      "Fill out the hostel admission application either online via state scholarship portal or offline at the hostel warden's office",
+      "Attend document verification with original certificates for final room allocation"
+    ],
+    "steps_hi": [
+      "जिला पिछड़ा वर्ग कल्याण अधिकारी के माध्यम से सरकारी ओबीसी छात्रावास में सीटों की उपलब्धता जांचें",
+      "राज्य छात्रवृत्ति पोर्टल पर ऑनलाइन या छात्रावास अधीक्षक कार्यालय में ऑफलाइन आवेदन भरें",
+      "अंतिम आवंटन हेतु मूल प्रमाण पत्रों के साथ दस्तावेज सत्यापन में शामिल हों"
+    ],
+    "applyUrl": "https://socialjustice.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/chobcbg",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "eklavya-model-residential-schools-emrs",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Eklavya Model Residential Schools (EMRS) Boarding and Lodging Scheme",
+    "title_hi": "एकलव्य मॉडल आवासीय विद्यालय (EMRS) निःशुल्क छात्रावास एवं भोजन योजना",
+    "description_en": "A flagship Central Government initiative implemented by the National Education Society for Tribal Students (NESTS) under the Ministry of Tribal Affairs to provide 100% free, high-standard residential schooling from Class 6 to 12 for Scheduled Tribe children in remote tribal areas.",
+    "description_hi": "जनजातीय कार्य मंत्रालय के तहत राष्ट्रीय जनजातीय छात्र शिक्षा सोसायटी (NESTS) द्वारा संचालित एक प्रमुख केंद्रीय पहल, जिसका उद्देश्य दूरदराज के क्षेत्रों में कक्षा 6 से 12 तक के अनुसूचित जनजाति (ST) के बच्चों को 100% निःशुल्क उच्च गुणवत्ता वाली आवासीय शिक्षा और छात्रावास प्रदान करना है।",
+    "benefits_en": "Completely free boarding, lodging, uniforms, textbooks, stationery, sports kits, computer training, and medical healthcare in CBSE-affiliated residential campuses.",
+    "benefits_hi": "सीबीएसई संबद्ध आवासीय परिसरों में पूरी तरह से निःशुल्क आवास, भोजन, स्कूल यूनिफॉर्म, पाठ्यपुस्तकें, स्टेशनरी, खेल किट, कंप्यूटर प्रशिक्षण और स्वास्थ्य देखभाल।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Tribe (ST) category",
+      "Admissions conducted for Class 6 through the nationwide EMRS Selection Test (EMRST)",
+      "Permanent resident of notified tribal/ITDA block of the state",
+      "Age must be between 10 to 13 years for Class 6 entry"
+    ],
+    "eligibility_hi": [
+      "विद्यार्थी अनुसूचित जनजाति (ST) वर्ग से संबंधित होना चाहिए",
+      "कक्षा 6 में प्रवेश अखिल भारतीय एकलव्य चयन परीक्षा (EMRST) के माध्यम से",
+      "संबंधित राज्य के अधिसूचित जनजातीय/आईटीडीए ब्लॉक का स्थायी निवासी",
+      "कक्षा 6 में प्रवेश हेतु आयु 10 से 13 वर्ष के मध्य होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card of student",
+      "ST Caste Certificate",
+      "Date of Birth Certificate",
+      "Class 5 Transfer Certificate / Marksheet",
+      "Domicile Certificate"
+    ],
+    "documents_hi": [
+      "विद्यार्थी का आधार कार्ड",
+      "अनुसूचित जनजाति (ST) प्रमाण पत्र",
+      "जन्म प्रमाण पत्र",
+      "कक्षा 5वीं का स्थानांतरण प्रमाण पत्र (TC) / अंकतालिका",
+      "मूल निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Register online for the EMRS Selection Test on emrs.tribal.gov.in when notification is released",
+      "Download admit card and appear for the entrance test",
+      "Selected candidates receive admission in the nearest district EMRS with full hostel accommodation"
+    ],
+    "steps_hi": [
+      "अधिसूचना जारी होने पर emrs.tribal.gov.in पर EMRS चयन परीक्षा के लिए ऑनलाइन पंजीकरण करें",
+      "प्रवेश पत्र डाउनलोड कर प्रवेश परीक्षा में शामिल हों",
+      "चयनित छात्रों को सभी आवासीय सुविधाओं सहित नजदीकी जिले के EMRS में प्रवेश दिया जाता है"
+    ],
+    "applyUrl": "https://emrs.tribal.gov.in",
+    "sourceUrl": "https://tribal.nic.in/EMRS.aspx",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "jawahar-navodaya-vidyalaya-residential-hostel",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Jawahar Navodaya Vidyalaya (JNV) Free Residential Boarding Scheme",
+    "title_hi": "जवाहर नवोदय विद्यालय (JNV) निःशुल्क आवासीय छात्रावास योजना",
+    "description_en": "Administered by the Navodaya Vidyalaya Samiti under the Ministry of Education, JNVs provide premier co-educational residential schooling from Class 6 to 12 with full boarding and lodging to talented rural children.",
+    "description_hi": "शिक्षा मंत्रालय के अंतर्गत नवोदय विद्यालय समिति द्वारा संचालित, जवाहर नवोदय विद्यालय प्रतिभाशाली ग्रामीण बच्चों को कक्षा 6 से 12 तक निःशुल्क सह-शिक्षा, आवास और भोजन प्रदान करता है।",
+    "benefits_en": "Free modern hostel accommodation, nutritious meals (breakfast, lunch, evening snacks, dinner), school uniform, textbooks, daily use items, and medical care.",
+    "benefits_hi": "निःशुल्क आधुनिक छात्रावास आवास, पौष्टिक भोजन (नाश्ता, दोपहर का भोजन, नाश्ता और रात का भोजन), वर्दी, पाठ्यपुस्तकें, दैनिक उपयोग की वस्तुएं और चिकित्सा देखभाल।",
+    "eligibility_en": [
+      "Candidate must be studying in Class 5 in a recognized government/aided school in the district",
+      "At least 75% of seats are reserved for students from rural areas of the district",
+      "Selection through Jawahar Navodaya Vidyalaya Selection Test (JNVST)",
+      "Strict age criteria as notified by NVS for the examination year"
+    ],
+    "eligibility_hi": [
+      "अभ्यर्थी जिले के किसी मान्यता प्राप्त सरकारी/सहायता प्राप्त स्कूल में कक्षा 5 में अध्ययनरत होना चाहिए",
+      "जिले के ग्रामीण क्षेत्रों के छात्रों के लिए कम से कम 75% सीटें आरक्षित हैं",
+      "जवाहर नवोदय विद्यालय चयन परीक्षा (JNVST) के माध्यम से चयन",
+      "एनवीएस द्वारा परीक्षा वर्ष के लिए अधिसूचित आयु सीमा के अनुसार"
+    ],
+    "documents_en": [
+      "Aadhaar Card of candidate and parents",
+      "Rural Study Area Certificate signed by Headmaster",
+      "Date of Birth Certificate",
+      "Caste / Category Certificate (SC/ST/OBC/Divyangjan)",
+      "Residence Certificate of the district"
+    ],
+    "documents_hi": [
+      "छात्र एवं माता-पिता का आधार कार्ड",
+      "प्रधानाध्यापक द्वारा सत्यापित ग्रामीण क्षेत्र अध्ययन प्रमाण पत्र",
+      "जन्म प्रमाण पत्र",
+      "जाति / श्रेणी प्रमाण पत्र (SC/ST/OBC/दिव्यांग)",
+      "जिले का मूल निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Apply online on the NVS admission portal at navodaya.gov.in",
+      "Download admit card and take the JNVST entrance examination",
+      "Shortlisted candidates undergo certificate verification at the local JNV for hostel allotment"
+    ],
+    "steps_hi": [
+      "navodaya.gov.in पर नवोदय पोर्टल पर ऑनलाइन आवेदन करें",
+      "प्रवेश पत्र डाउनलोड करें और JNVST प्रवेश परीक्षा दें",
+      "मेरिट में चयनित अभ्यर्थी छात्रावास आवंटन हेतु स्थानीय JNV में प्रमाण पत्र सत्यापन कराएं"
+    ],
+    "applyUrl": "https://navodaya.gov.in/nvs/en/Admission-JNVST/JNVST-Class/",
+    "sourceUrl": "https://navodaya.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "youth-hostel-scheme-myas",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Youth Hostel Scheme (Ministry of Youth Affairs & Sports)",
+    "title_hi": "युवा छात्रावास योजना (युवा कार्यक्रम एवं खेल मंत्रालय)",
+    "description_en": "A joint venture between the Ministry of Youth Affairs & Sports and State Governments to provide inexpensive, clean, and secure residential accommodation for young travelers, sports participants, and students undertaking educational tours.",
+    "description_hi": "युवा कार्यक्रम एवं खेल मंत्रालय और राज्य सरकारों का एक संयुक्त उपक्रम, जो युवा यात्रियों, खेल प्रतिभागियों और शैक्षणिक भ्रमण पर निकले छात्रों को सुरक्षित, स्वच्छ और किफायती आवासीय छात्रावास प्रदान करता है।",
+    "benefits_en": "Affordable dormitory and room accommodation with safe drinking water, solar heating, recreation rooms, and dining hall facilities across 80+ strategic locations in India.",
+    "benefits_hi": "भारत भर में 80 से अधिक प्रमुख स्थानों पर सुरक्षित पेयजल, गर्म पानी, मनोरंजन कक्ष और भोजन कक्ष सुविधाओं के साथ किफायती डॉर्मिटरी और कमरे की सुविधा।",
+    "eligibility_en": [
+      "Open to Indian youth, students, school/college tour groups, and sports delegations",
+      "Preference given to members of Youth Hostels Association of India (YHAI) and registered youth clubs",
+      "Valid government photo ID required at the time of check-in"
+    ],
+    "eligibility_hi": [
+      "भारतीय युवाओं, विद्यार्थियों, स्कूल/कॉलेज टूर समूहों और खेल दलों के लिए खुला",
+      "यूथ हॉस्टल्स एसोसिएशन ऑफ इंडिया (YHAI) और पंजीकृत युवा क्लबों के सदस्यों को प्राथमिकता",
+      "चेक-इन के समय वैध सरकारी फोटो पहचान पत्र आवश्यक है"
+    ],
+    "documents_en": [
+      "Aadhaar Card / Voter ID / Passport",
+      "Student ID Card or Institution Authorization Letter for group visits",
+      "YHAI Membership Card (optional for discounted tariff)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वोटर आईडी / पासपोर्ट",
+      "छात्र पहचान पत्र या समूह यात्रा हेतु संस्थान का अनुमति पत्र",
+      "YHAI सदस्यता कार्ड (रियायती दरों के लिए वैकल्पिक)"
+    ],
+    "steps_en": [
+      "Check availability on the official Youth Hostel portal or contact the hostel manager directly",
+      "Book beds/rooms online or on arrival subject to availability",
+      "Present government photo ID and institutional credentials during check-in"
+    ],
+    "steps_hi": [
+      "आधिकारिक युवा छात्रावास पोर्टल पर उपलब्धता जांचें या प्रबंधक से संपर्क करें",
+      "उपलब्धता के अनुसार ऑनलाइन या आगमन पर कमरे/बिस्तर बुक करें",
+      "चेक-इन के दौरान सरकारी फोटो पहचान पत्र और संस्थान पत्र प्रस्तुत करें"
+    ],
+    "applyUrl": "https://yas.nic.in/youth-affairs/youth-hostel",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/yhs",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "pmjvk-minority-residential-hostels",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Pradhan Mantri Jan Vikas Karyakram (PMJVK) Minority Hostels Scheme",
+    "title_hi": "प्रधानमंत्री जन विकास कार्यक्रम (PMJVK) अल्पसंख्यक छात्रावास योजना",
+    "description_en": "Implemented by the Ministry of Minority Affairs in identified Minority Concentration Areas (MCAs) to build residential hostels and boarding houses, especially for female students pursuing secondary, technical, and professional education.",
+    "description_hi": "अल्पसंख्यक कार्य मंत्रालय द्वारा चिन्हित अल्पसंख्यक बहुल क्षेत्रों (MCA) में माध्यमिक, तकनीकी और व्यावसायिक शिक्षा प्राप्त करने वाली विशेषकर छात्राओं के लिए आवासीय छात्रावास और बोर्डिंग हाउस निर्माण हेतु संचालित योजना।",
+    "benefits_en": "Modern, secure hostel accommodation, subsidized mess facilities, computer room, and dedicated study halls within government and aided college campuses.",
+    "benefits_hi": "सरकारी और सहायता प्राप्त कॉलेज परिसरों में आधुनिक व सुरक्षित छात्रावास, रियायती मेस सुविधा, कंप्यूटर कक्ष और अध्ययन कक्ष।",
+    "eligibility_en": [
+      "Students belonging to notified minority communities (Muslim, Christian, Sikh, Buddhist, Jain, Parsi)",
+      "Enrolled in secondary schools, colleges, or ITIs located in or near Minority Concentration Areas",
+      "Priority for girls and students from low-income families (annual income up to ₹2.5 Lakh)"
+    ],
+    "eligibility_hi": [
+      "अधिसूचित अल्पसंख्यक समुदाय (मुस्लिम, ईसाई, सिख, बौद्ध, जैन, पारसी) के छात्र",
+      "अल्पसंख्यक बहुल क्षेत्रों में स्थित माध्यमिक विद्यालयों, कॉलेजों या आईटीआई में नामांकित",
+      "छात्राओं और कम आय वाले परिवारों (वार्षिक आय ₹2.5 लाख तक) के विद्यार्थियों को प्राथमिकता"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Minority Community Self-Declaration or Certificate",
+      "Family Income Certificate",
+      "Institution Admission Receipt",
+      "Previous Academic Marksheet"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "अल्पसंख्यक समुदाय स्व-घोषणा या प्रमाण पत्र",
+      "पारिवारिक आय प्रमाण पत्र",
+      "संस्थान की प्रवेश रसीद",
+      "पिछली कक्षा की अंकतालिका"
+    ],
+    "steps_en": [
+      "Apply through the institutional hostel warden or District Minority Welfare Officer (DMWO)",
+      "Submit completed application form with minority and income certificates",
+      "Hostel management committee allocates rooms based on distance and economic priority"
+    ],
+    "steps_hi": [
+      "संस्थान के छात्रावास अधीक्षक या जिला अल्पसंख्यक कल्याण अधिकारी (DMWO) के माध्यम से आवेदन करें",
+      "अल्पसंख्यक और आय प्रमाण पत्र के साथ भरा हुआ फॉर्म जमा करें",
+      "छात्रावास प्रबंधन समिति दूरी और आर्थिक प्राथमिकता के आधार पर कमरे आवंटित करती है"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in/schemes-programmes/pradhan-mantri-jan-vikas-karyakram-pmjvk",
+    "sourceUrl": "https://minorityaffairs.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "pm-janman-multipurpose-hostels-pvtg",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "PM-JANMAN Multipurpose Hostels for PVTG Students",
+    "title_hi": "पीएम-जनमन विशेष रूप से कमजोर जनजातीय समूह (PVTG) बहुउद्देशीय छात्रावास",
+    "description_en": "Under the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN), dedicated multipurpose hostels and residential facilities are constructed and operated for Particularly Vulnerable Tribal Group (PVTG) children to ensure 100% educational retention.",
+    "description_hi": "प्रधानमंत्री जनजाति आदिवासी न्याय महाभियान (पीएम-जनमन) के तहत विशेष रूप से कमजोर जनजातीय समूहों (PVTG) के बच्चों के लिए 100% शैक्षणिक ठहराव सुनिश्चित करने हेतु बहुउद्देशीय छात्रावास और आवासीय सुविधाएं प्रदान की जाती हैं।",
+    "benefits_en": "100% free lodging, nutritional tribal-friendly meals, remedial tutoring, healthcare monitoring, solar lighting, and drinking water facilities in habitations lacking secondary schools.",
+    "benefits_hi": "100% निःशुल्क आवास, पौष्टिक भोजन, विशेष उपचारात्मक शिक्षण, स्वास्थ्य जांच, सौर प्रकाश और पेयजल की सुविधाएं।",
+    "eligibility_en": [
+      "Child must belong to an officially recognized Particularly Vulnerable Tribal Group (PVTG)",
+      "Resident of notified PVTG habitations / gram panchayats",
+      "Enrolled in primary, middle, or secondary schooling"
+    ],
+    "eligibility_hi": [
+      "बच्चा आधिकारिक रूप से मान्यता प्राप्त विशेष रूप से कमजोर जनजातीय समूह (PVTG) से होना चाहिए",
+      "अधिसूचित PVTG बस्तियों / ग्राम पंचायतों का निवासी",
+      "प्राथमिक, माध्यमिक या उच्चतर माध्यमिक विद्यालय में नामांकित"
+    ],
+    "documents_en": [
+      "PVTG Tribal Certificate",
+      "Aadhaar Card (or camp registration receipt)",
+      "School Enrollment Certificate",
+      "Bank Account details (if DBT component applicable)"
+    ],
+    "documents_hi": [
+      "PVTG जनजाति प्रमाण पत्र",
+      "आधार कार्ड (या शिविर पंजीकरण रसीद)",
+      "स्कूल नामांकन प्रमाण पत्र",
+      "बैंक खाता विवरण"
+    ],
+    "steps_en": [
+      "Mobilization and enrollment through local Gram Sabha or ITDA/ITDP field officers",
+      "On-spot verification by Tribal Welfare Department project officer",
+      "Direct admission and accommodation provided in the nearest PM-JANMAN hostel"
+    ],
+    "steps_hi": [
+      "स्थानीय ग्राम सभा या आईटीडीए/आईटीडीपी अधिकारियों के माध्यम से नामांकन",
+      "जनजातीय कल्याण विभाग के परियोजना अधिकारी द्वारा मौके पर सत्यापन",
+      "निकटतम पीएम-जनमन छात्रावास में सीधा प्रवेश एवं आवास प्रदान किया जाता है"
+    ],
+    "applyUrl": "https://tribal.nic.in/PM-JANMAN.aspx",
+    "sourceUrl": "https://tribal.nic.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "sai-national-sports-talent-contest-hostels",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Sports Authority of India (SAI) NSTC Residential Sports Hostels",
+    "title_hi": "भारतीय खेल प्राधिकरण (SAI) राष्ट्रीय खेल प्रतिभा खोज आवासीय छात्रावास योजना",
+    "description_en": "Implemented by the Sports Authority of India (SAI), the National Sports Talent Contest (NSTC) scheme scouts young sporting talent (ages 8-14) and admits them into adopted residential schools and sports hostels with complete boarding.",
+    "description_hi": "भारतीय खेल प्राधिकरण (SAI) द्वारा संचालित, यह योजना 8 से 14 वर्ष की आयु के खेल प्रतिभा संपन्न बच्चों की पहचान कर उन्हें पूर्ण आवासीय और खेल छात्रावास सुविधाओं के साथ संबद्ध स्कूलों में प्रवेश दिलाती है।",
+    "benefits_en": "Full residential hostel accommodation, customized sports nutrition/diet allowance, scientific coaching, sports kits, insurance, and academic tuition expenses.",
+    "benefits_hi": "पूर्ण आवासीय छात्रावास आवास, विशेष खेल पोषण/आहार भत्ता, वैज्ञानिक खेल कोचिंग, खेल किट, बीमा और शैक्षणिक ट्यूशन खर्च।",
+    "eligibility_en": [
+      "Boys and girls aged between 8 to 14 years with proven sporting potential in notified disciplines",
+      "Must clear SAI battery of fitness tests and sports skill evaluation",
+      "Medal winners in district/state school games receive direct selection trials"
+    ],
+    "eligibility_hi": [
+      "अधिसूचित खेल विधाओं में सिद्ध खेल प्रतिभा वाले 8 से 14 वर्ष के बालक-बालिकाएं",
+      "SAI की फिटनेस और खेल कौशल मूल्यांकन परीक्षा उत्तीर्ण करना अनिवार्य",
+      "जिला/राज्य स्कूल खेलों के पदक विजेताओं को सीधे चयन ट्रायल में अवसर"
+    ],
+    "documents_en": [
+      "Birth Certificate from Municipal Corporation / Gram Panchayat",
+      "Aadhaar Card",
+      "Sports Achievement Certificates / School Medals",
+      "Medical Fitness Certificate from Government Hospital",
+      "School Transfer Certificate"
+    ],
+    "documents_hi": [
+      "नगर निगम / ग्राम पंचायत द्वारा जारी जन्म प्रमाण पत्र",
+      "आधार कार्ड",
+      "खेल उपलब्धि प्रमाण पत्र / स्कूल पदक",
+      "सरकारी अस्पताल से मेडिकल फिटनेस प्रमाण पत्र",
+      "स्कूल स्थानांतरण प्रमाण पत्र (TC)"
+    ],
+    "steps_en": [
+      "Participate in the annual SAI talent selection trials conducted at designated regional centers",
+      "Undergo medical examination and age verification by SAI medical panel",
+      "Selected candidates receive admission in SAI-adopted residential schools with free hostel"
+    ],
+    "steps_hi": [
+      "नामित क्षेत्रीय केंद्रों पर आयोजित वार्षिक SAI खेल प्रतिभा चयन ट्रायल में भाग लें",
+      "SAI मेडिकल पैनल द्वारा आयु और स्वास्थ्य परीक्षण कराएं",
+      "चयनित प्रशिक्षुओं को निःशुल्क छात्रावास के साथ संबद्ध आवासीय स्कूलों में प्रवेश दिया जाता है"
+    ],
+    "applyUrl": "https://sportsauthorityofindia.nic.in/sai/nstc",
+    "sourceUrl": "https://sportsauthorityofindia.nic.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "deendayal-disabled-rehabilitation-residential-hostels",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Deendayal Disabled Rehabilitation Scheme (DDRS) Residential Special Hostels",
+    "title_hi": "दीनदयाल दिव्यांग पुनर्वास योजना (DDRS) आवासीय विशेष छात्रावास",
+    "description_en": "A Central Sector Scheme under the Department of Empowerment of Persons with Disabilities (DEPwD), supporting non-governmental organizations to run free residential special schools and hostels for children with hearing, visual, locomotor, or intellectual disabilities.",
+    "description_hi": "दिव्यांगजन सशक्तिकरण विभाग (DEPwD) के तहत एक केंद्रीय क्षेत्र योजना, जो गैर-सरकारी संगठनों को दृष्टि, श्रवण, अस्थि या बौद्धिक दिव्यांगता वाले बच्चों के लिए निःशुल्क आवासीय विशेष स्कूल और छात्रावास चलाने हेतु सहायता देती है।",
+    "benefits_en": "Free boarding, specialized lodging adapted for disabilities, barrier-free infrastructure, braille/sign language learning materials, speech therapy, and vocational training.",
+    "benefits_hi": "निःशुल्क भोजन, दिव्यांग-अनुकूल बाधा रहित आवासीय छात्रावास, ब्रेल व सांकेतिक भाषा सामग्री, स्पीच थेरेपी और व्यावसायिक कौशल प्रशिक्षण।",
+    "eligibility_en": [
+      "Child with 40% or more benchmark disability certified via valid UDID card",
+      "Aged between 5 to 18 years (or as specified for vocational centers)",
+      "Belonging to economically weaker families having no access to inclusive day schools"
+    ],
+    "eligibility_hi": [
+      "वैध UDID कार्ड के माध्यम से 40% या अधिक बेंचमार्क दिव्यांगता प्रमाणित बच्चा",
+      "आयु 5 से 18 वर्ष के मध्य (या व्यावसायिक केंद्रों हेतु विनिर्दिष्ट)",
+      "आर्थिक रूप से कमजोर परिवार जिनके पास समावेशी डे-स्कूल की सुविधा उपलब्ध नहीं है"
+    ],
+    "documents_en": [
+      "Unique Disability ID (UDID) Card / Disability Certificate",
+      "Aadhaar Card of child and parent",
+      "Income Certificate of parents",
+      "Passport sized photographs showing nature of disability"
+    ],
+    "documents_hi": [
+      "विशिष्ट दिव्यांगता पहचान पत्र (UDID कार्ड) / प्रमाण पत्र",
+      "बच्चे और माता-पिता का आधार कार्ड",
+      "माता-पिता का आय प्रमाण पत्र",
+      "दिव्यांगता की प्रकृति दर्शाती पासपोर्ट साइज फोटो"
+    ],
+    "steps_en": [
+      "Locate the DDRS-funded residential special school in your district via the DEPwD portal or District Disability Rehabilitation Centre (DDRC)",
+      "Submit admission form with UDID card to the institute management",
+      "Special screening assessment conducted to allocate appropriate residential ward"
+    ],
+    "steps_hi": [
+      "DEPwD पोर्टल या जिला दिव्यांग पुनर्वास केंद्र (DDRC) के माध्यम से जिले में DDRS सहायता प्राप्त आवासीय विशेष स्कूल खोजें",
+      "UDID कार्ड के साथ संस्थान प्रबंधन को प्रवेश फॉर्म जमा करें",
+      "उचित छात्रावास वार्ड आवंटित करने हेतु विशेष स्क्रीनिंग मूल्यांकन किया जाता है"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in/content/page/ddrs.php",
+    "sourceUrl": "https://disabilityaffairs.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "rmsa-girls-hostels-scheme",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "hostels",
+    "title_en": "Girls Hostel Scheme under Samagra Shiksha / RMSA",
+    "title_hi": "समग्र शिक्षा / आरएमएसए के तहत बालिका छात्रावास योजना",
+    "description_en": "Implemented by the Ministry of Education in Educationally Backward Blocks (EBBs), this scheme provides 100-bedded residential hostels for adolescent girls studying in Classes 9 to 12 in nearby government secondary schools to curb girl dropouts.",
+    "description_hi": "शिक्षा मंत्रालय द्वारा शैक्षिक रूप से पिछड़े ब्लॉकों (EBB) में संचालित, यह योजना सरकारी माध्यमिक स्कूलों में कक्षा 9 से 12 में पढ़ने वाली किशोरियों के लिए 100 बिस्तरों वाले आवासीय छात्रावास प्रदान करती है ताकि बालिकाओं के स्कूल छोड़ने की दर रोकी जा सके।",
+    "benefits_en": "Safe residential stay, free food/mess, bedding, self-defense training, health checkups, and academic evening tuitions.",
+    "benefits_hi": "सुरक्षित आवासीय ठहराव, निःशुल्क भोजन/मेस, बिस्तर, आत्मरक्षा प्रशिक्षण, स्वास्थ्य जांच और शाम को शैक्षणिक ट्यूशन।",
+    "eligibility_en": [
+      "Girl students enrolled in Classes 9 to 12 in government or government-aided secondary schools",
+      "Belonging to SC, ST, OBC, Minority, or BPL families",
+      "Permanent resident of an Educationally Backward Block where the hostel is situated",
+      "Distance from home to school must be more than 3 to 5 km"
+    ],
+    "eligibility_hi": [
+      "सरकारी या सहायता प्राप्त माध्यमिक विद्यालयों में कक्षा 9 से 12 में नामांकित छात्राएं",
+      "अनुसूचित जाति, जनजाति, ओबीसी, अल्पसंख्यक या बीपीएल परिवार से संबंधित",
+      "उस शैक्षिक रूप से पिछड़े ब्लॉक की स्थायी निवासी जहां छात्रावास स्थित है",
+      "घर से स्कूल की दूरी 3 से 5 किमी से अधिक होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Category Certificate (SC/ST/OBC/Minority/BPL Ration Card)",
+      "Admission Slip / Bonafide from Government High School",
+      "Previous Class Marksheet",
+      "Distance verification certificate from Gram Panchayat / Ward Member"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "श्रेणी प्रमाण पत्र (SC/ST/OBC/अल्पसंख्यक/BPL राशन कार्ड)",
+      "सरकारी हाई स्कूल से प्रवेश पर्ची / बोनाफाइड",
+      "पिछली कक्षा की अंकतालिका",
+      "ग्राम पंचायत / वार्ड सदस्य से दूरी सत्यापन प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Apply through the Headmaster of the secondary school where the student is enrolled",
+      "Application is forwarded to the Hostel Warden and Block Education Officer (BEO)",
+      "Warden issues room allotment letter following state reservation rosters"
+    ],
+    "steps_hi": [
+      "उस माध्यमिक विद्यालय के प्रधानाध्यापक के माध्यम से आवेदन करें जहां छात्रा नामांकित है",
+      "आवेदन छात्रावास अधीक्षक और ब्लॉक शिक्षा अधिकारी (BEO) को अग्रेषित किया जाता है",
+      "आरक्षण रोस्टर का पालन करते हुए अधीक्षक कमरा आवंटन पत्र जारी करते हैं"
+    ],
+    "applyUrl": "https://samagrashiksha.education.gov.in",
+    "sourceUrl": "https://dsel.education.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "atal-awasiya-vidyalaya-yojana-up",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "hostels",
+    "title_en": "Atal Awasiya Vidyalaya Free Boarding Scheme (Uttar Pradesh)",
+    "title_hi": "अटल आवासीय विद्यालय निःशुल्क छात्रावास एवं शिक्षा योजना (उत्तर प्रदेश)",
+    "description_en": "A state initiative by the Government of Uttar Pradesh implemented via the UP Building and Other Construction Workers Welfare Board (UPBOCW) providing state-of-the-art CBSE residential schooling and hostels across all 18 administrative divisions for children of registered construction workers and COVID orphans.",
+    "description_hi": "उत्तर प्रदेश भवन एवं अन्य सन्निर्माण कर्मकार कल्याण बोर्ड (UPBOCW) द्वारा संचालित एक राज्य स्तरीय पहल, जिसके तहत सभी 18 मंडलों में पंजीकृत निर्माण श्रमिकों के बच्चों और कोविड अनाथों को अत्याधुनिक सीबीएसई आवासीय छात्रावास और शिक्षा प्रदान की जाती है।",
+    "benefits_en": "Completely free residential stay, nutritious balanced diet, uniforms, textbooks, smart digital classrooms, sports facilities, and medical care for 1,000 students per school from Class 6 to 12.",
+    "benefits_hi": "कक्षा 6 से 12 तक प्रति विद्यालय 1,000 बच्चों को पूरी तरह निःशुल्क आवासीय छात्रावास, पौष्टिक भोजन, वर्दी, पाठ्यपुस्तकें, स्मार्ट क्लासरूम, खेल सुविधाएं और चिकित्सा देखभाल।",
+    "eligibility_en": [
+      "Parent must be an active registered construction worker with UPBOCW for at least 1 year (or child must be an officially verified COVID orphan)",
+      "Maximum of 2 children per registered worker eligible",
+      "Admission to Class 6 or 9 via divisional entrance examination",
+      "Age of child must meet prescribed norms as of 1st May of the admission year"
+    ],
+    "eligibility_hi": [
+      "माता-पिता कम से कम 1 वर्ष से UPBOCW में सक्रिय पंजीकृत निर्माण श्रमिक होने चाहिए (या बच्चा प्रमाणित कोविड अनाथ हो)",
+      "प्रति पंजीकृत श्रमिक अधिकतम 2 बच्चे पात्र",
+      "मंडलीय प्रवेश परीक्षा के माध्यम से कक्षा 6 या 9 में प्रवेश",
+      "प्रवेश वर्ष की 1 मई को बच्चे की आयु निर्धारित मानकों के अनुरूप होनी चाहिए"
+    ],
+    "documents_en": [
+      "UPBOCW Worker Registration Card (Shramik Card)",
+      "Aadhaar Card of parent and child",
+      "Child's Birth Certificate",
+      "Class 5 or 8 Passing Marksheet",
+      "COVID Orphan Certificate (if applicable)"
+    ],
+    "documents_hi": [
+      "UPBOCW श्रमिक पंजीकरण कार्ड",
+      "माता-पिता और बच्चे का आधार कार्ड",
+      "बच्चे का जन्म प्रमाण पत्र",
+      "कक्षा 5 या 8 उत्तीर्ण अंकतालिका",
+      "कोविड अनाथ प्रमाण पत्र (यदि लागू हो)"
+    ],
+    "steps_en": [
+      "Submit online application form through atalav.in or UPBOCW portal when notification opens",
+      "Collect admit card from the District Labour Office and appear for the entrance test",
+      "Counseling and medical check-up at the divisional Atal Awasiya Vidyalaya for hostel admission"
+    ],
+    "steps_hi": [
+      "अधिसूचना जारी होने पर atalav.in या UPBOCW पोर्टल के माध्यम से ऑनलाइन आवेदन जमा करें",
+      "जिला श्रम कार्यालय से प्रवेश पत्र प्राप्त कर प्रवेश परीक्षा में शामिल हों",
+      "छात्रावास में प्रवेश हेतु मंडल के अटल आवासीय विद्यालय में काउंसलिंग और स्वास्थ्य जांच कराएं"
+    ],
+    "applyUrl": "https://upbocw.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/aavs",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "rajkiya-ashram-paddhati-vidyalaya-up",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "hostels",
+    "title_en": "Rajkiya Ashram Paddhati Vidyalaya Residential Hostels (Uttar Pradesh)",
+    "title_hi": "राजकीय आश्रम पद्धति विद्यालय आवासीय छात्रावास (उत्तर प्रदेश)",
+    "description_en": "Managed by the Social Welfare Department of Uttar Pradesh, these residential schools provide free lodging, food, and education from Class 6 to 12 for students belonging to Scheduled Castes (60%), Scheduled Tribes, OBC (25%), and General category (15%).",
+    "description_hi": "उत्तर प्रदेश समाज कल्याण विभाग द्वारा संचालित, ये आवासीय विद्यालय अनुसूचित जाति (60%), अनुसूचित जनजाति, ओबीसी (25%) और सामान्य वर्ग (15%) के विद्यार्थियों को कक्षा 6 से 12 तक निःशुल्क आवास, भोजन और शिक्षा प्रदान करते हैं।",
+    "benefits_en": "Free hostel boarding, daily breakfast, lunch, and dinner, textbooks, stationery, uniform, winter blankets, and coaching for board and competitive exams.",
+    "benefits_hi": "निःशुल्क छात्रावास आवास, प्रतिदिन नाश्ता, दोपहर व रात का भोजन, पाठ्यपुस्तकें, स्टेशनरी, वर्दी, सर्दियों के कंबल और प्रतियोगी परीक्षाओं की तैयारी।",
+    "eligibility_en": [
+      "Permanent resident of Uttar Pradesh",
+      "Admission in Class 6, 7, 8, 9, or 11 based on district entrance test",
+      "Family annual income should not exceed ₹1,00,000 for rural areas and ₹1,18,000 for urban areas (preference to BPL)",
+      "Strict quota: 60% SC/ST, 25% OBC, 15% General"
+    ],
+    "eligibility_hi": [
+      "उत्तर प्रदेश का मूल निवासी",
+      "जिला स्तरीय प्रवेश परीक्षा के आधार पर कक्षा 6, 7, 8, 9 या 11 में प्रवेश",
+      "पारिवारिक वार्षिक आय ग्रामीण क्षेत्रों में ₹1,00,000 और शहरी क्षेत्रों में ₹1,18,000 से अधिक न हो",
+      "कोटा: 60% SC/ST, 25% OBC, 15% सामान्य वर्ग"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste Certificate issued on edistrict.up.gov.in",
+      "Income Certificate",
+      "Previous School Transfer Certificate (TC) and Marksheet",
+      "Domicile Certificate (Niwas Praman Patra)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "edistrict.up.gov.in से जारी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "पिछली कक्षा का टीसी और अंकतालिका",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Fill online application on the UP Ashram Paddhati admission portal ats.upsdc.gov.in",
+      "Appear for the written entrance test at designated district exam centers",
+      "Merit holders report to the allotted Rajkiya Ashram Paddhati Vidyalaya with original certificates"
+    ],
+    "steps_hi": [
+      "ats.upsdc.gov.in पोर्टल पर ऑनलाइन आवेदन भरें",
+      "नामित जिला परीक्षा केंद्रों पर लिखित प्रवेश परीक्षा दें",
+      "मेरिट सूची में चयनित छात्र मूल प्रमाण पत्रों के साथ आवंटित विद्यालय में रिपोर्ट करें"
+    ],
+    "applyUrl": "https://ats.upsdc.gov.in",
+    "sourceUrl": "https://socialwelfareup.upsdc.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mukhyamantri-abhyudaya-residential-coaching-hostel-up",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "hostels",
+    "title_en": "Mukhyamantri Abhyudaya Free Residential Coaching & Hostel Scheme (Uttar Pradesh)",
+    "title_hi": "मुख्यमंत्री अभ्युदय निःशुल्क आवासीय कोचिंग एवं छात्रावास योजना (उत्तर प्रदेश)",
+    "description_en": "An initiative of the Government of Uttar Pradesh to provide free high-level coaching (UPSC, UPPSC, JEE, NEET, CDS, NDA) along with residential hostel accommodation and tablet stipends to meritorious students from economically weaker backgrounds.",
+    "description_hi": "उत्तर प्रदेश सरकार द्वारा आर्थिक रूप से कमजोर पृष्ठभूमि के मेधावी छात्रों को निःशुल्क उच्च स्तरीय कोचिंग (UPSC, UPPSC, JEE, NEET, NDA) के साथ आवासीय छात्रावास और टैबलेट सहायता प्रदान करने की योजना।",
+    "benefits_en": "Free hostel accommodation in divisional headquarters, free library with digital access, expert mentorship from IAS/IPS officers, and free study materials.",
+    "benefits_hi": "मंडलीय मुख्यालयों में निःशुल्क छात्रावास आवास, डिजिटल ई-लाइब्रेरी, आईएएस/आईपीएस अधिकारियों द्वारा मार्गदर्शन और अध्ययन सामग्री।",
+    "eligibility_en": [
+      "Resident of Uttar Pradesh",
+      "Graduates or postgraduates preparing for civil services, or 10+2 students preparing for JEE/NEET",
+      "Selected through the state-level Abhyudaya online entrance examination",
+      "Annual family income up to ₹6,00,000 per annum"
+    ],
+    "eligibility_hi": [
+      "उत्तर प्रदेश का मूल निवासी",
+      "सिविल सेवा की तैयारी कर रहे स्नातक/परास्नातक या जेईई/नीट की तैयारी कर रहे 10+2 छात्र",
+      "राज्य स्तरीय अभ्युदय ऑनलाइन प्रवेश परीक्षा में उत्तीर्ण",
+      "वार्षिक पारिवारिक आय ₹6,00,000 तक"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Domicile Certificate of UP",
+      "Graduation / 12th Marksheet",
+      "Income Certificate",
+      "Abhyudaya Entrance Exam Admit Card & Scorecard"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "उत्तर प्रदेश का मूल निवास प्रमाण पत्र",
+      "स्नातक / 12वीं की अंकतालिका",
+      "आय प्रमाण पत्र",
+      "अभ्युदय प्रवेश परीक्षा एडमिट कार्ड व स्कोरकार्ड"
+    ],
+    "steps_en": [
+      "Register on the official Abhyudaya portal at abhyuday.up.gov.in",
+      "Appear for the online/offline screening test",
+      "Qualifying candidates apply for residential hostel seats through the District Social Welfare Officer"
+    ],
+    "steps_hi": [
+      "abhyuday.up.gov.in पोर्टल पर ऑनलाइन पंजीकरण करें",
+      "ऑनलाइन/ऑफलाइन स्क्रीनिंग परीक्षा में भाग लें",
+      "सफल अभ्यर्थी जिला समाज कल्याण अधिकारी के माध्यम से आवासीय छात्रावास के लिए आवेदन करें"
+    ],
+    "applyUrl": "http://abhyuday.up.gov.in",
+    "sourceUrl": "http://abhyuday.up.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "ambedkar-dbt-voucher-scheme-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "hostels",
+    "title_en": "Ambedkar DBT Voucher Scheme for College Hostels (Rajasthan)",
+    "title_hi": "अम्बेडकर डीबीटी वाउचर योजना (कॉलेज छात्रावास/किराया सहायता - राजस्थान)",
+    "description_en": "Administered by the Social Justice and Empowerment Department, Government of Rajasthan, this scheme provides a direct monthly cash voucher to college students who live in rented accommodation or PG away from their native towns because government hostel seats were full.",
+    "description_hi": "राजस्थान सामाजिक न्याय एवं अधिकारिता विभाग द्वारा संचालित, यह योजना सरकारी छात्रावास में सीट न मिलने के कारण अपने गृह नगर से दूर किराए के कमरे या पीजी में रहकर उच्च शिक्षा प्राप्त करने वाले छात्रों को मासिक डीबीटी वाउचर प्रदान करती है।",
+    "benefits_en": "Direct financial assistance of ₹2,000 per month credited directly to the student's bank account for up to 10 months in an academic year (total ₹20,000 per year) for up to 5 course years.",
+    "benefits_hi": "प्रति माह ₹2,000 की वित्तीय सहायता (10 महीने में कुल ₹20,000 प्रति वर्ष) सीधे छात्र के बैंक खाते में, अधिकतम 5 शैक्षणिक वर्षों तक।",
+    "eligibility_en": [
+      "Permanent resident of Rajasthan enrolled in undergraduate or postgraduate degree courses in a government college",
+      "Belongs to SC, ST, OBC, MBC, EWS, or Minority category",
+      "College must be located outside the municipal boundaries of the student's home town/village",
+      "Family annual income limits: SC/ST/MBC up to ₹2.5 Lakh, OBC up to ₹1.5 Lakh, EWS up to ₹1 Lakh",
+      "Must be residing in rented accommodation/PG (not enrolled in government hostels)"
+    ],
+    "eligibility_hi": [
+      "राजस्थान का स्थायी निवासी जो सरकारी कॉलेज में स्नातक या स्नातकोत्तर में नियमित अध्ययनरत हो",
+      "SC, ST, OBC, MBC, EWS या अल्पसंख्यक वर्ग से संबंधित",
+      "कॉलेज छात्र के गृह नगर/गांव के नगर पालिका क्षेत्र से बाहर स्थित होना चाहिए",
+      "वार्षिक पारिवारिक आय: SC/ST/MBC ₹2.5 लाख तक, OBC ₹1.5 लाख तक, EWS ₹1 लाख तक",
+      "किराए के कमरे या पीजी में रह रहा हो (सरकारी छात्रावास में न रह रहा हो)"
+    ],
+    "documents_en": [
+      "Jan Aadhaar Card / Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate in prescribed format",
+      "Rent Agreement / Rent Receipt signed by landlord",
+      "Bonafide Student Certificate from Government College"
+    ],
+    "documents_hi": [
+      "जन आधार कार्ड / आधार कार्ड",
+      "जाति प्रमाण पत्र",
+      "निर्धारित प्रारूप में आय प्रमाण पत्र",
+      "मकान मालिक द्वारा हस्ताक्षरित किरायानामा / रसीद",
+      "सरकारी कॉलेज से नियमित अध्ययनरत होने का प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Log into Rajasthan Single Sign-On (SSO) at sso.rajasthan.gov.in using Jan Aadhaar",
+      "Select 'SJMS Portal' and open 'Ambedkar DBT Voucher Scheme Application'",
+      "Upload rent agreement and college admission receipts; verify bank details and submit"
+    ],
+    "steps_hi": [
+      "जन आधार का उपयोग करके sso.rajasthan.gov.in पर लॉगिन करें",
+      "'SJMS Portal' खोलें और 'अम्बेडकर डीबीटी वाउचर योजना' चुनें",
+      "किरायानामा और कॉलेज रसीद अपलोड करें, बैंक खाते की पुष्टि कर सबमिट करें"
+    ],
+    "applyUrl": "https://sso.rajasthan.gov.in",
+    "sourceUrl": "https://sjms.rajasthan.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "tribal-sports-hostels-scheme-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "hostels",
+    "title_en": "Operation of Sports Hostels for Tribal Students (Rajasthan)",
+    "title_hi": "जनजातीय छात्रों के लिए खेल छात्रावास संचालन योजना (राजस्थान)",
+    "description_en": "Run by the Tribal Area Development (TAD) Department, Government of Rajasthan, this scheme operates specialized sports hostels in districts like Udaipur, Banswara, Dungarpur, and Pratapgarh to nurture young tribal athletes in archery, athletics, handball, and volleyball.",
+    "description_hi": "राजस्थान सरकार के जनजातीय क्षेत्रीय विकास (TAD) विभाग द्वारा संचालित, यह योजना उदयपुर, बांसवाड़ा, डूंगरपुर आदि जिलों में खेल छात्रावास चलाकर जनजातीय युवाओं को तीरंदाजी, एथलेटिक्स और वॉलीबॉल में प्रशिक्षित करती है।",
+    "benefits_en": "100% free lodging, high-calorie sports diet, specialized coaching, sports equipment, tournament travel allowances, and admission to local secondary schools.",
+    "benefits_hi": "100% निःशुल्क छात्रावास आवास, उच्च कैलोरी खेल आहार, विशेष खेल कोचिंग, खेल उपकरण, प्रतियोगिता यात्रा भत्ता और स्थानीय स्कूलों में शिक्षा।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Tribe (ST) category of Scheduled/TSP Areas of Rajasthan",
+      "Studying in Classes 6 to 12",
+      "Must qualify in physical efficiency and skill tests conducted by the TAD department"
+    ],
+    "eligibility_hi": [
+      "राजस्थान के अनुसूचित/टीएसपी क्षेत्र का अनुसूचित जनजाति (ST) छात्र होना चाहिए",
+      "कक्षा 6 से 12 में अध्ययनरत",
+      "TAD विभाग द्वारा आयोजित शारीरिक दक्षता और खेल कौशल परीक्षा में उत्तीर्ण होना चाहिए"
+    ],
+    "documents_en": [
+      "ST Caste Certificate (TSP Area)",
+      "Jan Aadhaar Card",
+      "Sports Proficiency Certificates",
+      "Medical Fitness Certificate",
+      "Previous Class School Marksheet"
+    ],
+    "documents_hi": [
+      "टीएसपी क्षेत्र अनुसूचित जनजाति प्रमाण पत्र",
+      "जन आधार कार्ड",
+      "खेल प्रमाण पत्र",
+      "मेडिकल फिटनेस प्रमाण पत्र",
+      "पिछली कक्षा की अंकतालिका"
+    ],
+    "steps_en": [
+      "Appear for the annual TAD sports selection trials held at district headquarters in May-June",
+      "Pass physical measurement and skill tests",
+      "Selected athletes are enrolled directly into the TAD sports hostel with zero fees"
+    ],
+    "steps_hi": [
+      "मई-जून में जिला मुख्यालयों पर आयोजित TAD वार्षिक खेल चयन ट्रायल में भाग लें",
+      "शारीरिक माप और कौशल परीक्षण पास करें",
+      "चयनित खिलाड़ियों को शून्य शुल्क पर सीधे TAD खेल छात्रावास में प्रवेश दिया जाता है"
+    ],
+    "applyUrl": "https://tad.rajasthan.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/oosh",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "devnarayan-gurukul-residential-hostels-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "hostels",
+    "title_en": "Devnarayan Gurukul Yojana Residential Hostels (Rajasthan)",
+    "title_hi": "देवनारायण गुरुकुल योजना आवासीय छात्रावास (राजस्थान)",
+    "description_en": "Implemented by the Social Justice & Empowerment Department, Government of Rajasthan, this scheme admits meritorious students from Most Backward Classes (MBC - Gujjar, Raika, Rebari, Gadaria, Banjara) into prestigious residential English-medium schools with complete boarding.",
+    "description_hi": "राजस्थान सरकार के सामाजिक न्याय विभाग द्वारा संचालित, यह योजना अति पिछड़ा वर्ग (MBC - गुर्जर, राइका, रेबारी, गड़रिया, बंजारा) के मेधावी बच्चों को प्रतिष्ठित आवासीय अंग्रेजी माध्यम स्कूलों में निःशुल्क छात्रावास के साथ प्रवेश दिलाती है।",
+    "benefits_en": "Free hostel boarding, school fees, books, uniforms, balanced nutritious meals, computer education, and specialized coaching from Class 6 to 12.",
+    "benefits_hi": "कक्षा 6 से 12 तक निःशुल्क छात्रावास आवास, स्कूल फीस, पुस्तकें, वर्दी, पौष्टिक भोजन, कंप्यूटर शिक्षा और विशेष कोचिंग।",
+    "eligibility_en": [
+      "Candidate must belong to Most Backward Classes (MBC) of Rajasthan",
+      "Family annual income should not exceed ₹2.50 Lakh",
+      "Admission to Class 6 through state-level competitive entrance examination",
+      "Must have passed Class 5 from a recognized school in Rajasthan with at least 50% marks"
+    ],
+    "eligibility_hi": [
+      "अभ्यर्थी राजस्थान के अति पिछड़ा वर्ग (MBC) से होना चाहिए",
+      "पारिवारिक वार्षिक आय ₹2.50 लाख से अधिक नहीं होनी चाहिए",
+      "राज्य स्तरीय प्रवेश परीक्षा के माध्यम से कक्षा 6 में प्रवेश",
+      "राजस्थान के मान्यता प्राप्त स्कूल से कम से कम 50% अंकों के साथ कक्षा 5 उत्तीर्ण होना चाहिए"
+    ],
+    "documents_en": [
+      "Jan Aadhaar Card",
+      "MBC Caste Certificate",
+      "Income Certificate",
+      "Class 5 Marksheet",
+      "Domicile Certificate (Mool Niwas)"
+    ],
+    "documents_hi": [
+      "जन आधार कार्ड",
+      "एमबीसी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "कक्षा 5 की अंकतालिका",
+      "मूल निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Apply online on the SJMS portal via sso.rajasthan.gov.in",
+      "Appear for the Devnarayan Gurukul entrance examination",
+      "Qualified candidates are allotted seats in top affiliated residential schools with hostel lodging"
+    ],
+    "steps_hi": [
+      "sso.rajasthan.gov.in के माध्यम से SJMS पोर्टल पर ऑनलाइन आवेदन करें",
+      "देवनारायण गुरुकुल प्रवेश परीक्षा में भाग लें",
+      "उत्तीर्ण छात्रों को छात्रावास सुविधा सहित शीर्ष संबद्ध आवासीय विद्यालयों में सीटें आवंटित की जाती हैं"
+    ],
+    "applyUrl": "https://sje.rajasthan.gov.in",
+    "sourceUrl": "https://sje.rajasthan.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "samras-hostel-scheme-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "hostels",
+    "title_en": "Gujarat Samras Chhatralay Scheme for SC/ST/SEBC/EWS College Students",
+    "title_hi": "गुजरात समरस छात्रावास योजना (SC/ST/SEBC/EWS कॉलेज छात्र)",
+    "description_en": "Operated by the Gujarat Samras Chhatralay Society under the Social Justice and Empowerment Department, Samras Hostels provide modern multi-storeyed residential facilities across major university cities (Ahmedabad, Vadodara, Surat, Rajkot, Bhavnagar, Patan, Jamnagar, Anand) under the motto 'All Communities Under One Roof'.",
+    "description_hi": "गुजरात समरस छात्रावास सोसायटी द्वारा संचालित, यह योजना 'एक छत के नीचे सभी समाज' के उद्देश्य से प्रमुख विश्वविद्यालय शहरों (अहमदाबाद, वडोदरा, सूरत, राजकोट आदि) में आधुनिक बहुमंजिला छात्रावास आवास और मेस सुविधाएं प्रदान करती है।",
+    "benefits_en": "Subsidized/free modern hostel accommodation, hygienic mess food, digital library, computer labs with Wi-Fi, gymnasiums, and clean drinking water facilities.",
+    "benefits_hi": "आधुनिक छात्रावास आवास, स्वच्छ भोजन/मेस, डिजिटल लाइब्रेरी, वाई-फाई युक्त कंप्यूटर लैब, जिम और स्वच्छ पेयजल की सुविधा।",
+    "eligibility_en": [
+      "Permanent resident of Gujarat pursuing diploma, undergraduate, or postgraduate degree in an approved college/university",
+      "Category quotas: SC (33%), ST (15%), SEBC/OBC (22%), and EWS (30%)",
+      "Minimum 50% marks in previous qualifying examination",
+      "College must be in a different taluka/city than student's home"
+    ],
+    "eligibility_hi": [
+      "गुजरात का मूल निवासी जो अनुमोदित कॉलेज में डिप्लोमा, स्नातक या स्नातकोत्तर कर रहा हो",
+      "आरक्षण कोटा: SC (33%), ST (15%), SEBC/OBC (22%), और EWS (30%)",
+      "पिछली परीक्षा में न्यूनतम 50% अंक अनिवार्य",
+      "कॉलेज छात्र के गृह तालुका/शहर से भिन्न होना चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste / Category Certificate (SC/ST/SEBC/EWS)",
+      "College Admission Letter & Fee Receipt",
+      "Marksheets of 10th, 12th, or previous semester",
+      "Family Income Certificate",
+      "Residential proof (Electricity bill / Ration card)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "जाति / श्रेणी प्रमाण पत्र (SC/ST/SEBC/EWS)",
+      "कॉलेज प्रवेश पत्र और शुल्क रसीद",
+      "10वीं, 12वीं या पिछले सेमेस्टर की अंकतालिका",
+      "पारिवारिक आय प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Apply online on the Samras portal at samras.gujarat.gov.in during the annual admission window (June-August)",
+      "Submit academic preferences and category details",
+      "Merit lists are published online, followed by document verification at the selected Samras hostel"
+    ],
+    "steps_hi": [
+      "वार्षिक प्रवेश चक्र (जून-अगस्त) के दौरान samras.gujarat.gov.in पर ऑनलाइन आवेदन करें",
+      "शैक्षणिक विवरण और श्रेणी विवरण दर्ज करें",
+      "ऑनलाइन मेरिट सूची प्रकाशित होने पर चयनित समरस छात्रावास में जाकर दस्तावेज सत्यापित कराएं"
+    ],
+    "applyUrl": "https://samras.gujarat.gov.in",
+    "sourceUrl": "https://samras.gujarat.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "food-bill-assistance-sc-hostel-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "hostels",
+    "title_en": "Food Bill Assistance to SC Students in College Hostels (Gujarat)",
+    "title_hi": "कॉलेज छात्रावास में अनुसूचित जाति के छात्रों को भोजन बिल सहायता (गुजरात)",
+    "description_en": "Implemented by the Directorate of Scheduled Caste Welfare, Government of Gujarat, this scheme provides a monthly cash reimbursement for mess/food charges to Scheduled Caste students living in private or college-affiliated hostels.",
+    "description_hi": "अनुसूचित जाति कल्याण निदेशालय, गुजरात सरकार द्वारा संचालित, यह योजना कॉलेज से संबद्ध या निजी छात्रावासों में रहकर उच्च शिक्षा प्राप्त करने वाले SC छात्रों को भोजन/मेस खर्च हेतु मासिक नकद प्रतिपूर्ति प्रदान करती है।",
+    "benefits_en": "Monthly financial assistance of ₹1,500 per month for 10 months (total ₹15,000 per academic year) transferred directly into the student's bank account.",
+    "benefits_hi": "प्रति माह ₹1,500 की वित्तीय सहायता (10 महीने में कुल ₹15,000 प्रति शैक्षणिक वर्ष) सीधे छात्र के बैंक खाते में DBT के माध्यम से।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (SC) community of Gujarat",
+      "Enrolled in degree, medical, engineering, or diploma courses in recognized institutions",
+      "Residing in a college hostel or recognized private student hostel outside own native taluka",
+      "Family annual income should not exceed ₹6,00,000 per annum"
+    ],
+    "eligibility_hi": [
+      "छात्र गुजरात के अनुसूचित जाति (SC) समुदाय से होना चाहिए",
+      "मान्यता प्राप्त संस्थान में डिग्री, मेडिकल, इंजीनियरिंग या डिप्लोमा में नामांकित",
+      "अपने गृह तालुका से बाहर कॉलेज छात्रावास या मान्यता प्राप्त छात्रावास में रह रहा हो",
+      "पारिवारिक वार्षिक आय ₹6,00,000 से अधिक नहीं होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "SC Caste Certificate",
+      "Income Certificate",
+      "Hostel Warden Certificate / Mess Food Bill receipts",
+      "College Bonafide Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "अनुसूचित जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "छात्रावास अधीक्षक प्रमाण पत्र / मेस बिल रसीद",
+      "कॉलेज का बोनाफाइड प्रमाण पत्र",
+      "बैंक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on the Digital Gujarat Portal at digitalgujarat.gov.in",
+      "Select 'Food Bill Assistance for SC Students' under Social Justice services",
+      "Upload hostel certificate and get application approved by college principal and district officer"
+    ],
+    "steps_hi": [
+      "digitalgujarat.gov.in पर डिजिटल गुजरात पोर्टल पर ऑनलाइन आवेदन करें",
+      "समाज कल्याण सेवाओं के तहत 'Food Bill Assistance for SC Students' चुनें",
+      "छात्रावास प्रमाण पत्र अपलोड कर कॉलेज प्राचार्य और जिला अधिकारी से स्वीकृत कराएं"
+    ],
+    "applyUrl": "https://www.digitalgujarat.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/fbass",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "food-bill-assistance-sebc-hostel-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "hostels",
+    "title_en": "Food Bill Assistance to SEBC Students in College Hostels (Gujarat)",
+    "title_hi": "कॉलेज छात्रावास में SEBC/OBC छात्रों को भोजन बिल सहायता (गुजरात)",
+    "description_en": "Administered by the Directorate of Developing Castes Welfare, Government of Gujarat, this scheme reimburses monthly mess charges for Socially and Educationally Backward Classes (SEBC) college students residing in hostels.",
+    "description_hi": "विकसित जाति कल्याण निदेशालय, गुजरात सरकार द्वारा संचालित, यह योजना छात्रावासों में रहने वाले सामाजिक और शैक्षणिक रूप से पिछड़े वर्ग (SEBC/OBC) के कॉलेज छात्रों के लिए मासिक मेस खर्च की प्रतिपूर्ति करती है।",
+    "benefits_en": "Monthly allowance of ₹1,500 per month for 10 months in an academic year (total ₹15,000 annually) credited through DBT.",
+    "benefits_hi": "शैक्षणिक वर्ष में 10 महीने के लिए ₹1,500 प्रति माह (वार्षिक कुल ₹15,000) डीबीटी के माध्यम से सीधे बैंक खाते में।",
+    "eligibility_en": [
+      "Student must belong to SEBC / OBC category of Gujarat",
+      "Enrolled in post-matric higher education courses (BA, BCom, BSc, Engineering, Pharmacy, etc.)",
+      "Living in a hostel attached to college or run by a registered trust",
+      "Family annual income should not exceed ₹6,00,000"
+    ],
+    "eligibility_hi": [
+      "छात्र गुजरात के SEBC / OBC वर्ग से संबंधित होना चाहिए",
+      "पोस्ट-मैट्रिक उच्च शिक्षा (बीए, बीकॉम, इंजीनियरिंग आदि) में नामांकित",
+      "कॉलेज से संबद्ध या पंजीकृत ट्रस्ट द्वारा संचालित छात्रावास में रह रहा हो",
+      "पारिवारिक वार्षिक आय ₹6,00,000 से अधिक न हो"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "SEBC Caste Certificate & Non-Creamy Layer (NCL) Certificate",
+      "Income Certificate",
+      "Hostel Admission & Mess Receipt",
+      "College Bonafide Certificate",
+      "Bank Account details"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "SEBC जाति प्रमाण पत्र व नॉन-क्रीमी लेयर प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "छात्रावास प्रवेश व मेस रसीद",
+      "कॉलेज का बोनाफाइड प्रमाण पत्र",
+      "बैंक खाता विवरण"
+    ],
+    "steps_en": [
+      "Login to digitalgujarat.gov.in",
+      "Choose scheme code 'BCK-10: Food Bill Assistance to SEBC Students'",
+      "Upload documents and submit to college for onward verification"
+    ],
+    "steps_hi": [
+      "digitalgujarat.gov.in पर लॉगिन करें",
+      "'BCK-10: Food Bill Assistance to SEBC Students' योजना का चयन करें",
+      "दस्तावेज अपलोड करें और कॉलेज सत्यापन हेतु जमा करें"
+    ],
+    "applyUrl": "https://www.digitalgujarat.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/fbasebc",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "migrant-construction-workers-hostel-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "hostels",
+    "title_en": "Hostel Assistance Scheme for Children of Migrant Construction Workers (Gujarat)",
+    "title_hi": "प्रवासी निर्माण श्रमिकों के बच्चों के लिए छात्रावास सहायता योजना (गुजरात)",
+    "description_en": "Provided by the Gujarat Building and Other Construction Worker's Welfare Board (GBOCWWB), this initiative provides free residential boarding schools and hostels for the children of registered migrant construction workers so their schooling is uninterrupted during seasonal migration.",
+    "description_hi": "गुजरात भवन एवं अन्य सन्निर्माण कर्मकार कल्याण बोर्ड (GBOCWWB) द्वारा संचालित, यह पहल पंजीकृत निर्माण श्रमिकों के बच्चों को निःशुल्क आवासीय छात्रावास प्रदान करती है ताकि मौसमी प्रवास के दौरान उनकी पढ़ाई बाधित न हो।",
+    "benefits_en": "Completely free accommodation, nutritious meals, study materials, school uniforms, medical care, and remedial learning support.",
+    "benefits_hi": "पूरी तरह से निःशुल्क आवास, पौष्टिक भोजन, अध्ययन सामग्री, स्कूल की वर्दी, चिकित्सा देखभाल और उपचारात्मक शिक्षण सहायता।",
+    "eligibility_en": [
+      "At least one parent must be registered as an active construction worker with GBOCWWB (e-Nirman card holder)",
+      "Child must be between 6 to 18 years of age enrolled in school",
+      "Families engaged in seasonal construction work requiring movement across locations"
+    ],
+    "eligibility_hi": [
+      "माता-पिता में से कम से कम एक GBOCWWB के साथ पंजीकृत निर्माण श्रमिक (ई-निर्माण कार्ड धारक) होना चाहिए",
+      "बच्चा 6 से 18 वर्ष की आयु का स्कूल में नामांकित होना चाहिए",
+      "मौसमी निर्माण कार्य में लगे परिवार जिन्हें विभिन्न स्थानों पर जाना पड़ता है"
+    ],
+    "documents_en": [
+      "Parent's e-Nirman Shramik Card",
+      "Aadhaar Card of child and parents",
+      "Child's Birth Certificate / School Marksheet",
+      "Bank Account Passbook of parent"
+    ],
+    "documents_hi": [
+      "माता-पिता का ई-निर्माण श्रमिक कार्ड",
+      "बच्चे और माता-पिता का आधार कार्ड",
+      "बच्चे का जन्म प्रमाण पत्र / स्कूल अंकतालिका",
+      "माता-पिता की बैंक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through the district GBOCWWB office or e-Nirman portal at enirmanbocw.gujarat.gov.in",
+      "Verify registration of parent worker and child's school enrollment",
+      "Allotment of free boarding seat in the nearest designated residential hostel"
+    ],
+    "steps_hi": [
+      "जिला GBOCWWB कार्यालय या enirmanbocw.gujarat.gov.in पोर्टल के माध्यम से आवेदन करें",
+      "श्रमिक कार्ड और बच्चे के स्कूल नामांकन का सत्यापन कराएं",
+      "निकटतम आवासीय छात्रावास में निःशुल्क सीट आवंटित की जाती है"
+    ],
+    "applyUrl": "https://enirmanbocw.gujarat.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/hacmcw",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "vidyasiri-food-accommodation-scheme-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "hostels",
+    "title_en": "Vidyasiri Food and Accommodation Scholarship Scheme (Karnataka)",
+    "title_hi": "विद्यासिरी भोजन एवं आवास छात्रवृत्ति योजना (कर्नाटक)",
+    "description_en": "Administered by the Department of Backward Classes Welfare, Government of Karnataka, this scheme provides a monthly financial allowance directly to backward class students pursuing post-matric courses who could not get admission into government-managed hostels due to seat capacity constraints.",
+    "description_hi": "पिछड़ा वर्ग कल्याण विभाग, कर्नाटक सरकार द्वारा संचालित, यह योजना उन पिछड़ा वर्ग के पोस्ट-मैट्रिक छात्रों को मासिक वित्तीय सहायता प्रदान करती है जो सीट सीमा के कारण सरकारी छात्रावासों में प्रवेश नहीं पा सके।",
+    "benefits_en": "Financial assistance of ₹1,500 per month for up to 10 months in an academic year (total ₹15,000 annually) transferred directly to the student's bank account via DBT.",
+    "benefits_hi": "शैक्षणिक वर्ष में 10 महीने के लिए प्रति माह ₹1,500 (वार्षिक कुल ₹15,000) डीबीटी के माध्यम से सीधे छात्र के बैंक खाते में।",
+    "eligibility_en": [
+      "Must be a permanent resident of Karnataka belonging to Category-1, 2A, 2B, 3A, or 3B",
+      "Enrolled in post-matric courses in recognized Karnataka colleges",
+      "Annual family income limit: Category-1 up to ₹2.50 Lakh; 2A, 2B, 3A, 3B up to ₹1.00 Lakh",
+      "Distance between college and home village/town must be at least 5 km",
+      "Must not be staying in any government or government-subsidized hostel"
+    ],
+    "eligibility_hi": [
+      "कर्नाटक का स्थायी निवासी जो श्रेणी-1, 2A, 2B, 3A, या 3B से संबंधित हो",
+      "कर्नाटक के मान्यता प्राप्त कॉलेज में पोस्ट-मैट्रिक पाठ्यक्रम में नामांकित",
+      "वार्षिक पारिवारिक आय सीमा: श्रेणी-1 ₹2.50 लाख तक; 2A, 2B, 3A, 3B ₹1.00 लाख तक",
+      "कॉलेज और गृह ग्राम/शहर के बीच की दूरी कम से कम 5 किमी होनी चाहिए",
+      "किसी भी सरकारी या सहायता प्राप्त छात्रावास में न रह रहा हो"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste and Income Certificate (RD Number verified via Nadakacheri portal)",
+      "College Admission Receipt / Bonafide Certificate",
+      "Previous Year Marksheet",
+      "Bank Passbook linked with Aadhaar",
+      "Rental / PG Declaration signed by landlord"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "नादकचेरी पोर्टल से सत्यापित जाति एवं आय प्रमाण पत्र (RD नंबर)",
+      "कॉलेज प्रवेश रसीद / बोनाफाइड प्रमाण पत्र",
+      "पिछली कक्षा की अंकतालिका",
+      "आधार से लिंक बैंक पासबुक",
+      "मकान मालिक द्वारा हस्ताक्षरित किराया/पीजी घोषणा पत्र"
+    ],
+    "steps_en": [
+      "Apply online on the State Scholarship Portal (SSP) at ssp.postmatric.karnataka.gov.in",
+      "Authenticate with Aadhaar and enter Nadakacheri RD certificate number",
+      "College verification and District BCW Officer approval for monthly DBT credit"
+    ],
+    "steps_hi": [
+      "ssp.postmatric.karnataka.gov.in पर राज्य छात्रवृत्ति पोर्टल (SSP) पर ऑनलाइन आवेदन करें",
+      "आधार प्रमाणीकरण करें और नादकचेरी आरडी प्रमाण पत्र संख्या दर्ज करें",
+      "कॉलेज सत्यापन और जिला पिछड़ा वर्ग अधिकारी द्वारा मासिक डीबीटी भुगतान स्वीकृत"
+    ],
+    "applyUrl": "https://ssp.postmatric.karnataka.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/vfass",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "kreis-morarji-desai-residential-hostels-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "hostels",
+    "title_en": "KREIS Morarji Desai Residential Schools & Hostels (Karnataka)",
+    "title_hi": "KREIS मोरारजी देसाई आवासीय विद्यालय एवं छात्रावास (कर्नाटक)",
+    "description_en": "Operated by the Karnataka Residential Educational Institutions Society (KREIS) under the Social Welfare Department, these residential institutions provide 100% free English/Kannada medium quality education from Class 6 to 12 along with full hostel boarding for SC, ST, and backward classes.",
+    "description_hi": "कर्नाटक आवासीय शैक्षणिक संस्थान सोसायटी (KREIS) द्वारा संचालित, ये आवासीय संस्थान SC, ST और पिछड़े वर्ग के बच्चों को कक्षा 6 से 12 तक निःशुल्क शिक्षा, आवास और भोजन प्रदान करते हैं।",
+    "benefits_en": "100% free hostel stay, wholesome balanced meals, school uniforms, footwear, books, stationery, healthcare, and digital education facilities.",
+    "benefits_hi": "100% निःशुल्क छात्रावास आवास, पौष्टिक संतुलित भोजन, स्कूल यूनिफॉर्म, जूते, पुस्तकें, स्टेशनरी, स्वास्थ्य जांच और डिजिटल शिक्षा।",
+    "eligibility_en": [
+      "Permanent resident of Karnataka",
+      "Admission to Class 6 through state-wide KREIS entrance test",
+      "Category reservation: 75% for SC/ST and Category-1, 25% for other backward classes and general BPL",
+      "Family annual income should not exceed ₹2.50 Lakh per annum"
+    ],
+    "eligibility_hi": [
+      "कर्नाटक का मूल निवासी",
+      "राज्यव्यापी KREIS प्रवेश परीक्षा के माध्यम से कक्षा 6 में प्रवेश",
+      "आरक्षण: 75% SC/ST और श्रेणी-1 के लिए, 25% अन्य पिछड़ा वर्ग और सामान्य बीपीएल हेतु",
+      "वार्षिक पारिवारिक आय ₹2.50 लाख से अधिक नहीं होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste and Income Certificate",
+      "Class 5 Marksheet and Study Certificate",
+      "Transfer Certificate (TC)",
+      "Passport size photographs"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "जाति एवं आय प्रमाण पत्र",
+      "कक्षा 5वीं की अंकतालिका एवं अध्ययन प्रमाण पत्र",
+      "स्थानांतरण प्रमाण पत्र (TC)",
+      "पासपोर्ट साइज फोटो"
+    ],
+    "steps_en": [
+      "Apply online for KREIS Class 6 entrance examination on kreis.karnataka.gov.in",
+      "Appear for the written entrance test conducted in January-February",
+      "Attend district-level seat allotment counseling for residential hostel admission"
+    ],
+    "steps_hi": [
+      "kreis.karnataka.gov.in पर KREIS कक्षा 6 प्रवेश परीक्षा के लिए ऑनलाइन आवेदन करें",
+      "जनवरी-फरवरी में आयोजित लिखित प्रवेश परीक्षा दें",
+      "छात्रावास में प्रवेश हेतु जिला स्तरीय सीट आवंटन काउंसलिंग में भाग लें"
+    ],
+    "applyUrl": "https://kreis.karnataka.gov.in",
+    "sourceUrl": "https://kreis.karnataka.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "social-welfare-free-hostels-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "hostels",
+    "title_en": "Social Welfare Department Pre and Post-Matric Free Hostels (Karnataka)",
+    "title_hi": "समाज कल्याण विभाग प्री एवं पोस्ट-मैट्रिक निःशुल्क छात्रावास (कर्नाटक)",
+    "description_en": "Managed by the Social Welfare Department, Government of Karnataka, this scheme operates hundreds of dedicated pre-matric and post-matric hostels across all talukas providing free boarding and lodging to SC and ST students pursuing schooling, ITI, diploma, degree, and postgraduate education.",
+    "description_hi": "कर्नाटक सरकार के समाज कल्याण विभाग द्वारा संचालित, यह योजना राज्य के सभी तालुकों में अनुसूचित जाति और जनजाति के छात्रों के लिए निःशुल्क भोजन और आवास सहित प्री एवं पोस्ट-मैट्रिक छात्रावास चलाती है।",
+    "benefits_en": "Free boarding, nutritious meals 3 times a day, bedding, study table, library books, and sports materials.",
+    "benefits_hi": "निःशुल्क आवास, प्रतिदिन 3 समय पौष्टिक भोजन, बिस्तर, अध्ययन टेबल, पुस्तकालय की पुस्तकें और खेल सामग्री।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (SC) or Scheduled Tribe (ST) of Karnataka",
+      "Enrolled in recognized schools (Class 5-10) or colleges (Class 11 to PG/PhD)",
+      "Annual family income up to ₹2.50 Lakh",
+      "Institution must be situated at least 5 km from native residence"
+    ],
+    "eligibility_hi": [
+      "छात्र कर्नाटक के अनुसूचित जाति (SC) या अनुसूचित जनजाति (ST) से होना चाहिए",
+      "मान्यता प्राप्त स्कूल (कक्षा 5-10) या कॉलेज (11वीं से पीजी/पीएचडी) में नामांकित",
+      "वार्षिक पारिवारिक आय ₹2.50 लाख तक",
+      "संस्थान छात्र के मूल निवास से कम से कम 5 किमी दूर होना चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste Certificate (SC/ST RD number)",
+      "Income Certificate",
+      "College Admission Slip",
+      "Previous Exam Passing Certificate"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "जाति प्रमाण पत्र (SC/ST आरडी नंबर)",
+      "आय प्रमाण पत्र",
+      "कॉलेज प्रवेश पर्ची",
+      "पिछली परीक्षा उत्तीर्ण प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Apply online on the Karnataka Social Welfare hostel portal sw.kar.nic.in / ssp.postmatric.karnataka.gov.in",
+      "Select preferred hostel from taluka hostel directory",
+      "Taluka Social Welfare Officer verifies credentials and issues hostel admission order"
+    ],
+    "steps_hi": [
+      "sw.kar.nic.in या SSP पोर्टल पर ऑनलाइन छात्रावास आवेदन भरें",
+      "तालुका छात्रावास सूची में से अपनी पसंद का छात्रावास चुनें",
+      "तालुका समाज कल्याण अधिकारी दस्तावेजों का सत्यापन कर प्रवेश आदेश जारी करते हैं"
+    ],
+    "applyUrl": "https://sw.kar.nic.in",
+    "sourceUrl": "https://sw.kar.nic.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "bcm-post-matric-hostels-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "hostels",
+    "title_en": "Backward Classes Welfare Department Post-Matric Hostels (Karnataka)",
+    "title_hi": "पिछड़ा वर्ग कल्याण विभाग पोस्ट-मैट्रिक छात्रावास (कर्नाटक)",
+    "description_en": "Implemented by the Directorate of Backward Classes Welfare, Government of Karnataka, these hostels provide free lodging and boarding for college and university students belonging to OBC categories across district and taluka centers.",
+    "description_hi": "कर्नाटक सरकार के पिछड़ा वर्ग कल्याण निदेशालय द्वारा संचालित, ये छात्रावास जिला और तालुका केंद्रों में कॉलेज और विश्वविद्यालय के ओबीसी छात्रों को निःशुल्क भोजन और आवास प्रदान करते हैं।",
+    "benefits_en": "Free accommodation, daily meals (breakfast, lunch, dinner), reading room access, and clean drinking water facilities.",
+    "benefits_hi": "निःशुल्क आवास, प्रतिदिन भोजन (नाश्ता, दोपहर व रात का भोजन), वाचनालय सुविधा और स्वच्छ पेयजल।",
+    "eligibility_en": [
+      "Belong to Category 1, 2A, 2B, 3A, or 3B of Karnataka",
+      "Admitted to recognized undergraduate, professional, or postgraduate college",
+      "Family annual income up to ₹2.50 Lakh for Category 1 and ₹1.00 Lakh for other backward categories",
+      "Applicant must reside at least 5 km away from the college"
+    ],
+    "eligibility_hi": [
+      "कर्नाटक की श्रेणी 1, 2A, 2B, 3A, या 3B से संबंधित",
+      "मान्यता प्राप्त स्नातक, व्यावसायिक या स्नातकोत्तर कॉलेज में प्रवेश प्राप्त",
+      "वार्षिक पारिवारिक आय: श्रेणी 1 हेतु ₹2.50 लाख तक, अन्य श्रेणियों हेतु ₹1.00 लाख तक",
+      "आवेदक कॉलेज से कम से कम 5 किमी दूर रहता हो"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "OBC Caste Certificate",
+      "Income Certificate",
+      "College Bonafide Certificate",
+      "SSLC / 10th & 12th Marksheets"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "ओबीसी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "कॉलेज बोनाफाइड प्रमाण पत्र",
+      "10वीं और 12वीं की अंकतालिका"
+    ],
+    "steps_en": [
+      "Submit online hostel application on the BCM portal at bcwd.karnataka.gov.in",
+      "Submit printed application copy with documents to the hostel warden",
+      "District selection committee reviews applications and finalizes room allocation"
+    ],
+    "steps_hi": [
+      "bcwd.karnataka.gov.in पर बीसीएम पोर्टल पर ऑनलाइन छात्रावास आवेदन जमा करें",
+      "दस्तावेजों के साथ प्रिंटेड कॉपी छात्रावास अधीक्षक को जमा करें",
+      "जिला चयन समिति आवेदनों की समीक्षा कर कमरा आवंटन अंतिम रूप देती है"
+    ],
+    "applyUrl": "https://bcwd.karnataka.gov.in",
+    "sourceUrl": "https://bcwd.karnataka.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "jagananna-vasathi-deevena-ap",
+    "level": "STATE",
+    "state": "Andhra Pradesh",
+    "category": "hostels",
+    "title_en": "Jagananna Vasathi Deevena Higher Education Hostel Scheme (Andhra Pradesh)",
+    "title_hi": "जगन्ना वसती दीवेना उच्च शिक्षा छात्रावास एवं भोजन योजना (आंध्र प्रदेश)",
+    "description_en": "A flagship welfare scheme of the Government of Andhra Pradesh providing direct financial assistance to cover hostel, mess, and boarding expenses for low-income students pursuing ITI, Polytechnic, Degree, Engineering, and Post-Graduate courses.",
+    "description_hi": "आंध्र प्रदेश सरकार की एक प्रमुख कल्याणकारी योजना, जो आईटीआई, पॉलिटेक्निक, डिग्री, इंजीनियरिंग और पीजी कर रहे कम आय वाले छात्रों के छात्रावास, मेस और भोजन खर्च हेतु सीधी वित्तीय सहायता प्रदान करती है।",
+    "benefits_en": "Annual financial aid credited into the student's mother's bank account: ₹10,000 for ITI students, ₹15,000 for Polytechnic/Diploma students, and ₹20,000 for Degree/Engineering/PG students disbursed in biannual installments.",
+    "benefits_hi": "छात्र की माता के बैंक खाते में वार्षिक वित्तीय सहायता: आईटीआई हेतु ₹10,000, पॉलिटेक्निक हेतु ₹15,000, और डिग्री/इंजीनियरिंग/पीजी हेतु ₹20,000 दो किश्तों में।",
+    "eligibility_en": [
+      "Permanent resident of Andhra Pradesh",
+      "Enrolled in regular ITI, Polytechnic, Degree, Engineering, Medicine, or PG courses in government/aided/affiliated colleges",
+      "Total annual family income must be less than ₹2.50 Lakh",
+      "Family landholding less than 10 acres wetland or 25 acres dry land",
+      "Minimum 75% attendance mandatory in each semester"
+    ],
+    "eligibility_hi": [
+      "आंध्र प्रदेश का स्थायी निवासी",
+      "सरकारी/संबद्ध कॉलेजों में नियमित आईटीआई, पॉलिटेक्निक, डिग्री, इंजीनियरिंग, मेडिकल या पीजी में नामांकित",
+      "कुल वार्षिक पारिवारिक आय ₹2.50 लाख से कम",
+      "परिवार की भूमि 10 एकड़ गीली या 25 एकड़ सूखी भूमि से कम",
+      "प्रत्येक सेमेस्टर में न्यूनतम 75% उपस्थिति अनिवार्य"
+    ],
+    "documents_en": [
+      "Aadhaar Card of student and mother",
+      "Rice Card / Income Certificate",
+      "College Admission Bonafide Certificate & Fee Receipt",
+      "Mother's Aadhaar-linked Bank Passbook",
+      "Biometric e-KYC authentication"
+    ],
+    "documents_hi": [
+      "छात्र एवं माता का आधार कार्ड",
+      "राइस कार्ड / आय प्रमाण पत्र",
+      "कॉलेज प्रवेश बोनाफाइड प्रमाण पत्र व रसीद",
+      "माता की आधार लिंक बैंक पासबुक",
+      "बायोमेट्रिक ई-केवाईसी सत्यापन"
+    ],
+    "steps_en": [
+      "Registration conducted through the college admission desk on the Jnanabhumi portal at jnanabhumi.ap.gov.in",
+      "Village / Ward Volunteer conducts field verification of family income and housing",
+      "Welfare Department sanctions funds directly to mother's bank account via DBT"
+    ],
+    "steps_hi": [
+      "jnanabhumi.ap.gov.in पोर्टल पर कॉलेज के माध्यम से पंजीकरण किया जाता है",
+      "ग्राम / वार्ड वॉलंटियर द्वारा पारिवारिक आय का भौतिक सत्यापन",
+      "कल्याण विभाग द्वारा डीबीटी के माध्यम से सीधे माता के खाते में राशि जारी की जाती है"
+    ],
+    "applyUrl": "https://jnanabhumi.ap.gov.in",
+    "sourceUrl": "https://jnanabhumi.ap.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "apswreis-dr-br-ambedkar-gurukulam-hostels-ap",
+    "level": "STATE",
+    "state": "Andhra Pradesh",
+    "category": "hostels",
+    "title_en": "Dr. B.R. Ambedkar Gurukulam Residential Hostels (APSWREIS Andhra Pradesh)",
+    "title_hi": "डॉ. बी.आर. अम्बेडकर गुरुकुलम आवासीय छात्रावास (APSWREIS आंध्र प्रदेश)",
+    "description_en": "Administered by the Andhra Pradesh Social Welfare Residential Educational Institutions Society (APSWREIS), these English-medium residential schools and Junior Colleges provide 100% free education and hostels from Class 5 to 12 for Scheduled Caste and underprivileged students.",
+    "description_hi": "आंध्र प्रदेश समाज कल्याण आवासीय शिक्षण संस्थान सोसायटी (APSWREIS) द्वारा संचालित, ये अंग्रेजी माध्यम आवासीय स्कूल अनुसूचित जाति और वंचित वर्ग के बच्चों को कक्षा 5 से 12 तक निःशुल्क शिक्षा और छात्रावास प्रदान करते हैं।",
+    "benefits_en": "Free hostel stay, balanced nutritious food (including eggs and milk), uniforms, bedding, shoes, books, IIT-JEE/NEET foundation coaching, and health care.",
+    "benefits_hi": "निःशुल्क छात्रावास, पौष्टिक भोजन (अंडे और दूध सहित), वर्दी, बिस्तर, जूते, पाठ्यपुस्तकें, आईआईटी-जेईई/नीट फाउंडेशन कोचिंग और स्वास्थ्य देखभाल।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (75% quota), ST (6%), BC (12%), or Minorities/General (7%)",
+      "Permanent resident of Andhra Pradesh",
+      "Admission to Class 5 and Intermediate (1st year) through state entrance test (V-CET and Inter-CET)",
+      "Annual family income must not exceed ₹1,00,000"
+    ],
+    "eligibility_hi": [
+      "छात्र अनुसूचित जाति (75% कोटा), ST (6%), BC (12%), या अल्पसंख्यक/सामान्य (7%) से होना चाहिए",
+      "आंध्र प्रदेश का मूल निवासी",
+      "कक्षा 5 और इंटरमीडिएट में प्रवेश राज्य स्तरीय प्रवेश परीक्षा (V-CET व Inter-CET) के माध्यम से",
+      "वार्षिक पारिवारिक आय ₹1,00,000 से अधिक नहीं होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Integrated Caste and Income Certificate",
+      "Study / Transfer Certificate of previous class",
+      "White Ration Card / Rice Card",
+      "Entrance Exam Hall Ticket & Rank Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "एकीकृत जाति एवं आय प्रमाण पत्र",
+      "पिछली कक्षा का अध्ययन / स्थानांतरण प्रमाण पत्र",
+      "सफेद राशन कार्ड / राइस कार्ड",
+      "प्रवेश परीक्षा हॉल टिकट व रैंक कार्ड"
+    ],
+    "steps_en": [
+      "Register online for APSWREIS entrance test on apswreis.ap.gov.in",
+      "Appear for the written entrance exam",
+      "Selected students attend counseling and get admitted to the allotted Gurukulam campus with hostel lodging"
+    ],
+    "steps_hi": [
+      "apswreis.ap.gov.in पर APSWREIS प्रवेश परीक्षा के लिए ऑनलाइन पंजीकरण करें",
+      "लिखित प्रवेश परीक्षा में शामिल हों",
+      "चयनित छात्र काउंसलिंग में भाग लेकर छात्रावास सुविधा के साथ गुरुकुलम में प्रवेश प्राप्त करें"
+    ],
+    "applyUrl": "https://apswreis.ap.gov.in",
+    "sourceUrl": "https://apswreis.ap.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mjptbcwreis-bc-residential-hostels-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "hostels",
+    "title_en": "Mahatma Jyotiba Phule BC Residential Educational Hostels (MJPTBCWREIS Telangana)",
+    "title_hi": "महात्मा ज्योतिबा फुले पिछड़ा वर्ग आवासीय छात्रावास (MJPTBCWREIS तेलंगाना)",
+    "description_en": "Operated by the Mahatma Jyotiba Phule Telangana Backward Classes Welfare Residential Educational Institutions Society, this scheme runs residential schools and junior colleges providing completely free boarding and lodging from Class 6 to 12 for Backward Class students.",
+    "description_hi": "महात्मा ज्योतिबा फुले तेलंगाना पिछड़ा वर्ग कल्याण आवासीय शिक्षण संस्थान सोसायटी द्वारा संचालित, यह योजना पिछड़ा वर्ग के छात्र-छात्राओं को कक्षा 6 से 12 तक निःशुल्क भोजन और आवास सहित आवासीय शिक्षा प्रदान करती है।",
+    "benefits_en": "Free hostel accommodation, clean drinking water, nutritious meals, school uniforms, textbooks, notebook sets, bedding, and competitive exam coaching.",
+    "benefits_hi": "निःशुल्क छात्रावास आवास, स्वच्छ पेयजल, पौष्टिक भोजन, स्कूल वर्दी, पाठ्यपुस्तकें, नोटबुक सेट, बिस्तर और प्रतियोगी परीक्षाओं की तैयारी।",
+    "eligibility_en": [
+      "Permanent resident of Telangana",
+      "Belonging to Backward Classes (BC-A, BC-B, BC-C, BC-D, BC-E), SC, ST, or EBC",
+      "Admission to Class 6 through the MJPTBCWREIS Entrance Test (RJC-CET for intermediate)",
+      "Annual family income up to ₹1,50,000 (rural) and ₹2,00,000 (urban)"
+    ],
+    "eligibility_hi": [
+      "तेलंगाना का मूल निवासी",
+      "पिछड़ा वर्ग (BC-A, BC-B, BC-C, BC-D, BC-E), SC, ST, या EBC से संबंधित",
+      "कक्षा 6 में प्रवेश MJPTBCWREIS प्रवेश परीक्षा के माध्यम से (इंटरमीडिएट हेतु RJC-CET)",
+      "वार्षिक पारिवारिक आय ₹1,50,000 (ग्रामीण) और ₹2,00,000 (शहरी) तक"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste Certificate issued by Meeseva",
+      "Income Certificate from Revenue Department",
+      "Bonafide / Study Certificate from previous school",
+      "Entrance Exam Hall Ticket"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "मीसेवा द्वारा जारी जाति प्रमाण पत्र",
+      "राजस्व विभाग द्वारा जारी आय प्रमाण पत्र",
+      "पिछले स्कूल का बोनाफाइड / अध्ययन प्रमाण पत्र",
+      "प्रवेश परीक्षा हॉल टिकट"
+    ],
+    "steps_en": [
+      "Submit online application on mjpabcwreis.cgg.gov.in during entrance notification period",
+      "Take the written entrance test at designated mandal centers",
+      "Shortlisted candidates complete certificate verification and receive hostel room allotment"
+    ],
+    "steps_hi": [
+      "प्रवेश अधिसूचना के दौरान mjpabcwreis.cgg.gov.in पर ऑनलाइन आवेदन जमा करें",
+      "नामित मंडल केंद्रों पर लिखित प्रवेश परीक्षा दें",
+      "चयनित अभ्यर्थी प्रमाण पत्र सत्यापन कराकर छात्रावास में प्रवेश प्राप्त करें"
+    ],
+    "applyUrl": "https://mjpabcwreis.cgg.gov.in",
+    "sourceUrl": "https://mjpabcwreis.cgg.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "tswreis-social-welfare-residential-hostels-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "hostels",
+    "title_en": "TSWREIS Social Welfare Residential Schools & Hostels (Telangana)",
+    "title_hi": "TSWREIS समाज कल्याण आवासीय विद्यालय एवं छात्रावास (तेलंगाना)",
+    "description_en": "Implemented by the Telangana Social Welfare Residential Educational Institutions Society, TSWREIS operates over 260 residential schools and degree colleges providing 100% free boarding and English-medium education for Scheduled Caste children.",
+    "description_hi": "तेलंगाना समाज कल्याण आवासीय शिक्षण संस्थान सोसायटी द्वारा संचालित, यह योजना अनुसूचित जाति के बच्चों के लिए 260 से अधिक आवासीय स्कूलों और डिग्री कॉलेजों में 100% निःशुल्क भोजन, आवास और अंग्रेजी माध्यम शिक्षा प्रदान करती है।",
+    "benefits_en": "Free hostel stay, diet with protein-rich nutrition, school uniforms, footwear, books, medical care, and specialized coaching for civil services, IIT-JEE, and NEET.",
+    "benefits_hi": "निःशुल्क छात्रावास आवास, प्रोटीन युक्त पौष्टिक आहार, वर्दी, जूते, पुस्तकें, चिकित्सा देखभाल और सिविल सेवा, जेईई, नीट की विशेष कोचिंग।",
+    "eligibility_en": [
+      "Native of Telangana State belonging to Scheduled Caste (75%), ST (6%), BC (12%), Minorities (3%), or Others (4%)",
+      "Admissions in Class 5 (V-TG-CET) and Intermediate (TSSWRJC-CET)",
+      "Family annual income up to ₹1,50,000 for rural areas and ₹2,00,000 for urban areas"
+    ],
+    "eligibility_hi": [
+      "तेलंगाना का मूल निवासी जो SC (75%), ST (6%), BC (12%), अल्पसंख्यक (3%) या अन्य (4%) से संबंधित हो",
+      "कक्षा 5 में प्रवेश (V-TG-CET) और इंटरमीडिएट में प्रवेश (TSSWRJC-CET) द्वारा",
+      "पारिवारिक वार्षिक आय ग्रामीण क्षेत्रों में ₹1,50,000 और शहरी क्षेत्रों में ₹2,00,000 तक"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "SC/ST/BC Caste Certificate (Meeseva)",
+      "Income Certificate",
+      "Study Certificate of previous class",
+      "Entrance Exam Hall Ticket"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "मीसेवा जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "पिछली कक्षा का अध्ययन प्रमाण पत्र",
+      "प्रवेश परीक्षा हॉल टिकट"
+    ],
+    "steps_en": [
+      "Apply online on tswreis.ac.in during the annual admission window",
+      "Appear for the common entrance test across Telangana",
+      "Admit to the allotted residential hostel campus following merit and counseling"
+    ],
+    "steps_hi": [
+      "वार्षिक प्रवेश चक्र के दौरान tswreis.ac.in पर ऑनलाइन आवेदन करें",
+      "राज्य भर में आयोजित संयुक्त प्रवेश परीक्षा दें",
+      "मेरिट और काउंसलिंग के अनुसार आवंटित आवासीय परिसर में प्रवेश लें"
+    ],
+    "applyUrl": "https://tswreis.ac.in",
+    "sourceUrl": "https://tswreis.ac.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "anwesha-residential-hostel-scheme-odisha",
+    "level": "STATE",
+    "state": "Odisha",
+    "category": "hostels",
+    "title_en": "Anwesha Scheme Residential Hostels for SC/ST Students (Odisha)",
+    "title_hi": "अन्वेषा योजना अनुसूचित जाति/जनजाति आवासीय छात्रावास (ओडिशा)",
+    "description_en": "Launched by the ST & SC Development Department, Government of Odisha, 'Anwesha' admits tribal and Dalit children from remote villages into leading private English-medium schools in urban areas, with the entire cost of school fees and dedicated residential hostels borne by the state.",
+    "description_hi": "ओडिशा सरकार के एसटी और एससी विकास विभाग द्वारा संचालित 'अन्वेषा' योजना दूरदराज के आदिवासी और दलित बच्चों को शहरी क्षेत्रों के प्रमुख अंग्रेजी माध्यम निजी स्कूलों में प्रवेश दिलाती है, जिसका संपूर्ण स्कूल और आवासीय छात्रावास खर्च सरकार वहन करती है।",
+    "benefits_en": "100% free lodging in dedicated Anwesha urban hostels, complete boarding/mess, school tuition fees, books, uniforms, transportation to school, and dedicated hostel wardens and tutors.",
+    "benefits_hi": "समर्पित अन्वेषा छात्रावासों में 100% निःशुल्क आवास, संपूर्ण भोजन, स्कूल की फीस, पुस्तकें, वर्दी, स्कूल लाने-ले जाने हेतु परिवहन और विशेष ट्यूटर सुविधाएं।",
+    "eligibility_en": [
+      "Child must belong to Scheduled Tribe (ST) or Scheduled Caste (SC) of Odisha",
+      "Admission into Class 1 through district lottery/selection process",
+      "Parental annual income should not exceed ₹2.50 Lakh",
+      "Preference for children from remote, scheduled, and tribal areas"
+    ],
+    "eligibility_hi": [
+      "बच्चा ओडिशा के अनुसूचित जनजाति (ST) या अनुसूचित जाति (SC) से होना चाहिए",
+      "कक्षा 1 में प्रवेश जिला स्तरीय लॉटरी/चयन प्रक्रिया के माध्यम से",
+      "अभिभावक की वार्षिक आय ₹2.50 लाख से अधिक नहीं होनी चाहिए",
+      "दूरदराज और अनुसूचित जनजातीय क्षेत्रों के बच्चों को प्राथमिकता"
+    ],
+    "documents_en": [
+      "Aadhaar Card of child and parents",
+      "ST/SC Caste Certificate issued by competent revenue authority",
+      "Income Certificate",
+      "Birth Certificate",
+      "Residential Certificate"
+    ],
+    "documents_hi": [
+      "बच्चे और माता-पिता का आधार कार्ड",
+      "सक्षम राजस्व प्राधिकारी द्वारा जारी एसटी/एससी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "जन्म प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Submit application to the District Welfare Officer (DWO) when annual notification is published in newspapers",
+      "District Selection Committee conducts selection/lottery for allocated school seats",
+      "Admitted children are accommodated in the district headquarters Anwesha hostel with zero fees"
+    ],
+    "steps_hi": [
+      "वार्षिक अधिसूचना जारी होने पर जिला कल्याण अधिकारी (DWO) को आवेदन जमा करें",
+      "जिला चयन समिति सीटों हेतु चयन/लॉटरी आयोजित करती है",
+      "चयनित बच्चों को जिला मुख्यालय स्थित अन्वेषा छात्रावास में निःशुल्क प्रवेश दिया जाता है"
+    ],
+    "applyUrl": "https://stscodisha.gov.in",
+    "sourceUrl": "https://stscodisha.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "akankshya-post-matric-hostel-scheme-odisha",
+    "level": "STATE",
+    "state": "Odisha",
+    "category": "hostels",
+    "title_en": "Akankshya Scheme Post-Matric Urban Hostels for SC/ST (Odisha)",
+    "title_hi": "आकांक्षा योजना पोस्ट-मैट्रिक शहरी छात्रावास (ओडिशा)",
+    "description_en": "Implemented by the ST & SC Development, Minorities and Backward Classes Welfare Department of Odisha, the Akankshya scheme operates modern multi-storeyed hostels in major educational hubs (Bhubaneswar, Cuttack, Rourkela, Sambalpur, Berhampur) providing free accommodation to post-matric tribal and SC students pursuing higher professional courses.",
+    "description_hi": "ओडिशा सरकार के एसटी एवं एससी विकास विभाग द्वारा संचालित 'आकांक्षा' योजना प्रमुख शिक्षा केंद्रों (भुवनेश्वर, कटक, राउरकेला आदि) में आधुनिक बहुमंजिला छात्रावास चलाकर उच्च व्यावसायिक शिक्षा प्राप्त कर रहे आदिवासी और दलित छात्रों को निःशुल्क आवास प्रदान करती है।",
+    "benefits_en": "Free hostel stay in state-of-the-art buildings, furnished rooms, high-speed Wi-Fi, computer labs, library, hygienic mess facility, and biometric security.",
+    "benefits_hi": "आधुनिक भवनों में निःशुल्क छात्रावास आवास, सुसज्जित कमरे, हाई-स्पीड वाई-फाई, कंप्यूटर लैब, पुस्तकालय, स्वच्छ मेस सुविधा और बायोमेट्रिक सुरक्षा।",
+    "eligibility_en": [
+      "Candidate must be a permanent resident of Odisha belonging to ST or SC category",
+      "Enrolled in post-matric professional courses (Engineering, Medical, MBA, MCA, Law, Degree) in government or recognized private colleges in notified cities",
+      "Family annual income up to ₹2.50 Lakh",
+      "Distance of institution from home must be over 20 km"
+    ],
+    "eligibility_hi": [
+      "ओडिशा का मूल निवासी जो ST या SC वर्ग से संबंधित हो",
+      "अधिसूचित शहरों में इंजीनियरिंग, मेडिकल, एमबीए, कानून आदि व्यावसायिक पाठ्यक्रमों में नामांकित",
+      "वार्षिक पारिवारिक आय ₹2.50 लाख तक",
+      "संस्थान छात्र के गृह नगर से कम से कम 20 किमी दूर होना चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "ST/SC Caste Certificate",
+      "Income Certificate",
+      "College Admission Bonafide Certificate",
+      "Previous Semester Marksheet"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "एसटी/एससी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "कॉलेज प्रवेश बोनाफाइड प्रमाण पत्र",
+      "पिछले सेमेस्टर की अंकतालिका"
+    ],
+    "steps_en": [
+      "Apply online on the Odisha State Scholarship / Akankshya portal at scholarship.odisha.gov.in",
+      "Select desired Akankshya hostel location in Bhubaneswar, Cuttack, etc.",
+      "District Welfare Officer scrutinizes applications and issues online hostel allotment"
+    ],
+    "steps_hi": [
+      "scholarship.odisha.gov.in पर ओडिशा राज्य छात्रवृत्ति / आकांक्षा पोर्टल पर ऑनलाइन आवेदन करें",
+      "भुवनेश्वर, कटक आदि में अपनी पसंद के आकांक्षा छात्रावास का चयन करें",
+      "जिला कल्याण अधिकारी सत्यापन कर ऑनलाइन कमरा आवंटन पत्र जारी करते हैं"
+    ],
+    "applyUrl": "https://scholarship.odisha.gov.in",
+    "sourceUrl": "https://stscodisha.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mp-integrated-hostels-sc-st-obc",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "hostels",
+    "title_en": "Integrated Hostel Scheme for SC, ST and OBC Students (Madhya Pradesh)",
+    "title_hi": "समेकित छात्रावास योजना (SC, ST एवं OBC छात्र - मध्य प्रदेश)",
+    "description_en": "Administered by the Tribal Welfare Department and Scheduled Caste Welfare Department, Government of Madhya Pradesh, this scheme provides free residential accommodation, nutritious food, and academic amenities for SC, ST, and OBC students from Class 1 to college level.",
+    "description_hi": "जनजातीय कार्य विभाग एवं अनुसूचित जाति कल्याण विभाग, मध्य प्रदेश सरकार द्वारा संचालित, यह योजना कक्षा 1 से कॉलेज स्तर तक के SC, ST और OBC छात्रों को निःशुल्क आवास, पौष्टिक भोजन और शैक्षणिक सुविधाएं प्रदान करती है।",
+    "benefits_en": "100% free lodging and boarding, sports kits, bedding, winter clothing, library facilities, and free medical check-ups in government-managed integrated hostels.",
+    "benefits_hi": "सरकारी समेकित छात्रावासों में 100% निःशुल्क आवास एवं भोजन, खेल सामग्री, बिस्तर, सर्दियों के कपड़े, पुस्तकालय और निःशुल्क स्वास्थ्य जांच।",
+    "eligibility_en": [
+      "Permanent resident of Madhya Pradesh",
+      "Student must belong to Scheduled Caste (SC), Scheduled Tribe (ST), or Other Backward Classes (OBC)",
+      "Studying in recognized government or aided school/college",
+      "Institution located in a different village/town from native residence"
+    ],
+    "eligibility_hi": [
+      "मध्य प्रदेश का स्थायी निवासी",
+      "छात्र अनुसूचित जाति (SC), अनुसूचित जनजाति (ST) या अन्य पिछड़ा वर्ग (OBC) से होना चाहिए",
+      "मान्यता प्राप्त सरकारी या सहायता प्राप्त स्कूल/कॉलेज में अध्ययनरत",
+      "संस्थान छात्र के गृह ग्राम/शहर से भिन्न स्थान पर स्थित हो"
+    ],
+    "documents_en": [
+      "Samagra ID & Aadhaar Card",
+      "Caste Certificate issued on MP e-District portal",
+      "Income Certificate",
+      "School / College Admission Proof",
+      "Previous Year Marksheet"
+    ],
+    "documents_hi": [
+      "समग्र आईडी और आधार कार्ड",
+      "एमपी ई-डिस्ट्रिक्ट पोर्टल से जारी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "स्कूल / कॉलेज प्रवेश प्रमाण पत्र",
+      "पिछली कक्षा की अंकतालिका"
+    ],
+    "steps_en": [
+      "Apply through the MP Tribal Affairs Automation System (MPTAAS) portal at tribal.mp.gov.in/mptaas",
+      "Select 'Hostel Admission' module using Samagra ID",
+      "Hostel Superintendent verifies documents and confirms room allotment"
+    ],
+    "steps_hi": [
+      "tribal.mp.gov.in/mptaas पर MPTAAS पोर्टल के माध्यम से आवेदन करें",
+      "समग्र आईडी का उपयोग करके 'छात्रावास प्रवेश' मॉड्यूल का चयन करें",
+      "छात्रावास अधीक्षक दस्तावेजों का सत्यापन कर कमरा आवंटित करते हैं"
+    ],
+    "applyUrl": "https://www.tribal.mp.gov.in/mptaas",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/ihs",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mp-running-of-sc-hostels",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "hostels",
+    "title_en": "Running of Scheduled Caste Senior Hostels (Madhya Pradesh)",
+    "title_hi": "अनुसूचित जाति वरिष्ठ छात्रावास संचालन योजना (मध्य प्रदेश)",
+    "description_en": "Operated by the Scheduled Caste Welfare Department, Government of Madhya Pradesh, this program runs senior hostels for SC boys and girls studying in Classes 9 to 12 and college courses across all district and block headquarters.",
+    "description_hi": "अनुसूचित जाति कल्याण विभाग, मध्य प्रदेश सरकार द्वारा संचालित, यह कार्यक्रम सभी जिला और ब्लॉक मुख्यालयों में कक्षा 9 से 12 और कॉलेज के SC छात्र-छात्राओं के लिए वरिष्ठ छात्रावास संचालित करता है।",
+    "benefits_en": "Free boarding, nutritious meals 3 times a day, study tables, bedding materials, daily newspapers, and annual health check-up camps.",
+    "benefits_hi": "निःशुल्क आवास, प्रतिदिन 3 समय पौष्टिक भोजन, अध्ययन टेबल, बिस्तर सामग्री, दैनिक समाचार पत्र और वार्षिक स्वास्थ्य जांच शिविर।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (SC) category of Madhya Pradesh",
+      "Studying in Class 9 onwards in an approved government/aided school or college",
+      "Family annual income up to ₹2.50 Lakh",
+      "Resident of an area with no higher secondary school/college within walking distance"
+    ],
+    "eligibility_hi": [
+      "छात्र मध्य प्रदेश के अनुसूचित जाति (SC) वर्ग से संबंधित होना चाहिए",
+      "स्वीकृत सरकारी/सहायता प्राप्त स्कूल या कॉलेज में कक्षा 9 या उससे ऊपर अध्ययनरत",
+      "वार्षिक पारिवारिक आय ₹2.50 लाख तक",
+      "ऐसे क्षेत्र का निवासी जहां पैदल दूरी पर उच्चतर विद्यालय या कॉलेज उपलब्ध न हो"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Samagra ID",
+      "SC Caste Certificate",
+      "Income Certificate",
+      "School Admission Receipt and Marksheet"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "समग्र आईडी",
+      "अनुसूचित जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "स्कूल प्रवेश रसीद और अंकतालिका"
+    ],
+    "steps_en": [
+      "Apply online on the MPTAAS portal at tribal.mp.gov.in/mptaas or offline at District Antyavasayi office",
+      "Submit application to the respective Senior Hostel Superintendent",
+      "Superintendent allots room based on district merit list"
+    ],
+    "steps_hi": [
+      "MPTAAS पोर्टल पर ऑनलाइन या जिला अंत्यावसायी कार्यालय में ऑफलाइन आवेदन करें",
+      "संबंधित वरिष्ठ छात्रावास अधीक्षक को आवेदन जमा करें",
+      "अधीक्षक जिला मेरिट सूची के आधार पर कमरा आवंटित करते हैं"
+    ],
+    "applyUrl": "https://www.tribal.mp.gov.in/mptaas",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/rosch",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mp-senior-hostel-scheduled-tribes",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "hostels",
+    "title_en": "Senior Hostel for Scheduled Tribes (Madhya Pradesh)",
+    "title_hi": "अनुसूचित जनजाति वरिष्ठ छात्रावास योजना (मध्य प्रदेश)",
+    "description_en": "Administered by the Tribal Welfare Department, Government of Madhya Pradesh, this scheme provides free residential hostel accommodation and mess facilities for tribal boys and girls enrolled in Classes 9 to 12 in tribal-dominated districts.",
+    "description_hi": "जनजातीय कार्य विभाग, मध्य प्रदेश सरकार द्वारा संचालित, यह योजना आदिवासी बहुल जिलों में कक्षा 9 से 12 में नामांकित जनजातीय छात्र-छात्राओं को निःशुल्क आवासीय छात्रावास और भोजन सुविधाएं प्रदान करती है।",
+    "benefits_en": "Free accommodation, hygienic mess food, daily study supervision, recreational sports kits, and emergency medical assistance.",
+    "benefits_hi": "निःशुल्क आवास, स्वच्छ भोजन, दैनिक अध्ययन मार्गदर्शन, खेल सामग्री और आपातकालीन चिकित्सा सहायता।",
+    "eligibility_en": [
+      "Applicant must belong to Scheduled Tribe (ST) of Madhya Pradesh",
+      "Enrolled in Class 9, 10, 11, or 12 in a government high school / higher secondary school",
+      "Native village located at least 5 km away from the school"
+    ],
+    "eligibility_hi": [
+      "आवेदक मध्य प्रदेश की अनुसूचित जनजाति (ST) से होना चाहिए",
+      "सरकारी हाई स्कूल / हायर सेकेंडरी स्कूल में कक्षा 9, 10, 11 या 12 में नामांकित",
+      "छात्र का मूल गांव स्कूल से कम से कम 5 किमी दूर स्थित हो"
+    ],
+    "documents_en": [
+      "Samagra ID & Aadhaar Card",
+      "ST Caste Certificate",
+      "Class 8 / 10 Passing Marksheet",
+      "School Admission Bonafide Certificate",
+      "Domicile Certificate"
+    ],
+    "documents_hi": [
+      "समग्र आईडी और आधार कार्ड",
+      "अनुसूचित जनजाति प्रमाण पत्र",
+      "कक्षा 8 / 10 उत्तीर्ण अंकतालिका",
+      "स्कूल प्रवेश बोनाफाइड प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Submit application on MPTAAS portal at tribal.mp.gov.in/mptaas",
+      "Hostel warden checks seat availability and verifies original documents",
+      "Hostel allotment order issued before start of academic session"
+    ],
+    "steps_hi": [
+      "tribal.mp.gov.in/mptaas पर MPTAAS पोर्टल पर आवेदन जमा करें",
+      "छात्रावास अधीक्षक सीटों की जांच कर मूल दस्तावेजों का सत्यापन करते हैं",
+      "शैक्षणिक सत्र शुरू होने से पहले छात्रावास आवंटन आदेश जारी किया जाता है"
+    ],
+    "applyUrl": "https://www.tribal.mp.gov.in/mptaas",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/shst",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mp-hostel-facility-students-delhi",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "hostels",
+    "title_en": "Financial Assistance for SC Students Availing Education & Hostel in Delhi (Madhya Pradesh)",
+    "title_hi": "दिल्ली में अध्ययनरत अनुसूचित जाति के छात्रों हेतु छात्रावास सहायता योजना (मध्य प्रदेश)",
+    "description_en": "Implemented by the Scheduled Caste Welfare Department, Government of Madhya Pradesh, this scheme provides monthly accommodation and living allowance to meritorious SC students of MP who have secured admission to premier universities and institutions in the National Capital Territory of Delhi.",
+    "description_hi": "अनुसूचित जाति कल्याण विभाग, मध्य प्रदेश सरकार द्वारा संचालित, यह योजना दिल्ली के प्रतिष्ठित विश्वविद्यालयों और संस्थानों में उच्च शिक्षा प्राप्त कर रहे MP के मेधावी SC छात्रों को मासिक छात्रावास किराया और जीवन निर्वाह भत्ता प्रदान करती है।",
+    "benefits_en": "Monthly reimbursement of hostel room rent, electricity/water allowance, and a monthly maintenance stipend credited directly via DBT to cover Delhi living costs.",
+    "benefits_hi": "दिल्ली में रहने के खर्च को पूरा करने हेतु छात्रावास कमरे के किराए की प्रतिपूर्ति, बिजली/पानी भत्ता और मासिक जीवन निर्वाह छात्रवृत्ति सीधे बैंक खाते में।",
+    "eligibility_en": [
+      "Must be a permanent resident of Madhya Pradesh belonging to Scheduled Caste (SC)",
+      "Admitted in regular undergraduate, postgraduate, or research courses in central universities, IIT Delhi, AIIMS, or recognized Delhi institutions",
+      "Must be staying in university hostel or rented accommodation in Delhi",
+      "Family annual income ceiling as per state post-matric guidelines"
+    ],
+    "eligibility_hi": [
+      "मध्य प्रदेश का मूल निवासी जो अनुसूचित जाति (SC) से संबंधित हो",
+      "दिल्ली के केंद्रीय विश्वविद्यालयों, आईआईटी दिल्ली, एम्स या मान्यता प्राप्त संस्थानों में नियमित स्नातक, पीजी या शोध में प्रवेश",
+      "दिल्ली में विश्वविद्यालय छात्रावास या किराए के आवास में रह रहा हो",
+      "वार्षिक पारिवारिक आय राज्य पोस्ट-मैट्रिक दिशानिर्देशों के अनुरूप"
+    ],
+    "documents_en": [
+      "Aadhaar Card & Samagra ID",
+      "SC Caste Certificate of Madhya Pradesh",
+      "Delhi University / Institution Admission Letter & ID Card",
+      "Hostel Fee Receipt or Registered Rent Agreement in Delhi",
+      "Bank Account details"
+    ],
+    "documents_hi": [
+      "आधार कार्ड और समग्र आईडी",
+      "मध्य प्रदेश का अनुसूचित जाति प्रमाण पत्र",
+      "दिल्ली विश्वविद्यालय / संस्थान का प्रवेश पत्र और आईडी कार्ड",
+      "छात्रावास शुल्क रसीद या दिल्ली में पंजीकृत किरायानामा",
+      "बैंक खाता विवरण"
+    ],
+    "steps_en": [
+      "Apply through the Madhya Pradesh Tribal and SC Development portal",
+      "Upload bonafide certificate from the Delhi university and rent/hostel receipts",
+      "Commissioner of Scheduled Caste Welfare sanctions and transfers the hostel subsidy"
+    ],
+    "steps_hi": [
+      "मध्य प्रदेश जनजातीय एवं अनुसूचित जाति विकास पोर्टल के माध्यम से आवेदन करें",
+      "दिल्ली विश्वविद्यालय का बोनाफाइड प्रमाण पत्र और किराया/छात्रावास रसीद अपलोड करें",
+      "आयुक्त अनुसूचित जाति कल्याण सत्यापन कर छात्रावास सब्सिडी हस्तांतरित करते हैं"
+    ],
+    "applyUrl": "https://www.tribal.mp.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/hfsasud",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "mp-hostel-scheme-disabled-students",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "hostels",
+    "title_en": "Hostel Scheme for Students with Disabilities (Madhya Pradesh)",
+    "title_hi": "दिव्यांग विद्यार्थियों हेतु छात्रावास सहायता योजना (मध्य प्रदेश)",
+    "description_en": "Operated by the Social Justice and Disabled Welfare Department, Government of Madhya Pradesh, this scheme provides free residential hostel accommodation or monthly rental subsidies for students with disabilities pursuing higher and technical education.",
+    "description_hi": "सामाजिक न्याय एवं दिव्यांगजन सशक्तिकरण विभाग, मध्य प्रदेश सरकार द्वारा संचालित, यह योजना उच्च और तकनीकी शिक्षा प्राप्त कर रहे दिव्यांग विद्यार्थियों को निःशुल्क छात्रावास आवास या मासिक किराया सब्सिडी प्रदान करती है।",
+    "benefits_en": "Barrier-free accessible hostel accommodation, ramp access, helper allowance, and monthly meal and rental allowance if college hostel is unavailable.",
+    "benefits_hi": "बाधा-रहित सुगम्य छात्रावास आवास, रैंप सुविधा, सहायक भत्ता, तथा कॉलेज छात्रावास न होने पर मासिक भोजन एवं किराया सहायता।",
+    "eligibility_en": [
+      "Permanent resident of Madhya Pradesh",
+      "Minimum 40% benchmark disability certified by an authorized medical board or UDID",
+      "Enrolled in recognized college, university, polytechnic, or ITI",
+      "Family annual income up to ₹3,00,000"
+    ],
+    "eligibility_hi": [
+      "मध्य प्रदेश का स्थायी निवासी",
+      "अधिकृत मेडिकल बोर्ड या UDID द्वारा प्रमाणित न्यूनतम 40% बेंचमार्क दिव्यांगता",
+      "मान्यता प्राप्त कॉलेज, विश्वविद्यालय, पॉलिटेक्निक या आईटीआई में नामांकित",
+      "पारिवारिक वार्षिक आय ₹3,00,000 तक"
+    ],
+    "documents_en": [
+      "UDID Card / Disability Certificate",
+      "Aadhaar Card and Samagra ID",
+      "College Admission Bonafide",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "UDID कार्ड / दिव्यांगता प्रमाण पत्र",
+      "आधार कार्ड और समग्र आईडी",
+      "कॉलेज का बोनाफाइड प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "बैंक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through the Sparsh Portal / Social Justice Department portal at socialjustice.mp.gov.in",
+      "District Joint Director of Social Justice verifies medical credentials and college enrollment",
+      "Hostel seat allocated in government special hostel or monthly rent subsidy sanctioned"
+    ],
+    "steps_hi": [
+      "socialjustice.mp.gov.in पर स्पर्श पोर्टल / सामाजिक न्याय विभाग पोर्टल के माध्यम से आवेदन करें",
+      "जिला संयुक्त निदेशक सामाजिक न्याय दस्तावेजों का सत्यापन करते हैं",
+      "विशेष छात्रावास में सीट आवंटित की जाती है या मासिक किराया सब्सिडी स्वीकृत की जाती है"
+    ],
+    "applyUrl": "https://socialjustice.mp.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/hsdc",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "tn-working-womens-hostel",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "hostels",
+    "title_en": "Government Working Women's Hostel Scheme (Tamil Nadu)",
+    "title_hi": "शासकीय कामकाजी महिला छात्रावास योजना (तमिलनाडु)",
+    "description_en": "Run by the Tamil Nadu Working Women Hostels Corporation Limited (TNWWHCL - 'Thozhi' Hostels) under the Social Welfare and Women Empowerment Department, providing safe, affordable, and modern residential accommodations for working women in Chennai and tier-2 cities.",
+    "description_hi": "तमिलनाडु कामकाजी महिला छात्रावास निगम लिमिटेड ('तोझी' हॉस्टल) द्वारा संचालित, यह योजना चेन्नई और अन्य शहरों में कामकाजी महिलाओं को सुरक्षित, किफायती और आधुनिक आवासीय सुविधाएं प्रदान करती है।",
+    "benefits_en": "Secure biometric and CCTV-monitored accommodation, Wi-Fi, hygienic food/mess, washing machines, solar water heating, and 24x7 security guards at subsidized monthly tariffs.",
+    "benefits_hi": "बायोमेट्रिक व सीसीटीवी सुरक्षा युक्त आवास, वाई-फाई, स्वच्छ भोजन/मेस, वाशिंग मशीन, सोलर वॉटर हीटर और रियायती मासिक शुल्क पर 24 घंटे सुरक्षा व्यवस्था।",
+    "eligibility_en": [
+      "Employed women, trainees, research scholars, and women preparing for competitive examinations",
+      "Monthly salary ceiling as notified (typically up to ₹25,000 in Chennai and ₹15,000 in other districts for general subsidized category)",
+      "Must be working or studying in the city where the hostel is located"
+    ],
+    "eligibility_hi": [
+      "कामकाजी महिलाएं, प्रशिक्षु, शोध छात्राएं और प्रतियोगी परीक्षाओं की तैयारी कर रही महिलाएं",
+      "अधिसूचित मासिक वेतन सीमा (सामान्यतः चेन्नई में ₹25,000 तक और अन्य जिलों में ₹15,000 तक)",
+      "उस शहर में कार्यरत या अध्ययनरत होना अनिवार्य है जहां छात्रावास स्थित है"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Employment Offer Letter / Salary Slip / Institution ID Card",
+      "Permanent Address Proof",
+      "Passport size photographs",
+      "Emergency Contact details"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रोजगार नियुक्ति पत्र / वेतन पर्ची / संस्थान आईडी कार्ड",
+      "स्थायी पते का प्रमाण पत्र",
+      "पासपोर्ट साइज फोटो",
+      "आपातकालीन संपर्क विवरण"
+    ],
+    "steps_en": [
+      "Visit the official TNWWHCL 'Thozhi' portal or respective district working women's hostel",
+      "Fill online admission application and upload employment credentials",
+      "Receive room allotment confirmation and pay the nominal monthly hostel maintenance tariff"
+    ],
+    "steps_hi": [
+      "आधिकारिक 'तोझी' पोर्टल या संबंधित जिला कामकाजी महिला छात्रावास पर जाएं",
+      "ऑनलाइन प्रवेश फॉर्म भरें और रोजगार प्रमाण पत्र अपलोड करें",
+      "कमरा आवंटन की पुष्टि प्राप्त करें और नाममात्र मासिक रखरखाव शुल्क का भुगतान करें"
+    ],
+    "applyUrl": "https://tnwwhcl.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/gwwhtn",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "tn-adi-dravidar-welfare-hostels",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "hostels",
+    "title_en": "Adi Dravidar and Tribal Welfare Free Hostels Scheme (Tamil Nadu)",
+    "title_hi": "आदि द्रविड़ एवं जनजातीय कल्याण निःशुल्क छात्रावास योजना (तमिलनाडु)",
+    "description_en": "Managed by the Adi Dravidar and Tribal Welfare Department, Government of Tamil Nadu, this network of over 1,300 hostels provides completely free food, shelter, uniforms, and books for SC and ST students studying from Class 4 to college and postgraduate levels.",
+    "description_hi": "आदि द्रविड़ और जनजातीय कल्याण विभाग, तमिलनाडु सरकार द्वारा संचालित 1,300 से अधिक छात्रावासों का यह नेटवर्क कक्षा 4 से कॉलेज और पीजी तक के एससी और एसटी छात्रों को निःशुल्क भोजन, आवास, वर्दी और पुस्तकें प्रदान करता है।",
+    "benefits_en": "100% free lodging, 3 wholesome meals and evening snacks daily, free sets of uniforms, bedding, text and notebook sets, and special career coaching.",
+    "benefits_hi": "100% निःशुल्क आवास, प्रतिदिन 3 समय पौष्टिक भोजन व शाम का नाश्ता, निःशुल्क यूनिफॉर्म, बिस्तर, पाठ्यपुस्तकें व नोटबुक सेट और करियर कोचिंग।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (Adi Dravidar) or Scheduled Tribe (ST) of Tamil Nadu",
+      "Family annual income should not exceed ₹2.50 Lakh",
+      "School students: distance from home must be greater than 5 km; College students: distance greater than 8 km"
+    ],
+    "eligibility_hi": [
+      "छात्र तमिलनाडु के अनुसूचित जाति (आदि द्रविड़) या अनुसूचित जनजाति (ST) से संबंधित होना चाहिए",
+      "पारिवारिक वार्षिक आय ₹2.50 लाख से अधिक नहीं होनी चाहिए",
+      "स्कूली छात्र: घर से दूरी 5 किमी से अधिक; कॉलेज छात्र: दूरी 8 किमी से अधिक होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Community / Caste Certificate",
+      "Income Certificate issued by Tahsildar",
+      "School / College Admission Certificate",
+      "Residence Certificate"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "जाति / समुदाय प्रमाण पत्र",
+      "तहसीलदार द्वारा जारी आय प्रमाण पत्र",
+      "स्कूल / कॉलेज प्रवेश प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Obtain application form from the District Adi Dravidar and Tribal Welfare Officer (DADWO) or local hostel warden in May-June",
+      "Submit completed form with certificates to the hostel warden",
+      "Warden allots hostel seat following the sanctioned intake capacity"
+    ],
+    "steps_hi": [
+      "मई-जून में जिला आदि द्रविड़ कल्याण अधिकारी (DADWO) या स्थानीय छात्रावास अधीक्षक से फॉर्म प्राप्त करें",
+      "प्रमाण पत्रों के साथ भरा हुआ फॉर्म अधीक्षक को जमा करें",
+      "स्वीकृत क्षमता के अनुसार अधीक्षक छात्रावास में सीट आवंटित करते हैं"
+    ],
+    "applyUrl": "https://adwelfare.tn.gov.in",
+    "sourceUrl": "https://adwelfare.tn.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "tn-bcmbcmw-backward-classes-hostels",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "hostels",
+    "title_en": "Backward Classes, Most Backward Classes & Minorities Welfare Hostels (Tamil Nadu)",
+    "title_hi": "पिछड़ा वर्ग, अत्यंत पिछड़ा वर्ग एवं अल्पसंख्यक कल्याण छात्रावास (तमिलनाडु)",
+    "description_en": "Operated by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Government of Tamil Nadu, these hostels offer free boarding and lodging to BC, MBC, DNC, and Minority students pursuing schooling and college education.",
+    "description_hi": "तमिलनाडु सरकार के पिछड़ा वर्ग, अत्यंत पिछड़ा वर्ग और अल्पसंख्यक कल्याण विभाग द्वारा संचालित, ये छात्रावास स्कूली और कॉलेज शिक्षा प्राप्त कर रहे BC, MBC, DNC और अल्पसंख्यक छात्रों को निःशुल्क भोजन और आवास प्रदान करते हैं।",
+    "benefits_en": "Free boarding, free daily meals, study hall, library, bedding materials, and zero hostel admission or monthly fees.",
+    "benefits_hi": "निःशुल्क आवास, प्रतिदिन निःशुल्क भोजन, अध्ययन कक्ष, पुस्तकालय, बिस्तर और शून्य प्रवेश या मासिक शुल्क।",
+    "eligibility_en": [
+      "Belonging to Backward Classes (BC), Most Backward Classes (MBC), Denotified Communities (DNC), or Minorities in Tamil Nadu",
+      "Family annual income should not exceed ₹1,00,000",
+      "School students: residing beyond 5 km from school; College students: residing beyond 8 km from college"
+    ],
+    "eligibility_hi": [
+      "तमिलनाडु के पिछड़ा वर्ग (BC), अत्यंत पिछड़ा वर्ग (MBC), विमुक्त समुदाय (DNC), या अल्पसंख्यक समुदाय से संबंधित",
+      "पारिवारिक वार्षिक आय ₹1,00,000 से अधिक नहीं होनी चाहिए",
+      "स्कूली छात्र: स्कूल से 5 किमी दूर रहने वाले; कॉलेज छात्र: 8 किमी दूर रहने वाले"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Community Certificate (BC/MBC/DNC/Minority)",
+      "Income Certificate from Revenue Authority",
+      "Bonafide Certificate from School / College",
+      "Ration Card / Address Proof"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "समुदाय प्रमाण पत्र (BC/MBC/DNC/अल्पसंख्यक)",
+      "राजस्व प्राधिकारी द्वारा जारी आय प्रमाण पत्र",
+      "स्कूल / कॉलेज से बोनाफाइड प्रमाण पत्र",
+      "राशन कार्ड / निवास प्रमाण"
+    ],
+    "steps_en": [
+      "Collect hostel application form from the District Backward Classes and Minorities Welfare Officer (DBCMWO) or hostel warden",
+      "Submit filled application before the annual June deadline",
+      "Selection committee approves and publishes the list of admitted hostellers"
+    ],
+    "steps_hi": [
+      "जिला पिछड़ा वर्ग एवं अल्पसंख्यक कल्याण अधिकारी (DBCMWO) या छात्रावास अधीक्षक से फॉर्म प्राप्त करें",
+      "जून की अंतिम तिथि से पहले भरा हुआ आवेदन जमा करें",
+      "चयन समिति आवेदनों को स्वीकृत कर प्रवेशित छात्रों की सूची प्रकाशित करती है"
+    ],
+    "applyUrl": "https://bcmbcmw.tn.gov.in",
+    "sourceUrl": "https://bcmbcmw.tn.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "puducherry-maintenance-boys-girls-hostels",
+    "level": "STATE",
+    "state": "Puducherry",
+    "category": "hostels",
+    "title_en": "Opening and Maintenance of Boys and Girls Hostels (Puducherry)",
+    "title_hi": "छात्र एवं छात्राओं के छात्रावास संचालन एवं रखरखाव योजना (पुडुचेरी)",
+    "description_en": "Implemented by the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, Government of Puducherry, this scheme runs free government hostels for Scheduled Caste and economically backward students to prevent school and college dropouts.",
+    "description_hi": "आदि द्रविड़ कल्याण एवं अनुसूचित जनजाति कल्याण विभाग, पुडुचेरी सरकार द्वारा संचालित, यह योजना स्कूल और कॉलेज में पढ़ाई छोड़ने से रोकने के लिए अनुसूचित जाति और आर्थिक रूप से कमजोर छात्रों हेतु निःशुल्क छात्रावास चलाती है।",
+    "benefits_en": "Free boarding, free nutritious food 3 times a day, clothing allowance, bedding, textbooks, transport conveyance charges, and academic stationery.",
+    "benefits_hi": "निःशुल्क आवास, प्रतिदिन 3 समय पौष्टिक भोजन, वस्त्र भत्ता, बिस्तर, पाठ्यपुस्तकें, परिवहन किराया और शैक्षणिक स्टेशनरी।",
+    "eligibility_en": [
+      "Student must be a resident of the Union Territory of Puducherry",
+      "Belongs to Scheduled Caste (SC) or eligible economically backward family",
+      "Enrolled in middle school, high school, polytechnic, or college",
+      "Family annual income up to ₹2.50 Lakh"
+    ],
+    "eligibility_hi": [
+      "छात्र केंद्र शासित प्रदेश पुडुचेरी का मूल निवासी होना चाहिए",
+      "अनुसूचित जाति (SC) या पात्र आर्थिक रूप से कमजोर परिवार से संबंधित",
+      "मिडिल स्कूल, हाई स्कूल, पॉलिटेक्निक या कॉलेज में नामांकित",
+      "पारिवारिक वार्षिक आय ₹2.50 लाख तक"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "SC Community Certificate",
+      "Income Certificate from Taluk Office",
+      "School / College Admission Proof",
+      "Residence / Nativity Certificate of Puducherry"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "अनुसूचित जाति प्रमाण पत्र",
+      "तालुक कार्यालय से आय प्रमाण पत्र",
+      "स्कूल / कॉलेज प्रवेश प्रमाण पत्र",
+      "पुडुचेरी का मूल निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Obtain application from the Directorate of Adi Dravidar Welfare or respective hostel warden",
+      "Submit application with nativity and community certificates",
+      "Hostel management committee sanctions free hostel admission"
+    ],
+    "steps_hi": [
+      "आदि द्रविड़ कल्याण निदेशालय या संबंधित छात्रावास अधीक्षक से आवेदन प्राप्त करें",
+      "निवास और समुदाय प्रमाण पत्र के साथ आवेदन जमा करें",
+      "छात्रावास प्रबंधन समिति निःशुल्क प्रवेश स्वीकृत करती है"
+    ],
+    "applyUrl": "https://adwel.py.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/omogh",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "hpbocwwb-hostel-facility-scheme",
+    "level": "STATE",
+    "state": "Himachal Pradesh",
+    "category": "hostels",
+    "title_en": "Hostel Facility Scheme for Children of Construction Workers (Himachal Pradesh)",
+    "title_hi": "निर्माण श्रमिकों के बच्चों हेतु छात्रावास सहायता योजना (हिमाचल प्रदेश)",
+    "description_en": "Implemented by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB), this welfare scheme provides financial grants to meet hostel, lodging, and mess expenses for the children of registered construction workers residing in hostels.",
+    "description_hi": "हिमाचल प्रदेश भवन एवं अन्य सन्निर्माण कर्मकार कल्याण बोर्ड (HPBOCWWB) द्वारा संचालित, यह कल्याणकारी योजना छात्रावासों में रहने वाले पंजीकृत निर्माण श्रमिकों के बच्चों को भोजन, आवास और मेस खर्च हेतु वित्तीय अनुदान प्रदान करती है।",
+    "benefits_en": "Financial assistance of ₹15,000 to ₹20,000 per annum paid directly to the registered worker to cover hostel boarding and mess charges of their schooling or college-going child.",
+    "benefits_hi": "स्कूल या कॉलेज में पढ़ रहे बच्चे के छात्रावास आवास और मेस खर्च को पूरा करने हेतु पंजीकृत श्रमिक को ₹15,000 से ₹20,000 प्रति वर्ष की वित्तीय सहायता।",
+    "eligibility_en": [
+      "Parent must be an active registered construction worker with HPBOCWWB with at least 90 days of work in the preceding year",
+      "Child must be regularly enrolled and residing in a recognized school or college hostel",
+      "Valid registration book / identity card of the construction worker"
+    ],
+    "eligibility_hi": [
+      "माता-पिता HPBOCWWB के साथ पंजीकृत सक्रिय निर्माण श्रमिक होने चाहिए (पिछले वर्ष कम से कम 90 दिन का कार्य)",
+      "बच्चा मान्यता प्राप्त स्कूल या कॉलेज के छात्रावास में नियमित रूप से रह रहा हो",
+      "निर्माण श्रमिक की वैध पंजीकरण पुस्तिका / पहचान पत्र"
+    ],
+    "documents_en": [
+      "HPBOCWWB Shramik Registration Passbook",
+      "Aadhaar Card of worker and child",
+      "Hostel Warden Bonafide Certificate certifying student residence and fees",
+      "Active Bank Account Passbook of the registered worker",
+      "90-day Work Certificate from employer/panchayat"
+    ],
+    "documents_hi": [
+      "HPBOCWWB श्रमिक पंजीकरण पासबुक",
+      "श्रमिक और बच्चे का आधार कार्ड",
+      "छात्रावास अधीक्षक द्वारा जारी बोनाफाइड प्रमाण पत्र व रसीद",
+      "पंजीकृत श्रमिक की बैंक पासबुक",
+      "नियोक्ता/पंचायत से 90 दिन का कार्य प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Download application form from hpbocw.gov.in or obtain from the District Labour Officer",
+      "Get the hostel residency certificate verified by the school/college hostel warden",
+      "Submit form at the local Labour Welfare Officer desk for verification and bank transfer"
+    ],
+    "steps_hi": [
+      "hpbocw.gov.in से आवेदन फॉर्म डाउनलोड करें या जिला श्रम अधिकारी से प्राप्त करें",
+      "स्कूल/कॉलेज छात्रावास अधीक्षक से छात्रावास निवास प्रमाण पत्र सत्यापित कराएं",
+      "सत्यापन और बैंक खाते में भुगतान हेतु स्थानीय श्रम कल्याण अधिकारी के पास फॉर्म जमा करें"
+    ],
+    "applyUrl": "https://hpbocw.gov.in",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/hfs-hpbocwwb",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "vjnt-sbc-government-hostels-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "hostels",
+    "title_en": "Government Hostels for VJNT and SBC Students (Maharashtra)",
+    "title_hi": "विमुक्त जाती, भटक्या जमाती व विशेष मागास प्रवर्ग शासकीय वसतिगृह योजना (महाराष्ट्र)",
+    "description_en": "Operated by the Directorate of Other Backward Bahujan Welfare, Government of Maharashtra, this scheme runs dedicated residential hostels providing completely free boarding and lodging for Vimukta Jatis, Nomadic Tribes (VJNT), and Special Backward Class (SBC) students pursuing school, junior college, and degree education.",
+    "description_hi": "इतर मागास बहुजन कल्याण संचालनालय, महाराष्ट्र शासनाद्वारे संचालित, ही योजना शाळा, कनिष्ठ महाविद्यालय आणि पदवी शिक्षण घेणाऱ्या विमुक्त जाती (VJ), भटक्या जमाती (NT) आणि विशेष मागास प्रवर्ग (SBC) च्या विद्यार्थ्यांसाठी पूर्णपणे मोफत निवास आणि भोजन व्यवस्था असलेले शासकीय वसतिगृह चालवते.",
+    "benefits_en": "100% free hostel accommodation, wholesome 3-time meals and breakfast, study materials, bedding, library, and zero hostel or mess charges.",
+    "benefits_hi": "100% मोफत वसतिगृह निवास, 3 वेळेचे पौष्टिक भोजन आणि नाश्ता, शैक्षणिक साहित्य, अंथरूण-पांघरूण, ग्रंथालय आणि शून्य शुल्क.",
+    "eligibility_en": [
+      "Student must belong to Vimukta Jatis (VJ), Nomadic Tribes (NT-A, NT-B, NT-C, NT-D), or Special Backward Class (SBC) of Maharashtra",
+      "Enrolled in recognized schools (Class 8-10) or college courses (Class 11 to PG)",
+      "Annual family income must not exceed ₹2,50,000 per annum",
+      "Must have passed previous qualifying examination with at least 50% marks"
+    ],
+    "eligibility_hi": [
+      "विद्यार्थी महाराष्ट्रातील विमुक्त जाती (VJ), भटक्या जमाती (NT), किंवा विशेष मागास प्रवर्ग (SBC) मधील असावा",
+      "मान्यताप्राप्त शाळा (इ. 8 वी ते 10 वी) किंवा महाविद्यालयीन अभ्यासक्रमात (11 वी ते पीजी) प्रवेशित",
+      "कुटुंबाचे वार्षिक उत्पन्न ₹2,50,000 पेक्षा जास्त नसावे",
+      "मागील परीक्षेत किमान 50% गुण असणे आवश्यक"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "VJNT / SBC Caste Certificate issued by competent authority in Maharashtra",
+      "Tahsildar Income Certificate",
+      "College / School Admission Receipt and Bonafide Certificate",
+      "Previous Year Marksheet",
+      "Domicile Certificate of Maharashtra"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "महाराष्ट्रातील सक्षम प्राधिकाऱ्याने दिलेले VJNT / SBC जात प्रमाणपत्र",
+      "तहसीलदार यांचे उत्पन्न प्रमाणपत्र",
+      "महाविद्यालय / शाळा प्रवेश पावती व बोनाफाईड प्रमाणपत्र",
+      "मागील वर्षाची गुणपत्रिका",
+      "महाराष्ट्र अधिवास (डोमिसाईल) प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online on the Maha DBT portal at mahadbt.maharashtra.gov.in under 'VJNT, OBC and SBC Welfare Department'",
+      "Select 'Government Hostel Admission for VJNT/SBC' and choose preferred district hostel",
+      "District Assistant Commissioner verifies documents and issues allotment order based on merit"
+    ],
+    "steps_hi": [
+      "mahadbt.maharashtra.gov.in पोर्टलवर VJNT, OBC आणि SBC कल्याण विभागांतर्गत ऑनलाइन अर्ज करा",
+      "'शासकीय वसतिगृह प्रवेश' निवडून इच्छित जिल्हा वसतिगृहाची निवड करा",
+      "जिल्हा सहाय्यक आयुक्त कागदपत्रांची पडताळणी करून गुणवत्तेनुसार प्रवेश आदेश जारी करतात"
+    ],
+    "applyUrl": "https://mahadbt.maharashtra.gov.in",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "pre-matric-bc-hostels-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "hostels",
+    "title_en": "Pre-Matric Government Hostels for Backward Class Boys and Girls (Maharashtra)",
+    "title_hi": "मागासवर्गीय मुला-मुलींसाठी मॅट्रिकपूर्व शासकीय वसतिगृह योजना (महाराष्ट्र)",
+    "description_en": "Implemented by the Social Justice and Special Assistance Department, Government of Maharashtra, these pre-matric hostels accommodate rural students from Scheduled Castes, Nav-Buddhas, and marginalized groups studying in Classes 5 to 10 in nearby secondary schools.",
+    "description_hi": "सामाजिक न्याय व विशेष सहाय्य विभाग, महाराष्ट्र शासनाद्वारे संचालित, ही वसतिगृहे ग्रामीण भागातील अनुसूचित जाती, नवबौद्ध व वंचित घटकांतील इयत्ता 5 वी ते 10 वी मधील विद्यार्थ्यांना माध्यमिक शिक्षणासाठी मोफत निवास व भोजन पुरवतात.",
+    "benefits_en": "Free hostel stay, balanced meals, school uniforms, footwear, notebooks, study materials, solar water heating, and daily academic mentoring.",
+    "benefits_hi": "मोफत वसतिगृह निवास, संतुलित भोजन, शालेय गणवेश, पादत्राणे, वह्या-पुस्तके, गरम पाण्यासाठी सोलर वॉटर हीटर आणि शैक्षणिक मार्गदर्शन.",
+    "eligibility_en": [
+      "Permanent resident of Maharashtra belonging to SC, Nav-Buddha, or Backward Classes",
+      "Studying in Class 5, 6, 7, 8, 9, or 10 in an approved secondary school",
+      "Native village must not have a secondary school within 3 km",
+      "Family annual income up to ₹1,00,000"
+    ],
+    "eligibility_hi": [
+      "महाराष्ट्राचा रहिवासी असणारा अनुसूचित जाती, नवबौद्ध किंवा मागासवर्गीय विद्यार्थी",
+      "मान्यताप्राप्त माध्यमिक शाळेत इयत्ता 5 वी ते 10 वी मध्ये शिकत असावा",
+      "मूळ गावात 3 किमीच्या अंतरात माध्यमिक शाळा उपलब्ध नसावी",
+      "कुटुंबाचे वार्षिक उत्पन्न ₹1,00,000 पर्यंत"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "School Headmaster Bonafide and Enrollment Certificate",
+      "Previous Class Marksheet"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "जात प्रमाणपत्र",
+      "उत्पन्न प्रमाणपत्र",
+      "शाळा मुख्याध्यापक बोनाफाईड व प्रवेश प्रमाणपत्र",
+      "मागील इयत्तेची गुणपत्रिका"
+    ],
+    "steps_en": [
+      "Collect hostel admission application from the Hostel Superintendent in May-June",
+      "Submit completed application certified by the school headmaster",
+      "Hostel Advisory Committee selects students following the sanctioned strength"
+    ],
+    "steps_hi": [
+      "मे-जून महिन्यात वसतिगृह अधीक्षकांकडून प्रवेश अर्ज प्राप्त करा",
+      "मुख्याध्यापकांच्या स्वाक्षरीसह पूर्ण भरलेला अर्ज सादर करा",
+      "वसतिगृह सल्लागार समिती मंजूर क्षमतेनुसार विद्यार्थ्यांना प्रवेश देते"
+    ],
+    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "anudanit-vasatigruh-grant-in-aid-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "hostels",
+    "title_en": "Grant-in-Aid to Voluntary Agencies for Running Hostels for BC Students (Anudanit Vasatigruh, Maharashtra)",
+    "title_hi": "मागासवर्गीय विद्यार्थ्यांसाठी अनुदानित वसतिगृह योजना (महाराष्ट्र)",
+    "description_en": "Under this scheme, the Social Justice and Special Assistance Department of Maharashtra provides recurring grants-in-aid per student to registered non-governmental organizations and voluntary trusts to operate free residential hostels across rural tehsils.",
+    "description_hi": "सामाजिक न्याय व विशेष सहाय्य विभाग, महाराष्ट्र शासनाद्वारे अशासकीय स्वयंसेवी संस्थांना अनुदान देऊन ग्रामीण तालुक्यांमध्ये मागासवर्गीय विद्यार्थ्यांसाठी मोफत अनुदानित वसतिगृहे चालवली जातात.",
+    "benefits_en": "Completely free boarding, monthly mess per-student grant (up to ₹1,500/month), bedding, textbook sets, and accommodation close to village schools.",
+    "benefits_hi": "पूर्णपणे मोफत निवास आणि भोजन, प्रति विद्यार्थी मासिक मेस अनुदान, अंथरूण-पांघरूण, पाठ्यपुस्तके आणि गावातील शाळांनजीक राहण्याची सोय.",
+    "eligibility_en": [
+      "Belonging to SC (60%), VJNT/SBC (25%), ST (10%), or Economically Backward (5%) communities in Maharashtra",
+      "Enrolled in recognized schools or junior colleges",
+      "Annual family income up to ₹1,50,000",
+      "Must not be staying in any government hostel"
+    ],
+    "eligibility_hi": [
+      "महाराष्ट्रातील SC (60%), VJNT/SBC (25%), ST (10%), किंवा ईबीसी (5%) प्रवर्गातील विद्यार्थी",
+      "मान्यताप्राप्त शाळा किंवा कनिष्ठ महाविद्यालयात शिकत असावा",
+      "वार्षिक कौटुंबिक उत्पन्न ₹1,50,000 पर्यंत",
+      "इतर कोणत्याही शासकीय वसतिगृहात प्रवेश नसावा"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate from Tahsildar",
+      "School Bonafide Certificate",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "जात प्रमाणपत्र",
+      "तहसीलदार यांचे उत्पन्न प्रमाणपत्र",
+      "शाळा बोनाफाईड प्रमाणपत्र",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Apply directly to the local recognized Anudanit Vasatigruh management in the taluka",
+      "Submit caste and income credentials",
+      "Hostel management committee admits students and forwards list to District Assistant Commissioner Social Welfare for grant sanction"
+    ],
+    "steps_hi": [
+      "तालुक्यातील स्थानिक अनुदानित वसतिगृह व्यवस्थापनाकडे थेट अर्ज करा",
+      "जात आणि उत्पन्न प्रमाणपत्र सादर करा",
+      "वसतिगृह व्यवस्थापन समिती प्रवेश निश्चित करून जिल्हा समाज कल्याण अधिकाऱ्यांकडे यादी सादर करते"
+    ],
+    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "special-schools-divyang-hostels-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "hostels",
+    "title_en": "Government Special Residential Schools and Hostels for Divyang Children (Maharashtra)",
+    "title_hi": "दिव्यांग मुला-मुलींसाठी शासकीय विशेष निवासी शाळा व वसतिगृह योजना (महाराष्ट्र)",
+    "description_en": "Operated by the Social Justice and Special Assistance Department, Government of Maharashtra, these residential institutions provide free specialized schooling, therapy, and residential hostels for children with hearing impairment, visual impairment, intellectual disability, and orthopedic disabilities.",
+    "description_hi": "सामाजिक न्याय व विशेष सहाय्य विभाग, महाराष्ट्र शासनाद्वारे दृष्टिहीन, कर्णबधिर, मतिमंद व अस्थिव्यंग मुला-मुलींसाठी चालवली जाणारी शासकीय विशेष निवासी शाळा आणि मोफत वसतिगृह योजना.",
+    "benefits_en": "100% free lodging and boarding, specialized special education teachers, sign language and braille training, physiotherapy, hearing aids, wheelchairs, and speech therapy.",
+    "benefits_hi": "100% मोफत निवास व भोजन, विशेष शिक्षक, सांकेतिक भाषा व ब्रेल लिपी प्रशिक्षण, फिजिओथेरपी, श्रवणयंत्रे, व्हीलचेअर आणि स्पीच थेरपी सुविधा.",
+    "eligibility_en": [
+      "Child must be a resident of Maharashtra with minimum 40% benchmark disability",
+      "Aged between 6 to 18 years",
+      "Valid UDID card or Civil Surgeon disability certificate",
+      "Free for all economic strata (preference to BPL and low income)"
+    ],
+    "eligibility_hi": [
+      "किमान 40% बेंचमार्क दिव्यांगत्व असलेला महाराष्ट्रातील मुलगा किंवा मुलगी",
+      "वय 6 ते 18 वर्षे",
+      "वैध UDID कार्ड किंवा जिल्हा शल्यचिकित्सक दिव्यांगत्व प्रमाणपत्र",
+      "सर्व आर्थिक घटकांसाठी मोफत (बीपीएल व अल्प उत्पन्न गटांना प्राधान्य)"
+    ],
+    "documents_en": [
+      "UDID Card / Disability Certificate from Civil Surgeon",
+      "Aadhaar Card of child and parent",
+      "Birth Certificate",
+      "Medical Fitness / Audiogram / IQ Assessment Report",
+      "Income Certificate"
+    ],
+    "documents_hi": [
+      "UDID कार्ड / जिल्हा शल्यचिकित्सकांचे दिव्यांग प्रमाणपत्र",
+      "पालक आणि पाल्याचे आधार कार्ड",
+      "जन्म दाखला",
+      "वैद्यकीय तपासणी / ऑडिओग्राम / बुद्ध्यांक (IQ) तपासणी अहवाल",
+      "उत्पन्न दाखला"
+    ],
+    "steps_en": [
+      "Apply through the District Social Welfare Officer (Zilla Parishad) or directly to the Superintendent of the Special Residential School",
+      "Medical screening and assessment conducted by the institute's special educator and doctor",
+      "Direct admission and hostel room allocation granted"
+    ],
+    "steps_hi": [
+      "जिल्हा समाज कल्याण अधिकारी (जि.प.) किंवा विशेष निवासी शाळेच्या अधीक्षकांकडे थेट अर्ज करा",
+      "विशेष शिक्षक व डॉक्टरांद्वारे वैद्यकीय मूल्यमापन चाचणी",
+      "थेट प्रवेश आणि वसतिगृह निवास व्यवस्था मंजूर"
+    ],
+    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "dvet-iti-trainees-hostel-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "hostels",
+    "title_en": "Government ITI Trainees Free Hostel Scheme (Maharashtra DVET)",
+    "title_hi": "शासकीय आयटीआय प्रशिक्षणार्थी मोफत वसतिगृह योजना (महाराष्ट्र DVET)",
+    "description_en": "Managed by the Directorate of Vocational Education and Training (DVET), Maharashtra, this scheme provides hostel accommodation to trainees enrolled in craftsman training schemes at Government Industrial Training Institutes (ITIs).",
+    "description_hi": "व्यवसाय शिक्षण व प्रशिक्षण संचालनालय (DVET), महाराष्ट्र शासनाद्वारे शासकीय औद्योगिक प्रशिक्षण संस्थांमध्ये (ITI) कारागीर प्रशिक्षण घेणाऱ्या विद्यार्थ्यांसाठी मोफत/सवलतीच्या दरात वसतिगृह सुविधा.",
+    "benefits_en": "Free accommodation for SC/ST trainees and highly subsidized room tariffs for OBC/General trainees, drinking water, study space, and proximity to ITI workshops.",
+    "benefits_hi": "SC/ST प्रशिक्षणार्थ्यांना पूर्णपणे मोफत निवास आणि OBC/इतर विद्यार्थ्यांना नाममात्र दरात वसतिगृह, पिण्याचे स्वच्छ पाणी, अभ्यास कक्ष आणि वर्कशॉपनजीक सोय.",
+    "eligibility_en": [
+      "Trainee must be admitted to a full-time CTS trade in a Government ITI in Maharashtra",
+      "Native place must be outside the municipal limits of the ITI location",
+      "Reservation as per Maharashtra vocational admission rules (SC, ST, VJNT, OBC, EWS)"
+    ],
+    "eligibility_hi": [
+      "महाराष्ट्रातील शासकीय ITI मध्ये पूर्णवेळ व्यवसाय अभ्यासक्रमात प्रवेशित प्रशिक्षणार्थी",
+      "मूळ गाव ITI असलेल्या शहराच्या/महानगरपालिकेच्या बाहेर असावे",
+      "महाराष्ट्र व्यवसाय प्रवेश नियमांनुसार आरक्षण (SC, ST, VJNT, OBC, EWS)"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "ITI Admission Allotment Letter & Fee Receipt",
+      "Caste Certificate (if applicable)",
+      "Residence Proof / Gram Panchayat Certificate",
+      "Passport size photo"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "ITI प्रवेश वाटप पत्र व शुल्क पावती",
+      "जात प्रमाणपत्र (लागू असल्यास)",
+      "निवास पुरावा / ग्रामपंचायत दाखला",
+      "पासपोर्ट साईज फोटो"
+    ],
+    "steps_en": [
+      "Opt for 'Hostel Accommodation Required' during the central online ITI admission process at admission.dvet.gov.in",
+      "Submit hostel form to the Principal / Hostel Incharge of the ITI during trade reporting",
+      "Hostel room allocated based on admission merit rank"
+    ],
+    "steps_hi": [
+      "admission.dvet.gov.in वर ऑनलाइन ITI प्रवेशादरम्यान 'वसतिगृह आवश्यक' पर्याय निवडा",
+      "ITI मध्ये प्रत्यक्ष उपस्थित राहताना प्राचार्यांकडे वसतिगृह अर्ज सादर करा",
+      "प्रवेश गुणवत्ता यादीनुसार वसतिगृह खोलीचे वाटप केले जाते"
+    ],
+    "applyUrl": "https://admission.dvet.gov.in",
+    "sourceUrl": "https://www.dvet.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "sports-residential-hostel-academies-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "hostels",
+    "title_en": "Maharashtra State Sports Residential Hostels Scheme (Krida Prabodhini)",
+    "title_hi": "महाराष्ट्र राज्य क्रीडा प्रबोधिनी निवासी वसतिगृह योजना",
+    "description_en": "Implemented by the Directorate of Sports and Youth Services, Government of Maharashtra, 'Krida Prabodhini' establishes residential sports hostels and academies across Pune, Kolhapur, Aurangabad, Nagpur, and Amravati to train medal-winning Olympic and national athletes.",
+    "description_hi": "क्रीडा व युवक सेवा संचालनालय, महाराष्ट्र शासनाद्वारे संचालित 'क्रीडा प्रबोधिनी' योजना पुणे, कोल्हापूर, छत्रपती संभाजीनगर येथे आंतरराष्ट्रीय दर्जाचे खेळाडू घडवण्यासाठी मोफत निवासी क्रीडा वसतिगृहे चालवते.",
+    "benefits_en": "100% free lodging in sports complexes, specialized high-calorie sports nutrition and mess, scientific conditioning, international standard sports gear, school/college education, and tournament travel allowances.",
+    "benefits_hi": "क्रीडा संकुलात 100% मोफत निवास, खेळाडूंसाठी विशेष पौष्टिक आहार व मेस, आंतरराष्ट्रीय क्रीडा साहित्य, मोफत शालेय/महाविद्यालयीन शिक्षण आणि स्पर्धा प्रवास खर्च.",
+    "eligibility_en": [
+      "Boys and girls aged 8 to 14 years residing in Maharashtra",
+      "Must clear battery of physical fitness tests and sport-specific trials conducted by sports officers",
+      "District, division, or state level sports medal winners receive direct trial preference"
+    ],
+    "eligibility_hi": [
+      "महाराष्ट्रातील 8 ते 14 वर्षे वयोगटातील मुले आणि मुली",
+      "क्रीडा अधिकाऱ्यांद्वारे घेण्यात येणाऱ्या शारीरिक क्षमता चाचणी व क्रीडा कौशल्यात उत्तीर्ण",
+      "जिल्हा, विभाग किंवा राज्यस्तरीय पदक विजेत्यांना थेट प्राधान्य"
+    ],
+    "documents_en": [
+      "Birth Certificate from Municipal Corporation / Gram Panchayat",
+      "Aadhaar Card",
+      "Sports Achievement Certificates / Medals",
+      "Medical Fitness Certificate from Civil Hospital",
+      "School Leaving / Transfer Certificate (TC)"
+    ],
+    "documents_hi": [
+      "जन्म दाखला (नगरपालिका / ग्रामपंचायत)",
+      "आधार कार्ड",
+      "क्रीडा प्रावीण्य प्रमाणपत्रे / पदके",
+      "जिल्हा शासकीय रुग्णालयाचे वैद्यकीय प्रमाणपत्र",
+      "शाळा सोडल्याचा दाखला (TC)"
+    ],
+    "steps_en": [
+      "Participate in district-level Krida Prabodhini selection trials conducted every summer",
+      "Top performers qualify for state-level evaluation camp in Pune/Balewadi",
+      "Final selected athletes receive admission into Krida Prabodhini residential hostels with 100% scholarship"
+    ],
+    "steps_hi": [
+      "दर उन्हाळ्यात आयोजित केल्या जाणाऱ्या जिल्हास्तरीय क्रीडा प्रबोधिनी चाचणीत सहभागी व्हा",
+      "उत्कृष्ट खेळाडू बालेवाडी, पुणे येथे राज्यस्तरीय शिबिरासाठी पात्र ठरतात",
+      "अंतिम निवड झालेल्या खेळाडूंना पूर्ण शिष्यवृत्तीसह निवासी क्रीडा वसतिगृहात प्रवेश मिळतो"
+    ],
+    "applyUrl": "https://sports.maharashtra.gov.in",
+    "sourceUrl": "https://sports.maharashtra.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "bihar-ambedkar-residential-high-schools-hostels",
+    "level": "STATE",
+    "state": "Bihar",
+    "category": "hostels",
+    "title_en": "Dr. B.R. Ambedkar Residential High Schools & Hostels (Bihar)",
+    "title_hi": "डॉ. बी.आर. अम्बेडकर आवासीय उच्च विद्यालय एवं छात्रावास योजना (बिहार)",
+    "description_en": "Operated by the Scheduled Castes & Scheduled Tribes Welfare Department, Government of Bihar, this network of residential schools and hostels provides free CBSE-curriculum education from Class 1 to 10 with complete boarding for SC and ST students across all districts.",
+    "description_hi": "अनुसूचित जाति एवं अनुसूचित जनजाति कल्याण विभाग, बिहार सरकार द्वारा संचालित, यह आवासीय विद्यालय नेटवर्क सभी जिलों में SC और ST बच्चों को कक्षा 1 से 10 तक निःशुल्क सीबीएसई शिक्षा, भोजन और छात्रावास प्रदान करता है।",
+    "benefits_en": "100% free hostel stay, wholesome meals (breakfast, lunch, evening milk/snacks, dinner), school uniforms, textbooks, notebook sets, bedding, and winter sweaters.",
+    "benefits_hi": "100% निःशुल्क छात्रावास आवास, पौष्टिक भोजन (नाश्ता, भोजन, दूध, शाम का नाश्ता), स्कूल वर्दी, पाठ्यपुस्तकें, नोटबुक सेट, बिस्तर और सर्दियों के स्वेटर।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (SC) or Scheduled Tribe (ST) of Bihar",
+      "Admission to Class 1 through district-level lottery/screening",
+      "Family annual income up to ₹2,50,000",
+      "Permanent resident of Bihar"
+    ],
+    "eligibility_hi": [
+      "छात्र बिहार के अनुसूचित जाति (SC) या अनुसूचित जनजाति (ST) से होना चाहिए",
+      "कक्षा 1 में प्रवेश जिला स्तरीय लॉटरी/स्क्रीनिंग के माध्यम से",
+      "वार्षिक पारिवारिक आय ₹2,50,000 तक",
+      "बिहार का स्थायी निवासी"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "SC/ST Caste Certificate",
+      "Income Certificate from Circle Officer (CO)",
+      "Birth Certificate",
+      "Residential Certificate (Awasiya Praman Patra)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "अंचल अधिकारी (CO) द्वारा जारी जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "जन्म प्रमाण पत्र",
+      "आवासीय प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Submit application form to the District Welfare Officer (DWO) in January-February",
+      "Participate in the transparent lottery/selection process conducted by the district magistrate committee",
+      "Admitted students receive immediate hostel accommodation on campus"
+    ],
+    "steps_hi": [
+      "जनवरी-फरवरी में जिला कल्याण पदाधिकारी (DWO) के कार्यालय में आवेदन जमा करें",
+      "जिलाधिकारी समिति द्वारा आयोजित पारदर्शी लॉटरी/चयन प्रक्रिया में भाग लें",
+      "नामांकित छात्रों को परिसर में तुरंत छात्रावास आवास प्रदान किया जाता है"
+    ],
+    "applyUrl": "https://scst.bihar.gov.in",
+    "sourceUrl": "https://scst.bihar.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "bihar-karpoori-thakur-ebc-hostels",
+    "level": "STATE",
+    "state": "Bihar",
+    "category": "hostels",
+    "title_en": "Jannayak Karpoori Thakur Hostels Scheme for Extremely Backward Classes (Bihar)",
+    "title_hi": "जननायक कर्पूरी ठाकुर अत्यंत पिछड़ा वर्ग (EBC) छात्रावास योजना (बिहार)",
+    "description_en": "Administered by the Backward Classes and Extremely Backward Classes Welfare Department, Government of Bihar, these 100-bedded hostels in district headquarters provide free accommodation, food, and modern facilities for EBC college and university students.",
+    "description_hi": "पिछड़ा वर्ग एवं अत्यंत पिछड़ा वर्ग कल्याण विभाग, बिहार सरकार द्वारा संचालित, जिला मुख्यालयों में स्थित ये 100 बिस्तरों वाले छात्रावास कॉलेज और विश्वविद्यालय में पढ़ रहे अत्यंत पिछड़ा वर्ग (EBC) के छात्रों को निःशुल्क आवास व भोजन प्रदान करते हैं।",
+    "benefits_en": "Free hostel boarding, monthly खाद्यान्न (food grains allowance: 15 kg rice and wheat) and ₹1,000 monthly living stipend under Chief Minister Hostel Grant Scheme, high-speed Wi-Fi, and library.",
+    "benefits_hi": "निःशुल्क छात्रावास आवास, मुख्यमंत्री छात्रावास अनुदान योजना के तहत प्रतिमाह 15 किलो खाद्यान्न व ₹1,000 मासिक छात्रवृत्ति, वाई-फाई और पुस्तकालय।",
+    "eligibility_en": [
+      "Permanent resident of Bihar belonging to Extremely Backward Classes (EBC / Annexure-1)",
+      "Regularly enrolled in degree, technical, engineering, medical, or postgraduate colleges in the district",
+      "Family annual income up to ₹3,00,000 per annum"
+    ],
+    "eligibility_hi": [
+      "बिहार का मूल निवासी जो अत्यंत पिछड़ा वर्ग (EBC / अनुसूची-1) से संबंधित हो",
+      "जिले के डिग्री, तकनीकी, इंजीनियरिंग, मेडिकल या स्नातकोत्तर कॉलेज में नियमित नामांकित",
+      "पारिवारिक वार्षिक आय ₹3,00,000 तक"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "EBC Caste Certificate issued by Revenue Officer / CO",
+      "Income Certificate",
+      "College Admission Bonafide Certificate & Fee Slip",
+      "Previous Marksheet"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "राजस्व अधिकारी/सीओ द्वारा जारी EBC जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "कॉलेज प्रवेश बोनाफाइड प्रमाण पत्र व रसीद",
+      "पिछली कक्षा की अंकतालिका"
+    ],
+    "steps_en": [
+      "Apply through the Backward and EBC Welfare portal at bcebcwelfare.bihar.gov.in or District BC/EBC Officer",
+      "Submit application with college verification to the Hostel Superintendent",
+      "District Selection Committee headed by DWO approves hostel admission"
+    ],
+    "steps_hi": [
+      "bcebcwelfare.bihar.gov.in पोर्टल पर या जिला पिछड़ा एवं अत्यंत पिछड़ा वर्ग कल्याण पदाधिकारी के माध्यम से आवेदन करें",
+      "कॉलेज सत्यापन के साथ आवेदन छात्रावास अधीक्षक को जमा करें",
+      "जिला कल्याण पदाधिकारी की अध्यक्षता वाली समिति छात्रावास प्रवेश स्वीकृत करती है"
+    ],
+    "applyUrl": "https://bcebcwelfare.bihar.gov.in",
+    "sourceUrl": "https://bcebcwelfare.bihar.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "west-bengal-ashram-hostels-sc-st",
+    "level": "STATE",
+    "state": "West Bengal",
+    "category": "hostels",
+    "title_en": "Ashram Hostels for SC/ST Students (West Bengal)",
+    "title_hi": "अनुसूचित जाति एवं जनजाति आश्रम छात्रावास योजना (पश्चिम बंगाल)",
+    "description_en": "Implemented by the Backward Classes Welfare Department, Government of West Bengal, Ashram Hostels provide residential facilities attached to junior and secondary schools for boys and girls from Scheduled Castes and Scheduled Tribes in rural and forested blocks.",
+    "description_hi": "पिछड़ा वर्ग कल्याण विभाग, पश्चिम बंगाल सरकार द्वारा संचालित, आश्रम छात्रावास ग्रामीण और वन क्षेत्रों में अनुसूचित जाति और जनजाति के बालक-बालिकाओं के लिए जूनियर और माध्यमिक स्कूलों से संबद्ध आवासीय सुविधाएं प्रदान करते हैं।",
+    "benefits_en": "Free accommodation, monthly maintenance and diet charges paid by the state, textbooks, beddings, uniforms, and kerosene/lighting allowances.",
+    "benefits_hi": "निःशुल्क आवास, सरकार द्वारा वहन किया जाने वाला मासिक भोजन व रखरखाव खर्च, पाठ्यपुस्तकें, बिस्तर, स्कूल की वर्दी और प्रकाश व्यवस्था।",
+    "eligibility_en": [
+      "Student must belong to Scheduled Caste (SC) or Scheduled Tribe (ST) of West Bengal",
+      "Studying in Classes 5 to 10 in the attached or nearby recognized school",
+      "Annual family income should not exceed ₹2,50,000",
+      "Distance of school from village must be more than 4 km"
+    ],
+    "eligibility_hi": [
+      "छात्र पश्चिम बंगाल के अनुसूचित जाति (SC) या अनुसूचित जनजाति (ST) से होना चाहिए",
+      "संबंधित या निकटवर्ती मान्यता प्राप्त स्कूल में कक्षा 5 से 10 में अध्ययनरत",
+      "वार्षिक पारिवारिक आय ₹2,50,000 से अधिक नहीं होनी चाहिए",
+      "गांव से स्कूल की दूरी 4 किमी से अधिक होनी चाहिए"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "Caste Certificate (Caste Certificate Portal WB)",
+      "Income Certificate from BDO / Municipality Chairman",
+      "School Admission Certificate",
+      "Residential Certificate"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "पश्चिम बंगाल जाति प्रमाण पत्र",
+      "बीडीओ / नगर पालिका अध्यक्ष द्वारा जारी आय प्रमाण पत्र",
+      "स्कूल प्रवेश प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "steps_en": [
+      "Apply through the Headmaster of the school or Block Development Officer (BCW Cell)",
+      "Block Level Selection Committee scrutinizes applications based on poverty and distance",
+      "Selected students are admitted to the attached Ashram Hostel"
+    ],
+    "steps_hi": [
+      "स्कूल के प्रधानाध्यापक या प्रखंड विकास पदाधिकारी (BCW सेल) के माध्यम से आवेदन करें",
+      "प्रखंड स्तरीय चयन समिति दूरी और गरीबी के आधार पर आवेदनों की जांच करती है",
+      "चयनित छात्रों को संबद्ध आश्रम छात्रावास में प्रवेश दिया जाता है"
+    ],
+    "applyUrl": "https://anagrasarkalyan.gov.in",
+    "sourceUrl": "https://anagrasarkalyan.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "slug": "kerala-model-residential-schools-st-hostels",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "hostels",
+    "title_en": "Model Residential Schools (MRS) and Hostels for Scheduled Tribes (Kerala)",
+    "title_hi": "मॉडल आवासीय विद्यालय (MRS) एवं जनजातीय छात्रावास योजना (केरल)",
+    "description_en": "Run by the Scheduled Tribes Development Department, Government of Kerala, Model Residential Schools offer completely free education, boarding, lodging, health care, and specialized extracurricular coaching from Class 5 to 12 for tribal children, especially from primitive tribal communities.",
+    "description_hi": "अनुसूचित जनजाति विकास विभाग, केरल सरकार द्वारा संचालित, मॉडल आवासीय विद्यालय विशेष रूप से कमजोर जनजातीय बच्चों को कक्षा 5 से 12 तक पूर्णतः निःशुल्क शिक्षा, आवास, भोजन, स्वास्थ्य और पाठ्येतर कोचिंग प्रदान करते हैं।",
+    "benefits_en": "100% free residential schooling, high-quality nutritious diet, modern hostels, uniforms, sports kits, personal computers, medical care, and specialized medical/engineering entrance coaching.",
+    "benefits_hi": "100% निःशुल्क आवासीय शिक्षा, उच्च गुणवत्ता वाला पौष्टिक आहार, आधुनिक छात्रावास, यूनिफॉर्म, खेल किट, चिकित्सा देखभाल और मेडिकल/इंजीनियरिंग प्रवेश परीक्षा की विशेष कोचिंग।",
+    "eligibility_en": [
+      "Candidate must belong to Scheduled Tribes (ST) of Kerala",
+      "Admission to Class 5 based on entrance test conducted by the ST Development Department",
+      "Preference for children from remote tribal settlements and PVTGs (Cholanaikkans, Kattunayikans, Kadar, Koraga, Kurumba)",
+      "Free for all eligible tribal students irrespective of income"
+    ],
+    "eligibility_hi": [
+      "अभ्यर्थी केरल की अनुसूचित जनजाति (ST) से होना चाहिए",
+      "एसटी विकास विभाग द्वारा आयोजित प्रवेश परीक्षा के आधार पर कक्षा 5 में प्रवेश",
+      "दूरदराज के आदिवासी बस्तियों और पीवीटीजी (चोलनाइक्कन, कट्टूनाइकन आदि) के बच्चों को प्राथमिकता",
+      "आय सीमा के बिना सभी पात्र जनजातीय छात्रों के लिए पूरी तरह निःशुल्क"
+    ],
+    "documents_en": [
+      "Aadhaar Card",
+      "ST Community Certificate issued by Tahsildar",
+      "Class 4 School Study Certificate",
+      "Birth Certificate",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "तहसीलदार द्वारा जारी एसटी समुदाय प्रमाण पत्र",
+      "कक्षा 4 का अध्ययन प्रमाण पत्र",
+      "जन्म प्रमाण पत्र",
+      "राशन कार्ड"
+    ],
+    "steps_en": [
+      "Submit application to the Tribal Extension Officer (TEO) or Project Officer of ITDP when notification opens in February-March",
+      "Appear for the state MRS entrance test",
+      "Successful candidates join the allocated Model Residential School campus with full hostel facilities"
+    ],
+    "steps_hi": [
+      "फरवरी-मार्च में अधिसूचना जारी होने पर जनजातीय विस्तार अधिकारी (TEO) या ITDP परियोजना अधिकारी को आवेदन जमा करें",
+      "राज्य एमआरएस प्रवेश परीक्षा में शामिल हों",
+      "सफल छात्रों को सभी छात्रावास सुविधाओं के साथ आवंटित मॉडल आवासीय विद्यालय में प्रवेश दिया जाता है"
+    ],
+    "applyUrl": "https://stdd.kerala.gov.in",
+    "sourceUrl": "https://stdd.kerala.gov.in",
+    "lastVerified": "2026-10-16T00:00:00.000Z"
+  }
+]

@@ -63,9 +63,13 @@ model Scheme {
   documentsRequired  String               @db.Text // Stringified JSON array
   applicationProcess String               @db.Text // Stringified JSON array of steps
   officialLink       String
+  sourceUrl          String?              // Official source / notification reference link
   departmentEn       String
   departmentHi       String
-  level              String               @default("Central") // Central or State
+  level              String               @default("CENTRAL") // CENTRAL or STATE
+  state              String?              // "Maharashtra" or null for Central
+  slug               String?              @unique
+  lastVerified       DateTime?            @default(now())
   openDate           DateTime?
   closeDate          DateTime?
   status             String               @default("PUBLISHED") // DRAFT, VERIFIED, PUBLISHED, CLOSED

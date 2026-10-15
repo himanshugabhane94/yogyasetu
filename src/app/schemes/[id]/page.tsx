@@ -189,6 +189,21 @@ export default function SchemeDetailPage() {
                 🟢 {scheme.status}
               </span>
 
+              {scheme.state === 'Maharashtra' ? (
+                <span className="px-3 py-1 rounded-full bg-amber-50 text-amber-900 border border-amber-300 text-xs font-bold flex items-center space-x-1.5">
+                  <span className="w-2 h-2 rounded-full bg-saffron-500 animate-pulse"></span>
+                  <span>{language === 'hi' ? 'महाराष्ट्र शासन (Maha DBT)' : 'Maharashtra State (Maha DBT)'}</span>
+                </span>
+              ) : scheme.level?.toUpperCase() === 'STATE' ? (
+                <span className="px-3 py-1 rounded-full bg-amber-50 text-amber-900 border border-amber-200 text-xs font-bold">
+                  {scheme.state || 'State'}
+                </span>
+              ) : (
+                <span className="px-3 py-1 rounded-full bg-slate-100 text-slate-700 border border-slate-200 text-xs font-semibold">
+                  {language === 'hi' ? 'केंद्रीय योजना' : 'Central Scheme'}
+                </span>
+              )}
+
               {/* Last Verified Trust Badge (90-day threshold) */}
               {(() => {
                 const updatedDate = new Date(scheme.updatedAt || scheme.createdAt || Date.now());
@@ -296,6 +311,19 @@ export default function SchemeDetailPage() {
               <span>{t('applyNowDirect')}</span>
               <ExternalLink className="w-4 h-4" />
             </a>
+
+            {scheme.sourceUrl && (
+              <a
+                href={scheme.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="py-3.5 px-5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs text-center border border-slate-200 transition-smooth flex items-center justify-center space-x-1.5 shrink-0"
+                title="View Official Source & Guidelines"
+              >
+                <span>{language === 'hi' ? 'आधिकारिक स्रोत' : 'Source Portal'}</span>
+                <ExternalLink className="w-3.5 h-3.5" />
+              </a>
+            )}
 
             {/* Self Application Tracker Dropdown */}
             {session && (

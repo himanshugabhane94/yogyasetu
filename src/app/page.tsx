@@ -30,6 +30,7 @@ import {
   Globe2,
   FileCheck2,
   Users2,
+  Lightbulb,
 } from 'lucide-react';
 
 const CATEGORY_ICON_COMPONENTS: Record<string, any> = {
@@ -41,6 +42,10 @@ const CATEGORY_ICON_COMPONENTS: Record<string, any> = {
   Briefcase,
   Home: HomeIcon,
   HeartPulse,
+  Building2,
+  Landmark,
+  Lightbulb,
+  Users: Users2,
 };
 
 import HeroIllustration from '@/components/HeroIllustration';
@@ -76,15 +81,20 @@ export default function HomePage() {
     router.push(`/schemes?${params.toString()}`);
   };
 
-  // Quick Filter Pills (Exact sequence: Students, Farmers, Women, Healthcare, Employment, Senior Citizens, Divyangjan)
+  // Quick Filter Pills
   const quickFilterPills = [
     { labelEn: 'Students', labelHi: 'छात्र', slug: 'students', icon: '🎓' },
     { labelEn: 'Farmers', labelHi: 'किसान', slug: 'farmers', icon: '🌾' },
     { labelEn: 'Women', labelHi: 'महिलाएं', slug: 'women', icon: '👩' },
     { labelEn: 'Healthcare', labelHi: 'स्वास्थ्य', slug: 'health', icon: '🏥' },
     { labelEn: 'Employment', labelHi: 'रोजगार', slug: 'employment', icon: '💼' },
-    { labelEn: 'Senior Citizens', labelHi: 'वरिष्ठ नागरिक', slug: 'seniors', icon: '👴' },
+    { labelEn: 'Senior Citizens', labelHi: 'वरिष्ठ नागरिक', slug: 'senior-citizens', icon: '👴' },
     { labelEn: 'Divyangjan', labelHi: 'दिव्यांगजन', slug: 'divyangjan', icon: '♿' },
+    { labelEn: 'Hostels', labelHi: 'वसतिगृह', slug: 'hostels', icon: '🏢' },
+    { labelEn: 'Maha DBT', labelHi: 'महाडीबीटी', slug: 'mahadbt', icon: '🏛️' },
+    { labelEn: 'Housing', labelHi: 'आवास', slug: 'housing', icon: '🏠' },
+    { labelEn: 'Skills', labelHi: 'कौशल', slug: 'skills', icon: '💡' },
+    { labelEn: 'Minority', labelHi: 'अल्पसंख्यक', slug: 'minority', icon: '👥' },
   ];
 
   return (

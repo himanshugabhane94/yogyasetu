@@ -25,6 +25,8 @@ import {
   Calendar,
   IndianRupee,
   AlertTriangle,
+  Landmark,
+  Lightbulb,
 } from 'lucide-react';
 
 interface SchemeCardProps {
@@ -42,6 +44,10 @@ const CATEGORY_ICONS: Record<string, any> = {
   Briefcase,
   Home,
   HeartPulse,
+  Building2,
+  Landmark,
+  Lightbulb,
+  Users,
 };
 
 export default function SchemeCard({
@@ -145,9 +151,20 @@ export default function SchemeCard({
             <span className="text-xs font-bold text-govNavy-900 tracking-tight">
               {categoryName}
             </span>
-            <span className="text-[10px] font-semibold px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 border border-slate-200/60">
-              {scheme.level || 'Central'}
-            </span>
+            {scheme.state === 'Maharashtra' ? (
+              <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-amber-50 text-amber-800 border border-amber-300 flex items-center space-x-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-saffron-500 animate-pulse"></span>
+                <span>{language === 'hi' ? 'महाराष्ट्र' : 'Maharashtra'}</span>
+              </span>
+            ) : scheme.level?.toUpperCase() === 'STATE' ? (
+              <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-amber-50 text-amber-800 border border-amber-200">
+                {language === 'hi' ? (scheme.state || 'राज्य') : (scheme.state || 'State')}
+              </span>
+            ) : (
+              <span className="text-[10px] font-semibold px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 border border-slate-200/60">
+                {language === 'hi' ? 'केंद्रीय' : 'Central'}
+              </span>
+            )}
           </div>
 
           <div className="flex items-center space-x-1.5">

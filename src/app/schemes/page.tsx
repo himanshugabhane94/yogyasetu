@@ -7,6 +7,7 @@ import { useLanguage } from '@/context/LanguageContext';
 import FilterSidebar from '@/components/FilterSidebar';
 import SchemeCard from '@/components/SchemeCard';
 import { SchemeItem } from '@/types';
+import { CATEGORIES_CONFIG } from '@/lib/categoriesConfig';
 import {
   Search,
   Filter,
@@ -27,6 +28,7 @@ function SchemesContent() {
   const [filters, setFilters] = useState({
     category: searchParams.get('category') || 'all',
     state: searchParams.get('state') || 'All',
+    level: searchParams.get('level') || 'all',
     gender: searchParams.get('gender') || 'All',
     caste: searchParams.get('caste') || 'All',
     occupation: searchParams.get('occupation') || 'All',
@@ -53,6 +55,7 @@ function SchemesContent() {
       if (search.trim()) params.set('search', search.trim());
       if (filters.category !== 'all') params.set('category', filters.category);
       if (filters.state !== 'All') params.set('state', filters.state);
+      if (filters.level && filters.level !== 'all') params.set('level', filters.level);
       if (filters.gender !== 'All') params.set('gender', filters.gender);
       if (filters.caste !== 'All') params.set('caste', filters.caste);
       if (filters.benefitType !== 'all') params.set('benefitType', filters.benefitType);
@@ -107,6 +110,7 @@ function SchemesContent() {
     setFilters({
       category: 'all',
       state: 'All',
+      level: 'all',
       gender: 'All',
       caste: 'All',
       occupation: 'All',
@@ -231,6 +235,86 @@ function SchemesContent() {
 
           {/* Scheme Cards Grid */}
           <div className="flex-1 w-full">
+            {/* Scope / Level Quick Filter (All Schemes vs Central vs Maharashtra) */}
+            <div className="bg-white p-3 rounded-2xl border border-slate-200/90 shadow-soft-sm mb-4">
+              <div className="flex items-center space-x-2 overflow-x-auto pb-1 sm:pb-0">
+                <span className="text-xs font-bold text-slate-500 uppercase tracking-wider shrink-0 mr-1 hidden sm:inline">
+                  {language === 'hi' ? 'योजना स्तर:' : 'Scope & Level:'}
+                </span>
+
+                <button
+                  onClick={() => setFilters((prev) => ({ ...prev, state: 'All', level: 'all' }))}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center space-x-1.5 shrink-0 ${
+                    filters.state === 'All' && (!filters.level || filters.level === 'all')
+                      ? 'bg-govNavy-900 text-white shadow-soft-sm'
+                      : 'bg-slate-50 text-slate-600 border border-slate-200 hover:bg-slate-100 hover:text-govNavy-900'
+                  }`}
+                >
+                  <span>🌐</span>
+                  <span>{language === 'hi' ? 'सभी योजनाएं (All Schemes)' : 'All Schemes'}</span>
+                </button>
+
+                <button
+                  onClick={() => setFilters((prev) => ({ ...prev, state: 'Central', level: 'CENTRAL' }))}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center space-x-1.5 shrink-0 ${
+                    filters.state === 'Central' || filters.level === 'CENTRAL'
+                      ? 'bg-blue-700 text-white shadow-soft-sm'
+                      : 'bg-slate-50 text-slate-600 border border-slate-200 hover:bg-slate-100 hover:text-blue-900'
+                  }`}
+                >
+                  <span>🇮🇳</span>
+                  <span>{language === 'hi' ? 'अखिल भारतीय / केंद्रीय (Central)' : 'All India / Central'}</span>
+                </button>
+
+                <button
+                  onClick={() => setFilters((prev) => ({ ...prev, state: 'Maharashtra', level: 'all' }))}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center space-x-1.5 shrink-0 ${
+                    filters.state === 'Maharashtra'
+                      ? 'bg-amber-600 text-white shadow-soft-sm'
+                      : 'bg-slate-50 text-slate-600 border border-slate-200 hover:bg-slate-100 hover:text-amber-800'
+                  }`}
+                >
+                  <span className="w-2 h-2 rounded-full bg-saffron-500 animate-pulse"></span>
+                  <span>{language === 'hi' ? 'महाराष्ट्र शासन (Maha DBT)' : 'Maharashtra (Maha DBT)'}</span>
+                </button>
+              </div>
+
+              {/* 12-Category Quick Filter Pills */}
+              <div className="flex items-center space-x-1.5 overflow-x-auto pt-3 mt-2.5 border-t border-slate-100 pb-1 scrollbar-thin">
+                <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider shrink-0 mr-1 hidden md:inline">
+                  {language === 'hi' ? 'श्रेणी:' : 'Category:'}
+                </span>
+
+                <button
+                  onClick={() => setFilters((prev) => ({ ...prev, category: 'all' }))}
+                  className={`px-2.5 py-1 rounded-lg text-xs font-semibold shrink-0 transition-colors ${
+                    filters.category === 'all'
+                      ? 'bg-slate-800 text-white'
+                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                  }`}
+                >
+                  {language === 'hi' ? 'सभी श्रेणियां' : 'All Categories'}
+                </button>
+
+                {CATEGORIES_CONFIG.map((cat) => {
+                  const isActive = filters.category === cat.slug;
+                  return (
+                    <button
+                      key={cat.slug}
+                      onClick={() => setFilters((prev) => ({ ...prev, category: cat.slug }))}
+                      className={`px-2.5 py-1 rounded-lg text-xs font-semibold shrink-0 transition-colors flex items-center space-x-1 ${
+                        isActive
+                          ? 'bg-govNavy-900 text-white shadow-soft-sm'
+                          : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                      }`}
+                    >
+                      <span>{language === 'hi' ? cat.nameHi : cat.nameEn}</span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
             {loading ? (
               <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
                 {[1, 2, 3, 4, 5, 6].map((i) => (

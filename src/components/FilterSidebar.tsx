@@ -10,6 +10,7 @@ interface FilterSidebarProps {
   filters: {
     category: string;
     state: string;
+    level?: string;
     gender: string;
     caste: string;
     occupation: string;
@@ -54,6 +55,31 @@ export default function FilterSidebar({
             <span>{t('clearAllFilters')}</span>
           </button>
         )}
+      </div>
+
+      {/* Scope / Level Filter */}
+      <div>
+        <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
+          {language === 'hi' ? 'योजना क्षेत्र / स्तर' : 'Scope & Level'}
+        </label>
+        <select
+          value={filters.state === 'Maharashtra' ? 'Maharashtra' : filters.state === 'Central' ? 'Central' : filters.level || 'all'}
+          onChange={(e) => {
+            const val = e.target.value;
+            if (val === 'Maharashtra') {
+              setFilters((prev: any) => ({ ...prev, state: 'Maharashtra', level: 'all' }));
+            } else if (val === 'Central') {
+              setFilters((prev: any) => ({ ...prev, state: 'Central', level: 'CENTRAL' }));
+            } else {
+              setFilters((prev: any) => ({ ...prev, state: 'All', level: 'all' }));
+            }
+          }}
+          className="w-full text-xs font-semibold bg-slate-50 border border-slate-200/90 rounded-xl px-3 py-2.5 text-slate-800 focus:bg-white focus:ring-2 focus:ring-govNavy-800 outline-none transition-smooth"
+        >
+          <option value="all">{language === 'hi' ? '🌐 सभी योजनाएं (All Schemes)' : '🌐 All Schemes'}</option>
+          <option value="Central">{language === 'hi' ? '🇮🇳 केंद्रीय योजनाएं (Central Ministries)' : '🇮🇳 All India / Central'}</option>
+          <option value="Maharashtra">{language === 'hi' ? '🚩 महाराष्ट्र शासन (Maharashtra State)' : '🚩 Maharashtra (Maha DBT)'}</option>
+        </select>
       </div>
 
       {/* State / UT Filter */}
