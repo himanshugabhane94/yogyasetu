@@ -337,6 +337,43 @@ async function main() {
 
   console.log(`📦 Loaded ${allSchemes.length} total scheme records.\n`);
 
+  const db = getPrisma();
+
+  // 4b. Ensure any legacy schemes with empty or null slug are safely assigned unique slugs
+  try {
+    const legacySchemes = await db.scheme.findMany({
+      where: {
+        OR: [
+          { slug: null },
+          { slug: '' },
+        ],
+      },
+      select: { id: true, titleEn: true, slug: true },
+    });
+
+    if (legacySchemes.length > 0) {
+      console.log(`ℹ️ Found ${legacySchemes.length} legacy scheme(s) with missing slug. Assigning unique slugs...`);
+      for (const legacy of legacySchemes) {
+        const baseSlug = (legacy.titleEn || 'scheme')
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-+|-+$/g, '') || `scheme-${legacy.id.slice(-6)}`;
+        let candidateSlug = baseSlug;
+        let suffix = 1;
+        while (await db.scheme.findFirst({ where: { slug: candidateSlug, id: { not: legacy.id } } })) {
+          candidateSlug = `${baseSlug}-${suffix++}`;
+        }
+        await db.scheme.update({
+          where: { id: legacy.id },
+          data: { slug: candidateSlug },
+        });
+      }
+      console.log(`✅ Backfilled slugs for ${legacySchemes.length} legacy schemes.\n`);
+    }
+  } catch (legacyErr: any) {
+    console.warn(`⚠️ Legacy scheme slug backfill notice:`, legacyErr.message);
+  }
+
   // 5. Batch Processing in Batches of 50 inside transactions
   const BATCH_SIZE = 50;
   let createdCount = 0;
@@ -347,8 +384,6 @@ async function main() {
   let maharashtraCount = 0;
   let centralCount = 0;
   let hostelCount = 0;
-
-  const db = getPrisma();
 
   for (let i = 0; i < allSchemes.length; i += BATCH_SIZE) {
     const rawBatch = allSchemes.slice(i, i + BATCH_SIZE);
@@ -361,9 +396,14 @@ async function main() {
     const validBatchItems: Array<{ slug: string; payload: any; meta: { categorySlug: string; state: string | null; level: string; isHostel: boolean } }> = [];
 
     for (const raw of rawBatch) {
-      const slug = (raw.slug || '').trim();
+      let slug = (raw.slug || '').trim();
       const titleEn = (raw.title_en || raw.titleEn || raw.title || '').trim();
       const titleHi = (raw.title_hi || raw.titleHi || titleEn).trim();
+
+      // If slug is missing but title exists, generate one
+      if (!slug && titleEn) {
+        slug = titleEn.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+      }
 
       // Skip invalid or placeholder records
       if (!slug || slug === 'sample-scheme-unique-slug' || !titleEn) {
