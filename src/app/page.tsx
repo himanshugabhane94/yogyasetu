@@ -58,6 +58,7 @@ export default function HomePage() {
   const [selectedState, setSelectedState] = useState('All');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [featuredSchemes, setFeaturedSchemes] = useState<SchemeItem[]>([]);
+  const [categoryCounts, setCategoryCounts] = useState<Record<string, number>>({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -70,6 +71,19 @@ export default function HomePage() {
       })
       .catch((err) => console.error('Failed to load featured schemes:', err))
       .finally(() => setLoading(false));
+
+    fetch('/api/categories')
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.categories && Array.isArray(data.categories)) {
+          const counts: Record<string, number> = {};
+          data.categories.forEach((cat: any) => {
+            counts[cat.slug] = cat._count?.schemes ?? 0;
+          });
+          setCategoryCounts(counts);
+        }
+      })
+      .catch((err) => console.error('Failed to load category counts:', err));
   }, []);
 
   const handleHeroSearch = (e: React.FormEvent) => {
@@ -319,6 +333,8 @@ export default function HomePage() {
             const catName = language === 'hi' ? cat.nameHi : cat.nameEn;
             const tagline = language === 'hi' ? cat.taglineHi : cat.taglineEn;
 
+            const count = categoryCounts[cat.slug] || 0;
+
             return (
               <Link
                 key={cat.slug}
@@ -341,7 +357,11 @@ export default function HomePage() {
                 </div>
 
                 <div className="mt-5 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-bold text-govNavy-800 group-hover:text-govEmerald-600">
-                  <span>Explore Schemes</span>
+                  <span className="inline-flex items-center space-x-1.5">
+                    <span className="px-2.5 py-0.5 rounded-full bg-slate-100 group-hover:bg-govEmerald-50 text-slate-700 group-hover:text-govEmerald-700 text-[11px] font-semibold transition-colors">
+                      {count > 0 ? `${count}+ ${language === 'hi' ? 'योजनाएं' : 'Schemes'}` : (language === 'hi' ? 'योजनाएं देखें' : 'Explore Schemes')}
+                    </span>
+                  </span>
                   <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </div>
               </Link>

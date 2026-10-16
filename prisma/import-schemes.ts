@@ -155,10 +155,76 @@ const CATEGORY_ALIASES: Record<string, string> = {
   alpasankhyak: 'minority',
 };
 
-function resolveCategorySlug(rawCategory?: string): string {
-  if (!rawCategory) return 'employment';
-  const clean = rawCategory.trim().toLowerCase();
-  return CATEGORY_ALIASES[clean] || 'employment';
+interface CategoryResolution {
+  categorySlug: string;
+  tags: string;
+  state: string | null;
+  level: string;
+}
+
+function resolveSchemeCategoryAndTags(raw: any): CategoryResolution {
+  const rawCat = (raw.category || raw.category_slug || '').trim().toLowerCase();
+  const rawLevel = (raw.level || 'CENTRAL').toUpperCase();
+  let level = rawLevel === 'STATE' ? 'STATE' : 'CENTRAL';
+  let state = raw.state !== undefined ? raw.state : (level === 'STATE' ? 'Maharashtra' : null);
+
+  const tagsSet = new Set<string>();
+  if (raw.tags) {
+    if (Array.isArray(raw.tags)) {
+      raw.tags.forEach((t: string) => t && tagsSet.add(t.trim()));
+    } else if (typeof raw.tags === 'string') {
+      raw.tags.split(',').forEach((t: string) => {
+        const cleaned = t.trim();
+        if (cleaned) tagsSet.add(cleaned);
+      });
+    }
+  }
+
+  let categorySlug = 'employment';
+
+  if (rawCat === 'hostels' || rawCat === 'hostel' || rawCat === 'government hostels' || rawCat === 'government-hostels') {
+    categorySlug = 'students';
+    tagsSet.add('hostel');
+  } else if (rawCat === 'skills' || rawCat === 'skill' || rawCat === 'skill development' || rawCat === 'skill-development') {
+    categorySlug = 'employment';
+    tagsSet.add('skills');
+  } else if (rawCat === 'mahadbt' || rawCat === 'maha dbt' || rawCat === 'maha-dbt') {
+    tagsSet.add('mahadbt');
+    state = 'Maharashtra';
+    level = 'STATE';
+    const textToCheck = `${raw.slug} ${raw.title_en || raw.titleEn || ''} ${raw.description_en || raw.descriptionEn || ''}`.toLowerCase();
+    if (
+      textToCheck.includes('farm') ||
+      textToCheck.includes('kisan') ||
+      textToCheck.includes('krishi') ||
+      textToCheck.includes('agri') ||
+      textToCheck.includes('horticulture') ||
+      textToCheck.includes('irrigation') ||
+      textToCheck.includes('tractor') ||
+      textToCheck.includes('pump')
+    ) {
+      categorySlug = 'farmers';
+    } else {
+      categorySlug = 'students';
+    }
+  } else if (rawCat === 'minority' || rawCat === 'minorities' || rawCat === 'minority welfare') {
+    tagsSet.add('minority');
+    categorySlug = 'students';
+  } else {
+    categorySlug = CATEGORY_ALIASES[rawCat] || 'employment';
+  }
+
+  // Ensure state-specific tag
+  if (state === 'Maharashtra') {
+    tagsSet.add('maharashtra');
+  }
+
+  return {
+    categorySlug,
+    tags: Array.from(tagsSet).join(', '),
+    state,
+    level,
+  };
 }
 
 async function ensureCategories(): Promise<Map<string, string>> {
@@ -199,7 +265,6 @@ function findJsonFiles(dir: string): string[] {
     if (entry.isDirectory()) {
       results.push(...findJsonFiles(fullPath));
     } else if (entry.isFile() && entry.name.endsWith('.json')) {
-      // Ignore template file if it only has sample dummy data
       if (entry.name === 'scheme.template.json') continue;
       results.push(fullPath);
     }
@@ -209,7 +274,7 @@ function findJsonFiles(dir: string): string[] {
 
 async function main() {
   console.log('======================================================');
-  console.log('🚀 YogyaSetu Bulk Scheme Importer (500+ Architecture)');
+  console.log('🚀 YogyaSetu Bulk Scheme Importer (80+ Schemes Per Category)');
   console.log('======================================================\n');
 
   // 1. Discover scheme files
@@ -231,14 +296,10 @@ async function main() {
   if (targetFiles.length === 0) {
     console.log(`📂 Scanning: ${targetDir}`);
     console.log(`ℹ️  No JSON scheme files found in data/schemes/*.json (scheme.template.json is skipped).`);
-    console.log(`✨ The bulk importer architecture is fully configured and ready for 500+ schemes!`);
-    console.log(`💡 To import schemes, drop your JSON files into /data/schemes/*.json and execute:`);
-    console.log(`   npm run import:schemes\n`);
-    console.log(`📖 Refer to data/schemes/README.md for the standard JSON schema specification.`);
     return;
   }
 
-  // 2. Validate database configuration
+  // 2. Validate database configuration (never log secret credentials)
   if (!process.env.DATABASE_URL) {
     console.error('❌ Error: DATABASE_URL environment variable is not defined.');
     console.error('Please configure DATABASE_URL in your .env or .env.local file.');
@@ -276,8 +337,8 @@ async function main() {
 
   console.log(`📦 Loaded ${allSchemes.length} total scheme records.\n`);
 
-  // 4. Batch Processing with Upsert
-  const BATCH_SIZE = 25;
+  // 5. Batch Processing in Batches of 50 inside transactions
+  const BATCH_SIZE = 50;
   let createdCount = 0;
   let updatedCount = 0;
   let skippedCount = 0;
@@ -285,16 +346,21 @@ async function main() {
   const categoryStats: Record<string, number> = {};
   let maharashtraCount = 0;
   let centralCount = 0;
+  let hostelCount = 0;
+
+  const db = getPrisma();
 
   for (let i = 0; i < allSchemes.length; i += BATCH_SIZE) {
-    const batch = allSchemes.slice(i, i + BATCH_SIZE);
+    const rawBatch = allSchemes.slice(i, i + BATCH_SIZE);
     const batchNum = Math.floor(i / BATCH_SIZE) + 1;
     const startIdx = i + 1;
     const endIdx = Math.min(i + BATCH_SIZE, allSchemes.length);
 
     console.log(`⏳ Processing Batch #${batchNum} (Schemes ${startIdx} - ${endIdx} of ${allSchemes.length})...`);
 
-    for (const raw of batch) {
+    const validBatchItems: Array<{ slug: string; payload: any; meta: { categorySlug: string; state: string | null; level: string; isHostel: boolean } }> = [];
+
+    for (const raw of rawBatch) {
       const slug = (raw.slug || '').trim();
       const titleEn = (raw.title_en || raw.titleEn || raw.title || '').trim();
       const titleHi = (raw.title_hi || raw.titleHi || titleEn).trim();
@@ -306,15 +372,10 @@ async function main() {
         continue;
       }
 
-      // Resolve Category
-      const rawCat = raw.category || raw.category_slug || '';
-      const resolvedSlug = resolveCategorySlug(rawCat);
-      const categoryId = categoryMap.get(resolvedSlug) || categoryMap.get('employment')!;
-
-      // Scope resolution
-      const rawLevel = (raw.level || 'CENTRAL').toUpperCase();
-      const level = rawLevel === 'STATE' ? 'STATE' : 'CENTRAL';
-      const state = raw.state !== undefined ? raw.state : (level === 'STATE' ? 'Maharashtra' : null);
+      // Resolve Category, Tags & Scope
+      const { categorySlug, tags, state, level } = resolveSchemeCategoryAndTags(raw);
+      const categoryId = categoryMap.get(categorySlug) || categoryMap.get('employment')!;
+      const isHostel = tags.includes('hostel');
 
       // Benefits normalization
       let benefitsEn = raw.benefits_en || raw.benefitsEn || '';
@@ -407,41 +468,70 @@ async function main() {
         departmentHi,
         level,
         state,
+        tags,
         lastVerified,
         status: 'PUBLISHED',
       };
 
-      try {
-        const db = getPrisma();
-        const existing = await db.scheme.findUnique({
-          where: { slug },
-          select: { id: true },
-        });
+      validBatchItems.push({
+        slug,
+        payload,
+        meta: { categorySlug, state, level, isHostel },
+      });
+    }
 
-        await db.scheme.upsert({
-          where: { slug },
-          update: payload,
+    // Try batch transaction
+    try {
+      const transactionOps = validBatchItems.map((item) =>
+        db.scheme.upsert({
+          where: { slug: item.slug },
+          update: item.payload,
           create: {
-            slug,
-            ...payload,
+            slug: item.slug,
+            ...item.payload,
           },
-        });
+        })
+      );
 
-        if (existing) {
-          updatedCount++;
-        } else {
-          createdCount++;
-        }
+      await db.$transaction(transactionOps);
 
-        categoryStats[resolvedSlug] = (categoryStats[resolvedSlug] || 0) + 1;
-        if (state === 'Maharashtra' || level === 'STATE') {
+      // Track stats for successful batch
+      for (const item of validBatchItems) {
+        categoryStats[item.meta.categorySlug] = (categoryStats[item.meta.categorySlug] || 0) + 1;
+        if (item.meta.state === 'Maharashtra' || item.meta.level === 'STATE') {
           maharashtraCount++;
         } else {
           centralCount++;
         }
-      } catch (err: any) {
-        console.error(`   ❌ Failed to upsert ${slug}:`, err.message);
-        skippedCount++;
+        if (item.meta.isHostel) {
+          hostelCount++;
+        }
+        updatedCount++; // count processed
+      }
+    } catch (batchErr: any) {
+      console.warn(`   ⚠️ Batch transaction failed, falling back to individual upserts...`);
+      for (const item of validBatchItems) {
+        try {
+          await db.scheme.upsert({
+            where: { slug: item.slug },
+            update: item.payload,
+            create: {
+              slug: item.slug,
+              ...item.payload,
+            },
+          });
+          categoryStats[item.meta.categorySlug] = (categoryStats[item.meta.categorySlug] || 0) + 1;
+          if (item.meta.state === 'Maharashtra' || item.meta.level === 'STATE') {
+            maharashtraCount++;
+          } else {
+            centralCount++;
+          }
+          if (item.meta.isHostel) hostelCount++;
+          updatedCount++;
+        } catch (singleErr: any) {
+          console.warn(`   ❌ Skipped invalid record [${item.slug}]:`, singleErr.message);
+          skippedCount++;
+        }
       }
     }
 
@@ -459,6 +549,7 @@ async function main() {
   console.log(`\n🇮🇳 Scope Breakdown:`);
   console.log(`   - Maharashtra State Schemes : ${maharashtraCount}`);
   console.log(`   - Central Government Schemes: ${centralCount}`);
+  console.log(`   - Government Hostel Schemes : ${hostelCount}`);
   console.log(`\n📂 Category Breakdown:`);
   for (const [cat, count] of Object.entries(categoryStats)) {
     console.log(`   - ${cat.padEnd(16)} : ${count} scheme(s)`);

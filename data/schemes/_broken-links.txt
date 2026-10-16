@@ -1,0 +1,1453 @@
+=== YOGYASETU SCHEME URL VALIDATION REPORT ===
+Checked At: 2026-10-16T10:19:55.460Z
+Total Unique URLs: 527
+Accessible URLs (2xx/3xx/403): 304
+Potentially Inaccessible / Broken URLs: 223
+
+[1] URL: https://nsap.nic.in/
+    Error: getaddrinfo ENOTFOUND nsap.nic.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: indira-gandhi-national-disability-pension-nsap-igndps (applyUrl)
+      - File: divyangjan.json, Slug: indira-gandhi-national-disability-pension-nsap-igndps (sourceUrl)
+      - File: senior-citizens.json, Slug: indira-gandhi-national-old-age-pension-nsap-ignoaps (applyUrl)
+      - File: senior-citizens.json, Slug: indira-gandhi-national-old-age-pension-nsap-ignoaps (sourceUrl)
+
+[2] URL: https://www.nhfdc.nic.in/
+    Error: getaddrinfo ENOTFOUND www.nhfdc.nic.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: nhfdc-divyangjan-swavalamban-yojana-loans (applyUrl)
+
+[3] URL: https://incometax.gov.in/
+    Error: getaddrinfo ENOTFOUND incometax.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: income-tax-section-80u-deduction-for-pwd (sourceUrl)
+      - File: divyangjan.json, Slug: income-tax-section-80dd-dependent-disability (sourceUrl)
+      - File: senior-citizens.json, Slug: income-tax-section-80ttb-interest-deduction (sourceUrl)
+      - File: senior-citizens.json, Slug: income-tax-section-80d-health-insurance-seniors (sourceUrl)
+
+[4] URL: https://socialjustice.maharashtra.gov.in/
+    Error: getaddrinfo ENOTFOUND socialjustice.maharashtra.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: maharashtra-sanjay-gandhi-niradhar-divyangjan-pension (sourceUrl)
+      - File: divyangjan.json, Slug: matoshree-divyang-swavalamban-yojana-maharashtra (applyUrl)
+      - File: divyangjan.json, Slug: matoshree-divyang-swavalamban-yojana-maharashtra (sourceUrl)
+      - File: divyangjan.json, Slug: divyangjan-marriage-incentive-grant-maharashtra (applyUrl)
+      - File: divyangjan.json, Slug: divyangjan-marriage-incentive-grant-maharashtra (sourceUrl)
+      - File: divyangjan.json, Slug: maharashtra-swadhar-yojana-for-divyang-students (applyUrl)
+      - File: divyangjan.json, Slug: maharashtra-swadhar-yojana-for-divyang-students (sourceUrl)
+      - File: divyangjan.json, Slug: maharashtra-local-body-5-percent-divyang-budget (sourceUrl)
+      - File: divyangjan.json, Slug: maharashtra-special-schools-for-divyangjan (applyUrl)
+      - File: divyangjan.json, Slug: maharashtra-special-schools-for-divyangjan (sourceUrl)
+      - File: divyangjan.json, Slug: maharashtra-ddrc-free-assistive-devices-scheme (applyUrl)
+      - File: divyangjan.json, Slug: maharashtra-ddrc-free-assistive-devices-scheme (sourceUrl)
+      - File: divyangjan.json, Slug: maharashtra-government-braille-press-free-study-materials (applyUrl)
+      - File: divyangjan.json, Slug: maharashtra-government-braille-press-free-study-materials (sourceUrl)
+      - File: health.json, Slug: cochlear-implant-surgery-scheme-maharashtra (sourceUrl)
+      - File: housing.json, Slug: pardhi-gharkul-yojana-maharashtra (applyUrl)
+      - File: housing.json, Slug: pardhi-gharkul-yojana-maharashtra (sourceUrl)
+      - File: housing.json, Slug: vasantrao-naik-gharkul-yojana-maharashtra (applyUrl)
+      - File: housing.json, Slug: vasantrao-naik-gharkul-yojana-maharashtra (sourceUrl)
+      - File: housing.json, Slug: punyashlok-ahilyadevi-holkar-gharkul-yojana (applyUrl)
+      - File: housing.json, Slug: krantijyoti-savitribai-phule-gharkul-yojana (applyUrl)
+      - File: housing.json, Slug: krantijyoti-savitribai-phule-gharkul-yojana (sourceUrl)
+      - File: senior-citizens.json, Slug: maharashtra-senior-citizen-id-card-scheme (sourceUrl)
+      - File: senior-citizens.json, Slug: matoshree-old-age-homes-maharashtra (applyUrl)
+      - File: senior-citizens.json, Slug: matoshree-old-age-homes-maharashtra (sourceUrl)
+      - File: senior-citizens.json, Slug: shravanbal-sewa-rajya-nivruttivetan-group-a (sourceUrl)
+      - File: senior-citizens.json, Slug: shravanbal-sewa-rajya-nivruttivetan-group-b (sourceUrl)
+      - File: senior-citizens.json, Slug: maharashtra-sanjay-gandhi-niradhar-elderly-destitute (sourceUrl)
+      - File: senior-citizens.json, Slug: maharashtra-senior-citizen-day-care-centres (applyUrl)
+      - File: senior-citizens.json, Slug: maharashtra-senior-citizen-day-care-centres (sourceUrl)
+
+[5] URL: https://dwd.karnataka.gov.in/
+    Error: getaddrinfo ENOTFOUND dwd.karnataka.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: karnataka-disability-maintenance-allowance (sourceUrl)
+      - File: divyangjan.json, Slug: karnataka-sadhane-scheme-free-motorized-scooters (sourceUrl)
+      - File: divyangjan.json, Slug: karnataka-adhara-scheme-concessional-loans (sourceUrl)
+      - File: divyangjan.json, Slug: karnataka-braille-kits-and-laptops-for-blind (sourceUrl)
+
+[6] URL: https://www.irctc.co.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: indian-railways-concession-for-divyangjan (applyUrl)
+
+[7] URL: https://kerala.gov.in/
+    Error: HTTP status 503 (Status: 503)
+    Used in:
+      - File: divyangjan.json, Slug: kerala-disability-welfare-pension (sourceUrl)
+      - File: divyangjan.json, Slug: ashwasa-kiranam-caregiver-scheme-kerala (sourceUrl)
+      - File: divyangjan.json, Slug: anuyatra-disability-programme-kerala (sourceUrl)
+      - File: divyangjan.json, Slug: vikalp-motorized-wheelchairs-kerala (sourceUrl)
+      - File: health.json, Slug: karunya-benevolent-fund-kerala (sourceUrl)
+      - File: health.json, Slug: thalolam-scheme-kerala (sourceUrl)
+      - File: health.json, Slug: shwas-programme-kerala (sourceUrl)
+      - File: housing.json, Slug: kerala-safalyam-fishermen-flat-housing (sourceUrl)
+      - File: senior-citizens.json, Slug: kerala-indira-gandhi-old-age-pension (sourceUrl)
+      - File: senior-citizens.json, Slug: vayo-amrutham-ayurvedic-elderly-care-kerala (sourceUrl)
+      - File: senior-citizens.json, Slug: kerala-ksrtc-concessional-travel-senior-citizens (sourceUrl)
+
+[8] URL: https://state.bihar.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: bihar-divyang-pension-yojana-elabharthi (sourceUrl)
+      - File: divyangjan.json, Slug: sambal-yojana-battery-tricycle-bihar (applyUrl)
+      - File: health.json, Slug: bihar-mukhyamantri-chikitsa-sahayata-kosh (sourceUrl)
+      - File: health.json, Slug: bihar-bal-hridaya-yojana (applyUrl)
+      - File: senior-citizens.json, Slug: mukhyamantri-vridhjan-pension-yojana-bihar (sourceUrl)
+      - File: senior-citizens.json, Slug: shravan-kumar-senior-citizen-homes-bihar (sourceUrl)
+
+[9] URL: https://ssp.rajasthan.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: vishesh-yogyajan-samman-pension-rajasthan (applyUrl)
+      - File: senior-citizens.json, Slug: mukhyamantri-vriddhajan-samman-pension-rajasthan (applyUrl)
+
+[10] URL: https://rajasthan.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: vishesh-yogyajan-samman-pension-rajasthan (sourceUrl)
+      - File: divyangjan.json, Slug: rajasthan-free-scooty-distribution-divyang (sourceUrl)
+      - File: health.json, Slug: mukhyamantri-ayushman-arogya-yojana-rajasthan (sourceUrl)
+      - File: health.json, Slug: mukhyamantri-nishulk-dava-yojana-rajasthan (sourceUrl)
+      - File: health.json, Slug: mukhyamantri-nishulk-jaanch-yojana-rajasthan (sourceUrl)
+      - File: housing.json, Slug: rajasthan-housing-board-affordable-schemes (sourceUrl)
+      - File: housing.json, Slug: rajasthan-bocw-shramik-awas-subsidy (sourceUrl)
+      - File: senior-citizens.json, Slug: mukhyamantri-vriddhajan-samman-pension-rajasthan (sourceUrl)
+      - File: senior-citizens.json, Slug: varishtha-nagrik-tirth-yatra-rajasthan (sourceUrl)
+      - File: senior-citizens.json, Slug: rajasthan-rsrtc-senior-citizen-concession (sourceUrl)
+
+[11] URL: https://socwel.punjab.gov.in/
+    Error: getaddrinfo ENOTFOUND socwel.punjab.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: punjab-financial-assistance-to-disabled-persons (sourceUrl)
+      - File: senior-citizens.json, Slug: punjab-social-security-old-age-pension (sourceUrl)
+
+[12] URL: https://mp.gov.in/
+    Error: write EPROTO E09A0000:error:0A000152:SSL routines:final_renegotiate:unsafe legacy renegotiation disabled:openssl\ssl\statem\extensions.c:894:
+ (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: madhya-pradesh-divyang-social-security-pension (sourceUrl)
+      - File: divyangjan.json, Slug: madhya-pradesh-divyang-vivah-protsahan-yojana (sourceUrl)
+      - File: health.json, Slug: madhya-pradesh-mukhyamantri-bal-hriday-upchar (sourceUrl)
+      - File: housing.json, Slug: madhya-pradesh-bocw-shramik-awas-anudan (sourceUrl)
+      - File: senior-citizens.json, Slug: mukhyamantri-tirth-darshan-yojana-madhya-pradesh (sourceUrl)
+
+[13] URL: https://eservices.punjab.gov.in/
+    Error: socket hang up (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: punjab-financial-assistance-to-disabled-persons (applyUrl)
+      - File: senior-citizens.json, Slug: punjab-social-security-old-age-pension (applyUrl)
+
+[14] URL: https://ssp.uk.gov.in/
+    Error: write EPROTO E09A0000:error:0A000152:SSL routines:final_renegotiate:unsafe legacy renegotiation disabled:openssl\ssl\statem\extensions.c:894:
+ (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: uttarakhand-divyang-pension-yojana (applyUrl)
+      - File: senior-citizens.json, Slug: uttarakhand-vridhavastha-pension-yojana (applyUrl)
+
+[15] URL: https://uk.gov.in/
+    Error: write EPROTO E09A0000:error:0A000152:SSL routines:final_renegotiate:unsafe legacy renegotiation disabled:openssl\ssl\statem\extensions.c:894:
+ (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: uttarakhand-divyang-pension-yojana (sourceUrl)
+      - File: health.json, Slug: atal-ayushman-uttarakhand-yojana (sourceUrl)
+      - File: housing.json, Slug: uttarakhand-bocw-housing-assistance-scheme (sourceUrl)
+      - File: senior-citizens.json, Slug: uttarakhand-vridhavastha-pension-yojana (sourceUrl)
+
+[16] URL: https://pnrddisability.assam.gov.in/
+    Error: getaddrinfo ENOTFOUND pnrddisability.assam.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: assam-deendayal-divyangjan-sahajya-yojana (applyUrl)
+
+[17] URL: https://jksocialwelfare.nic.in/
+    Error: getaddrinfo ENOTFOUND jksocialwelfare.nic.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: jammu-kashmir-isss-disability-pension (applyUrl)
+      - File: senior-citizens.json, Slug: jammu-kashmir-integrated-social-security-seniors (applyUrl)
+
+[18] URL: https://nosdisabled.depwd.gov.in/
+    Error: getaddrinfo ENOTFOUND nosdisabled.depwd.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: national-overseas-scholarship-for-students-with-disabilities (applyUrl)
+
+[19] URL: https://hims.uphwd.gov.in/
+    Error: getaddrinfo ENOTFOUND hims.uphwd.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: uttar-pradesh-free-motorized-tricycles-divyang (applyUrl)
+
+[20] URL: https://divyangjan.up.gov.in/
+    Error: getaddrinfo ENOTFOUND divyangjan.up.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: uttar-pradesh-divyang-vivah-protsahan-puraskar (applyUrl)
+
+[21] URL: https://socialwelfare.bihar.gov.in/
+    Error: getaddrinfo ENOTFOUND socialwelfare.bihar.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: sambal-yojana-battery-tricycle-bihar (sourceUrl)
+      - File: senior-citizens.json, Slug: shravan-kumar-senior-citizen-homes-bihar (applyUrl)
+
+[22] URL: http://nhfdc.nic.in/schemes/micro-financing
+    Error: getaddrinfo ENOTFOUND nhfdc.nic.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: nhfdc-vishesh-microfinance-yojana (applyUrl)
+      - File: divyangjan.json, Slug: nhfdc-vishesh-microfinance-yojana (sourceUrl)
+
+[23] URL: https://cgstate.gov.in/
+    Error: Parse Error: Invalid header value char (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: chhattisgarh-divyang-vivah-protsahan-yojana (sourceUrl)
+      - File: health.json, Slug: dr-khubchand-baghel-swasthya-sahayata-chhattisgarh (sourceUrl)
+      - File: health.json, Slug: mukhyamantri-vishesh-swasthya-sahayata-chhattisgarh (sourceUrl)
+      - File: health.json, Slug: mukhyamantri-slum-swasthya-yojana-chhattisgarh (sourceUrl)
+      - File: housing.json, Slug: chhattisgarh-shahari-dhobi-gharkul-yojana (sourceUrl)
+      - File: senior-citizens.json, Slug: chhattisgarh-mukhyamantri-pension-yojana (sourceUrl)
+      - File: senior-citizens.json, Slug: chhattisgarh-siyan-sahayata-helpline-155359 (sourceUrl)
+
+[24] URL: https://socialjustice.mp.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: madhya-pradesh-divyang-social-security-pension (applyUrl)
+      - File: divyangjan.json, Slug: madhya-pradesh-divyang-vivah-protsahan-yojana (applyUrl)
+
+[25] URL: https://wdsc.telangana.gov.in/
+    Error: getaddrinfo ENOTFOUND wdsc.telangana.gov.in (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: telangana-free-motorized-three-wheelers-vikalangula (applyUrl)
+      - File: divyangjan.json, Slug: telangana-free-motorized-three-wheelers-vikalangula (sourceUrl)
+
+[26] URL: https://vnvjnt.org.in
+    Error: getaddrinfo ENOTFOUND vnvjnt.org.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: vasantrao-naik-vjnt-development-corporation-loan (applyUrl)
+      - File: employment.json, Slug: vasantrao-naik-vjnt-development-corporation-loan (sourceUrl)
+
+[27] URL: https://socwelfare.py.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: puducherry-financial-assistance-to-differently-abled (applyUrl)
+      - File: senior-citizens.json, Slug: puducherry-destitute-senior-citizen-pension (applyUrl)
+
+[28] URL: https://jk.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: jammu-kashmir-isss-disability-pension (sourceUrl)
+      - File: housing.json, Slug: jammu-kashmir-rural-housing-grant (sourceUrl)
+      - File: housing.json, Slug: jammu-kashmir-bocw-housing-assistance (sourceUrl)
+      - File: senior-citizens.json, Slug: jammu-kashmir-integrated-social-security-seniors (sourceUrl)
+
+[29] URL: https://accessibleindia.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: accessible-india-campaign-sugamya-bharat (applyUrl)
+
+[30] URL: https://samagra.education.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: samagra-shiksha-inclusive-education-cwsn (applyUrl)
+
+[31] URL: https://ddugky.gov.in
+    Error: getaddrinfo ENOTFOUND ddugky.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: deendayal-upadhyaya-grameen-kaushalya-yojana-ddugky (applyUrl)
+      - File: employment.json, Slug: deendayal-upadhyaya-grameen-kaushalya-yojana-ddugky (sourceUrl)
+
+[32] URL: https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: pm-employment-generation-programme-pmegp (applyUrl)
+      - File: employment.json, Slug: pm-employment-generation-programme-pmegp (sourceUrl)
+
+[33] URL: https://sw.cg.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: chhattisgarh-divyang-vivah-protsahan-yojana (applyUrl)
+      - File: senior-citizens.json, Slug: chhattisgarh-mukhyamantri-pension-yojana (applyUrl)
+      - File: senior-citizens.json, Slug: chhattisgarh-siyan-sahayata-helpline-155359 (applyUrl)
+
+[34] URL: http://sparsh.mp.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: madhya-pradesh-sparsh-divyang-samman-yojana (applyUrl)
+      - File: divyangjan.json, Slug: madhya-pradesh-sparsh-divyang-samman-yojana (sourceUrl)
+
+[35] URL: https://haryanascbc.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: divyangjan.json, Slug: haryana-divyang-vivah-shagun-yojana (sourceUrl)
+      - File: housing.json, Slug: dr-br-ambedkar-awas-navinikaran-haryana (applyUrl)
+      - File: housing.json, Slug: dr-br-ambedkar-awas-navinikaran-haryana (sourceUrl)
+
+[36] URL: https://mpbcdc.maharashtra.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: mahatma-phule-backward-class-development-subsidy (applyUrl)
+      - File: employment.json, Slug: mahatma-phule-backward-class-development-subsidy (sourceUrl)
+
+[37] URL: https://www.standupmitra.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: stand-up-india-scheme (applyUrl)
+      - File: employment.json, Slug: stand-up-india-scheme (sourceUrl)
+      - File: women.json, Slug: stand-up-india-scheme-women-entrepreneurs (applyUrl)
+      - File: women.json, Slug: stand-up-india-scheme-women-entrepreneurs (sourceUrl)
+
+[38] URL: https://www.mudra.org.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: pm-mudra-yojana-tarun-kishore-shishu (applyUrl)
+      - File: employment.json, Slug: pm-mudra-yojana-tarun-kishore-shishu (sourceUrl)
+
+[39] URL: https://texmin.nic.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: pm-mitra-mega-integrated-textile-parks (applyUrl)
+      - File: employment.json, Slug: pm-mitra-mega-integrated-textile-parks (sourceUrl)
+      - File: employment.json, Slug: samarth-scheme-textile-capacity-building (sourceUrl)
+
+[40] URL: https://namaste.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: national-action-plan-for-mechanized-sanitation-namaste (applyUrl)
+      - File: employment.json, Slug: national-action-plan-for-mechanized-sanitation-namaste (sourceUrl)
+
+[41] URL: https://cmegp.gov.in
+    Error: getaddrinfo ENOTFOUND cmegp.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: chief-minister-employment-generation-programme-cmegp-maharashtra (applyUrl)
+
+[42] URL: https://dget.gov.in
+    Error: getaddrinfo ENOTFOUND dget.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: craftsmen-training-scheme-cts-iti (applyUrl)
+
+[43] URL: https://pmdaksh.dosje.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: pm-daksh-yojana (applyUrl)
+      - File: employment.json, Slug: pm-daksh-yojana (sourceUrl)
+
+[44] URL: https://di.maharashtra.gov.in
+    Error:  (Status: 0)
+    Used in:
+      - File: employment.json, Slug: chief-minister-employment-generation-programme-cmegp-maharashtra (sourceUrl)
+      - File: employment.json, Slug: maharashtra-khadi-village-industries-board-employment-subsidy (sourceUrl)
+
+[45] URL: https://mssds.maharashtra.gov.in
+    Error: getaddrinfo ENOTFOUND mssds.maharashtra.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: pramod-mahajan-kaushalya-vikas-abhiyan-maharashtra (sourceUrl)
+
+[46] URL: https://lidcom.gov.in
+    Error: getaddrinfo ENOTFOUND lidcom.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: sant-rohidas-charmodyog-charmakar-loan-subsidy-maharashtra (applyUrl)
+
+[47] URL: https://mbsdc.org.in
+    Error: getaddrinfo ENOTFOUND mbsdc.org.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: maharashtra-state-obc-finance-corporation-loans (applyUrl)
+
+[48] URL: https://diupmsme.upsdc.gov.in
+    Error: getaddrinfo ENOTFOUND diupmsme.upsdc.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: odop-margin-money-scheme-uttar-pradesh (applyUrl)
+
+[49] URL: https://employment.lms.rajasthan.gov.in
+    Error: getaddrinfo ENOTFOUND employment.lms.rajasthan.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: mukhyamantri-yuva-sambal-yojana-rajasthan (applyUrl)
+      - File: employment.json, Slug: mukhyamantri-yuva-sambal-yojana-rajasthan (sourceUrl)
+
+[50] URL: https://kvib.maharashtra.gov.in
+    Error: getaddrinfo ENOTFOUND kvib.maharashtra.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: maharashtra-khadi-village-industries-board-employment-subsidy (applyUrl)
+      - File: farmers.json, Slug: mahadbt-beekeeping-madh-kendrashasan (applyUrl)
+      - File: farmers.json, Slug: mahadbt-beekeeping-madh-kendrashasan (sourceUrl)
+
+[51] URL: https://mp.gov.in
+    Error: write EPROTO E09A0000:error:0A000152:SSL routines:final_renegotiate:unsafe legacy renegotiation disabled:openssl\ssl\statem\extensions.c:894:
+ (Status: 0)
+    Used in:
+      - File: employment.json, Slug: mukhyamantri-gramin-swarojgar-yojana-madhya-pradesh (sourceUrl)
+
+[52] URL: https://kum.karnataka.gov.in
+    Error: getaddrinfo ENOTFOUND kum.karnataka.gov.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: udyam-shakti-scheme-karnataka (applyUrl)
+
+[53] URL: https://punjab.gov.in
+    Error: write EPROTO E09A0000:error:0A000152:SSL routines:final_renegotiate:unsafe legacy renegotiation disabled:openssl\ssl\statem\extensions.c:894:
+ (Status: 0)
+    Used in:
+      - File: employment.json, Slug: punjab-ghar-ghar-rozgar-mission (sourceUrl)
+
+[54] URL: https://coirboard.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: coir-vikas-yojana-skill-upgradation (applyUrl)
+      - File: employment.json, Slug: coir-vikas-yojana-skill-upgradation (sourceUrl)
+      - File: women.json, Slug: mahila-coir-yojana-rural-women (applyUrl)
+      - File: women.json, Slug: mahila-coir-yojana-rural-women (sourceUrl)
+
+[55] URL: https://www.jslps.in
+    Error: getaddrinfo ENOTFOUND www.jslps.in (Status: 0)
+    Used in:
+      - File: employment.json, Slug: mukhya-mantri-gramin-aajeevika-mission-jharkhand (applyUrl)
+
+[56] URL: https://kerala.gov.in
+    Error: HTTP status 503 (Status: 503)
+    Used in:
+      - File: employment.json, Slug: kerala-startup-mission-ksum-seed-fund (sourceUrl)
+
+[57] URL: https://mamfdc.maharashtra.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: maulana-azad-minorities-financial-development-corporation-loans (applyUrl)
+
+[58] URL: https://www.kvic.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: khadi-gramodyog-vikas-yojana-kvic (applyUrl)
+      - File: employment.json, Slug: khadi-gramodyog-vikas-yojana-kvic (sourceUrl)
+
+[59] URL: https://mahaforest.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: maharashtra-bamboo-development-board-artisan-skill-scheme (applyUrl)
+      - File: employment.json, Slug: maharashtra-bamboo-development-board-artisan-skill-scheme (sourceUrl)
+
+[60] URL: https://berojgaribhatta.cg.nic.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: berojgari-bhatta-yojana-chhattisgarh (applyUrl)
+
+[61] URL: https://cgemployment.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: employment.json, Slug: berojgari-bhatta-yojana-chhattisgarh (sourceUrl)
+
+[62] URL: https://dahd.nic.in
+    Error: getaddrinfo ENOTFOUND dahd.nic.in (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: national-livestock-mission-nlm (sourceUrl)
+      - File: farmers.json, Slug: animal-husbandry-infrastructure-development-fund-ahidf (sourceUrl)
+      - File: farmers.json, Slug: dairy-processing-and-infrastructure-development-fund-dpidf (sourceUrl)
+      - File: farmers.json, Slug: cattle-insurance-scheme-livestock (applyUrl)
+      - File: farmers.json, Slug: cattle-insurance-scheme-livestock (sourceUrl)
+
+[63] URL: https://seednet.gov.in
+    Error: HTTP status 503 (Status: 503)
+    Used in:
+      - File: farmers.json, Slug: sub-mission-on-seeds-and-planting-material-smsp (applyUrl)
+      - File: farmers.json, Slug: sub-mission-on-seeds-and-planting-material-smsp (sourceUrl)
+
+[64] URL: https://agricoop.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: van-dhan-vikas-yojana-vdvy- (sourceUrl)
+      - File: farmers.json, Slug: agriculture-infrastructure-fund-aif- (sourceUrl)
+      - File: farmers.json, Slug: sub-mission-on-agricultural-mechanization-smam- (sourceUrl)
+      - File: farmers.json, Slug: paramparagat-krishi-vikas-yojana-pkvy- (sourceUrl)
+      - File: farmers.json, Slug: pradhan-mantri-matsya-sampada-yojana-pmmsy- (sourceUrl)
+      - File: farmers.json, Slug: rashtriya-gokul-mission (sourceUrl)
+      - File: farmers.json, Slug: national-beekeeping-honey-mission-nbhm- (sourceUrl)
+      - File: farmers.json, Slug: ysr-rythu-bharosa-andhra-pradesh- (sourceUrl)
+      - File: farmers.json, Slug: rythu-bandhu-scheme-telangana- (sourceUrl)
+      - File: farmers.json, Slug: kalia-scheme-krushak-assistance-for-livelihood-and-income-augmentation-odisha- (sourceUrl)
+      - File: farmers.json, Slug: birsa-harit-gram-yojana-jharkhand- (sourceUrl)
+      - File: farmers.json, Slug: pm-kusum-component-b-c-solar-agricultural-pumps- (sourceUrl)
+      - File: farmers.json, Slug: kisan-credit-card-kcc-scheme (applyUrl)
+      - File: farmers.json, Slug: pradhan-mantri-annadata-aay-sanraksan-abhiyan-pm-aasha (applyUrl)
+      - File: farmers.json, Slug: pradhan-mantri-annadata-aay-sanraksan-abhiyan-pm-aasha (sourceUrl)
+      - File: farmers.json, Slug: interest-subvention-scheme-short-term-crop-loans (applyUrl)
+      - File: farmers.json, Slug: mission-organic-value-chain-development-ner-movcdner (applyUrl)
+      - File: farmers.json, Slug: mission-organic-value-chain-development-ner-movcdner (sourceUrl)
+      - File: farmers.json, Slug: sub-mission-on-agricultural-mechanization-custom-hiring (sourceUrl)
+
+[65] URL: https://cooperation.maharashtra.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: dr-panjabrao-deshmukh-interest-rebate-kcc (applyUrl)
+      - File: farmers.json, Slug: dr-panjabrao-deshmukh-interest-rebate-kcc (sourceUrl)
+
+[66] URL: https://fidf.udyamimitra.in
+    Error: getaddrinfo ENOTFOUND fidf.udyamimitra.in (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: fisheries-and-aquaculture-infrastructure-development-fund-fidf (applyUrl)
+
+[67] URL: https://dof.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: fisheries-and-aquaculture-infrastructure-development-fund-fidf (sourceUrl)
+
+[68] URL: https://www.nddb.coop
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: dairy-processing-and-infrastructure-development-fund-dpidf (applyUrl)
+
+[69] URL: https://www.agriclinics.net
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: agri-clinics-and-agri-business-centres-acabc (applyUrl)
+
+[70] URL: https://www.manage.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: agri-clinics-and-agri-business-centres-acabc (sourceUrl)
+
+[71] URL: https://mahadbt.maharashtra.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: mahadbt-tractor-subsidy-scheme-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-onion-chawl-storage-subsidy-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-drip-irrigation-subsidy-scheme-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-fruit-orchard-plantation-bhausaheb-fundkar-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-community-farm-pond-lining-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-power-tiller-subsidy-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-shade-net-house-subsidy-maharashtra (applyUrl)
+      - File: farmers.json, Slug: mahadbt-vermicompost-unit-subsidy-maharashtra (applyUrl)
+      - File: students.json, Slug: pre-matric-scholarship-sc-standard-9-10-maharashtra (applyUrl)
+      - File: students.json, Slug: pre-matric-scholarship-sc-standard-9-10-maharashtra (sourceUrl)
+      - File: students.json, Slug: pre-matric-scholarship-children-cleaning-occupations-maharashtra (applyUrl)
+      - File: students.json, Slug: pre-matric-scholarship-children-cleaning-occupations-maharashtra (sourceUrl)
+      - File: students.json, Slug: tuition-exam-fee-exemption-sc-students-maharashtra (applyUrl)
+      - File: students.json, Slug: tuition-exam-fee-exemption-sc-students-maharashtra (sourceUrl)
+      - File: students.json, Slug: savitribai-phule-aadhar-yojana-obc-vjnt-sbc-hostel (applyUrl)
+      - File: students.json, Slug: savitribai-phule-aadhar-yojana-obc-vjnt-sbc-hostel (sourceUrl)
+      - File: students.json, Slug: vjnt-sbc-government-hostels-maharashtra (applyUrl)
+
+[72] URL: https://www.mahadiscom.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: mukhyamantri-baliraja-m मोफत-vij-yojana-maharashtra (applyUrl)
+
+[73] URL: https://ysrrythubharosa.ap.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: rythu-bharosa-andhra-pradesh (applyUrl)
+      - File: farmers.json, Slug: rythu-bharosa-andhra-pradesh (sourceUrl)
+
+[74] URL: https://kalia.odisha.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: kalia-scheme-odisha (applyUrl)
+      - File: farmers.json, Slug: kalia-scheme-odisha (sourceUrl)
+
+[75] URL: https://krishakbandhu.wb.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: krishak-bandhu-scheme-west-bengal (applyUrl)
+      - File: farmers.json, Slug: krishak-bandhu-scheme-west-bengal (sourceUrl)
+
+[76] URL: https://saara.mp.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: mukhyamantri-kisan-kalyan-yojana-madhya-pradesh (applyUrl)
+      - File: farmers.json, Slug: mukhyamantri-kisan-kalyan-yojana-madhya-pradesh (sourceUrl)
+
+[77] URL: https://pashudhan.haryana.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: pashu-kisan-credit-card-scheme-haryana (applyUrl)
+      - File: farmers.json, Slug: pashu-kisan-credit-card-scheme-haryana (sourceUrl)
+
+[78] URL: https://mpeuparjan.nic.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: bhavantar-bhugtan-yojana-madhya-pradesh (applyUrl)
+      - File: farmers.json, Slug: bhavantar-bhugtan-yojana-madhya-pradesh (sourceUrl)
+
+[79] URL: https://nbm.nic.in
+    Error: getaddrinfo ENOTFOUND nbm.nic.in (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: national-bamboo-mission-plantation-farmers (applyUrl)
+      - File: farmers.json, Slug: national-bamboo-mission-plantation-farmers (sourceUrl)
+
+[80] URL: https://tbcindia.gov.in/
+    Error: getaddrinfo ENOTFOUND tbcindia.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: nikshay-poshan-yojana-tb-dbt (sourceUrl)
+
+[81] URL: https://main.mohfw.gov.in/
+    Error: getaddrinfo ENOTFOUND main.mohfw.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: rashtriya-arogya-nidhi-ran (applyUrl)
+      - File: health.json, Slug: rashtriya-arogya-nidhi-ran (sourceUrl)
+      - File: health.json, Slug: health-minister-discretionary-grant-hmdg (applyUrl)
+      - File: health.json, Slug: health-minister-discretionary-grant-hmdg (sourceUrl)
+      - File: health.json, Slug: national-rabies-control-programme-nrcp (sourceUrl)
+      - File: health.json, Slug: national-oral-health-programme-nohp (applyUrl)
+      - File: health.json, Slug: national-tobacco-cessation-services-quitline (sourceUrl)
+      - File: senior-citizens.json, Slug: national-programme-for-health-care-of-the-elderly-nphce (applyUrl)
+
+[82] URL: https://arogya.maharashtra.gov.in/
+    Error: getaddrinfo ENOTFOUND arogya.maharashtra.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: balasaheb-thackeray-aapla-dawakhana-maharashtra (applyUrl)
+      - File: health.json, Slug: balasaheb-thackeray-aapla-dawakhana-maharashtra (sourceUrl)
+      - File: health.json, Slug: maharashtra-emergency-medical-services-108-mems (applyUrl)
+      - File: health.json, Slug: cochlear-implant-surgery-scheme-maharashtra (applyUrl)
+      - File: health.json, Slug: sickle-cell-thalassemia-tribal-control-maharashtra (sourceUrl)
+      - File: health.json, Slug: maharashtra-free-blood-storage-distribution (applyUrl)
+      - File: health.json, Slug: maharashtra-janani-shishu-suraksha-jssk (applyUrl)
+      - File: health.json, Slug: maharashtra-janani-shishu-suraksha-jssk (sourceUrl)
+      - File: health.json, Slug: maharashtra-dhanvantari-swasthya-yojana (applyUrl)
+      - File: health.json, Slug: maharashtra-matoshree-rugna-seva-yojana (applyUrl)
+      - File: health.json, Slug: maharashtra-matoshree-rugna-seva-yojana (sourceUrl)
+
+[83] URL: https://mems108.in/
+    Error: getaddrinfo ENOTFOUND mems108.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: maharashtra-emergency-medical-services-108-mems (sourceUrl)
+
+[84] URL: https://ysraarogyasri.ap.gov.in/
+    Error: getaddrinfo ENOTFOUND ysraarogyasri.ap.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: dr-ysr-aarogyasri-scheme-andhra-pradesh (applyUrl)
+      - File: health.json, Slug: dr-ysr-aarogyasri-scheme-andhra-pradesh (sourceUrl)
+
+[85] URL: https://farmech.bih.nic.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: farmers.json, Slug: bihar-krishi-yantra-subsidy-scheme (applyUrl)
+
+[86] URL: https://pmjay.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: mahatma-jyotirao-phule-jan-arogya-yojana-mjpjay (applyUrl)
+      - File: health.json, Slug: sant-gadge-baba-gram-swachhata-abhiyan (applyUrl)
+      - File: health.json, Slug: shiv-bhojan-thali-yojana-maharashtra (applyUrl)
+      - File: health.json, Slug: rashtriya-bal-swasthya-karyakram-rbsk (applyUrl)
+      - File: health.json, Slug: jiyo-parsi-scheme (applyUrl)
+      - File: health.json, Slug: biju-swasthya-kalyan-yojana-bsky-odisha- (applyUrl)
+      - File: health.json, Slug: karunya-arogya-suraksha-padhathi-kasp-kerala- (applyUrl)
+      - File: health.json, Slug: chirayu-haryana-yojana-chirayu- (applyUrl)
+      - File: health.json, Slug: himcare-scheme-himachal-pradesh- (applyUrl)
+      - File: health.json, Slug: ayushman-bharat-pradhan-mantri-jan-arogya-yojana-pmjay (sourceUrl)
+      - File: senior-citizens.json, Slug: ayushman-vandan-card-seniors-70-plus (sourceUrl)
+
+[87] URL: https://npcbvi.mohfw.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: national-programme-control-of-blindness-cataract-surgery (applyUrl)
+
+[88] URL: https://health.delhigovt.nic.in/
+    Error: getaddrinfo ENOTFOUND health.delhigovt.nic.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: delhi-arogya-kosh-dak (applyUrl)
+      - File: health.json, Slug: aam-aadmi-mohalla-clinics-delhi (applyUrl)
+      - File: health.json, Slug: farishtey-dilli-ke-emergency-treatment (applyUrl)
+
+[89] URL: https://health.bihar.gov.in/
+    Error: getaddrinfo ENOTFOUND health.bihar.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: bihar-mukhyamantri-chikitsa-sahayata-kosh (applyUrl)
+      - File: health.json, Slug: bihar-bal-hridaya-yojana (sourceUrl)
+
+[90] URL: https://dkbssy.cg.nic.in/
+    Error:  (Status: 0)
+    Used in:
+      - File: health.json, Slug: dr-khubchand-baghel-swasthya-sahayata-chhattisgarh (applyUrl)
+      - File: health.json, Slug: mukhyamantri-vishesh-swasthya-sahayata-chhattisgarh (applyUrl)
+
+[91] URL: https://punjab.gov.in/
+    Error: write EPROTO E09A0000:error:0A000152:SSL routines:final_renegotiate:unsafe legacy renegotiation disabled:openssl\ssl\statem\extensions.c:894:
+ (Status: 0)
+    Used in:
+      - File: health.json, Slug: punjab-mukh-mantri-sehat-bima-yojana (sourceUrl)
+      - File: health.json, Slug: aam-aadmi-clinics-punjab (applyUrl)
+      - File: health.json, Slug: aam-aadmi-clinics-punjab (sourceUrl)
+      - File: housing.json, Slug: punjab-rural-housing-renovation-grant (sourceUrl)
+      - File: senior-citizens.json, Slug: mukh-mantri-tirth-yatra-scheme-punjab (applyUrl)
+      - File: senior-citizens.json, Slug: mukh-mantri-tirth-yatra-scheme-punjab (sourceUrl)
+      - File: senior-citizens.json, Slug: punjab-roadways-senior-citizen-concession (sourceUrl)
+
+[92] URL: https://health.jharkhand.gov.in/
+    Error: getaddrinfo ENOTFOUND health.jharkhand.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: jharkhand-mukhyamantri-gambhir-bimari-upchar (sourceUrl)
+
+[93] URL: https://goadhs.gov.in/
+    Error: getaddrinfo ENOTFOUND goadhs.gov.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: deendayal-swasthya-seva-yojana-ddssy-goa (applyUrl)
+
+[94] URL: https://aaa-assam.in/
+    Error: getaddrinfo ENOTFOUND aaa-assam.in (Status: 0)
+    Used in:
+      - File: health.json, Slug: atal-amrit-abhiyan-assam (applyUrl)
+
+[95] URL: https://kantivelugu.telangana.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: kanti-velugu-scheme-telangana (applyUrl)
+
+[96] URL: https://karunya.kerala.gov.in/
+    Error:  (Status: 0)
+    Used in:
+      - File: health.json, Slug: karunya-benevolent-fund-kerala (applyUrl)
+
+[97] URL: https://aarogyasri.telangana.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: aarogyasri-scheme-telangana (applyUrl)
+      - File: health.json, Slug: aarogyasri-scheme-telangana (sourceUrl)
+
+[98] URL: https://magujarat.com/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: mukhyamantri-amrutum-ma-vatsalya-yojana-gujarat (applyUrl)
+
+[99] URL: https://pmayg.nic.in/
+    Error: getaddrinfo ENOTFOUND pmayg.nic.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: pradhan-mantri-awaas-yojana-gramin-pmay-g (applyUrl)
+      - File: housing.json, Slug: pradhan-mantri-awaas-yojana-gramin-pmay-g (sourceUrl)
+
+[100] URL: https://bocwwb.odisha.gov.in/
+    Error: getaddrinfo ENOTFOUND bocwwb.odisha.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: nirman-shramik-pucca-ghar-yojana-odisha (applyUrl)
+      - File: housing.json, Slug: nirman-shramik-pucca-ghar-yojana-odisha (sourceUrl)
+
+[101] URL: https://lottery.cidcoindia.com/
+    Error: connect ECONNREFUSED 64:ff9b::96f2:cf7:443 (Status: 0)
+    Used in:
+      - File: housing.json, Slug: cidco-mass-housing-scheme-navi-mumbai (applyUrl)
+
+[102] URL: https://talimrojgar.gujarat.gov.in/
+    Error: getaddrinfo ENOTFOUND talimrojgar.gujarat.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: halpati-awas-yojana-gujarat (applyUrl)
+
+[103] URL: https://rd.up.gov.in/
+    Error: getaddrinfo ENOTFOUND rd.up.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: mukhyamantri-awas-yojana-gramin-up (applyUrl)
+      - File: housing.json, Slug: mukhyamantri-awas-yojana-gramin-up (sourceUrl)
+
+[104] URL: https://pnrdharyana.gov.in/
+    Error: getaddrinfo ENOTFOUND pnrdharyana.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: mukhyamantri-gramin-awas-yojana-haryana (applyUrl)
+      - File: housing.json, Slug: mukhyamantri-gramin-awas-yojana-haryana (sourceUrl)
+
+[105] URL: https://rural.bihar.gov.in/
+    Error: getaddrinfo ENOTFOUND rural.bihar.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: mukhyamantri-gramin-awas-yojana-bihar (applyUrl)
+      - File: housing.json, Slug: mukhyamantri-gramin-awas-yojana-bihar (sourceUrl)
+
+[106] URL: https://revenue.bihar.gov.in/
+    Error: getaddrinfo ENOTFOUND revenue.bihar.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: mukhyamantri-vas-sthal-kraya-bihar (applyUrl)
+      - File: housing.json, Slug: mukhyamantri-vas-sthal-kraya-bihar (sourceUrl)
+
+[107] URL: https://cgrural.gov.in/
+    Error: getaddrinfo ENOTFOUND cgrural.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: chhattisgarh-mukhyamantri-awas-nyay-yojana (applyUrl)
+      - File: housing.json, Slug: chhattisgarh-mukhyamantri-awas-nyay-yojana (sourceUrl)
+
+[108] URL: https://rural.uk.gov.in/
+    Error: getaddrinfo ENOTFOUND rural.uk.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: mukhya-mantri-awas-yojana-uttarakhand (applyUrl)
+      - File: housing.json, Slug: mukhya-mantri-awas-yojana-uttarakhand (sourceUrl)
+
+[109] URL: https://cghs.nic.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: central-government-health-scheme-cghs (applyUrl)
+      - File: health.json, Slug: central-government-health-scheme-cghs (sourceUrl)
+
+[110] URL: https://panchayat.mp.gov.in/
+    Error: getaddrinfo ENOTFOUND panchayat.mp.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: mukhyamantri-jan-awas-yojana-madhya-pradesh (applyUrl)
+      - File: housing.json, Slug: mukhyamantri-jan-awas-yojana-madhya-pradesh (sourceUrl)
+
+[111] URL: https://cmhis.nagaland.gov.in/
+    Error: read ECONNRESET (Status: 0)
+    Used in:
+      - File: health.json, Slug: chief-ministers-health-insurance-cmhis-nagaland (applyUrl)
+
+[112] URL: https://megcda.gov.in/
+    Error: getaddrinfo ENOTFOUND megcda.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: meghalaya-chief-ministers-housing-scheme-cmhas (applyUrl)
+
+[113] URL: https://housing.py.gov.in/
+    Error: getaddrinfo ENOTFOUND housing.py.gov.in (Status: 0)
+    Used in:
+      - File: housing.json, Slug: puducherry-perunthalaivar-kamarajar-housing-subsidy (applyUrl)
+
+[114] URL: https://rbsk.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: district-early-intervention-centre-deic-rbsk (applyUrl)
+
+[115] URL: https://ncdc.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: health.json, Slug: national-rabies-control-programme-nrcp (applyUrl)
+
+[116] URL: https://rhodisha.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: biju-pucca-ghar-yojana-odisha (applyUrl)
+      - File: housing.json, Slug: biju-pucca-ghar-yojana-odisha (sourceUrl)
+
+[117] URL: https://wbhousing.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: gitanjali-housing-scheme-west-bengal (applyUrl)
+      - File: housing.json, Slug: gitanjali-housing-scheme-west-bengal (sourceUrl)
+      - File: housing.json, Slug: west-bengal-snehalaya-housing-scheme (applyUrl)
+
+[118] URL: https://fisheries.kerala.gov.in/
+    Error:  (Status: 0)
+    Used in:
+      - File: housing.json, Slug: kerala-safalyam-fishermen-flat-housing (applyUrl)
+
+[119] URL: https://jkhudd.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: jammu-kashmir-rural-housing-grant (applyUrl)
+
+[120] URL: https://urbanodisha.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: odisha-urban-housing-mission-awas (applyUrl)
+      - File: housing.json, Slug: odisha-urban-housing-mission-awas (sourceUrl)
+
+[121] URL: https://ksdb.karnataka.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: karnataka-slum-development-board-housing (applyUrl)
+
+[122] URL: https://upbocw.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: uttar-pradesh-bocw-shramik-awas-subsidy (applyUrl)
+      - File: housing.json, Slug: uttar-pradesh-bocw-shramik-awas-subsidy (sourceUrl)
+
+[123] URL: https://bocw.bihar.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: bihar-bocw-shramik-grih-nirman-anudan (applyUrl)
+
+[124] URL: https://labour.bihar.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: bihar-bocw-shramik-grih-nirman-anudan (sourceUrl)
+
+[125] URL: https://shramadhan.jharkhand.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: jharkhand-bocw-awas-sahayata-yojana (applyUrl)
+
+[126] URL: https://keralabocw.org/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: kerala-bocw-housing-assistance-scheme (applyUrl)
+      - File: housing.json, Slug: kerala-bocw-housing-assistance-scheme (sourceUrl)
+
+[127] URL: https://pbrdp.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: punjab-rural-housing-renovation-grant (applyUrl)
+
+[128] URL: https://hrylabour.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: haryana-bocw-shramik-makaan-sahayata (applyUrl)
+      - File: housing.json, Slug: haryana-bocw-shramik-makaan-sahayata (sourceUrl)
+
+[129] URL: https://fard.odisha.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: odisha-fishermen-pucca-housing-scheme (applyUrl)
+
+[130] URL: https://odisha.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: odisha-fishermen-pucca-housing-scheme (sourceUrl)
+      - File: senior-citizens.json, Slug: baristha-nagarika-tirtha-yatra-odisha (sourceUrl)
+
+[131] URL: https://labour.mp.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: madhya-pradesh-bocw-shramik-awas-anudan (applyUrl)
+
+[132] URL: https://labour.rajasthan.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: rajasthan-bocw-shramik-awas-subsidy (applyUrl)
+
+[133] URL: https://enirmanbocw.gujarat.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: gujarat-bocw-makaan-sahayata-yojana (applyUrl)
+
+[134] URL: https://chbonline.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: chandigarh-housing-board-affordable-flats (applyUrl)
+
+[135] URL: https://labour.telangana.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: telangana-bocw-shramik-awas-subsidy (applyUrl)
+
+[136] URL: https://labour.ap.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: andhra-pradesh-bocw-housing-assistance (applyUrl)
+
+[137] URL: https://hpbocw.nic.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: himachal-bocw-housing-subsidy-scheme (applyUrl)
+
+[138] URL: https://labour.uk.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: uttarakhand-bocw-housing-assistance-scheme (applyUrl)
+
+[139] URL: https://jkbocw.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: jammu-kashmir-bocw-housing-assistance (applyUrl)
+
+[140] URL: https://labour.py.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: puducherry-bocw-housing-subsidy-scheme (applyUrl)
+
+[141] URL: https://urban.cg.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: chhattisgarh-shahari-dhobi-gharkul-yojana (applyUrl)
+
+[142] URL: https://mahapolice.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: housing.json, Slug: maharashtra-police-kutumb-gruh-nirman (applyUrl)
+      - File: housing.json, Slug: maharashtra-police-kutumb-gruh-nirman (sourceUrl)
+      - File: senior-citizens.json, Slug: maharashtra-police-elder-security-cell-1090 (applyUrl)
+      - File: senior-citizens.json, Slug: maharashtra-police-elder-security-cell-1090 (sourceUrl)
+
+[143] URL: https://www.indiapost.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: senior-citizens-savings-scheme-scss (applyUrl)
+      - File: senior-citizens.json, Slug: post-office-monthly-income-scheme-mis-seniors (applyUrl)
+
+[144] URL: https://dea.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: senior-citizens-savings-scheme-scss (sourceUrl)
+
+[145] URL: https://elderline.dosje.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: elderline-national-helpline-for-senior-citizens-14567 (applyUrl)
+
+[146] URL: https://jeevanpramaan.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: jeevan-pramaan-digital-life-certificate (applyUrl)
+      - File: senior-citizens.json, Slug: jeevan-pramaan-digital-life-certificate (sourceUrl)
+
+[147] URL: https://sacred.dosje.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: sacred-portal-senior-able-citizens-reemployment (applyUrl)
+
+[148] URL: https://odishatourism.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: baristha-nagarika-tirtha-yatra-odisha (applyUrl)
+
+[149] URL: https://dssp.karnataka.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: sandhya-suraksha-yojana-karnataka (sourceUrl)
+
+[150] URL: https://ayush.kerala.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: vayo-amrutham-ayurvedic-elderly-care-kerala (applyUrl)
+
+[151] URL: https://tirthyatra.haryana.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: mukhyamantri-tirth-yatra-yojana-haryana (applyUrl)
+
+[152] URL: https://devasthan.rajasthan.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: varishtha-nagrik-tirth-yatra-rajasthan (applyUrl)
+
+[153] URL: https://tirthdarshan.mp.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: mukhyamantri-tirth-darshan-yojana-madhya-pradesh (applyUrl)
+
+[154] URL: https://yatradham.gujarat.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: shravan-tirth-darshan-yojana-gujarat (applyUrl)
+
+[155] URL: https://www.tnesevai.tn.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: tamil-nadu-destitute-old-age-pension-oap (applyUrl)
+
+[156] URL: https://mtcbus.tn.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: tamil-nadu-senior-citizen-free-bus-tokens (applyUrl)
+
+[157] URL: https://licindia.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: pradhan-mantri-vaya-vandana-yojana-pmvvy-lic (applyUrl)
+
+[158] URL: https://financialservices.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: pradhan-mantri-vaya-vandana-yojana-pmvvy-lic (sourceUrl)
+
+[159] URL: https://nhb.org.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: reverse-mortgage-loan-scheme-seniors (applyUrl)
+      - File: senior-citizens.json, Slug: reverse-mortgage-loan-scheme-seniors (sourceUrl)
+
+[160] URL: https://indiapost.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: post-office-monthly-income-scheme-mis-seniors (sourceUrl)
+
+[161] URL: https://socialwelfareup.upsdc.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: uttar-pradesh-vriddhashram-yojana (applyUrl)
+
+[162] URL: https://jaibangla.wb.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: west-bengal-old-age-pension-jai-bangla (applyUrl)
+
+[163] URL: https://megsocialwelfare.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: meghalaya-social-assistance-for-senior-citizens (applyUrl)
+
+[164] URL: https://socialwelfare.mn.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: manipur-old-age-pension-scheme-moaps (applyUrl)
+
+[165] URL: https://ksrtc.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: ksrtc-concessional-bus-pass-seniors-karnataka (applyUrl)
+
+[166] URL: https://dtcpass.delhi.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: delhi-dtc-concessional-senior-citizen-bus-pass (applyUrl)
+
+[167] URL: https://dtc.delhi.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: delhi-dtc-concessional-senior-citizen-bus-pass (sourceUrl)
+
+[168] URL: https://tsrtcpass.cgg.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: tsrtc-senior-citizen-concessional-travel-telangana (applyUrl)
+
+[169] URL: https://keralartc.com/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: kerala-ksrtc-concessional-travel-senior-citizens (applyUrl)
+
+[170] URL: https://www.hrtchp.com/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: himachal-hrtc-senior-citizen-smart-card (applyUrl)
+
+[171] URL: https://punbusonline.com/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: punjab-roadways-senior-citizen-concession (applyUrl)
+
+[172] URL: https://hartrans.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: haryana-roadways-senior-citizen-50-percent (applyUrl)
+
+[173] URL: https://upsrtc.up.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: uttar-pradesh-upsrtc-senior-citizen-concession (applyUrl)
+
+[174] URL: https://transport.rajasthan.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: rajasthan-rsrtc-senior-citizen-concession (applyUrl)
+
+[175] URL: https://wbtc.co.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: west-bengal-wbtc-senior-citizen-pass (applyUrl)
+
+[176] URL: https://astc.assam.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: assam-astc-senior-citizen-bus-concession (applyUrl)
+
+[177] URL: https://ktclgoa.com/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: goa-kadamba-senior-citizen-bus-pass (applyUrl)
+
+[178] URL: https://prtc.py.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: puducherry-prtc-senior-citizen-bus-concession (applyUrl)
+
+[179] URL: https://mybmtc.karnataka.gov.in/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: bmtc-senior-citizen-bus-pass-bengaluru (applyUrl)
+
+[180] URL: https://bestundertaking.com/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: best-senior-citizen-concessional-bus-pass-mumbai (applyUrl)
+      - File: senior-citizens.json, Slug: best-senior-citizen-concessional-bus-pass-mumbai (sourceUrl)
+
+[181] URL: https://pmpml.org/
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: senior-citizens.json, Slug: pmpml-senior-citizen-concessional-pass-pune (applyUrl)
+      - File: senior-citizens.json, Slug: pmpml-senior-citizen-concessional-pass-pune (sourceUrl)
+
+[182] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AA83CEE4DA1BA237A
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-sc (applyUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-sc (sourceUrl)
+
+[183] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AB02280766A5506E5
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-st (applyUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-st (sourceUrl)
+
+[184] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51ABBF746A1456A2D23
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-obc (applyUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-obc (sourceUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-vjnt (applyUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-vjnt (sourceUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-sbc (applyUrl)
+      - File: students.json, Slug: mahadbt-post-matric-scholarship-sbc (sourceUrl)
+
+[185] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A4FD83C855C66ED27
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: rajarshi-shahu-maharaj-shikshan-shulk-ebc (applyUrl)
+      - File: students.json, Slug: rajarshi-shahu-maharaj-shikshan-shulk-ebc (sourceUrl)
+
+[186] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A4676527581B09935
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: tuition-fees-exam-fees-vjnt-obc-sbc (applyUrl)
+      - File: students.json, Slug: tuition-fees-exam-fees-vjnt-obc-sbc (sourceUrl)
+
+[187] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AA78BA48D766A599B
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: state-minority-scholarship-higher-education-maharashtra (applyUrl)
+      - File: students.json, Slug: state-minority-scholarship-higher-education-maharashtra (sourceUrl)
+      - File: students.json, Slug: maintenance-allowance-vjnt-sbc-hostel-day-scholars (applyUrl)
+      - File: students.json, Slug: maintenance-allowance-vjnt-sbc-hostel-day-scholars (sourceUrl)
+
+[188] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A7A789A123164101A
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: panjabrao-deshmukh-hostel-maintenance-allowance (applyUrl)
+      - File: students.json, Slug: panjabrao-deshmukh-hostel-maintenance-allowance (sourceUrl)
+
+[189] URL: https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A19D3B51980838891
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: rajarshi-shahu-maharaj-merit-scholarship-sc-maharashtra (applyUrl)
+      - File: students.json, Slug: rajarshi-shahu-maharaj-merit-scholarship-sc-maharashtra (sourceUrl)
+
+[190] URL: https://tribal.maharashtra.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: pandit-deendayal-upadhyay-swayam-yojana-tribal-hostel (applyUrl)
+      - File: students.json, Slug: pandit-deendayal-upadhyay-swayam-yojana-tribal-hostel (sourceUrl)
+      - File: students.json, Slug: government-adivasi-hostels-st-students-maharashtra (applyUrl)
+      - File: students.json, Slug: government-adivasi-hostels-st-students-maharashtra (sourceUrl)
+      - File: women.json, Slug: maharashtra-tribal-development-muktayan-bicycle-scheme-girls (applyUrl)
+      - File: women.json, Slug: maharashtra-tribal-development-muktayan-bicycle-scheme-girls (sourceUrl)
+
+[191] URL: https://samagrashiksha.education.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: kasturba-gandhi-balika-vidyalaya-kgbv-hostels (applyUrl)
+      - File: students.json, Slug: kasturba-gandhi-balika-vidyalaya-kgbv-hostels (sourceUrl)
+      - File: students.json, Slug: netaji-subhash-chandra-bose-avasiya-vidyalaya (applyUrl)
+      - File: students.json, Slug: netaji-subhash-chandra-bose-avasiya-vidyalaya (sourceUrl)
+      - File: students.json, Slug: rmsa-girls-hostels-scheme (applyUrl)
+
+[192] URL: https://msrtc.maharashtra.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: punyashlok-ahilyadevi-holkar-free-travel-st-bus (applyUrl)
+      - File: students.json, Slug: punyashlok-ahilyadevi-holkar-free-travel-st-bus (sourceUrl)
+      - File: women.json, Slug: maharashtra-mahila-samman-yojana-half-ticket-st (applyUrl)
+      - File: women.json, Slug: maharashtra-mahila-samman-yojana-half-ticket-st (sourceUrl)
+      - File: women.json, Slug: ahilyabai-holkar-free-bus-pass-girls-maharashtra (applyUrl)
+      - File: women.json, Slug: ahilyabai-holkar-free-bus-pass-girls-maharashtra (sourceUrl)
+      - File: women.json, Slug: hirkani-kaksha-lactation-booths-maharashtra (applyUrl)
+
+[193] URL: https://emrs.tribal.gov.in
+    Error: getaddrinfo ENOTFOUND emrs.tribal.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: eklavya-model-residential-schools-emrs (applyUrl)
+
+[194] URL: https://sw.kar.nic.in
+    Error: getaddrinfo ENOTFOUND sw.kar.nic.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: social-welfare-free-hostels-karnataka (applyUrl)
+      - File: students.json, Slug: social-welfare-free-hostels-karnataka (sourceUrl)
+
+[195] URL: https://apswreis.ap.gov.in
+    Error: getaddrinfo ENOTFOUND apswreis.ap.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: apswreis-dr-br-ambedkar-gurukulam-hostels-ap (applyUrl)
+      - File: students.json, Slug: apswreis-dr-br-ambedkar-gurukulam-hostels-ap (sourceUrl)
+
+[196] URL: https://nosmsje.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: national-overseas-scholarship-sc (applyUrl)
+      - File: students.json, Slug: national-overseas-scholarship-sc (sourceUrl)
+
+[197] URL: https://tswreis.ac.in
+    Error: getaddrinfo ENOTFOUND tswreis.ac.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: tswreis-social-welfare-residential-hostels-telangana (applyUrl)
+      - File: students.json, Slug: tswreis-social-welfare-residential-hostels-telangana (sourceUrl)
+
+[198] URL: https://adwelfare.tn.gov.in
+    Error: getaddrinfo ENOTFOUND adwelfare.tn.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: tn-adi-dravidar-welfare-hostels (applyUrl)
+      - File: students.json, Slug: tn-adi-dravidar-welfare-hostels (sourceUrl)
+
+[199] URL: https://hpbocw.gov.in
+    Error: getaddrinfo ENOTFOUND hpbocw.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: hpbocwwb-hostel-facility-scheme (applyUrl)
+
+[200] URL: https://adwel.py.gov.in
+    Error: getaddrinfo ENOTFOUND adwel.py.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: puducherry-maintenance-boys-girls-hostels (applyUrl)
+
+[201] URL: https://bcebcwelfare.bihar.gov.in
+    Error: getaddrinfo ENOTFOUND bcebcwelfare.bihar.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: bihar-karpoori-thakur-ebc-hostels (applyUrl)
+      - File: students.json, Slug: bihar-karpoori-thakur-ebc-hostels (sourceUrl)
+
+[202] URL: https://yas.nic.in/youth-affairs/youth-hostel
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: youth-hostel-scheme-myas (applyUrl)
+
+[203] URL: https://scst.bihar.gov.in
+    Error: getaddrinfo ENOTFOUND scst.bihar.gov.in (Status: 0)
+    Used in:
+      - File: students.json, Slug: bihar-ambedkar-residential-high-schools-hostels (applyUrl)
+      - File: students.json, Slug: bihar-ambedkar-residential-high-schools-hostels (sourceUrl)
+
+[204] URL: https://wcd.nic.in/schemes/working-women-hostel
+    Error: getaddrinfo ENOTFOUND wcd.nic.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: sakhi-niwas-working-women-hostel-scheme (applyUrl)
+      - File: women.json, Slug: sakhi-niwas-working-women-hostel-scheme (sourceUrl)
+
+[205] URL: https://wcd.nic.in/schemes/swadhar-greh-scheme-women-difficult-circumstances
+    Error: getaddrinfo ENOTFOUND wcd.nic.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: swadhar-greh-scheme-women-difficult-circumstances (applyUrl)
+      - File: women.json, Slug: swadhar-greh-scheme-women-difficult-circumstances (sourceUrl)
+
+[206] URL: https://wcd.nic.in/bbbp-schemes
+    Error: getaddrinfo ENOTFOUND wcd.nic.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: beti-bachao-beti-padhao-bbbp (applyUrl)
+      - File: women.json, Slug: beti-bachao-beti-padhao-bbbp (sourceUrl)
+
+[207] URL: https://wcd.nic.in
+    Error: getaddrinfo ENOTFOUND wcd.nic.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: mission-vatsalya-child-protection (applyUrl)
+      - File: women.json, Slug: mission-vatsalya-child-protection (sourceUrl)
+      - File: women.json, Slug: scheme-for-adolescent-girls-sag (applyUrl)
+      - File: women.json, Slug: scheme-for-adolescent-girls-sag (sourceUrl)
+      - File: women.json, Slug: nai-roshni-scheme (applyUrl)
+      - File: women.json, Slug: nai-roshni-scheme (sourceUrl)
+      - File: women.json, Slug: adivasi-mahila-sashaktikaran-yojana-amsy- (applyUrl)
+      - File: women.json, Slug: adivasi-mahila-sashaktikaran-yojana-amsy- (sourceUrl)
+      - File: women.json, Slug: nbcfdc-new-swarnima-scheme-for-obc-women (applyUrl)
+      - File: women.json, Slug: nbcfdc-new-swarnima-scheme-for-obc-women (sourceUrl)
+      - File: women.json, Slug: drone-didi-scheme-namo-drone-didi- (applyUrl)
+      - File: women.json, Slug: drone-didi-scheme-namo-drone-didi- (sourceUrl)
+      - File: women.json, Slug: majhi-ladki-bahin-yojana-maharashtra- (applyUrl)
+      - File: women.json, Slug: majhi-ladki-bahin-yojana-maharashtra- (sourceUrl)
+      - File: women.json, Slug: kanya-sumangala-yojana-uttar-pradesh- (applyUrl)
+      - File: women.json, Slug: kanya-sumangala-yojana-uttar-pradesh- (sourceUrl)
+      - File: women.json, Slug: gruha-lakshmi-scheme-karnataka- (applyUrl)
+      - File: women.json, Slug: gruha-lakshmi-scheme-karnataka- (sourceUrl)
+      - File: women.json, Slug: kalaignar-magalir-urimai-thittam-tamil-nadu- (applyUrl)
+      - File: women.json, Slug: kalaignar-magalir-urimai-thittam-tamil-nadu- (sourceUrl)
+      - File: women.json, Slug: mukhyamantri-ladli-behna-yojana-madhya-pradesh- (applyUrl)
+      - File: women.json, Slug: mukhyamantri-ladli-behna-yojana-madhya-pradesh- (sourceUrl)
+      - File: women.json, Slug: lakshmir-bhandar-scheme-west-bengal- (applyUrl)
+      - File: women.json, Slug: lakshmir-bhandar-scheme-west-bengal- (sourceUrl)
+      - File: women.json, Slug: kalyana-lakshmi-shaadi-mubarak-scheme-telangana- (applyUrl)
+      - File: women.json, Slug: kalyana-lakshmi-shaadi-mubarak-scheme-telangana- (sourceUrl)
+      - File: women.json, Slug: mukhyamantri-mahila-udyami-yojana-bihar- (applyUrl)
+      - File: women.json, Slug: mukhyamantri-mahila-udyami-yojana-bihar- (sourceUrl)
+      - File: women.json, Slug: kudumbashree-microenterprise-livelihood-scheme-kerala- (applyUrl)
+      - File: women.json, Slug: kudumbashree-microenterprise-livelihood-scheme-kerala- (sourceUrl)
+      - File: women.json, Slug: ashirwad-scheme-punjab- (applyUrl)
+      - File: women.json, Slug: ashirwad-scheme-punjab- (sourceUrl)
+      - File: women.json, Slug: orunodoi-2-0-scheme-assam- (applyUrl)
+      - File: women.json, Slug: orunodoi-2-0-scheme-assam- (sourceUrl)
+      - File: women.json, Slug: kaushalya-matritva-yojana-chhattisgarh- (applyUrl)
+      - File: women.json, Slug: kaushalya-matritva-yojana-chhattisgarh- (sourceUrl)
+      - File: women.json, Slug: pradhan-mantri-matru-vandana-yojana-pmmvy (sourceUrl)
+      - File: women.json, Slug: mission-shakti-one-stop-centre-sakhi (applyUrl)
+      - File: women.json, Slug: mission-shakti-one-stop-centre-sakhi (sourceUrl)
+      - File: women.json, Slug: women-helpline-181-scheme (applyUrl)
+      - File: women.json, Slug: women-helpline-181-scheme (sourceUrl)
+      - File: women.json, Slug: national-creche-scheme-working-mothers (applyUrl)
+      - File: women.json, Slug: national-creche-scheme-working-mothers (sourceUrl)
+      - File: women.json, Slug: support-to-training-and-employment-programme-step (applyUrl)
+      - File: women.json, Slug: support-to-training-and-employment-programme-step (sourceUrl)
+      - File: women.json, Slug: priyadarshini-rural-women-empowerment-scheme (applyUrl)
+      - File: women.json, Slug: nari-shakti-puraskar-women-achievers (sourceUrl)
+      - File: women.json, Slug: mahila-e-haat-online-marketing-platform (applyUrl)
+      - File: women.json, Slug: mahila-e-haat-online-marketing-platform (sourceUrl)
+      - File: women.json, Slug: rashtriya-mahila-kosh-microfinance (applyUrl)
+      - File: women.json, Slug: rashtriya-mahila-kosh-microfinance (sourceUrl)
+
+[208] URL: https://nsap.nic.in
+    Error: getaddrinfo ENOTFOUND nsap.nic.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: national-social-assistance-programme-ignwps (applyUrl)
+      - File: women.json, Slug: national-social-assistance-programme-ignwps (sourceUrl)
+      - File: women.json, Slug: national-family-benefit-scheme-nfbs (applyUrl)
+      - File: women.json, Slug: national-family-benefit-scheme-nfbs (sourceUrl)
+
+[209] URL: https://pmmvy.wcd.gov.in
+    Error: HTTP status 500 (Status: 500)
+    Used in:
+      - File: women.json, Slug: pradhan-mantri-matru-vandana-yojana-pmmvy (applyUrl)
+
+[210] URL: https://arogya.maharashtra.gov.in
+    Error: getaddrinfo ENOTFOUND arogya.maharashtra.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: savitribai-phule-kanya-kalyan-yojana-maharashtra (applyUrl)
+      - File: women.json, Slug: savitribai-phule-kanya-kalyan-yojana-maharashtra (sourceUrl)
+      - File: women.json, Slug: hirkani-kaksha-lactation-booths-maharashtra (sourceUrl)
+
+[211] URL: https://jaganannaammavodi.ap.gov.in
+    Error: getaddrinfo ENOTFOUND jaganannaammavodi.ap.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: amma-vodi-scheme-andhra-pradesh (applyUrl)
+      - File: women.json, Slug: amma-vodi-scheme-andhra-pradesh (sourceUrl)
+
+[212] URL: https://ysrsunnavaddi.ap.gov.in
+    Error: getaddrinfo ENOTFOUND ysrsunnavaddi.ap.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: ysr-sunna-vaddi-women-shg-andhra-pradesh (applyUrl)
+      - File: women.json, Slug: ysr-sunna-vaddi-women-shg-andhra-pradesh (sourceUrl)
+
+[213] URL: https://ats.upsdc.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: rajkiya-ashram-paddhati-vidyalaya-up (applyUrl)
+
+[214] URL: https://shaadi.edisha.gov.in
+    Error: getaddrinfo ENOTFOUND shaadi.edisha.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: mukhyamantri-vivah-shagun-yojana-haryana (applyUrl)
+
+[215] URL: https://www.wbkanyashree.gov.in
+    Error: connect ECONNREFUSED 164.100.199.21:443 (Status: 0)
+    Used in:
+      - File: women.json, Slug: kanyashree-prakalpa-scheme-west-bengal (applyUrl)
+      - File: women.json, Slug: kanyashree-prakalpa-scheme-west-bengal (sourceUrl)
+
+[216] URL: https://www.pudhumaipenn.tn.gov.in
+    Error: connect ECONNREFUSED 65.0.153.150:443 (Status: 0)
+    Used in:
+      - File: women.json, Slug: pudhumai-penn-scheme-tamil-nadu (applyUrl)
+
+[217] URL: https://gramawardsachivalayam.ap.gov.in
+    Error: getaddrinfo ENOTFOUND gramawardsachivalayam.ap.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: ysr-cheyutha-women-livelihood-andhra-pradesh (applyUrl)
+      - File: women.json, Slug: ysr-aasara-shg-loan-waiver-andhra-pradesh (applyUrl)
+
+[218] URL: https://ysrcheyutha.ap.gov.in
+    Error: getaddrinfo ENOTFOUND ysrcheyutha.ap.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: ysr-cheyutha-women-livelihood-andhra-pradesh (sourceUrl)
+
+[219] URL: https://ysraasara.ap.gov.in
+    Error: getaddrinfo ENOTFOUND ysraasara.ap.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: ysr-aasara-shg-loan-waiver-andhra-pradesh (sourceUrl)
+
+[220] URL: https://indirarasoi.rajasthan.gov.in
+    Error: getaddrinfo ENOTFOUND indirarasoi.rajasthan.gov.in (Status: 0)
+    Used in:
+      - File: women.json, Slug: indira-rasoi-yojana-women-self-help-groups-rajasthan (applyUrl)
+
+[221] URL: https://socialjustice.mp.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: students.json, Slug: mp-hostel-scheme-disabled-students (applyUrl)
+      - File: women.json, Slug: mukhya-mantri-kanya-vivah-yojana-madhya-pradesh (applyUrl)
+      - File: women.json, Slug: mukhya-mantri-kanya-vivah-yojana-madhya-pradesh (sourceUrl)
+
+[222] URL: https://medhasoft.bih.nic.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: women.json, Slug: mukhyamantri-kanya-utthan-yojana-bihar (applyUrl)
+      - File: women.json, Slug: mukhyamantri-balika-protsahan-yojana-bihar (applyUrl)
+
+[223] URL: https://haryanascbc.gov.in
+    Error: Connection timed out (Status: 0)
+    Used in:
+      - File: women.json, Slug: mukhyamantri-vivah-shagun-yojana-haryana (sourceUrl)

@@ -1,0 +1,3432 @@
+[
+  {
+    "slug": "mahatma-jyotirao-phule-jan-arogya-yojana-mjpjay",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra",
+    "title_en": "Mahatma Jyotirao Phule Jan Arogya Yojana (MJPJAY - Universal Health Cover Maharashtra)",
+    "title_hi": "महात्मा ज्योतिराव फुले जन आरोग्य योजना (मोफत उपचार - महाराष्ट्र शासन)",
+    "description_en": "Universal cashless health assurance scheme providing up to ₹5,00,000 annual hospitalization coverage per family across 1,356 medical and surgical procedures in over 1,000 empanelled network hospitals in Maharashtra.",
+    "description_hi": "महाराष्ट्रातील सर्व रेशनकार्डधारक कुटुंबांना वर्षाला ₹5 लाखांपर्यंत मोफत कॅशलेस वैद्यकीय उपचार व शस्त्रक्रिया उपलब्ध करून देणारी सार्वत्रिक आरोग्य विमा योजना.",
+    "benefits_en": "100% cashless medical care, surgeries, medicines, diagnostics, ICU care, and post-discharge consultations for 1,356 secondary and tertiary procedures (including cardiac, oncology, nephrology, and joint replacements).",
+    "benefits_hi": "1,356 आजारांवर शस्त्रक्रिया, औषधोपचार, आयसीयू आणि तपासण्यांसह ₹5 लाखांपर्यंत पूर्ण मोफत उपचार.",
+    "benefitType": "Healthcare",
+    "benefitAmount": "Cashless Hospitalization Cover up to ₹5,00,000 / Year per Family",
+    "eligibility_en": {
+      "minAge": 0,
+      "maxAge": 100,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "All"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Valid Ration Card (Yellow, Orange, or White Ration Card of Maharashtra)",
+      "Aadhaar Card or Voter ID / Photo ID proof of the patient",
+      "Ayushman Bharat Golden Card (if applicable)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sant-gadge-baba-gram-swachhata-abhiyan",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra",
+    "title_en": "Sant Gadge Baba Gram Swachhata Abhiyan (Village Cleanliness Incentive Awards)",
+    "title_hi": "संत गाडगे बाबा ग्राम स्वच्छता अभियान (स्वच्छ गाव प्रोत्साहन पुरस्कार योजना)",
+    "description_en": "Statewide community sanitation competitive scheme granting cash prizes ranging from ₹5 Lakh up to ₹50 Lakh to Gram Panchayats for achieving excellence in rural sanitation, 100% toilet coverage, solid and liquid waste management, and public health.",
+    "description_hi": "ग्रामीण भागात 100% हागणदारीमुक्ती, घनकचरा व सांडपाणी व्यवस्थापन आणि गाव स्वच्छतेसाठी ग्रामपंचायतींना ₹5 लाख ते ₹50 लाखांपर्यंत रोख बक्षिसे देणारी राज्य योजना.",
+    "benefits_en": "Cash prize of ₹50 Lakh for 1st prize at state level, ₹35 Lakh for 2nd prize, ₹10 Lakh at division level, and ₹5 Lakh at district level utilized for village civic infrastructure.",
+    "benefits_hi": "राज्यस्तरावर ₹50 लाखांचे प्रथम बक्षीस, जिल्हास्तरावर ₹5 लाख ते ₹10 लाख बक्षीस गावाच्या विकासासाठी.",
+    "benefitType": "Infrastructure",
+    "benefitAmount": "Cash Awards up to ₹50 Lakh for Gram Panchayats",
+    "eligibility_en": {
+      "minAge": 18,
+      "maxAge": 80,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "All",
+        "Farmer",
+        "Worker"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Gram Panchayat Resolution (Tharav)",
+      "ODF Plus Verification Report from Zilla Parishad",
+      "Solid & Liquid Waste Facility Photos",
+      "Audited Balance Sheet of Gram Panchayat"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shiv-bhojan-thali-yojana-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra",
+    "title_en": "Shiv Bhojan Thali Yojana (Nutritious Subsidized Meal at ₹10 - Maharashtra)",
+    "title_hi": "शिवभोजन थाळी योजना (फक्त ₹10 मध्ये सकस भोजन - महाराष्ट्र शासन)",
+    "description_en": "Provides a hot, wholesome and nutritious meal (2 chapatis, 1 vegetable, 1 bowl dal, and 1 bowl rice) for just ₹10 to poor citizens, daily wage laborers, hospital visitors, and migrant workers across 1,000+ Shiv Bhojan canteens.",
+    "description_hi": "गरीब, कष्टकरी, मजूर आणि सामान्य नागरिकांना बसस्थानके, रेल्वे स्थानके व शासकीय रुग्णालयांजवळ फक्त ₹10 मध्ये सकस व ताजे दुपारचे जेवण देणारी योजना.",
+    "benefits_en": "Full hygienic meal (2 rotis, 1 vegetable sabzi, dal, and rice) served daily between 11:00 AM to 3:00 PM; government pays remaining ₹40 per thali subsidy to canteen operator.",
+    "benefits_hi": "दुपारी 11 ते 3 या वेळेत 2 चपात्या, भाजी, वरण आणि भाताची स्वच्छ थाळी फक्त ₹10 मध्ये उपलब्ध.",
+    "benefitType": "Healthcare",
+    "benefitAmount": "Wholesome Hot Lunch Meal for just ₹10",
+    "eligibility_en": {
+      "minAge": 0,
+      "maxAge": 100,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "All",
+        "Worker",
+        "Unemployed",
+        "Student"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "No documents required to eat at canteen (Canteen operator takes digital face photo via Shiv Bhojan App for meal token)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "rashtriya-bal-swasthya-karyakram-rbsk",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health",
+    "title_en": "Rashtriya Bal Swasthya Karyakram (RBSK - Child Health Screening & Free Surgeries)",
+    "title_hi": "राष्ट्रीय बाल स्वास्थ्य कार्यक्रम (आरबीएसके - मोफत बाल आरोग्य तपासणी व उपचार)",
+    "description_en": "Universal child health initiative providing comprehensive early screening of children aged 0 to 18 years for 4Ds: Defects at birth (congenital heart defects, cleft lip/palate, clubfoot), Diseases, Deficiencies, and Developmental delays, along with 100% free surgical interventions and tertiary care.",
+    "description_hi": "0 ते 18 वर्षे वयोगटातील सर्व बालकांची अंगणवाडी व शाळांमध्ये मोफत आरोग्य तपासणी करून जन्मजात व्यंग (हृदयरोग, दुभंगलेले ओठ, मोतीबिंदू), आजार आणि वाढीतील दोषांवर 100% मोफत शस्त्रक्रिया करणारी योजना.",
+    "benefits_en": "Free screening by dedicated Mobile Health Teams (MHTs), free corrective surgeries in district hospitals and tertiary empanelled specialty centers, and therapy at District Early Intervention Centres (DEIC).",
+    "benefits_hi": "मोबाईल आरोग्य पथकामार्फत मोफत तपासणी, मोफत चष्मे, श्रवणयंत्रे आणि जिल्हा रुग्णालयांतून मोफत मोठ्या शस्त्रक्रिया.",
+    "benefitType": "Healthcare",
+    "benefitAmount": "100% Free Screening, Medicines & Surgeries (including Pediatric Cardiac Surgeries)",
+    "eligibility_en": {
+      "minAge": 0,
+      "maxAge": 18,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "All"
+      ],
+      "occupations": [
+        "Student",
+        "Child",
+        "Infant"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass"
+      ]
+    },
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Aadhaar Card of Child (or Parents Aadhaar)",
+      "Anganwadi / School Registration Number",
+      "RBSK Referral Card issued by Mobile Health Team Doctor"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "jiyo-parsi-scheme",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health",
+    "title_en": "Jiyo Parsi Scheme",
+    "title_hi": "जियो पारसी योजना",
+    "description_en": "Unique central initiative aimed at reversing the population decline of the Parsi Zoroastrian community in India through medical assistance, advocacy, and childcare financial support.",
+    "description_hi": "पारसी समुदाय की घटती जनसंख्या को रोकने के लिए चिकित्सा सहायता, प्रजनन उपचार और बाल सहायता योजना।",
+    "benefits_en": "Financial assistance up to Rs 8 Lakh per conception attempt for IVF and advanced fertility treatments, plus Rs 4,000/month per child assistance.",
+    "benefits_hi": "प्रजनन उपचार हेतु प्रति प्रयास ₹8 लाख तक की सहायता एवं ₹4,000 प्रति माह बाल सहायता।",
+    "benefitType": "Health",
+    "benefitAmount": "Up to ₹8,00,000 + ₹4,000/month",
+    "eligibility_en": "Eligible citizens / families meeting medical and income guidelines",
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Doctor Prescription / Medical Records",
+      "Income Certificate (if applicable)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "biju-swasthya-kalyan-yojana-bsky-odisha-",
+    "level": "STATE",
+    "state": "Odisha",
+    "category": "health",
+    "tags": "health",
+    "title_en": "Biju Swasthya Kalyan Yojana (BSKY - Odisha)",
+    "title_hi": "बीजू स्वास्थ्य कल्याण योजना (BSKY - ओडिशा)",
+    "description_en": "Universal health protection scheme by Government of Odisha providing cashless healthcare in government health facilities and empanelled private hospitals across India.",
+    "description_hi": "ओडिशा के परिवारों को ₹5 लाख (तथा परिवार की महिला सदस्यों हेतु ₹10 लाख) तक का कैशलेस स्वास्थ्य बीमा।",
+    "benefits_en": "Cashless hospitalization up to Rs 5 Lakh per family per year, and enhanced coverage of up to Rs 10 Lakh for women members of the family.",
+    "benefits_hi": "प्रति परिवार ₹5 लाख तथा महिलाओं हेतु ₹10 लाख प्रति वर्ष तक का पूर्ण कैशलेस उपचार।",
+    "benefitType": "Health",
+    "benefitAmount": "₹5,00,000 - ₹10,00,000/year Cashless",
+    "eligibility_en": "Eligible citizens / families meeting medical and income guidelines",
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Doctor Prescription / Medical Records",
+      "Income Certificate (if applicable)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "karunya-arogya-suraksha-padhathi-kasp-kerala-",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "health",
+    "tags": "health",
+    "title_en": "Karunya Arogya Suraksha Padhathi (KASP - Kerala)",
+    "title_hi": "कारुण्य आरोग्य सुरक्षा पद्धति (KASP - केरल)",
+    "description_en": "State health insurance scheme by Government of Kerala in convergence with PM-JAY providing cashless secondary and tertiary hospital treatment to vulnerable families.",
+    "description_hi": "केरल के गरीब परिवारों को सूचीबद्ध अस्पतालों में गंभीर बीमारियों के इलाज हेतु प्रति वर्ष ₹5 लाख का कैशलेस बीमा कवरेज।",
+    "benefits_en": "Cashless hospitalization and critical surgery cover up to Rs 5 Lakh per family per year across government and private hospitals.",
+    "benefits_hi": "प्रति परिवार प्रति वर्ष ₹5,00,000 तक का निःशुल्क कैशलेस अस्पताल उपचार।",
+    "benefitType": "Health",
+    "benefitAmount": "₹5,00,000/year",
+    "eligibility_en": "Eligible citizens / families meeting medical and income guidelines",
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Doctor Prescription / Medical Records",
+      "Income Certificate (if applicable)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chirayu-haryana-yojana-chirayu-",
+    "level": "STATE",
+    "state": "Haryana",
+    "category": "health",
+    "tags": "health",
+    "title_en": "Chirayu Haryana Yojana (CHIRAYU)",
+    "title_hi": "चिरायु हरियाणा योजना",
+    "description_en": "Comprehensive health protection mission by Government of Haryana extending free cashless medical treatment up to Rs 5 Lakh per year to families with annual income up to Rs 3 Lakh.",
+    "description_hi": "हरियाणा के ₹3 लाख तक वार्षिक आय वाले परिवारों को प्रति वर्ष ₹5 लाख का कैशलेस स्वास्थ्य सुरक्षा कार्ड।",
+    "benefits_en": "Cashless hospitalization coverage of Rs 5 Lakh per family per year in over 700 empanelled government and private hospitals.",
+    "benefits_hi": "प्रति परिवार प्रति वर्ष ₹5,00,000 तक का कैशलेस अस्पताल इलाज।",
+    "benefitType": "Health",
+    "benefitAmount": "₹5,00,000/year Cashless",
+    "eligibility_en": "Eligible citizens / families meeting medical and income guidelines",
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Doctor Prescription / Medical Records",
+      "Income Certificate (if applicable)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "himcare-scheme-himachal-pradesh-",
+    "level": "STATE",
+    "state": "Himachal Pradesh",
+    "category": "health",
+    "tags": "health",
+    "title_en": "Himcare Scheme (Himachal Pradesh)",
+    "title_hi": "हिमकेयर योजना (हिमाचल प्रदेश)",
+    "description_en": "State healthcare coverage initiative by Government of Himachal Pradesh providing cashless hospitalization up to Rs 5 Lakh per family per year to households not covered under Ayushman Bharat.",
+    "description_hi": "हिमाचल प्रदेश के उन सभी परिवारों को प्रति वर्ष ₹5 लाख का कैशलेस स्वास्थ्य बीमा जो आयुष्मान भारत के अंतर्गत शामिल नहीं हैं।",
+    "benefits_en": "Cashless in-patient treatment and surgery cover up to Rs 5 Lakh per family per year across registered government and private hospitals.",
+    "benefits_hi": "प्रति परिवार प्रति वर्ष ₹5,00,000 तक का निःशुल्क कैशलेस अस्पताल उपचार।",
+    "benefitType": "Health",
+    "benefitAmount": "₹5,00,000/year Cashless",
+    "eligibility_en": "Eligible citizens / families meeting medical and income guidelines",
+    "eligibility_hi": "पात्र नागरिक व कुटुंब विहित नियमांनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Doctor Prescription / Medical Records",
+      "Income Certificate (if applicable)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "वैद्यकीय प्रमाणपत्र / डॉक्टरांचे प्रिस्क्रिप्शन",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit empanelled government or private hospital",
+      "Present Aadhaar / Ration Card at Arogya Mitra desk",
+      "Receive cashless treatment or direct medical reimbursement"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त शासकीय किंवा खाजगी रुग्णालयास भेट द्या",
+      "आरोग्य मित्र डेस्कवर आधार किंवा रेशन कार्ड सादर करा",
+      "कॅशलेस उपचार किंवा थेट आर्थिक मदत मिळवा"
+    ],
+    "applyUrl": "https://pmjay.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "ayushman-bharat-pradhan-mantri-jan-arogya-yojana-pmjay",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, pmjay, cashless, hospitalization",
+    "title_en": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "title_hi": "आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना (AB-PMJAY)",
+    "description_en": "World largest government-funded health assurance scheme providing cashless health coverage of up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization across India.",
+    "description_hi": "जगातील सर्वात मोठी शासकीय आरोग्य विमा योजना, ज्याद्वारे प्रत्येक पात्र कुटुंबाला दुय्यम व तृतीयक उपचारांसाठी दरवर्षी ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचारांची हमी दिली जाते.",
+    "benefits_en": "Cashless and paperless access to services up to ₹5,00,000 per family per year covering pre-hospitalization, medicines, diagnostic tests, surgeries, ICU, and post-hospitalization expenses.",
+    "benefits_hi": "प्रति कुटुंब प्रति वर्ष ₹५,००,००० पर्यंत कॅशलेस उपचार, तपासण्या, औषधे, शस्त्रक्रिया, आयसीयू व उपचारांनंतरचा खर्च मोफत.",
+    "benefitType": "Cashless Health Insurance Cover",
+    "benefitAmount": "₹5,00,000 per family/year",
+    "eligibility_en": "Poor, deprived rural families and identified occupational categories of urban workers families based on SECC 2011 data, expanded to include all senior citizens aged 70+.",
+    "eligibility_hi": "SECC-2011 यादीतील पात्र गरीब कुटुंबे व ७० वर्षांवरील सर्व ज्येष्ठ नागरिक (आयुष्मान वंदन कार्डधारक).",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Ayushman Card (PMJAY ID)",
+      "Active Mobile Number"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "आयुष्मान कार्ड",
+      "मोबाईल क्रमांक"
+    ],
+    "steps_en": [
+      "Check eligibility on beneficiary.nha.gov.in or Ayushman App",
+      "Generate Ayushman Card using Aadhaar e-KYC",
+      "Visit any empanelled public or private hospital and show card at Arogya Mitra desk",
+      "Avail complete cashless treatment with zero out-of-pocket expenditure"
+    ],
+    "steps_hi": [
+      "beneficiary.nha.gov.in वर किंवा ॲपवर नाव तपासा",
+      "आधार e-KYC करून मोफत आयुष्मान कार्ड डाऊनलोड करा",
+      "मान्यताप्राप्त रुग्णालयात आरोग्य मित्राला कार्ड दाखवा",
+      "संपूर्ण मोफत व कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://beneficiary.nha.gov.in/",
+    "sourceUrl": "https://pmjay.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "ayushman-bharat-digital-mission-abdm-abha",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, digital, abha, e-health",
+    "title_en": "Ayushman Bharat Digital Mission (ABDM - ABHA ID)",
+    "title_hi": "आयुष्मान भारत डिजिटल मिशन (ABDM - आभा हेल्थ कार्ड)",
+    "description_en": "National digital health infrastructure creating 14-digit Ayushman Bharat Health Account (ABHA) IDs for seamless sharing of digital health records, lab reports, and prescriptions.",
+    "description_hi": "नागरिकांसाठी १४ अंकी डिजिटल आरोग्य खाते (ABHA ID) तयार करून सर्व वैद्यकीय नोंदी, तपासणी अहवाल व प्रिस्क्रिप्शन सुरक्षितपणे डिजिटल स्वरूपात साठवणारी राष्ट्रीय योजना.",
+    "benefits_en": "Unique 14-digit ABHA number, digital health locker to store medical history and diagnostic reports, paperless hospital registrations, and teleconsultation access.",
+    "benefits_hi": "१४ अंकी मोफत आभा आयडी, डिजिटल हेल्थ लॉकर, जुने रिपोर्ट मोबाईलमध्ये सुरक्षित ठेवण्याची सुविधा व रुग्णालयात रांगेशिवाय नोंदणी.",
+    "benefitType": "Digital Health Identity & Storage",
+    "benefitAmount": "Free Digital Healthcare Account",
+    "eligibility_en": "All citizens of India of any age.",
+    "eligibility_hi": "भारतातील सर्व नागरिक व वयोगट.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Mobile Number linked to Aadhaar or Driving License"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "आधार संलग्न मोबाईल क्रमांक किंवा ड्रायव्हिंग लायसन्स"
+    ],
+    "steps_en": [
+      "Visit abha.abdm.gov.in or download ABHA App",
+      "Enter Aadhaar number and verify with OTP",
+      "Create personalized ABHA address (e.g. name@abdm)",
+      "Download digital ABHA card and link with healthcare providers"
+    ],
+    "steps_hi": [
+      "abha.abdm.gov.in वर जा किंवा आभा ॲप डाऊनलोड करा",
+      "आधार क्रमांक टाकून ओटीपीने पडताळणी करा",
+      "स्वतःचा आभा आयडी पत्ता निवडा",
+      "डिजिटल आभा कार्ड डाऊनलोड करा"
+    ],
+    "applyUrl": "https://abha.abdm.gov.in/",
+    "sourceUrl": "https://abdm.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pradhan-mantri-bhartiya-janaushadhi-pariyojana-pmbjp",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, janaushadhi, generic-medicine",
+    "title_en": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+    "title_hi": "प्रधानमंत्री भारतीय जनऔषधी परियोजना (PMBJP)",
+    "description_en": "Department of Pharmaceuticals initiative providing high-quality generic medicines and surgical consumables at 50% to 90% cheaper prices than branded market medicines.",
+    "description_hi": "सर्वसामान्यांना दर्जेदार जेनेरिक औषधे व सर्जिकल साहित्य खुल्या बाजारातील ब्रँडेड औषधांपेक्षा ५०% ते ९०% स्वस्त दरात उपलब्ध करून देणारी योजना.",
+    "benefits_en": "Over 2,046 generic medicines and 300 surgical items available at minimal prices, including Suvidha biodegradable sanitary napkins at ₹1 per pad.",
+    "benefits_hi": "२,०४०+ दर्जेदार जेनेरिक औषधे व ३०० सर्जिकल वस्तू अत्यंत स्वस्त दरात, आणि सुविधा सॅनिटरी नॅपकिन फक्त ₹१ मध्ये.",
+    "benefitType": "Affordable Medicines & Health Products",
+    "benefitAmount": "50% to 90% Price Discount",
+    "eligibility_en": "Open to all citizens across India without any income restriction.",
+    "eligibility_hi": "भारतातील सर्व नागरिकांसाठी खुली, कोणतेही उत्पन्न बंधन नाही.",
+    "documents_en": [
+      "Doctor Prescription for medicines requiring prescription"
+    ],
+    "documents_hi": [
+      "डॉक्टरांचे प्रिस्क्रिप्शन (औषध चिठ्ठी)"
+    ],
+    "steps_en": [
+      "Locate nearest PM Jan Aushadhi Kendra using Jan Aushadhi Sugam App or janaushadhi.gov.in",
+      "Present prescription to the pharmacist",
+      "Purchase WHO-GMP certified generic medicines at heavily subsidized rates"
+    ],
+    "steps_hi": [
+      "जनऔषधी सुगम ॲपवरून जवळचे जनऔषधी केंद्र शोधा",
+      "डॉक्टरांचे प्रिस्क्रिप्शन दाखवा",
+      "दर्जेदार जेनेरिक औषधे ५०% ते ९०% सवलतीत खरेदी करा"
+    ],
+    "applyUrl": "https://janaushadhi.gov.in/",
+    "sourceUrl": "https://janaushadhi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pradhan-mantri-national-dialysis-programme-pmndp",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, dialysis, kidney-care",
+    "title_en": "Pradhan Mantri National Dialysis Programme (PMNDP)",
+    "title_hi": "प्रधानमंत्री राष्ट्रीय डायलिसिस कार्यक्रम (PMNDP)",
+    "description_en": "National Health Mission initiative providing 100% free life-sustaining hemodialysis and peritoneal dialysis services to poor renal failure patients in District Hospitals.",
+    "description_hi": "मूत्रपिंड निकामी झालेल्या (किडनी फेल्युअर) गरीब रुग्णांना जिल्हा रुग्णालयांमध्ये मोफत डायलिसिस उपचार देणारी केंद्र सरकारची योजना.",
+    "benefits_en": "100% free hemodialysis sessions including dialyzers, blood lines, and heparin for BPL patients; nominal subsidized rates for non-BPL patients.",
+    "benefits_hi": "बीपीएल रुग्णांसाठी १००% मोफत डायलिसिस उपचार, डायलायझर व औषधे मोफत.",
+    "benefitType": "100% Free Specialized Treatment",
+    "benefitAmount": "Free Dialysis Sessions",
+    "eligibility_en": "End-Stage Renal Disease (ESRD) patients belonging to BPL families (free), others at concessional negotiated rates.",
+    "eligibility_hi": "दारिद्र्यरेषेखालील (BPL) किंवा आयुष्मान भारत पात्र किडनीचे रुग्ण.",
+    "documents_en": [
+      "BPL Ration Card / Ayushman Card",
+      "Aadhaar Card",
+      "Nephrologist / Doctor Diagnosis Report"
+    ],
+    "documents_hi": [
+      "बीपीएल रेशन कार्ड / आयुष्मान कार्ड",
+      "आधार कार्ड",
+      "किडनी आजाराचा वैद्यकीय तपासणी अहवाल"
+    ],
+    "steps_en": [
+      "Register at the Dialysis Centre of District Hospital or Sub-district Hospital",
+      "Verification of BPL / PMJAY entitlement",
+      "Free scheduled dialysis sessions conducted under nephrology supervision"
+    ],
+    "steps_hi": [
+      "जिल्हा रुग्णालयातील डायलिसिस केंद्रात नाव नोंदवा",
+      "बीपीएल / आयुष्मान कार्ड पडताळणी",
+      "तज्ज्ञ डॉक्टरांच्या देखरेखीखाली मोफत डायलिसिस उपचार"
+    ],
+    "applyUrl": "https://nhm.gov.in/",
+    "sourceUrl": "https://nhm.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "nikshay-poshan-yojana-tb-dbt",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, tb, nutrition, dbt",
+    "title_en": "Ni-kshay Poshan Yojana (Nutritional Support for TB Patients)",
+    "title_hi": "निक्षय पोषण योजना (टीबी रुग्णांसाठी पोषण आहार अनुदान)",
+    "description_en": "Ministry of Health & Family Welfare Direct Benefit Transfer scheme providing continuous monthly financial support for nutritional needs of all notified Tuberculosis patients.",
+    "description_hi": "क्षयरोग (टीबी) ग्रस्त रुग्णांना पोषक आहारासाठी दरमहा थेट बँक खात्यात आर्थिक अनुदान देणारी केंद्र सरकारची योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹500 to ₹1,000 per month directly into the Aadhaar-linked bank account of the TB patient throughout the duration of treatment.",
+    "benefits_hi": "उपचार चालू असेपर्यंत रुग्णाच्या बँक खात्यात दरमहा ₹५०० ते ₹१,००० चे थेट पोषण आहार अनुदान.",
+    "benefitType": "Direct Benefit Transfer",
+    "benefitAmount": "₹500 - ₹1,000 / month",
+    "eligibility_en": "All notified TB patients (both public and private sectors) registered on the Ni-kshay national portal.",
+    "eligibility_hi": "निक्षय पोर्टलवर नोंदणीकृत असलेले सर्व क्षयरोग (टीबी) रुग्ण.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Bank Account details / Passbook",
+      "TB Diagnostic & Notification confirmation on Ni-kshay"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "बँक पासबुक",
+      "निक्षय पोर्टलवरील टीबी रुग्ण नोंदणी क्रमांक"
+    ],
+    "steps_en": [
+      "TB patient is notified and registered on Ni-kshay portal by government or private doctor",
+      "Health worker / DOTS provider verifies bank account details and Aadhaar linkage",
+      "Monthly DBT installment credited directly until completion of course"
+    ],
+    "steps_hi": [
+      "डॉक्टरांकडून निक्षय पोर्टलवर रुग्णाची नोंदणी केली जाते",
+      "आरोग्य सेवकाकडून आधार व बँक खाते तपासले जाते",
+      "उपचार पूर्ण होईपर्यंत दरमहा अनुदान थेट खात्यात जमा"
+    ],
+    "applyUrl": "https://www.nikshay.in/",
+    "sourceUrl": "https://tbcindia.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "rashtriya-arogya-nidhi-ran",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, ran, super-specialty, financial-grant",
+    "title_en": "Rashtriya Arogya Nidhi (RAN)",
+    "title_hi": "राष्ट्रीय आरोग्य निधी (RAN)",
+    "description_en": "Ministry of Health & Family Welfare scheme providing one-time financial assistance to poor patients living below the poverty line suffering from major life-threatening diseases for treatment at designated super-specialty government hospitals.",
+    "description_hi": "गंभीर व जीवघेण्या आजारांनी ग्रस्त दारिद्र्यरेषेखालील रुग्णांना शासकीय सुपर-स्पेशालिटी रुग्णालयांमध्ये उपचारासाठी ₹१५ लाखांपर्यंत थेट अनुदान देणारी योजना.",
+    "benefits_en": "Direct one-time financial grant up to ₹15,00,000 disbursed directly to the treating government super-specialty hospital for surgeries, implants, and medicines.",
+    "benefits_hi": "उपचार, शस्त्रक्रिया व औषधांसाठी कमाल ₹१५,००,००० पर्यंतचे अनुदान थेट संबंधित शासकीय रुग्णालयाकडे वर्ग केले जाते.",
+    "benefitType": "One-time Medical Grant",
+    "benefitAmount": "Up to ₹15,00,000",
+    "eligibility_en": "Patients suffering from major life-threatening diseases belonging to BPL families who are receiving treatment in designated Central Government / premier hospitals.",
+    "eligibility_hi": "दारिद्र्यरेषेखालील (BPL) रुग्ण जे केंद्र शासनाच्या किंवा नामांकित शासकीय सुपर स्पेशालिटी रुग्णालयात उपचार घेत आहेत.",
+    "documents_en": [
+      "BPL Ration Card / Income Certificate",
+      "Aadhaar Card",
+      "Medical Estimate & Diagnosis Certificate signed by Medical Superintendent",
+      "Hospital admission slip"
+    ],
+    "documents_hi": [
+      "बीपीएल रेशन कार्ड / उत्पन्नाचा दाखला",
+      "आधार कार्ड",
+      "वैद्यकीय अधीक्षक स्वाक्षरी केलेले उपचार खर्चाचे अंदाजपत्रक",
+      "रुग्णालय भरती पावती"
+    ],
+    "steps_en": [
+      "Treating doctor and Medical Superintendent prepare application with cost estimate",
+      "Hospital forwards proposal to RAN Committee in Ministry of Health",
+      "Funds sanctioned and directly released to hospital revolving fund for patient treatment"
+    ],
+    "steps_hi": [
+      "डॉक्टर व वैद्यकीय अधीक्षकांकडून खर्चाचे अंदाजपत्रक तयार केले जाते",
+      "प्रस्ताव आरोग्य मंत्रालयाकडे पाठवला जातो",
+      "मंजूर निधी थेट रुग्णालयाच्या खात्यात वर्ग होऊन मोफत उपचार केले जातात"
+    ],
+    "applyUrl": "https://main.mohfw.gov.in/",
+    "sourceUrl": "https://main.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "health-minister-discretionary-grant-hmdg",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, hmdg, financial-assistance",
+    "title_en": "Health Minister's Discretionary Grant (HMDG)",
+    "title_hi": "आरोग्य मंत्री विवेकाधीन अनुदान (HMDG)",
+    "description_en": "Financial assistance scheme providing urgent medical relief to indigent patients suffering from serious diseases where free medical facilities are not fully available.",
+    "description_hi": "गरजू व गरीब रुग्णांना गंभीर आजारांवर उपचारासाठी केंद्रीय आरोग्यमंत्र्यांच्या निधीतून आर्थिक मदत देणारी योजना.",
+    "benefits_en": "Financial assistance of up to ₹1,25,000 for specialized medical treatment and surgeries in government hospitals.",
+    "benefits_hi": "शासकीय रुग्णालयातील उपचारासाठी ₹१,२५,००० पर्यंतची थेट आर्थिक मदत.",
+    "benefitType": "Financial Grant",
+    "benefitAmount": "Up to ₹1,25,000",
+    "eligibility_en": "Poor patients having annual family income not exceeding ₹1,25,000 undergoing treatment in government hospitals.",
+    "eligibility_hi": "वार्षिक कौटुंबिक उत्पन्न ₹१,२५,००० पेक्षा कमी असलेले व शासकीय रुग्णालयात उपचार घेणारे रुग्ण.",
+    "documents_en": [
+      "Income Certificate issued by Tehsildar/Revenue Authority",
+      "Medical Certificate and expenditure estimate from Government Doctor",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "शासकीय डॉक्टरांचे वैद्यकीय प्रमाणपत्र व खर्चाचा अंदाज",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Download HMDG application form from mohfw.gov.in",
+      "Get form signed and attested by treating government doctor and Medical Superintendent",
+      "Submit completed application to Ministry of Health & Family Welfare",
+      "Grant disbursed directly to hospital account on approval"
+    ],
+    "steps_hi": [
+      "mohfw.gov.in वरून अर्ज डाऊनलोड करा",
+      "शासकीय डॉक्टर व अधीक्षकांची स्वाक्षरी घ्या",
+      "आरोग्य मंत्रालयात अर्ज सादर करा",
+      "अनुदान थेट रुग्णालयाकडे वर्ग केले जाते"
+    ],
+    "applyUrl": "https://main.mohfw.gov.in/",
+    "sourceUrl": "https://main.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tele-manas-national-mental-health-programme",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, mental-health, counseling, helpline",
+    "title_en": "Tele Mental Health Assistance and Networking (Tele-MANAS)",
+    "title_hi": "टेली-मानस राष्ट्रीय मानसिक आरोग्य सहाय्यता (Toll-Free 14416)",
+    "description_en": "24x7 toll-free mental health service network across India providing free, confidential, multi-lingual psychological counseling, psychiatric consultation, and crisis intervention.",
+    "description_hi": "देशभरात २४ तास विनामूल्य मानसिक आरोग्य समुपदेशन, ताणतणाव निवारण व मानसोपचार सल्ला देणारी राष्ट्रीय हेल्पलाईन सेवा (टोल फ्री १४४१६).",
+    "benefits_en": "Round-the-clock free tele-counseling by clinical psychologists, referral to district mental health units, suicide prevention crisis support, and e-prescriptions in 20+ languages.",
+    "benefits_hi": "२४ तास मोफत मानसिक समुपदेशन, नैराश्य व चिंता निवारण, तज्ज्ञ मानसोपचारतज्ज्ञांचा सल्ला आणि मोफत औषधोपचार मार्गदर्शन.",
+    "benefitType": "24x7 Free Tele-Mental Health Service",
+    "benefitAmount": "100% Free Consultation (14416 / 1800-891-4416)",
+    "eligibility_en": "Anyone in distress, students, youth, elderly, or general public needing psychological support.",
+    "eligibility_hi": "मानसिक तणाव, नैराश्य किंवा समुपदेशनाची गरज असलेला कोणताही भारतीय नागरिक.",
+    "documents_en": [
+      "None required (Completely confidential & accessible to anyone)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही (पूर्णपणे गोपनीय व मोफत)"
+    ],
+    "steps_en": [
+      "Dial toll-free number 14416 or 1800-891-4416 from any phone",
+      "Select preferred language",
+      "Speak directly with certified psychological counselor",
+      "Escalation to psychiatrist or District Mental Health Program (DMHP) clinic if needed"
+    ],
+    "steps_hi": [
+      "कोणत्याही फोनवरून टोल-फ्री क्रमांक १४४१६ किंवा १८००-८९१-४४१६ डायल करा",
+      "आपली भाषा निवडा",
+      "मानसोपचारतज्ज्ञ किंवा समुपदेशकाशी थेट संवाद साधा",
+      "गरज असल्यास जवळच्या जिल्हा रुग्णालयात उपचारांची सोय"
+    ],
+    "applyUrl": "https://telemanas.mohfw.gov.in/",
+    "sourceUrl": "https://telemanas.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "esanjeevani-national-telemedicine-service",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, telemedicine, doctor-consultation, free",
+    "title_en": "eSanjeevani - National Telemedicine Service",
+    "title_hi": "ई-संजीवनी राष्ट्रीय टेलिमेडिसिन सेवा",
+    "description_en": "Government of India flagship telemedicine platform providing free online doctor and specialist consultations from the comfort of home via web and mobile app.",
+    "description_hi": "घरी बसल्या मोबाईल किंवा लॅपटॉपद्वारे शासकीय व नामांकित तज्ज्ञ डॉक्टरांशी मोफत व्हिडिओ सल्लामसलत व औषध चिठ्ठी मिळवून देणारी राष्ट्रीय सेवा.",
+    "benefits_en": "100% free video consultations with general physicians and specialists, digital signed e-prescriptions valid across all pharmacies, and lab test advice.",
+    "benefits_hi": "तज्ज्ञ डॉक्टरांशी मोफत व्हिडिओ कॉल सल्ला, डिजिटल स्वाक्षरी असलेले मोफत प्रिस्क्रिप्शन व चाचण्यांचे मार्गदर्शन.",
+    "benefitType": "Free Online Doctor Consultation",
+    "benefitAmount": "100% Free Service",
+    "eligibility_en": "All citizens of India residing anywhere in the country.",
+    "eligibility_hi": "भारतातील सर्व नागरिक.",
+    "documents_en": [
+      "Mobile number for OTP verification",
+      "Past medical records/prescriptions if available"
+    ],
+    "documents_hi": [
+      "ओटीपी पडताळणीसाठी मोबाईल क्रमांक",
+      "उपलब्ध असल्यास जुने रिपोर्ट"
+    ],
+    "steps_en": [
+      "Visit esanjeevani.mohfw.gov.in or download eSanjeevani App",
+      "Register with mobile OTP and generate patient token",
+      "Join virtual queue and enter video consultation with doctor",
+      "Download digital prescription immediately after call"
+    ],
+    "steps_hi": [
+      "esanjeevani.mohfw.gov.in वर जा किंवा ई-संजीवनी ॲप उघडा",
+      "मोबाईल क्रमांकाने नोंदणी करा",
+      "डॉक्टरांशी व्हिडिओ कॉलद्वारे चर्चा करा",
+      "कॉल संपताच डिजिटल प्रिस्क्रिप्शन डाऊनलोड करा"
+    ],
+    "applyUrl": "https://esanjeevani.mohfw.gov.in/",
+    "sourceUrl": "https://mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mission-indradhanush-universal-immunization",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, vaccination, children, maternal",
+    "title_en": "Mission Indradhanush (Universal Immunization Programme)",
+    "title_hi": "मिशन इंद्रधनुष (सार्वजनिक मोफत लसीकरण मोहीम)",
+    "description_en": "National health mission ensuring complete immunization coverage for all children up to 5 years and pregnant women against 12 vaccine-preventable life-threatening diseases.",
+    "description_hi": "५ वर्षांपर्यंतची लहान मुले व गरोदर महिलांना १२ जीवघेण्या आजारांपासून संरक्षण देणारी केंद्र सरकारची मोफत व्यापक लसीकरण मोहीम.",
+    "benefits_en": "100% free vaccination against Diphtheria, Pertussis, Tetanus, Polio, Measles, Rubella, severe childhood TB, Hepatitis B, Meningitis, Pneumonia, Rotavirus, and Japanese Encephalitis.",
+    "benefits_hi": "धनुर्वात, पोलिओ, गोवर, रुबेला, कावीळ, निमोनिया, रोटाव्हायरस यासह १२ आजारांवर १००% मोफत लसीकरण आणि डिजिटल लस प्रमाणपत्र.",
+    "benefitType": "Free Universal Vaccination",
+    "benefitAmount": "100% Free Vaccines",
+    "eligibility_en": "All infants, children aged 0 to 5 years, and pregnant women.",
+    "eligibility_hi": "सर्व नवजात बालके, ० ते ५ वर्षे वयाची मुले आणि सर्व गरोदर महिला.",
+    "documents_en": [
+      "Mother and Child Protection (MCP) Card / RCH ID / Aadhaar of parents"
+    ],
+    "documents_hi": [
+      "माता व बाल संरक्षण (MCP) कार्ड किंवा पालकांचे आधार कार्ड"
+    ],
+    "steps_en": [
+      "Check vaccination schedule on U-WIN platform (uwin.mohfw.gov.in)",
+      "Visit nearest Primary Health Centre, Sub-Centre, Anganwadi, or outreach camp",
+      "Vaccine administered free of charge by Auxiliary Nurse Midwife (ANM)",
+      "Instant digital certificate generated on U-WIN"
+    ],
+    "steps_hi": [
+      "uwin.mohfw.gov.in वर लसीकरणाचे वेळापत्रक पहा",
+      "जवळच्या प्राथमिक आरोग्य केंद्र किंवा अंगणवाडी केंद्रात जा",
+      "आरोग्य सेविकेकडून मोफत लस दिली जाते",
+      "U-WIN पोर्टलवरून त्वरित लस प्रमाणपत्र डाऊनलोड करा"
+    ],
+    "applyUrl": "https://uwin.mohfw.gov.in/",
+    "sourceUrl": "https://nhm.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-programme-control-of-blindness-cataract-surgery",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, eye-care, cataract, free-surgery",
+    "title_en": "National Programme for Control of Blindness & Visual Impairment (NPCBVI)",
+    "title_hi": "राष्ट्रीय अंधत्व नियंत्रण कार्यक्रम - मोफत मोतीबिंदू शस्त्रक्रिया",
+    "description_en": "Centrally sponsored public health programme providing free screening, free cataract surgeries with intraocular lens (IOL) implantation, and free spectacles for school students.",
+    "description_hi": "नागरिकांना मोफत मोतीबिंदू शस्त्रक्रिया, लेन्स (IOL), औषधे आणि शालेय विद्यार्थ्यांना मोफत चष्मे देणारा राष्ट्रीय कार्यक्रम.",
+    "benefits_en": "100% free cataract surgery with high quality Intraocular Lens (IOL), free post-operative eye drops, transport facility, and free spectacles for visually impaired schoolchildren.",
+    "benefits_hi": "मोतीबिंदू शस्त्रक्रिया, लेन्स, औषधे, चष्मे व तपासणी पूर्णपणे विनामूल्य.",
+    "benefitType": "Free Eye Surgery & Spectacles",
+    "benefitAmount": "100% Free Care",
+    "eligibility_en": "Any citizen suffering from cataract, visual impairment, or refractive errors.",
+    "eligibility_hi": "मोतीबिंदू किंवा दृष्टीदोष असणारा कोणताही नागरिक व शालेय विद्यार्थी.",
+    "documents_en": [
+      "Aadhaar Card / Voter ID",
+      "Eye Checkup slip from screening camp"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / मतदार कार्ड",
+      "नेत्र तपासणी पावती"
+    ],
+    "steps_en": [
+      "Attend village/ward eye screening camp organized by District Blindness Control Society (DBCS)",
+      "Patients diagnosed with cataract transported to designated eye hospital",
+      "Surgery performed free of cost and intraocular lens placed",
+      "Follow-up examination and eye drops provided at discharge"
+    ],
+    "steps_hi": [
+      "जिल्हा अंधत्व नियंत्रण समितीच्या मोफत नेत्र तपासणी शिबिरास उपस्थित राहा",
+      "मोतीबिंदू आढळलेल्या रुग्णांना रुग्णालयात नेले जाते",
+      "मोफत शस्त्रक्रिया व लेन्स बसवली जाते",
+      "डिस्चार्जच्या वेळी मोफत औषधे व चष्मा दिला जातो"
+    ],
+    "applyUrl": "https://npcbvi.mohfw.gov.in/",
+    "sourceUrl": "https://mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-viral-hepatitis-control-programme-nvhcp",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, hepatitis, free-treatment",
+    "title_en": "National Viral Hepatitis Control Programme (NVHCP)",
+    "title_hi": "राष्ट्रीय विषाणूजन्य हिपॅटायटीस नियंत्रण कार्यक्रम",
+    "description_en": "National initiative providing free laboratory screening, viral load testing, and complete curative treatment for Hepatitis B and Hepatitis C at all government medical colleges and district hospitals.",
+    "description_hi": "कावीळ (हिपॅटायटीस बी व हिपॅटायटीस सी) आजारावर मोफत तपासणी, व्हायरल लोड टेस्ट व संपूर्ण मोफत औषधोपचार देणारा राष्ट्रीय कार्यक्रम.",
+    "benefits_en": "Free diagnostics and highly effective Direct Acting Antivirals (DAAs) worth tens of thousands of rupees provided completely free to cure Hepatitis C within 12-24 weeks.",
+    "benefits_hi": "हिपॅटायटीस सी बरा करणारी महागडी औषधे (DAA) व तपासण्या शासकीय रुग्णालयात १००% विनामूल्य.",
+    "benefitType": "Free Specialized Medicines & Testing",
+    "benefitAmount": "100% Free Treatment",
+    "eligibility_en": "Any individual diagnosed with or suspected of having viral Hepatitis B or C infection.",
+    "eligibility_hi": "हिपॅटायटीस बी किंवा सी संसर्ग असलेले सर्व नागरिक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Hospital OPD registration slip"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रुग्णालय ओपीडी पावती"
+    ],
+    "steps_en": [
+      "Visit Model Treatment Centre (MTC) at Government Medical College or District Hospital",
+      "Undergo free screening and Viral Load PCR test",
+      "Receive free prescribed antiviral medications course directly from hospital pharmacy"
+    ],
+    "steps_hi": [
+      "शासकीय वैद्यकीय महाविद्यालय किंवा जिल्हा रुग्णालयातील उपचार केंद्रात जा",
+      "मोफत रक्त तपासणी व व्हायरल लोड टेस्ट करा",
+      "रुग्णालयातून मोफत औषधांचा पूर्ण कोर्स मिळवा"
+    ],
+    "applyUrl": "https://nvhcp.mohfw.gov.in/",
+    "sourceUrl": "https://mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-policy-for-rare-diseases-financial-aid",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, rare-diseases, financial-aid",
+    "title_en": "National Policy for Rare Diseases - Financial Assistance Scheme",
+    "title_hi": "दुर्मिळ आजार राष्ट्रीय धोरण - आर्थिक सहाय्य योजना",
+    "description_en": "Ministry of Health & Family Welfare scheme providing substantial financial support to patients suffering from rare genetic diseases for one-time or ongoing treatments at designated Centres of Excellence (CoE).",
+    "description_hi": "दुर्मिळ व जनुकीय आजारांनी ग्रस्त रुग्णांना नामांकित वैद्यकीय संस्थांमध्ये उपचारासाठी ₹५० लाखांपर्यंत थेट आर्थिक सहाय्य देणारी योजना.",
+    "benefits_en": "Financial assistance of up to ₹50,00,000 per patient for rare disease treatment at designated Centres of Excellence (AIIMS, PGI, etc.).",
+    "benefits_hi": "दुर्मिळ आजारांच्या उपचारासाठी प्रति रुग्ण कमाल ₹५०,००,००० पर्यंतचे थेट शासकीय सहाय्य.",
+    "benefitType": "Super-Specialty Medical Grant",
+    "benefitAmount": "Up to ₹50,00,000",
+    "eligibility_en": "Patients diagnosed with Group 1 or Group 2/3 rare diseases listed under NPRD seeking treatment at designated Centres of Excellence.",
+    "eligibility_hi": "राष्ट्रीय दुर्मिळ आजार धोरणांतर्गत पात्र आजार असलेले भारतीय नागरिक.",
+    "documents_en": [
+      "Rare Disease Clinical Diagnosis & Genetic Test Report",
+      "Aadhaar Card",
+      "Centre of Excellence Recommendation",
+      "Income Certificate"
+    ],
+    "documents_hi": [
+      "जनुकीय व वैद्यकीय चाचणी अहवाल",
+      "आधार कार्ड",
+      "उत्कृष्टता केंद्राचे (CoE) शिफारस पत्र",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Patient evaluated at designated Centre of Excellence (e.g. AIIMS New Delhi, KEM Mumbai, etc.)",
+      "CoE Rare Disease Committee formulates treatment regimen and applies on Rare Disease Portal",
+      "Ministry sanctions funds directly to the institution to procure specialized drugs and therapies"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त उत्कृष्टता केंद्रात (उदा. KEM मुंबई, AIIMS) तपासणी केली जाते",
+      "तज्ज्ञ समितीकडून पोर्टलवर प्रस्ताव सादर",
+      "मंत्रालयाकडून औषधे व उपचारांसाठी ₹५० लाखांपर्यंत निधी मंजूर"
+    ],
+    "applyUrl": "https://rarediseases.mohfw.gov.in/",
+    "sourceUrl": "https://rarediseases.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "balasaheb-thackeray-aapla-dawakhana-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, aapla-dawakhana, clinic, free-medicine",
+    "title_en": "Balasaheb Thackeray Aapla Dawakhana (Maharashtra)",
+    "title_hi": "बाळासाहेब ठाकरे आपला दवाखाना (महाराष्ट्र)",
+    "description_en": "Maharashtra Public Health Department and Municipal Corporations initiative providing neighborhood urban clinics for free out-patient consultations, essential diagnostics, and free medicines.",
+    "description_hi": "महाराष्ट्र शासनाचा उपक्रम, ज्याद्वारे नागरी वस्त्यांमध्ये नागरिकांना घराशेजारी मोफत तपासणी, मोफत औषधे आणि मूलभूत रक्त तपासण्या दिल्या जातात.",
+    "benefits_en": "Free doctor consultation, 30+ diagnostic tests (blood sugar, malaria, hemoglobin, ECG), and 145+ essential generic medicines provided completely free of cost.",
+    "benefits_hi": "मोफत डॉक्टर तपासणी, ईसीजी व रक्त तपासण्या आणि १४५ प्रकारची अत्यावश्यक औषधे १००% मोफत.",
+    "benefitType": "Free Neighborhood Healthcare",
+    "benefitAmount": "100% Free Consultations & Medicines",
+    "eligibility_en": "Open to all residents of Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रातील सर्व नागरिकांसाठी विनामूल्य खुले.",
+    "documents_en": [
+      "Aadhaar Card or any ID (not mandatory for OPD registration)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड किंवा कोणतेही ओळखपत्र"
+    ],
+    "steps_en": [
+      "Walk into the nearest Aapla Dawakhana in your ward/neighborhood",
+      "Register at counter and get vitals checked by staff nurse",
+      "Consult with MBBS medical officer and collect prescribed medicines from in-house dispensary"
+    ],
+    "steps_hi": [
+      "आपल्या परिसरातील जवळच्या आपला दवाखान्यात थेट जा",
+      "काऊंटरवर नाव नोंदवा व तपासणी करा",
+      "डॉक्टरांशी सल्लामसलत करून मोफत औषधे खिडकीतून मिळवा"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://arogya.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-sahayyata-nidhi-medical-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, cmrf, medical-aid, transplant",
+    "title_en": "Chief Minister Relief Fund - Medical Aid (Maharashtra)",
+    "title_hi": "मुख्यमंत्री सहायता निधी - वैद्यकीय मदत (महाराष्ट्र)",
+    "description_en": "Special discretionary medical fund by the Government of Maharashtra providing immediate financial assistance up to ₹3,00,000 to needy patients undergoing expensive surgeries not fully covered by other schemes.",
+    "description_hi": "हृदयरोग, कर्करोग, अवयव प्रत्यारोपण अशा गंभीर आजारांवर उपचारासाठी गरजू रुग्णांना थेट ₹३ लाखांपर्यंत आर्थिक मदत देणारा मुख्यमंत्री वैद्यकीय सहायता कक्ष.",
+    "benefits_en": "Financial aid up to ₹2,00,000 - ₹3,00,000 for heart surgeries, kidney transplants, bone marrow transplants, liver transplants, and cancer therapies directly transferred to hospital.",
+    "benefits_hi": "हार्ट सर्जरी, किडनी/लिव्हर ट्रान्सप्लांट, कर्करोग अशा गंभीर उपचारांसाठी ₹३,००,००० पर्यंतची थेट आर्थिक मदत रुग्णालयाच्या खात्यात.",
+    "benefitType": "Direct Medical Relief Grant",
+    "benefitAmount": "Up to ₹3,00,000",
+    "eligibility_en": "Permanent residents of Maharashtra with annual family income up to ₹1,60,000 undergoing treatment in empanelled hospitals.",
+    "eligibility_hi": "महाराष्ट्रातील रहिवासी, कौटुंबिक वार्षिक उत्पन्न ₹१,६०,००० च्या आत असणारे गरजू रुग्ण.",
+    "documents_en": [
+      "Application Form in prescribed format",
+      "Income Certificate (Tehsildar)",
+      "Hospital Quotation / Estimate signed by Civil Surgeon / Treating Doctor",
+      "Ration Card (Orange/Yellow)",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "विहित नमुन्यातील अर्ज",
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "रुग्णालयाचे खर्चाचे अंदाजपत्रक",
+      "रेशन कार्ड (केशरी/पिवळे)",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Collect estimate letter from hospital and get Civil Surgeon attestation",
+      "Submit application to CM Medical Aid Cell, Mantralaya, Mumbai or District Collector Office",
+      "Approval issued and sanction letter directly sent to hospital for treatment"
+    ],
+    "steps_hi": [
+      "रुग्णालयाकडून खर्चाचा अंदाज घेऊन सिव्हिल सर्जनची स्वाक्षरी घ्या",
+      "मंत्रालय वैद्यकीय सहायता कक्ष किंवा जिल्हाधिकारी कार्यालयात अर्ज सादर करा",
+      "मंजूर रक्कम थेट रुग्णालयाच्या बँक खात्यात वर्ग होते"
+    ],
+    "applyUrl": "https://cmrf.maharashtra.gov.in/",
+    "sourceUrl": "https://cmrf.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-emergency-medical-services-108-mems",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, ambulance, 108, emergency",
+    "title_en": "Maharashtra Emergency Medical Services - 108 Ambulance",
+    "title_hi": "महाराष्ट्र आपत्कालीन वैद्यकीय सेवा - १०८ रुग्णवाहिका",
+    "description_en": "Statewide 24x7 free emergency ambulance response service with Advanced Life Support (ALS) and Basic Life Support (BLS) equipped vehicles to transport medical, trauma, and maternal emergencies.",
+    "description_hi": "अपघात, हृदयविकार, बाळंतपण व आपत्कालीन वैद्यकीय परिस्थितीत मोफत सुसज्ज रुग्णवाहिका व प्रथमोपचार देणारी राज्यव्यापी मोफत सेवा (१०८).",
+    "benefits_en": "100% free emergency medical transportation with trained doctors/paramedics, ventilator, oxygen, defibrillator, and life-saving medications on board.",
+    "benefits_hi": "व्हेंटिलेटर, ऑक्सिजन व डॉक्टरांसह सुसज्ज रुग्णवाहिका १००% मोफत उपलब्ध.",
+    "benefitType": "24x7 Free Emergency Ambulance",
+    "benefitAmount": "100% Free Service (Dial 108)",
+    "eligibility_en": "Any person experiencing a medical emergency anywhere in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रात आपत्कालीन परिस्थितीत असणारा कोणताही नागरिक.",
+    "documents_en": [
+      "None required (Call toll-free 108 directly)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची गरज नाही (थेट १०८ डायल करा)"
+    ],
+    "steps_en": [
+      "Dial 108 from any mobile or landline",
+      "Provide caller location, patient condition, and landmark to the Emergency Response Officer",
+      "GPS-tracked nearest ambulance dispatched immediately to pick up patient and transfer to nearest hospital"
+    ],
+    "steps_hi": [
+      "१०८ क्रमांकावर विनामूल्य कॉल करा",
+      "घटनेचे ठिकाण व रुग्णाची अवस्था सांगा",
+      "तातडीने जवळची सुसज्ज रुग्णवाहिका घटनास्थळी पोहोचते व रुग्णालयात दाखल करते"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://mems108.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "cochlear-implant-surgery-scheme-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, cochlear-implant, deaf, children",
+    "title_en": "Maharashtra State Cochlear Implant Surgery Scheme",
+    "title_hi": "महाराष्ट्र राज्य कॉक्लियर इम्प्लांट शस्त्रक्रिया योजना",
+    "description_en": "Maharashtra Public Health and Social Justice initiative providing fully state-funded cochlear implant surgeries, hardware, and multi-year speech therapy for congenitally deaf children.",
+    "description_hi": "जन्मतः मूकबधिर असणाऱ्या लहान मुलांना ऐकण्याची व बोलण्याची क्षमता मिळवून देण्यासाठी ₹६.५ लाख खर्चाची कॉक्लियर इम्प्लांट शस्त्रक्रिया मोफत करून देणारी योजना.",
+    "benefits_en": "100% free surgical implantation (valued at ₹6,50,000 per child) including advanced digital processor and 2 years of audio-verbal habilitation therapy.",
+    "benefits_hi": "कॉक्लियर इम्प्लांट मशिन, शस्त्रक्रिया आणि २ वर्षांचे स्पीच थेरपी प्रशिक्षण (अंदाजे ₹६.५ लाख खर्च) पूर्णपणे मोफत.",
+    "benefitType": "100% Free Advanced Surgery & Device",
+    "benefitAmount": "Full Cost Covered (~₹6,50,000)",
+    "eligibility_en": "Children below 5 years of age diagnosed with bilateral severe-to-profound sensorineural hearing loss domiciled in Maharashtra with family income under ₹1,00,000.",
+    "eligibility_hi": "महाराष्ट्रातील ५ वर्षांखालील मूकबधिर बालके ज्यांच्या कुटुंबाचे वार्षिक उत्पन्न ₹१ लाखांच्या आत आहे.",
+    "documents_en": [
+      "BERA / Audiogram Test Report confirming hearing loss",
+      "Maharashtra Domicile Certificate",
+      "Income Certificate",
+      "Aadhaar Card of Child & Parents",
+      "Birth Certificate"
+    ],
+    "documents_hi": [
+      "BERA / ऑडिओग्राम तपासणी अहवाल",
+      "अधिवास प्रमाणपत्र",
+      "उत्पन्नाचा दाखला",
+      "आधार कार्ड व जन्म दाखला"
+    ],
+    "steps_en": [
+      "Get hearing screening done at District Civil Hospital or Medical College ENT Department",
+      "Proposal sent to State Cochlear Implant Screening Committee",
+      "Surgery performed at designated empanelled tertiary hospital and post-op therapy provided"
+    ],
+    "steps_hi": [
+      "जिल्हा शासकीय रुग्णालयात कान तपासणी (BERA टेस्ट) करून घ्या",
+      "राज्य समितीकडे प्रस्ताव पाठवला जातो",
+      "मान्यताप्राप्त रुग्णालयात मोफत शस्त्रक्रिया व ऑडिओ थेरपी"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sickle-cell-thalassemia-tribal-control-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, sickle-cell, tribal, blood-disorder",
+    "title_en": "Maharashtra Sickle Cell & Thalassemia Control Programme",
+    "title_hi": "महाराष्ट्र सिकलसेल व थॅलेसेमिया नियंत्रण कार्यक्रम",
+    "description_en": "Comprehensive tribal healthcare programme providing free universal solubility testing, HPLC electrophoresis screening, free hydroxyurea medicines, and pension for patients in Vidarbha, Khandesh, and Konkan.",
+    "description_hi": "सिकलसेल व थॅलेसेमियाग्रस्त आदिवासी बांधवांसाठी मोफत रक्त तपासणी, मोफत औषधोपचार व दरमहा संजय गांधी निराधार योजनेतून पेन्शन देणारी योजना.",
+    "benefits_en": "Free HPLC blood tests, free monthly supply of Hydroxyurea and Folic Acid, free blood transfusions, and ₹1,500 monthly disability pension for certified sufferers.",
+    "benefits_hi": "मोफत रक्त तपासणी, मोफत औषधे, मोफत रक्त संक्रमण आणि दरमहा ₹१,५०० चे आर्थिक अनुदान.",
+    "benefitType": "Free Treatment & Monthly Pension",
+    "benefitAmount": "Free Treatment + ₹1,500/month",
+    "eligibility_en": "Sickle cell disease (SS pattern) and Thalassemia major patients residing in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रातील सिकलसेल किंवा थॅलेसेमिया बाधित रुग्ण.",
+    "documents_en": [
+      "HPLC Blood Electrophoresis Report confirming SS pattern",
+      "Aadhaar Card",
+      "Ration Card",
+      "Disability Certificate (40%+)",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "HPLC रक्त तपासणी अहवाल",
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "दिव्यांग प्रमाणपत्र",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Get tested at Sub-District Hospital or Tribal Health Centre",
+      "Receive Yellow Sickle Cell Disease Card",
+      "Collect free monthly medications from government pharmacy and apply for monthly pension at Tehsil office"
+    ],
+    "steps_hi": [
+      "शासकीय रुग्णालयात जाऊन HPLC रक्त तपासणी करा",
+      "पिवळे सिकलसेल ओळखपत्र मिळवा",
+      "मोफत औषधे मिळवा व तहसील कार्यालयातून पेन्शन सुरू करा"
+    ],
+    "applyUrl": "https://tribal.maharashtra.gov.in/",
+    "sourceUrl": "https://arogya.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-free-blood-storage-distribution",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, blood-bank, free-blood",
+    "title_en": "Maharashtra Free Blood Distribution for Chronic Patients",
+    "title_hi": "महाराष्ट्र मोफत रक्त वाटप योजना (थॅलेसेमिया व सिकलसेल)",
+    "description_en": "State Blood Transfusion Council (SBTC) Maharashtra mandate providing 100% processing-fee-free blood and blood components to all Thalassemia, Hemophilia, and Sickle Cell patients.",
+    "description_hi": "महाराष्ट्र राज्य रक्त संक्रमण परिषदेमार्फत थॅलेसेमिया, हिमोफिलिया व सिकलसेल रुग्णांना सर्व शासकीय व धर्मादाय रक्तपेढ्यांतून मोफत रक्त उपलब्ध करून देणारी योजना.",
+    "benefits_en": "Zero processing fee for Whole Human Blood, Packed Red Blood Cells (PRBC), Platelets, and Fresh Frozen Plasma (FFP).",
+    "benefits_hi": "रक्ताच्या पिशव्या आणि घटकांसाठी कोणतीही प्रोसेसिंग फी नाही, १००% विनामूल्य रक्त वाटप.",
+    "benefitType": "100% Free Blood & Components",
+    "benefitAmount": "Zero Processing Charges",
+    "eligibility_en": "Thalassemia Major, Hemophilia, Sickle Cell Disease patients, and pregnant women admitted to government facilities.",
+    "eligibility_hi": "थॅलेसेमिया, हिमोफिलिया, सिकलसेल रुग्ण आणि शासकीय रुग्णालयातील गरोदर माता.",
+    "documents_en": [
+      "Disease Identity Card / Medical Diagnostic Certificate",
+      "Doctor Blood Requisition Form",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "आजाराचे ओळखपत्र / वैद्यकीय प्रमाणपत्र",
+      "डॉक्टरांची रक्त मागणी चिठ्ठी",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Obtain blood crossmatch requisition from treating doctor",
+      "Present patient disease card at nearest government / Red Cross blood centre",
+      "Collect screened, safe blood component without paying any charges"
+    ],
+    "steps_hi": [
+      "डॉक्टरांकडून रक्ताची मागणी चिठ्ठी घ्या",
+      "रक्तपेढीत रुग्णाचे कार्ड सादर करा",
+      "कोणतेही शुल्क न भरता सुरक्षित रक्त पिशवी मिळवा"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://mahasbtc.org/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-janani-shishu-suraksha-jssk",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, maternal, infant, institutional-delivery",
+    "title_en": "Janani Shishu Suraksha Karyakram (JSSK - Maharashtra)",
+    "title_hi": "जननी शिशु सुरक्षा कार्यक्रम (JSSK - महाराष्ट्र)",
+    "description_en": "State health initiative ensuring completely cashless delivery and post-natal care for pregnant women and treatment for sick newborns up to 1 year in public health facilities.",
+    "description_hi": "शासकीय रुग्णालयांमध्ये गरोदर मातांची प्रसूती, सिझेरियन शस्त्रक्रिया, औषधे, तपासण्या आणि आजारी नवजात बालकांवर मोफत उपचार देणारी योजना.",
+    "benefits_en": "100% free normal delivery and C-sections, free drugs, consumables, diagnostics (ultrasound, blood tests), free diet during stay, free blood transfusion, and free transport from home to hospital and back.",
+    "benefits_hi": "मोफत प्रसूती, मोफत सिझेरियन, मोफत सोनोग्राफी, रुग्णालयात मोफत जेवण आणि घर ते रुग्णालय मोफत रुग्णवाहिका प्रवास.",
+    "benefitType": "100% Cashless Maternal & Neonatal Care",
+    "benefitAmount": "Zero Out-of-Pocket Cost",
+    "eligibility_en": "All pregnant women delivering in public health institutions and sick infants up to 1 year of age.",
+    "eligibility_hi": "शासकीय आरोग्य केंद्रात प्रसूती होणाऱ्या सर्व महिला व १ वर्षापर्यंतची आजारी बालके.",
+    "documents_en": [
+      "MCP Card (Mother and Child Protection Card)",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "माता व बाल संरक्षण कार्ड (MCP Card)",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Register pregnancy with local ASHA or ANM",
+      "Visit Primary Health Centre, Rural Hospital, or District Women Hospital for checkups and delivery",
+      "All delivery procedures, food, drugs, and pickup/drop arranged free of charge"
+    ],
+    "steps_hi": [
+      "आशा किंवा आरोग्य सेविकेकडे गरोदरपणाची नोंद करा",
+      "शासकीय रुग्णालयात प्रसूतीसाठी दाखल व्हा",
+      "सर्व औषधे, तपासण्या, जेवण व प्रवास विनामूल्य दिला जातो"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://arogya.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-dhanvantari-swasthya-yojana",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, tribal, mobile-health, rural",
+    "title_en": "Maharashtra Dhanvantari Swasthya Seva Yojana",
+    "title_hi": "महाराष्ट्र धन्वंतरी आरोग्य सेवा योजना",
+    "description_en": "Mobile medical outreach units visiting inaccessible tribal padas and remote villages to provide diagnostic checkups, emergency stabilization, and maternal-child care.",
+    "description_hi": "दुर्गम व आदिवासी पाड्यांवर फिरत्या वैद्यकीय पथकांद्वारे (मोबाईल व्हॅन) मोफत आरोग्य तपासणी, औषधोपचार व बालरोग सेवा पुरवणारी योजना.",
+    "benefits_en": "Doorstep clinical consultation, free rapid malaria and hemoglobin testing, free essential antibiotics and vitamins, and antenatal tracking.",
+    "benefits_hi": "दारात मोफत डॉक्टर तपासणी, मलेरिया व हिमोग्लोबिन तपासणी, मोफत औषधे व गरोदर मातांची काळजी.",
+    "benefitType": "Free Mobile Health Service",
+    "benefitAmount": "100% Free Primary Care",
+    "eligibility_en": "Residents of notified tribal and remote forest hamlets in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रातील दुर्गम आदिवासी पाडे व वाड्यांमधील नागरिक.",
+    "documents_en": [
+      "None required for clinical checkup"
+    ],
+    "documents_hi": [
+      "तपासणीसाठी कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Mobile Medical Van visits village according to scheduled route roster",
+      "Villagers register with community health worker",
+      "Receive doctor consultation and free dispensed medications on the spot"
+    ],
+    "steps_hi": [
+      "नियोजित दिवशी गावात फिरता दवाखाना येतो",
+      "ग्रामस्थांची जागेवर नोंदणी व तपासणी केली जाते",
+      "डॉक्टरांच्या सल्ल्यानुसार लगेच मोफत औषधे दिली जातात"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://tribal.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "dr-ysr-aarogyasri-scheme-andhra-pradesh",
+    "level": "STATE",
+    "state": "Andhra Pradesh",
+    "category": "health",
+    "tags": "health, andhra-pradesh, aarogyasri, cashless, hospitalization",
+    "title_en": "Dr. YSR Aarogyasri Health Care Scheme (Andhra Pradesh)",
+    "title_hi": "डॉ. वायएसआर आरोग्यश्री योजना (आंध्र प्रदेश)",
+    "description_en": "Flagship health assurance scheme of Andhra Pradesh providing complete cashless hospitalization up to ₹25 Lakh covering 3,257 medical procedures for all BPL families.",
+    "description_hi": "आंध्र प्रदेश सरकारची प्रमुख आरोग्य योजना, ज्याद्वारे सर्व गरीब कुटुंबांना ३,२५७ आजारांवर प्रति वर्ष ₹२५ लाखांपर्यंत संपूर्ण कॅशलेस उपचार दिले जातात.",
+    "benefits_en": "Cashless treatment up to ₹25,00,000 per family per year including consultation, investigations, food, transport allowance, and Aarogya Aasara post-op financial support.",
+    "benefits_hi": "प्रति कुटुंब दरवर्षी ₹२५ लाखांपर्यंत मोफत व कॅशलेस उपचार आणि शस्त्रक्रियेनंतर विश्रांती काळात दरमहा आर्थिक भत्ता (आरोग्य आसरा).",
+    "benefitType": "Comprehensive Cashless Health Cover",
+    "benefitAmount": "Up to ₹25,00,000 / family/year",
+    "eligibility_en": "Families holding Rice Card, Antyodaya Anna Yojana Card, or having annual income up to ₹5,00,000 in Andhra Pradesh.",
+    "eligibility_hi": "आंध्र प्रदेशातील राईस कार्ड धारक किंवा वार्षिक उत्पन्न ₹५ लाखांच्या आत असणारे कुटुंब.",
+    "documents_en": [
+      "YSR Aarogyasri Card / Rice Card",
+      "Aadhaar Card",
+      "Medical Records"
+    ],
+    "documents_hi": [
+      "आरोग्यश्री कार्ड / राईस कार्ड",
+      "आधार कार्ड",
+      "वैद्यकीय कागदपत्रे"
+    ],
+    "steps_en": [
+      "Visit any empanelled hospital in AP or network hospitals in Chennai/Hyderabad/Bengaluru",
+      "Meet Aarogya Mithra at reception desk",
+      "Patient admitted cashless and treated; post-op assistance disbursed directly to bank account"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त रुग्णालयात आरोग्य मित्राला भेटा",
+      "कार्ड पडताळणीनंतर कॅशलेस ॲडमिशन",
+      "उपचार पूर्ण झाल्यानंतर मोफत डिस्चार्ज व आरोग्य आसरा भत्ता खात्यात जमा"
+    ],
+    "applyUrl": "https://ysraarogyasri.ap.gov.in/",
+    "sourceUrl": "https://ysraarogyasri.ap.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "aarogyasri-scheme-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "health",
+    "tags": "health, telangana, aarogyasri, cashless, hospitalization",
+    "title_en": "Aarogyasri Scheme (Telangana)",
+    "title_hi": "आरोग्यश्री योजना (तेलंगणा)",
+    "description_en": "Telangana Health Care Trust flagship cashless insurance scheme providing end-to-end cashless treatment up to ₹10 Lakh per family per year for catastrophic illnesses.",
+    "description_hi": "तेलंगणातील सर्वसामान्य कुटुंबांना गंभीर आजारांवर दर्जेदार खाजगी व सरकारी रुग्णालयात प्रति वर्ष ₹१० लाखांपर्यंत मोफत कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "Cashless tertiary healthcare cover up to ₹10,00,000 covering 1,600+ surgeries and medical therapies, ICU, and 10 days post-discharge medicines.",
+    "benefits_hi": "प्रति कुटुंब ₹१०,००,००० पर्यंत कॅशलेस उपचार, १,६०० हून अधिक शस्त्रक्रिया व डिस्चार्जनंतर मोफत औषधे.",
+    "benefitType": "Cashless Health Insurance",
+    "benefitAmount": "Up to ₹10,00,000 / family/year",
+    "eligibility_en": "Food Security Card (FSC / White Ration Card) holders domiciled in Telangana.",
+    "eligibility_hi": "तेलंगणातील फूड सिक्युरिटी कार्ड (रेशन कार्ड) धारक कुटुंब.",
+    "documents_en": [
+      "Food Security Card (FSC)",
+      "Aadhaar Card of all family members",
+      "Medical diagnosis documents"
+    ],
+    "documents_hi": [
+      "रेशन कार्ड",
+      "आधार कार्ड",
+      "वैद्यकीय तपासणी अहवाल"
+    ],
+    "steps_en": [
+      "Report to Aarogya Mithra desk at network hospital",
+      "Aarogya Mithra logs e-preauthorization on trust portal",
+      "Trust doctor approves package cashless treatment is initiated"
+    ],
+    "steps_hi": [
+      "नेटवर्क रुग्णालयात आरोग्य मित्राशी संपर्क साधा",
+      "पोर्टलवर ऑनलाइन मंजुरी (प्री-ऑथोरायझेशन) घेतली जाते",
+      "संपूर्ण मोफत व कॅशलेस उपचार मिळतात"
+    ],
+    "applyUrl": "https://aarogyasri.telangana.gov.in/",
+    "sourceUrl": "https://aarogyasri.telangana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "kanti-velugu-scheme-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "health",
+    "tags": "health, telangana, eye-care, screening, free-glasses",
+    "title_en": "Kanti Velugu Universal Eye Care Scheme (Telangana)",
+    "title_hi": "कांती वेलुगु सर्वसमावेशक नेत्र तपासणी योजना (तेलंगणा)",
+    "description_en": "Massive universal eye screening programme conducted by Government of Telangana providing free comprehensive eye examinations, reading glasses, and cataract surgeries to all residents.",
+    "description_hi": "तेलंगणातील सर्व नागरिकांसाठी डोळ्यांची मोफत तपासणी, मोफत चष्मे आणि आवश्यक असल्यास मोफत मोतीबिंदू शस्त्रक्रिया करून देणारी मोहीम.",
+    "benefits_en": "Free vision checkup, free prescription spectacles distributed on the spot, free reading glasses, and free surgical referral for cataract.",
+    "benefits_hi": "डोळ्यांची मोफत तपासणी, जागेवरच मोफत चष्म्यांचे वाटप आणि मोतीबिंदू शस्त्रक्रिया मोफत.",
+    "benefitType": "Universal Free Eye Care & Spectacles",
+    "benefitAmount": "100% Free Eye Care",
+    "eligibility_en": "All citizens residing in Telangana irrespective of income or age.",
+    "eligibility_hi": "तेलंगणातील सर्व नागरिक, कोणतेही उत्पन्न बंधन नाही.",
+    "documents_en": [
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Visit Kanti Velugu medical camp set up in your Gram Panchayat or Municipal ward",
+      "Register using Aadhaar card",
+      "Optometrist conducts automated refraction and vision test",
+      "Collect free spectacles or referral for hospital surgery"
+    ],
+    "steps_hi": [
+      "गावातील किंवा वॉर्डातील कांती वेलुगु शिबिराला भेट द्या",
+      "आधार कार्ड दाखवून नोंदणी करा",
+      "तज्ज्ञांकडून डोळे तपासणी करून घ्या",
+      "जागेवरच मोफत चष्मा मिळवा"
+    ],
+    "applyUrl": "https://kantivelugu.telangana.gov.in/",
+    "sourceUrl": "https://telangana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "basti-dawakhana-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "health",
+    "tags": "health, telangana, urban-clinic, diagnostics, free-medicine",
+    "title_en": "Basti Dawakhana (Telangana)",
+    "title_hi": "बस्ती दवाखाना (तेलंगणा)",
+    "description_en": "Neighborhood clinic model in Hyderabad and Telangana urban areas providing free primary out-patient care, 57 free diagnostic lab tests (T-Diagnostic), and free medicines to urban slum dwellers.",
+    "description_hi": "हैदराबाद व शहरी भागातील वस्त्यांमध्ये नागरिकांना घराशेजारी मोफत ओपीडी तपासणी, ५७ मोफत लॅब टेस्ट आणि मोफत औषधे देणारा दवाखाना.",
+    "benefits_en": "Doctor consultation, 57 types of pathology tests with digital SMS reports via T-Diagnostics, and free medication dispensing.",
+    "benefits_hi": "डॉक्टर तपासणी, ५७ प्रकारच्या मोफत रक्त-लघवी तपासण्या (मोबाईलवर रिपोर्ट) व मोफत औषधे.",
+    "benefitType": "Free Urban Healthcare",
+    "benefitAmount": "100% Free Services",
+    "eligibility_en": "Open to all urban residents, particularly urban poor and slum dwellers.",
+    "eligibility_hi": "शहरी भागातील सर्व नागरिक व झोपडपट्टीवासीय.",
+    "documents_en": [
+      "Any photo ID / Mobile number"
+    ],
+    "documents_hi": [
+      "कोणतेही ओळखपत्र / मोबाईल क्रमांक"
+    ],
+    "steps_en": [
+      "Walk into the nearest Basti Dawakhana in your colony",
+      "Meet medical officer for examination",
+      "Provide blood sample for free lab tests and collect medicine packet from in-house store"
+    ],
+    "steps_hi": [
+      "परिसरातील बस्ती दवाखान्यात जा",
+      "डॉक्टरांकडून तपासणी करून घ्या",
+      "मोफत चाचण्यांचे सॅम्पल द्या व औषधे मिळवा"
+    ],
+    "applyUrl": "https://ghmc.gov.in/",
+    "sourceUrl": "https://telangana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tamil-nadu-cmchis-insurance",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "health",
+    "tags": "health, tamil-nadu, cmchis, insurance, cashless",
+    "title_en": "Chief Minister Comprehensive Health Insurance Scheme (CMCHIS - Tamil Nadu)",
+    "title_hi": "मुख्यमंत्री सर्वसमावेशक आरोग्य विमा योजना (CMCHIS - तमिळनाडू)",
+    "description_en": "Tamil Nadu flagship health insurance scheme providing cashless hospitalization cover of up to ₹5,00,000 per year per family covering 1,513 medical and surgical procedures.",
+    "description_hi": "तमिळनाडूतील गरीब व मध्यमवर्गीय कुटुंबांसाठी प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचारांची हमी देणारी आरोग्य विमा योजना.",
+    "benefits_en": "Cashless cover of ₹5,00,000 per family per year across 1,000+ empanelled public and private hospitals, including diagnostic procedures and follow-up care.",
+    "benefits_hi": "प्रति कुटुंब ₹५ लाखांपर्यंत कॅशलेस उपचार, १,५०० हून अधिक शस्त्रक्रिया व मोफत तपासण्या.",
+    "benefitType": "Cashless Health Insurance",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "Families residing in Tamil Nadu with annual income up to ₹1,20,000 holding a valid Smart Family Card.",
+    "eligibility_hi": "तमिळनाडूतील स्मार्ट रेशन कार्ड असलेले व वार्षिक उत्पन्न ₹१,२०,००० च्या आत असणारे कुटुंब.",
+    "documents_en": [
+      "Smart Family Card (Ration Card)",
+      "Income Certificate from Revenue Authority",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "स्मार्ट रेशन कार्ड",
+      "उत्पन्नाचा दाखला",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Enroll at District Collectorate CMCHIS kiosk and obtain biometric smart card",
+      "Visit network hospital and present smart card at CMCHIS counter",
+      "Undergo approved cashless treatment without any deposit payment"
+    ],
+    "steps_hi": [
+      "जिल्हाधिकारी कार्यालयातील किओस्कवर बायोमेट्रिक नोंदणी करून कार्ड मिळवा",
+      "रुग्णालयात सीएमसीएचआयएस काउंटरवर कार्ड दाखवा",
+      "कोणतीही अनामत रक्कम न भरता कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://cmchistn.com/",
+    "sourceUrl": "https://cmchistn.com/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "makkalai-thedi-maruthuvam-tamil-nadu",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "health",
+    "tags": "health, tamil-nadu, doorstep-health, hypertension, diabetes",
+    "title_en": "Makkalai Thedi Maruthuvam (Tamil Nadu)",
+    "title_hi": "मक्कळै तेडी मारुथुवम - घरोघरी आरोग्य सेवा (तमिळनाडू)",
+    "description_en": "Pioneering healthcare delivery initiative in Tamil Nadu bringing screening, clinical monitoring, and monthly medication supplies directly to people homes for non-communicable diseases and elderly care.",
+    "description_hi": "तमिळनाडू सरकारची क्रांतीकारी योजना, ज्याद्वारे आरोग्य कर्मचारी थेट घरी येऊन रक्तदाब, मधुमेह तपासणी करतात आणि दरमहा औषधांचा मोफत पुरवठा करतात.",
+    "benefits_en": "Doorstep monthly medicine kits for hypertension and diabetes, palliative care, peritoneal dialysis supply at doorstep, and physiotherapy for immobile patients.",
+    "benefits_hi": "घरी बसल्या दरमहा रक्तदाब व मधुमेहाच्या गोळ्यांचे मोफत किट, फिजिओथेरपी आणि पॅलिएटिव्ह केअर.",
+    "benefitType": "Doorstep Healthcare Delivery",
+    "benefitAmount": "100% Free Doorstep Service",
+    "eligibility_en": "All residents of Tamil Nadu aged 45+ or diagnosed with non-communicable diseases and bedridden individuals.",
+    "eligibility_hi": "तमिळनाडूतील ४५ वर्षांवरील नागरिक, मधुमेह/रक्तदाबाचे रुग्ण व अंथरुणाला खिळलेले वृद्ध.",
+    "documents_en": [
+      "Aadhaar Card / Smart Family Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / स्मार्ट रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Women Health Volunteers (WHVs) visit home for door-to-door screening",
+      "Blood pressure and random blood sugar measured using digital glucometer",
+      "Identified patients enrolled and issued monthly box of prescribed medicines at home"
+    ],
+    "steps_hi": [
+      "महिला आरोग्य स्वयंसेविका घरी येऊन तपासणी करतात",
+      "डिजिटल यंत्राने रक्तदाब व साखरेची पातळी तपासली जाते",
+      "पात्र रुग्णांना दरमहा घरपोच मोफत गोळ्यांचे किट दिले जाते"
+    ],
+    "applyUrl": "https://tnhealth.tn.gov.in/",
+    "sourceUrl": "https://tn.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "innuyir-kaappon-nammai-kaakkum-48-tamil-nadu",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "health",
+    "tags": "health, tamil-nadu, trauma, road-accident, emergency",
+    "title_en": "Innuyir Kaappon - Nammai Kaakkum 48 (Tamil Nadu)",
+    "title_hi": "इन्नुयिर काप्पोन - नम्मै काक्कुम ४८ (तमिळनाडू रस्ते अपघात उपचार)",
+    "description_en": "Emergency road traffic accident scheme in Tamil Nadu ensuring 100% free life-saving trauma treatment up to ₹1,00,000 for the critical first 48 hours in any empanelled public or private hospital.",
+    "description_hi": "तमिळनाडूतील रस्त्यावर अपघात झालेल्या कोणत्याही व्यक्तीला पहिल्या ४८ तासांत ₹१ लाखांपर्यंत सर्व आपत्कालीन उपचार खाजगी किंवा सरकारी रुग्णालयात पूर्णपणे मोफत देणारी योजना.",
+    "benefits_en": "Free treatment up to ₹1,00,000 covering 81 critical emergency trauma procedures, emergency neurosurgery, orthopedics, ICU, and blood transfusion during the initial 48 hours.",
+    "benefits_hi": "रस्ते अपघातातील रुग्णाला पहिल्या ४८ तासांत ₹१,००,००० पर्यंतचे सर्व उपचार, आयसीयू व शस्त्रक्रिया मोफत.",
+    "benefitType": "100% Free Emergency Trauma Care",
+    "benefitAmount": "Up to ₹1,00,000 (First 48 Hours)",
+    "eligibility_en": "Any person who meets with a road traffic accident within the geographical boundaries of Tamil Nadu (residents, tourists, or migrants).",
+    "eligibility_hi": "तमिळनाडूच्या हद्दीत रस्ते अपघात झालेली कोणतीही व्यक्ती (स्थानिक, पर्यटक किंवा परराज्यातील नागरिक).",
+    "documents_en": [
+      "None required for immediate admission (Police/Ambulance admission memo)"
+    ],
+    "documents_hi": [
+      "तातडीने उपचारासाठी कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Accident victim shifted to nearest empanelled hospital by 108 ambulance or bystander",
+      "Hospital immediately initiates trauma management under scheme without demanding deposit",
+      "Government reimburses hospital directly up to ₹1,00,000 for first 48 hours"
+    ],
+    "steps_hi": [
+      "अपघातग्रस्ताला तातडीने जवळच्या मान्यताप्राप्त खाजगी/शासकीय रुग्णालयात दाखल केले जाते",
+      "रुग्णालय पैसे न मागता लगेच उपचार सुरू करते",
+      "शासनामार्फत ₹१ लाखापर्यंतचा खर्च थेट रुग्णालयाला अदा केला जातो"
+    ],
+    "applyUrl": "https://cmchistn.com/",
+    "sourceUrl": "https://tn.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "swasthya-sathi-scheme-west-bengal",
+    "level": "STATE",
+    "state": "West Bengal",
+    "category": "health",
+    "tags": "health, west-bengal, swasthya-sathi, cashless, universal",
+    "title_en": "Swasthya Sathi Scheme (West Bengal)",
+    "title_hi": "स्वास्थ्य साथी योजना (पश्चिम बंगाल)",
+    "description_en": "Universal cashless basic health cover scheme of Government of West Bengal providing up to ₹5,00,000 per family per year smart card issued in the name of the female head of household.",
+    "description_hi": "पश्चिम बंगालमधील सर्व कुटुंबांना महिला कुटुंबप्रमुखाच्या नावे स्मार्ट कार्डद्वारे प्रति वर्ष ₹५ लाखांपर्यंत मोफत कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "Cashless secondary and tertiary hospitalization cover of ₹5,00,000 per family per year covering pre-existing conditions, day care procedures, and diagnostic investigations.",
+    "benefits_hi": "प्रति वर्ष ₹५,००,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या; कार्ड कुटुंबातील महिलेच्या नावे दिले जाते.",
+    "benefitType": "Universal Cashless Health Cover",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "All permanent resident families of West Bengal not covered under other government statutory health schemes.",
+    "eligibility_hi": "पश्चिम बंगालमधील सर्व नागरिक व कुटुंबे.",
+    "documents_en": [
+      "Khadya Sathi (Ration Card)",
+      "Aadhaar Card of all family members",
+      "Photograph of female head of family"
+    ],
+    "documents_hi": [
+      "खाद्य साथी (रेशन कार्ड)",
+      "आधार कार्ड",
+      "घरातील महिलेचा फोटो"
+    ],
+    "steps_en": [
+      "Enroll at Duare Sarkar camp or local BDO / Municipality office",
+      "Capture biometric authentication of family members and receive Smart Card",
+      "Present Smart Card at empanelled hospital for cashless admission"
+    ],
+    "steps_hi": [
+      "दुआरे सरकार शिबिरात किंवा नगरपालिकेत जाऊन नाव नोंदवा",
+      "बायोमेट्रिक नोंदणी करून स्मार्ट कार्ड मिळवा",
+      "रुग्णालयात कार्ड दाखवून विनामूल्य उपचार मिळवा"
+    ],
+    "applyUrl": "https://swasthyasathi.gov.in/",
+    "sourceUrl": "https://swasthyasathi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shishu-sathi-scheme-west-bengal",
+    "level": "STATE",
+    "state": "West Bengal",
+    "category": "health",
+    "tags": "health, west-bengal, pediatric, cardiac, surgery",
+    "title_en": "Shishu Sathi Scheme (West Bengal)",
+    "title_hi": "शिशु साथी योजना - मोफत बाल हृदय शस्त्रक्रिया (पश्चिम बंगाल)",
+    "description_en": "Department of Health & Family Welfare West Bengal initiative providing 100% free heart surgeries and specialized pediatric interventions to children from 0 to 18 years.",
+    "description_hi": "जन्मतः हृदयामध्ये छिद्र किंवा इतर हृदयविकार असणाऱ्या १८ वर्षांपर्यंतच्या बालकांना मोफत हार्ट सर्जरी करून देणारी पश्चिम बंगालची योजना.",
+    "benefits_en": "100% free open-heart surgeries, valve repairs, closure of ASD/VSD, transport expenses, and medicines in premier specialty hospitals.",
+    "benefits_hi": "हार्ट सर्जरी, औषधे, तपासण्या व प्रवासाचा खर्च पूर्णपणे मोफत.",
+    "benefitType": "100% Free Pediatric Cardiac Surgery",
+    "benefitAmount": "Full Cost Covered",
+    "eligibility_en": "Children residing in West Bengal aged 0 to 18 years diagnosed with congenital heart disease.",
+    "eligibility_hi": "पश्चिम बंगालमधील १८ वर्षांखालील हृदयविकार ग्रस्त बालके.",
+    "documents_en": [
+      "Birth Certificate / Age Proof of child",
+      "2D Echocardiography / Cardiology Report",
+      "Parents Aadhaar Card / Swasthya Sathi Card"
+    ],
+    "documents_hi": [
+      "मुलाचा जन्म दाखला",
+      "२-डी इको / वैद्यकीय अहवाल",
+      "पालकांचे आधार कार्ड व स्वास्थ्य साथी कार्ड"
+    ],
+    "steps_en": [
+      "Screening done at District Hospital / Pediatric OPD",
+      "Chief Medical Officer of Health (CMOH) reviews diagnosis and refers to empanelled cardiac centre (e.g. RTIICS Kolkata)",
+      "Surgery performed completely free of charge with post-op monitoring"
+    ],
+    "steps_hi": [
+      "जिल्हा शासकीय रुग्णालयात तपासणी करून घ्या",
+      "मुख्य आरोग्य अधिकाऱ्यांमार्फत नामांकित हृदय रुग्णालयात रेफरल",
+      "मोफत शस्त्रक्रिया व उपचार पूर्ण केले जातात"
+    ],
+    "applyUrl": "https://wbhealth.gov.in/",
+    "sourceUrl": "https://wb.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-amrutum-ma-vatsalya-yojana-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "health",
+    "tags": "health, gujarat, ma-yojana, tertiary-care, cashless",
+    "title_en": "Mukhyamantri Amrutum (MA) & MA Vatsalya Yojana (Gujarat)",
+    "title_hi": "मुख्यमंत्री अमृतम (MA) आणि वात्सल्य योजना (गुजरात)",
+    "description_en": "Health and Family Welfare Department Gujarat flagship tertiary care insurance scheme providing cashless treatment up to ₹10 Lakh per family per year for catastrophic illnesses.",
+    "description_hi": "गुजरातमधील गरीब व मध्यमवर्गीय कुटुंबांना गंभीर आजारांवर प्रति वर्ष ₹१० लाखांपर्यंत मोफत व कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "Cashless hospitalization up to ₹10,00,000 per family per year covering cardiovascular surgeries, neurosurgery, burns, oncology, renal diseases, and neonatal care.",
+    "benefits_hi": "प्रति कुटुंब ₹१०,००,००० पर्यंत कॅशलेस उपचार, कर्करोग, मेंदू व हृदयाच्या शस्त्रक्रिया मोफत.",
+    "benefitType": "Cashless Tertiary Health Cover",
+    "benefitAmount": "Up to ₹10,00,000 / family/year",
+    "eligibility_en": "Families residing in Gujarat with annual income up to ₹4,00,000, BPL cardholders, ASHA workers, accredited journalists, and senior citizens.",
+    "eligibility_hi": "वार्षिक उत्पन्न ₹४ लाखांच्या आत असणारे गुजरातमधील कुटुंब, बीपीएल धारक व आशा कार्यकर्त्या.",
+    "documents_en": [
+      "Income Certificate issued by Mamlatdar / Taluka Development Officer",
+      "Aadhaar Card",
+      "Ration Card",
+      "MA Card / Barcoded Card"
+    ],
+    "documents_hi": [
+      "मामलतदारांचा उत्पन्नाचा दाखला",
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "MA कार्ड"
+    ],
+    "steps_en": [
+      "Visit Taluka civic centre or kiosk at Civil Hospital to generate MA Card",
+      "Go to any empanelled public or private hospital in Gujarat",
+      "Show MA Card at helpdesk to receive immediate cashless admission and surgeries"
+    ],
+    "steps_hi": [
+      "तालुका नागरी केंद्र किंवा सिव्हिल हॉस्पिटलमधून MA कार्ड काढा",
+      "मान्यताप्राप्त रुग्णालयात MA कार्ड दाखवा",
+      "कोणताही खर्च न करता मोफत उपचार मिळवा"
+    ],
+    "applyUrl": "https://magujarat.com/",
+    "sourceUrl": "https://gujhealth.gujarat.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "school-health-child-development-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "health",
+    "tags": "health, gujarat, child-health, free-surgeries",
+    "title_en": "School Health & Child Development Programme (SHP - Gujarat)",
+    "title_hi": "शालेय आरोग्य तपासणी व बाल विकास कार्यक्रम (गुजरात)",
+    "description_en": "Massive annual statewide screening mission in Gujarat examining over 1.5 crore school and anganwadi children and providing 100% free surgical interventions for congenital anomalies.",
+    "description_hi": "गुजरातमधील अंगणवाडी व शालेय विद्यार्थ्यांची वार्षिक आरोग्य तपासणी आणि आजारी बालकांना मोफत शस्त्रक्रिया करून देणारी योजना.",
+    "benefits_en": "100% free surgical corrections for cleft lip/palate, clubfoot, congenital heart disease, kidney transplant, cochlear implants, and retinoblastoma.",
+    "benefits_hi": "हृदयविकार, दुभंगलेले ओठ, कर्णबधिरता व इतर जन्मजात विकारांवर १००% मोफत शस्त्रक्रिया.",
+    "benefitType": "100% Free Pediatric Surgeries",
+    "benefitAmount": "Full Cost Covered by State",
+    "eligibility_en": "All children aged 0 to 18 years in Gujarat studying in schools, anganwadis, or out-of-school.",
+    "eligibility_hi": "गुजरातमधील ० ते १८ वयोगटातील सर्व बालके व विद्यार्थी.",
+    "documents_en": [
+      "School Health Card / Aadhaar Card of child / parents"
+    ],
+    "documents_hi": [
+      "शालेय आरोग्य तपासणी कार्ड किंवा आधार कार्ड"
+    ],
+    "steps_en": [
+      "Medical team visits school/anganwadi for comprehensive health checkup",
+      "Children diagnosed with major health defects referred to District Civil Hospital / Medical College",
+      "Surgery scheduled and performed free of charge at premier state institute (e.g. UN Mehta Institute of Cardiology)"
+    ],
+    "steps_hi": [
+      "आरोग्य पथक शाळेत येऊन मुलांची तपासणी करते",
+      "गंभीर आजार आढळल्यास मोठ्या शासकीय रुग्णालयात रेफर केले जाते",
+      "यू.एन. मेहता किंवा सिव्हिल हॉस्पिटलमध्ये मोफत शस्त्रक्रिया केली जाते"
+    ],
+    "applyUrl": "https://gujhealth.gujarat.gov.in/",
+    "sourceUrl": "https://gujaratindia.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-ayushman-arogya-yojana-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "health",
+    "tags": "health, rajasthan, ayushman-arogya, chiranjeevi, cashless",
+    "title_en": "Mukhyamantri Ayushman Arogya Yojana (MAAY - Rajasthan)",
+    "title_hi": "मुख्यमंत्री आयुष्मान आरोग्य योजना (राजस्थान)",
+    "description_en": "Rajasthan universal health assurance scheme providing unprecedented cashless hospitalization coverage up to ₹25 Lakh per family per year in empanelled hospitals.",
+    "description_hi": "राजस्थानमधील कुटुंबांना प्रति वर्ष ₹२५ लाखांपर्यंत मोफत व कॅशलेस उपचारांची हमी देणारी सर्वसमावेशक आरोग्य योजना.",
+    "benefits_en": "Cashless treatment up to ₹25,00,000 per family per year covering 1,800+ packages including organ transplants, oncology, cardiac surgeries, and ICU care.",
+    "benefits_hi": "प्रति कुटुंब प्रति वर्ष ₹२५,००,००० पर्यंत कॅशलेस उपचार, अवयव प्रत्यारोपण, कॅन्सर व हार्ट सर्जरी मोफत.",
+    "benefitType": "Universal Cashless Health Cover",
+    "benefitAmount": "Up to ₹25,00,000 / family/year",
+    "eligibility_en": "NFSA, SECC, small & marginal farmers, contract workers, and other families registered via Jan Aadhaar (nominal premium of ₹850/yr for non-exempt).",
+    "eligibility_hi": "राजस्थानमधील जन आधार कार्ड धारक सर्व कुटुंबे.",
+    "documents_en": [
+      "Jan Aadhaar Card",
+      "Aadhaar Card of patient"
+    ],
+    "documents_hi": [
+      "जन आधार कार्ड",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Link family on Jan Aadhaar portal or visit e-Mitra kiosk",
+      "Report to Swasthya Margdarshak at empanelled hospital in Rajasthan",
+      "Avail complete cashless inpatient treatment without paying any fees"
+    ],
+    "steps_hi": [
+      "ई-मित्र केंद्रावर जन आधार कार्डद्वारे नोंदणी तपासा",
+      "रुग्णालयातील स्वास्थ्य मार्गदर्शकाला भेटा",
+      "संपूर्ण मोफत व कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://health.rajasthan.gov.in/",
+    "sourceUrl": "https://rajasthan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-nishulk-dava-yojana-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "health",
+    "tags": "health, rajasthan, free-medicines, outdoor-indoor",
+    "title_en": "Mukhyamantri Nishulk Dava Yojana (Rajasthan)",
+    "title_hi": "मुख्यमंत्री निःशुल्क दवा योजना (राजस्थान)",
+    "description_en": "Pioneering Rajasthan scheme providing 1,800+ essential medicines, surgical items, and sutures completely free of cost to all outdoor and indoor patients in government hospitals.",
+    "description_hi": "शासकीय रुग्णालयांमध्ये येणाऱ्या सर्व ओपीडी व आयपीडी रुग्णांना १,८०० हून अधिक औषधे व सर्जिकल साहित्य १००% मोफत देणारी योजना.",
+    "benefits_en": "100% free supply of 1,800+ quality generic and life-saving drugs directly from hospital drug distribution counters (DDC).",
+    "benefits_hi": "१,८०० हून अधिक औषधे शासकीय रुग्णालयातील औषध खिडकीवरून १००% विनामूल्य.",
+    "benefitType": "100% Free Medicines",
+    "benefitAmount": "Zero Cost for All Medicines",
+    "eligibility_en": "All patients visiting any government hospital, CHC, or PHC in Rajasthan.",
+    "eligibility_hi": "राजस्थानमधील शासकीय रुग्णालयात उपचार घेणारे सर्व नागरिक.",
+    "documents_en": [
+      "Government Hospital OPD Ticket / Slip"
+    ],
+    "documents_hi": [
+      "शासकीय रुग्णालय ओपीडी पावती"
+    ],
+    "steps_en": [
+      "Get examined by doctor at any government hospital/dispensary",
+      "Doctor prescribes medicines using generic names on OPD slip",
+      "Collect prescribed medicines free of charge at Nishulk Dawa Counter"
+    ],
+    "steps_hi": [
+      "शासकीय रुग्णालयात डॉक्टरांकडून तपासणी करून घ्या",
+      "डॉक्टरांच्या चिठ्ठीसह मोफत औषध खिडकीवर जा",
+      "सर्व औषधे विनामूल्य मिळवा"
+    ],
+    "applyUrl": "https://health.rajasthan.gov.in/",
+    "sourceUrl": "https://rajasthan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-nishulk-jaanch-yojana-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "health",
+    "tags": "health, rajasthan, free-tests, pathology, diagnostics",
+    "title_en": "Mukhyamantri Nishulk Jaanch Yojana (Rajasthan)",
+    "title_hi": "मुख्यमंत्री निःशुल्क तपासणी योजना (राजस्थान)",
+    "description_en": "Statewide scheme in Rajasthan providing free diagnostic laboratory tests, X-rays, Sonography, and CT Scans in all public health facilities.",
+    "description_hi": "सर्व शासकीय रुग्णालयांमध्ये रक्त-लघवी तपासण्या, एक्स-रे, सोनोग्राफी व सीटी स्कॅन १००% मोफत करून देणारी योजना.",
+    "benefits_en": "Up to 90 types of diagnostic tests at Medical Colleges and 50+ tests at District Hospitals provided free without any charges.",
+    "benefits_hi": "९० प्रकारच्या लॅब चाचण्या, एक्स-रे, सोनोग्राफी व सीटी स्कॅन पूर्णपणे मोफत.",
+    "benefitType": "100% Free Diagnostic Testing",
+    "benefitAmount": "Zero Test Charges",
+    "eligibility_en": "All outdoor and indoor patients visiting Rajasthan government medical institutions.",
+    "eligibility_hi": "शासकीय आरोग्य केंद्रात येणारे सर्व रुग्ण.",
+    "documents_en": [
+      "Doctor Test Prescription on OPD/IPD ticket"
+    ],
+    "documents_hi": [
+      "डॉक्टरांची तपासणी शिफारस चिठ्ठी"
+    ],
+    "steps_en": [
+      "Present doctor test advice slip at hospital laboratory counter",
+      "Sample collected and automated analysis carried out",
+      "Collect printed report or view report online on Raj-Swasthya portal"
+    ],
+    "steps_hi": [
+      "रुग्णालयातील लॅब काउंटरवर डॉक्टरांची चिठ्ठी द्या",
+      "सॅम्पल देऊन मोफत चाचण्या करून घ्या",
+      "छापील अहवाल किंवा ऑनलाइन पोर्टलवर निकाल पहा"
+    ],
+    "applyUrl": "https://health.rajasthan.gov.in/",
+    "sourceUrl": "https://rajasthan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "dr-khubchand-baghel-swasthya-sahayata-chhattisgarh",
+    "level": "STATE",
+    "state": "Chhattisgarh",
+    "category": "health",
+    "tags": "health, chhattisgarh, dkbssy, health-insurance, cashless",
+    "title_en": "Dr. Khubchand Baghel Swasthya Sahayata Yojana (Chhattisgarh)",
+    "title_hi": "डॉ. खूबचंद बघेल आरोग्य सहायता योजना (छत्तीसगड)",
+    "description_en": "Universal healthcare scheme of Chhattisgarh providing cashless hospitalization benefits up to ₹5,00,000 per family per year to priority ration card holders.",
+    "description_hi": "छत्तीसगडमधील सर्व कुटुंबांना दर्जेदार कॅशलेस आरोग्य संरक्षण देणारी योजना (प्राधान्य कुटुंबांना ₹५ लाख आणि इतरांना ₹५०,०००).",
+    "benefits_en": "Cashless treatment up to ₹5,00,000 for Antyodaya and Priority ration card holders, and up to ₹50,000 for other general ration card holders.",
+    "benefits_hi": "गरीब कुटुंबांना ₹५,००,००० आणि सामान्य कुटुंबांना ₹५०,००० पर्यंत कॅशलेस उपचार.",
+    "benefitType": "Cashless Hospitalization Scheme",
+    "benefitAmount": "₹50,000 to ₹5,00,000 / family/year",
+    "eligibility_en": "All families domiciled in Chhattisgarh holding a state ration card.",
+    "eligibility_hi": "छत्तीसगडचे रेशन कार्ड असलेले सर्व नागरिक.",
+    "documents_en": [
+      "Chhattisgarh State Ration Card",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "छत्तीसगड रेशन कार्ड",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Verify card eligibility on dkbssy.cg.nic.in",
+      "Present ration card at Arogya Mitra counter in empanelled hospital",
+      "Treatment provided cashless through online authorization"
+    ],
+    "steps_hi": [
+      "dkbssy.cg.nic.in वर पात्रता तपासा",
+      "रुग्णालयात आरोग्य मित्राला रेशन कार्ड दाखवा",
+      "कॅशलेस पद्धतीने उपचार पूर्ण केले जातात"
+    ],
+    "applyUrl": "https://dkbssy.cg.nic.in/",
+    "sourceUrl": "https://cgstate.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-vishesh-swasthya-sahayata-chhattisgarh",
+    "level": "STATE",
+    "state": "Chhattisgarh",
+    "category": "health",
+    "tags": "health, chhattisgarh, super-specialty, rare-disease, high-grant",
+    "title_en": "Mukhyamantri Vishesh Swasthya Sahayata Yojana (Chhattisgarh)",
+    "title_hi": "मुख्यमंत्री विशेष आरोग्य सहायता योजना (छत्तीसगड)",
+    "description_en": "Government of Chhattisgarh special financial health grant providing up to ₹25 Lakh to residents suffering from rare, catastrophic, and expensive diseases.",
+    "description_hi": "दुर्मिळ व अत्यंत महागड्या आजारांवर उपचारासाठी छत्तीसगड सरकारकडून रुग्णांना ₹२५ लाखांपर्यंत थेट अनुदान देणारी योजना.",
+    "benefits_en": "Financial assistance of up to ₹25,00,000 for bone marrow transplant, liver transplant, heart transplant, severe pediatric cancer, and rare diseases.",
+    "benefits_hi": "अवयव प्रत्यारोपण, बोन मॅरो ट्रान्सप्लांट व कर्करोग उपचारांसाठी ₹२५,००,००० पर्यंतचे शासकीय अनुदान.",
+    "benefitType": "High-Value Medical Assistance Grant",
+    "benefitAmount": "Up to ₹25,00,000",
+    "eligibility_en": "Permanent residents of Chhattisgarh holding a state ration card suffering from approved catastrophic conditions.",
+    "eligibility_hi": "छत्तीसगडमधील रहिवासी ज्यांना गंभीर व दुर्मिळ आजार असल्याचे निदान झाले आहे.",
+    "documents_en": [
+      "Medical Diagnosis and Cost Estimate from Empanelled Institute",
+      "Ration Card",
+      "Aadhaar Card",
+      "Application recommendation by District Medical Board"
+    ],
+    "documents_hi": [
+      "रुग्णालयाचे खर्चाचे अंदाजपत्रक",
+      "रेशन कार्ड",
+      "आधार कार्ड",
+      "जिल्हा वैद्यकीय मंडळाची शिफारस"
+    ],
+    "steps_en": [
+      "Get medical estimate from designated hospital (e.g. AIIMS Raipur)",
+      "Submit application to District Chief Medical and Health Officer (CMHO)",
+      "State level approval committee sanctions grant directly to the treating institute"
+    ],
+    "steps_hi": [
+      "रुग्णालयाकडून उपचारांचा अंदाजपत्रक मिळवा",
+      "जिल्हा मुख्य वैद्यकीय अधिकाऱ्यांकडे (CMHO) अर्ज सादर करा",
+      "राज्य समितीकडून थेट रुग्णालयाला ₹२५ लाखांपर्यंत निधी मंजूर"
+    ],
+    "applyUrl": "https://dkbssy.cg.nic.in/",
+    "sourceUrl": "https://cgstate.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-slum-swasthya-yojana-chhattisgarh",
+    "level": "STATE",
+    "state": "Chhattisgarh",
+    "category": "health",
+    "tags": "health, chhattisgarh, mobile-clinic, urban-slum, mmu",
+    "title_en": "Mukhyamantri Slum Swasthya Yojana (Chhattisgarh)",
+    "title_hi": "मुख्यमंत्री झोपडपट्टी आरोग्य योजना (छत्तीसगड)",
+    "description_en": "Urban Administration and Development Department Chhattisgarh initiative deploying fully equipped Mobile Medical Units (MMUs) inside urban slum clusters.",
+    "description_hi": "शहरी झोपडपट्ट्यांमध्ये फिरत्या वैद्यकीय वाहनांद्वारे (MMU) मोफत डॉक्टर तपासणी, लॅब टेस्ट आणि औषधे जागेवरच देणारी योजना.",
+    "benefits_en": "Free doctor consultation, 41 types of on-spot rapid lab tests, and 100% free generic medicines provided right at the doorstep of slum dwellers.",
+    "benefits_hi": "मोफत डॉक्टर तपासणी, ४१ प्रकारच्या रक्त तपासण्या जागेवरच आणि मोफत औषधे.",
+    "benefitType": "Free Mobile Slum Healthcare",
+    "benefitAmount": "100% Free Doorstep Service",
+    "eligibility_en": "Residents of urban slums and low-income colonies in Chhattisgarh municipalities.",
+    "eligibility_hi": "छत्तीसगडमधील शहरी झोपडपट्ट्या व कामगार वस्त्यांमध्ये राहणारे नागरिक.",
+    "documents_en": [
+      "None required (Registration done on the spot)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Visit Mobile Medical Unit parked in the slum according to weekly schedule",
+      "Register with computer operator and get vitals recorded",
+      "Consult with MBBS doctor inside MMU, get lab test done, and collect free medicines"
+    ],
+    "steps_hi": [
+      "वस्तीत आलेल्या फिरत्या दवाखान्यात जा",
+      "संगणकावर नाव नोंदवा",
+      "डॉक्टरांशी चर्चा करा, मोफत टेस्ट करून घ्या व औषधे मिळवा"
+    ],
+    "applyUrl": "https://cglabour.gov.in/",
+    "sourceUrl": "https://cgstate.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "arogya-karnataka-scheme",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "health",
+    "tags": "health, karnataka, arogya-karnataka, cashless, bpl",
+    "title_en": "Ayushman Bharat - Arogya Karnataka (Ark)",
+    "title_hi": "आयुष्मान भारत - आरोग्य कर्नाटक (Ark)",
+    "description_en": "Co-branded universal health assurance scheme in Karnataka providing cashless healthcare treatment up to ₹5 Lakh per family per year for secondary and tertiary illnesses.",
+    "description_hi": "कर्नाटकातील सर्व पात्र कुटुंबांना दुय्यम व तृतीयक उपचारांसाठी प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "Cashless treatment up to ₹5,00,000 for BPL families and 30% financial copay assistance up to ₹1.5 Lakh for APL families covering 1,600+ complex procedures.",
+    "benefits_hi": "बीपीएल कुटुंबांना ₹५,००,००० पर्यंत कॅशलेस उपचार आणि एपीएल कुटुंबांना ३०% पर्यंत सवलत.",
+    "benefitType": "Cashless Health Assurance",
+    "benefitAmount": "Up to ₹5,00,000 / family/year",
+    "eligibility_en": "BPL / Antyodaya cardholders (Category A) and APL residents (Category B) domiciled in Karnataka.",
+    "eligibility_hi": "कर्नाटकातील रहिवासी, बीपीएल किंवा एपीएल रेशन कार्ड असलेले कुटुंब.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card (BPL/APL)",
+      "Ark UHID Card (Arogya Karnataka ID)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "आरोग्य कर्नाटक UHID कार्ड"
+    ],
+    "steps_en": [
+      "Enroll and generate Ark UHID at Taluk/District Hospital or BangaloreOne / KarnatakaOne centres",
+      "Get referral from public hospital for private empanelled hospital treatment",
+      "Arogya Mithra facilitates cashless admission and care"
+    ],
+    "steps_hi": [
+      "शासकीय रुग्णालय किंवा कर्नाटक वन केंद्रात UHID कार्ड काढा",
+      "शासकीय रुग्णालयातून रेफरल मिळवा",
+      "आरोग्य मित्राच्या मदतीने खाजगी किंवा सरकारी रुग्णालयात कॅशलेस उपचार घ्या"
+    ],
+    "applyUrl": "https://arogya.karnataka.gov.in/",
+    "sourceUrl": "https://karnataka.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "jyothi-sanjeevini-scheme-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "health",
+    "tags": "health, karnataka, employees, cashless, tertiary",
+    "title_en": "Jyothi Sanjeevini Scheme (Karnataka)",
+    "title_hi": "ज्योती संजीवनी योजना (कर्नाटक)",
+    "description_en": "Comprehensive cashless health insurance scheme by Suvarna Arogya Suraksha Trust for Karnataka State Government employees and their dependent family members.",
+    "description_hi": "कर्नाटक राज्य सरकारी कर्मचारी व त्यांच्या कुटुंबीयांसाठी गंभीर आजारांवर संपूर्ण कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "100% cashless hospitalization for 7 major specialty areas: cardiology, oncology, genito-urinary, neurology, polytrauma, burns, and neonatal care.",
+    "benefits_hi": "हृदयरोग, कर्करोग, मेंदूचे विकार, अपघात व भाजलेल्या रुग्णांवर १००% कॅशलेस उपचार.",
+    "benefitType": "Cashless Employee Health Cover",
+    "benefitAmount": "100% Cashless Super-Specialty Care",
+    "eligibility_en": "Serving state government employees of Karnataka and their dependent family members.",
+    "eligibility_hi": "कर्नाटक राज्य शासनाचे सेवारत कर्मचारी व त्यांच्यावर अवलंबून असलेले कुटुंबीय.",
+    "documents_en": [
+      "KGID Number (Karnataka Government Insurance Department)",
+      "Aadhaar Card of employee and patient",
+      "HRMS database validation"
+    ],
+    "documents_hi": [
+      "KGID क्रमांक",
+      "कर्मचारी व रुग्णाचे आधार कार्ड",
+      "HRMS डेटा पडताळणी"
+    ],
+    "steps_en": [
+      "Visit empanelled super-specialty hospital in Karnataka or Hyderabad/Chennai",
+      "Show KGID / Aadhaar at Jyothi Sanjeevini helpdesk",
+      "Pre-authorization granted online and patient receives cashless treatment"
+    ],
+    "steps_hi": [
+      "मान्यताप्राप्त सुपर स्पेशालिटी रुग्णालयात जा",
+      "हेल्पडेस्कवर KGID क्रमांक व आधार कार्ड दाखवा",
+      "ऑनलाइन मंजुरीनंतर कॅशलेस उपचार मिळतात"
+    ],
+    "applyUrl": "https://sast.karnataka.gov.in/",
+    "sourceUrl": "https://karnataka.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "karnataka-free-dialysis-service",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "health",
+    "tags": "health, karnataka, dialysis, kidney, free",
+    "title_en": "Karnataka Suvarna Arogya Free Dialysis Service",
+    "title_hi": "कर्नाटक सुवर्ण आरोग्य मोफत डायलिसिस सेवा",
+    "description_en": "Directorate of Health and Family Welfare Karnataka programme operating modern dialysis units across all taluk hospitals providing life-saving hemodialysis free of cost.",
+    "description_hi": "कर्नाटकातील सर्व तालुका रुग्णालयांमध्ये मूत्रपिंड निकामी झालेल्या गरीब रुग्णांना मोफत डायलिसिस देणारी सेवा.",
+    "benefits_en": "100% free hemodialysis sessions, free consumables, EPO injections, and regular nephrology checkups for BPL patients.",
+    "benefits_hi": "मोफत डायलिसिस, मोफत औषधे व इंजेक्शन बीपीएल रुग्णांसाठी १००% विनामूल्य.",
+    "benefitType": "Free Specialized Renal Care",
+    "benefitAmount": "100% Free Sessions",
+    "eligibility_en": "End-Stage Renal Disease (ESRD) patients domiciled in Karnataka holding BPL card.",
+    "eligibility_hi": "कर्नाटकातील बीपीएल रेशन कार्ड असणारे किडनीचे रुग्ण.",
+    "documents_en": [
+      "BPL Ration Card",
+      "Aadhaar Card",
+      "Doctor Diagnosis Report / Dialysis prescription"
+    ],
+    "documents_hi": [
+      "बीपीएल रेशन कार्ड",
+      "आधार कार्ड",
+      "किडनी तपासणी अहवाल"
+    ],
+    "steps_en": [
+      "Register at Dialysis Unit of nearest Taluk or District Hospital",
+      "Ration card verification and slot allocation",
+      "Regular free scheduled dialysis cycles conducted"
+    ],
+    "steps_hi": [
+      "जवळच्या तालुका किंवा जिल्हा रुग्णालयातील डायलिसिस कक्षात नोंदणी करा",
+      "कार्ड तपासणीनंतर वेळ निश्चित केली जाते",
+      "नियमित मोफत डायलिसिस केले जाते"
+    ],
+    "applyUrl": "https://arogya.karnataka.gov.in/",
+    "sourceUrl": "https://karnataka.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "karunya-benevolent-fund-kerala",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "health",
+    "tags": "health, kerala, benevolent-fund, financial-grant, lottery",
+    "title_en": "Karunya Benevolent Fund (KBF - Kerala)",
+    "title_hi": "कारुण्य बेनेव्होलंट फंड (केरळ)",
+    "description_en": "Kerala State Lottery-funded humanitarian health assistance scheme providing financial grants up to ₹2,00,000 - ₹3,00,000 for treatment of cancer, hemophilia, kidney diseases, and cardiovascular ailments.",
+    "description_hi": "केरळ सरकारची लॉटरी निधीतून चालवली जाणारी योजना, ज्याद्वारे कर्करोग, किडनी व हृदयविकार ग्रस्त गरीब रुग्णांना ₹३ लाखांपर्यंत आर्थिक मदत दिली जाते.",
+    "benefits_en": "One-time direct financial grant up to ₹2,00,000 for major surgeries, and up to ₹3,00,000 for kidney transplantation and palliative oncology care.",
+    "benefits_hi": "शस्त्रक्रिया व उपचारांसाठी ₹२,००,००० ते ₹३,००,००० पर्यंतचे थेट शासकीय अनुदान.",
+    "benefitType": "Direct Medical Grant",
+    "benefitAmount": "Up to ₹3,00,000",
+    "eligibility_en": "Families residing in Kerala with annual family income up to ₹3,00,000 not fully covered by other insurance schemes.",
+    "eligibility_hi": "केरळातील रहिवासी ज्यांचे कौटुंबिक वार्षिक उत्पन्न ₹३ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Income Certificate (Village Officer)",
+      "Ration Card",
+      "Aadhaar Card",
+      "Medical Certificate and estimate from Government Doctor / Medical Superintendent"
+    ],
+    "documents_hi": [
+      "उत्पन्नाचा दाखला",
+      "रेशन कार्ड",
+      "आधार कार्ड",
+      "शासकीय डॉक्टरांचे खर्चाचे अंदाजपत्रक"
+    ],
+    "steps_en": [
+      "Download application form from karunya.kerala.gov.in",
+      "Attach medical estimate and submit to District Lottery Office or District Collectorate",
+      "Sanctioned funds transferred directly to treating hospital account"
+    ],
+    "steps_hi": [
+      "karunya.kerala.gov.in वरून अर्ज डाऊनलोड करा",
+      "वैद्यकीय प्रमाणपत्रासह जिल्हाधिकारी कार्यालयात सादर करा",
+      "मंजूर रक्कम थेट रुग्णालयाच्या खात्यात जमा"
+    ],
+    "applyUrl": "https://karunya.kerala.gov.in/",
+    "sourceUrl": "https://kerala.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "thalolam-scheme-kerala",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "health",
+    "tags": "health, kerala, pediatric, chronic-diseases, free-treatment",
+    "title_en": "Thalolam Scheme for Children (Kerala)",
+    "title_hi": "थलोलम बाल आरोग्य योजना (केरळ)",
+    "description_en": "Kerala Social Security Mission (KSSM) scheme providing 100% free medical treatment and super-specialty surgeries for children below 18 years suffering from life-threatening chronic conditions.",
+    "description_hi": "हृदयरोग, कर्करोग, सेरेब्रल पाल्सी, मूत्रपिंड विकार अशा गंभीर आजारांनी ग्रस्त १८ वर्षांखालील बालकांना संपूर्ण मोफत उपचार देणारी केरळची योजना.",
+    "benefits_en": "Up to ₹50,000 initial grant per child with unlimited additional assistance for super-specialty interventions, dialysis, brain surgeries, and expensive injections in government medical colleges.",
+    "benefits_hi": "शासकीय वैद्यकीय महाविद्यालयांमध्ये बालकांसाठी सर्व तपासण्या, शस्त्रक्रिया व महागडी औषधे १००% मोफत.",
+    "benefitType": "100% Free Pediatric Medical Aid",
+    "benefitAmount": "Full Cost Covered by State",
+    "eligibility_en": "Children below 18 years residing in Kerala belonging to poor families admitted in government medical colleges or SAT hospital.",
+    "eligibility_hi": "केरळातील गरीब कुटुंबातील १८ वर्षांखालील मुले जे शासकीय वैद्यकीय महाविद्यालयात उपचार घेत आहेत.",
+    "documents_en": [
+      "Ration Card / Income Certificate",
+      "Aadhaar Card of Child/Parent",
+      "Medical Superintendent Certification"
+    ],
+    "documents_hi": [
+      "रेशन कार्ड / उत्पन्नाचा दाखला",
+      "मुलाचे किंवा पालकांचे आधार कार्ड",
+      "वैद्यकीय अधीक्षकांचे शिफारस पत्र"
+    ],
+    "steps_en": [
+      "Patient admitted to Government Medical College or SAT Hospital in Kerala",
+      "Superintendent-headed Hospital Level Technical Committee verifies eligibility",
+      "Funds disbursed directly from Thalolam corpus for medicines, investigations, and surgeries"
+    ],
+    "steps_hi": [
+      "शासकीय वैद्यकीय महाविद्यालयात दाखल व्हा",
+      "रुग्णालयातील समितीकडून तपासणी व मंजुरी",
+      "थलोलम फंडातून सर्व खर्च थेट रुग्णालयातून केला जातो"
+    ],
+    "applyUrl": "https://socialsecuritymission.gov.in/",
+    "sourceUrl": "https://kerala.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shwas-programme-kerala",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "health",
+    "tags": "health, kerala, asthma, copd, respiratory, free",
+    "title_en": "Shwas & COPD Control Programme (Kerala)",
+    "title_hi": "श्वास व सीओपीडी नियंत्रण कार्यक्रम (केरळ)",
+    "description_en": "Directorate of Health Services Kerala programme operating specialized respiratory clinics at Primary and Family Health Centres providing free spirometry tests and inhalers.",
+    "description_hi": "दमा (अस्थमा) व फुफ्फुसाच्या आजारांनी त्रस्त रुग्णांना फॅमिली हेल्थ सेंटरमध्ये मोफत स्पायरोमेट्री तपासणी आणि मोफत इन्हेलर देणारी केरळची योजना.",
+    "benefits_en": "Free spirometry pulmonary function tests, free metered dose inhalers (MDI), rotahalers, and pulmonary rehabilitation counseling.",
+    "benefits_hi": "मोफत फुफ्फुस तपासणी (स्पायरोमेट्री), मोफत इनहेलर व औषधांचा मासिक पुरवठा.",
+    "benefitType": "Free Chronic Respiratory Care",
+    "benefitAmount": "100% Free Care & Inhalers",
+    "eligibility_en": "All citizens of Kerala suffering from bronchial asthma, COPD, or chronic cough.",
+    "eligibility_hi": "दमा किंवा श्वासविकाराने ग्रस्त असलेले केरळातील नागरिक.",
+    "documents_en": [
+      "Aadhaar Card or Hospital OPD Ticket"
+    ],
+    "documents_hi": [
+      "आधार कार्ड किंवा ओपीडी पावती"
+    ],
+    "steps_en": [
+      "Visit local Family Health Centre (FHC) on designated Shwas clinic day",
+      "Undergo free spirometry evaluation",
+      "Collect doctor-prescribed inhalers and spacer devices free from pharmacy counter"
+    ],
+    "steps_hi": [
+      "स्थानिक फॅमिली हेल्थ सेंटरमधील श्वास क्लिनिकमध्ये जा",
+      "मोफत स्पायरोमेट्री टेस्ट करून घ्या",
+      "रुग्णालयातून मोफत इनहेलर व औषधे मिळवा"
+    ],
+    "applyUrl": "https://dhs.kerala.gov.in/",
+    "sourceUrl": "https://kerala.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-jan-arogya-yojana-uttar-pradesh",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "health",
+    "tags": "health, uttar-pradesh, jan-arogya, cashless, pmjay-extension",
+    "title_en": "Mukhyamantri Jan Arogya Yojana (Uttar Pradesh)",
+    "title_hi": "मुख्यमंत्री जन आरोग्य योजना (उत्तर प्रदेश)",
+    "description_en": "State-funded health assurance initiative by Government of Uttar Pradesh providing cashless coverage up to ₹5,00,000 per family per year to poor families left out of PMJAY (including Antyodaya cardholders).",
+    "description_hi": "उत्तर प्रदेश सरकारची १००% राज्य-अनुदानित योजना, ज्याद्वारे PMJAY मधून सुटलेल्या गरीब कुटुंबांना प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचार दिले जातात.",
+    "benefits_en": "Complete cashless hospitalization up to ₹5,00,000 per family per year across 3,000+ public and private empanelled hospitals in Uttar Pradesh.",
+    "benefits_hi": "प्रति कुटुंब ₹५,००,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया, तपासण्या व औषधे मोफत.",
+    "benefitType": "Cashless Health Insurance",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "Antyodaya Anna Yojana (AAY) ration cardholders, construction workers, and vulnerable families not covered under PMJAY.",
+    "eligibility_hi": "उत्तर प्रदेशातील अंत्योदय रेशन कार्ड धारक व नोंदणीकृत कामगार कुटुंब.",
+    "documents_en": [
+      "Antyodaya Ration Card",
+      "Aadhaar Card of patient",
+      "Mukhyamantri Jan Arogya Card"
+    ],
+    "documents_hi": [
+      "अंत्योदय रेशन कार्ड",
+      "आधार कार्ड",
+      "जन आरोग्य कार्ड"
+    ],
+    "steps_en": [
+      "Check name on UP Ayushman portal (ayushmanup.in)",
+      "Obtain Jan Arogya Golden Card from CSC center or District Hospital",
+      "Present card at empanelled hospital for cashless treatment"
+    ],
+    "steps_hi": [
+      "ayushmanup.in वर नाव तपासा",
+      "सीएससी केंद्रावरून मोफत गोल्डन कार्ड काढा",
+      "रुग्णालयात कार्ड दाखवून मोफत उपचार मिळवा"
+    ],
+    "applyUrl": "https://ayushmanup.in/",
+    "sourceUrl": "https://up.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "uttar-pradesh-asadhya-rog-chikitsa-anudan",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "health",
+    "tags": "health, uttar-pradesh, cmrf, incurable-diseases, grant",
+    "title_en": "UP Chief Minister Discretionary Medical Relief (Asadhya Rog)",
+    "title_hi": "उत्तर प्रदेश मुख्यमंत्री असाध्य रोग वैद्यकीय अनुदान",
+    "description_en": "Discretionary grant by the Chief Minister of Uttar Pradesh providing direct financial assistance up to ₹5 Lakh for indigent patients requiring super-specialty surgery for cancer, heart, kidney, or brain diseases.",
+    "description_hi": "कर्करोग, किडनी फेल्युअर, हृदय शस्त्रक्रिया अशा असाध्य आजारांवर उपचारासाठी उत्तर प्रदेशच्या मुख्यमंत्र्यांकडून ₹५ लाखांपर्यंत थेट आर्थिक मदत देणारी योजना.",
+    "benefits_en": "Direct financial assistance up to ₹5,00,000 sanctioned and transferred directly to the treating premier hospital (SGPGI, KGMU, AIIMS, etc.).",
+    "benefits_hi": "उपचारासाठी ₹५,००,००० पर्यंतचे अनुदान थेट एसजीपीजीआय किंवा केजीएमयू सारख्या रुग्णालयांच्या खात्यात वर्ग.",
+    "benefitType": "Financial Medical Grant",
+    "benefitAmount": "Up to ₹5,00,000",
+    "eligibility_en": "BPL or poor families residing in Uttar Pradesh with annual family income below ₹1,00,000 undergoing treatment in government medical institutes.",
+    "eligibility_hi": "उत्तर प्रदेशातील गरीब कुटुंब ज्यांचे वार्षिक उत्पन्न ₹१ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Income Certificate issued by Tehsildar",
+      "Medical Diagnosis & Estimate Letter signed by Head of Department / Medical Superintendent",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "शासकीय रुग्णालयाचे खर्चाचे अंदाजपत्रक",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Get medical estimate letter from treating government super-specialty institute",
+      "Submit application to District Magistrate (DM) office or CM Office Lucknow",
+      "Sanction issued and funds credited directly to hospital account"
+    ],
+    "steps_hi": [
+      "रुग्णालयाकडून खर्चाचा अंदाज घ्या",
+      "जिल्हाधिकारी किंवा मुख्यमंत्री कार्यालयात अर्ज सादर करा",
+      "मंजूर रक्कम थेट रुग्णालयाकडे वर्ग होऊन मोफत उपचार केले जातात"
+    ],
+    "applyUrl": "https://shasanadesh.up.gov.in/",
+    "sourceUrl": "https://up.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "bihar-mukhyamantri-chikitsa-sahayata-kosh",
+    "level": "STATE",
+    "state": "Bihar",
+    "category": "health",
+    "tags": "health, bihar, medical-relief, super-specialty, grant",
+    "title_en": "Mukhyamantri Chikitsa Sahayata Kosh (Bihar)",
+    "title_hi": "मुख्यमंत्री वैद्यकीय सहायता कोष (बिहार)",
+    "description_en": "Health Department Bihar scheme providing financial medical aid up to ₹2.5 Lakh for treatment of 14 major critical illnesses in premier hospitals across India.",
+    "description_hi": "बिहारमधील गरीब नागरिकांना कर्करोग, हृदय शस्त्रक्रिया, किडनी ट्रान्सप्लांट अशा १४ गंभीर आजारांवर उपचारासाठी ₹२.५ लाखांपर्यंत आर्थिक मदत देणारा कोष.",
+    "benefits_en": "Direct grant up to ₹2,50,000 disbursed directly to the bank account of the recognized super-specialty hospital where treatment is ongoing.",
+    "benefits_hi": "मान्यताप्राप्त रुग्णालयात उपचारासाठी ₹२,५०,००० पर्यंतचे थेट शासकीय अनुदान.",
+    "benefitType": "Financial Assistance Grant",
+    "benefitAmount": "Up to ₹2,50,000",
+    "eligibility_en": "Permanent residents of Bihar with annual family income up to ₹2,50,000 suffering from recognized major illnesses.",
+    "eligibility_hi": "बिहारचे रहिवासी, कौटुंबिक वार्षिक उत्पन्न ₹२.५ लाखांच्या आत असणारे रुग्ण.",
+    "documents_en": [
+      "Income Certificate from Circle Officer / SDO",
+      "Residential Certificate",
+      "Medical Estimate Letter from designated Hospital (IGIMS, AIIMS, etc.)",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "उत्पन्नाचा दाखला",
+      "रहिवासी दाखला",
+      "रुग्णालयाचे खर्चाचे अंदाजपत्रक",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Collect estimate form from empanelled hospital",
+      "Submit application to District Civil Surgeon Office",
+      "Civil Surgeon forwards recommendation to State Health Society, and funds are credited directly to hospital"
+    ],
+    "steps_hi": [
+      "रुग्णालयाकडून खर्चाचा अंदाजपत्रक घ्या",
+      "जिल्हा सिव्हिल सर्जन कार्यालयात अर्ज सादर करा",
+      "मंजूर निधी थेट रुग्णालयाच्या बँक खात्यात वर्ग होतो"
+    ],
+    "applyUrl": "https://health.bihar.gov.in/",
+    "sourceUrl": "https://state.bihar.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "bihar-bal-hridaya-yojana",
+    "level": "STATE",
+    "state": "Bihar",
+    "category": "health",
+    "tags": "health, bihar, pediatric, cardiac, free-surgery",
+    "title_en": "Bal Hridaya Yojana (Bihar)",
+    "title_hi": "बाल हृदय योजना (बिहार)",
+    "description_en": "Health Department Bihar initiative under Saat Nishchay-2 providing 100% free pediatric cardiac surgeries and travel arrangements for children with Congenital Heart Disease (hole in the heart).",
+    "description_hi": "बिहारमधील ज्या लहान मुलांच्या हृदयात जन्मतः छिद्र (ASD/VSD) आहे, त्यांना विमानाने नेऊन मोफत शस्त्रक्रिया करून देणारी सात निश्चय-२ मधील योजना.",
+    "benefits_en": "100% free open-heart surgery, hospital stay, medicines, and free air travel tickets for the child and parent to premier cardiac institutions (e.g. Sri Sathya Sai Hospital, Ahmedabad).",
+    "benefits_hi": "हार्ट सर्जरी, औषधे, हॉस्पिटल खर्च आणि मुलासह पालकाचे मोफत विमान तिकीट.",
+    "benefitType": "100% Free Pediatric Heart Surgery",
+    "benefitAmount": "Full Cost Covered + Free Air Travel",
+    "eligibility_en": "Children residing in Bihar aged 0 to 18 years diagnosed with Congenital Heart Disease.",
+    "eligibility_hi": "बिहारमधील ० ते १८ वयोगटातील हृदयविकारग्रस्त बालके.",
+    "documents_en": [
+      "Pediatric 2D Echocardiogram diagnosis report",
+      "Birth Certificate of child",
+      "Aadhaar Card of Parents",
+      "Domicile Certificate of Bihar"
+    ],
+    "documents_hi": [
+      "२-डी इको चाचणी अहवाल",
+      "मुलाचा जन्म दाखला",
+      "पालकांचे आधार कार्ड",
+      "बिहार रहिवासी दाखला"
+    ],
+    "steps_en": [
+      "Child screened by RBSK mobile team or at District Hospital",
+      "2D Echo confirms congenital heart defect at IGIMS Patna",
+      "Government arranges free air travel and specialized surgery at partner cardiac centre"
+    ],
+    "steps_hi": [
+      "शासकीय रुग्णालयात मुलाची इको टेस्ट करून घ्या",
+      "IGIMS पाटणा येथे मोफत तपासणी व निवड",
+      "शासनामार्फत विमानाने नेऊन नामांकित रुग्णालयात मोफत शस्त्रक्रिया केली जाते"
+    ],
+    "applyUrl": "https://state.bihar.gov.in/",
+    "sourceUrl": "https://health.bihar.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "delhi-arogya-kosh-dak",
+    "level": "STATE",
+    "state": "Delhi",
+    "category": "health",
+    "tags": "health, delhi, dak, diagnostics, surgery, free",
+    "title_en": "Delhi Arogya Kosh (DAK)",
+    "title_hi": "दिल्ली आरोग्य कोष (DAK)",
+    "description_en": "Government of NCT of Delhi fund providing free high-end diagnostic tests (MRI, PET, CT Scan) at private centres and up to ₹5 Lakh financial aid for complex surgeries for Delhi residents.",
+    "description_hi": "दिल्लीतील नागरिकांना खाजगी लॅबमध्ये मोफत एमआरआय, सीटी स्कॅन, पीईटी स्कॅन आणि गंभीर शस्त्रक्रियांसाठी ₹५ लाखांपर्यंत आर्थिक मदत देणारा कोष.",
+    "benefits_en": "Free high-end imaging (MRI, CT, PET scans) at empanelled private diagnostic centres if waiting time in government hospital exceeds 30 days, plus up to ₹5 Lakh surgery assistance.",
+    "benefits_hi": "खाजगी लॅबमध्ये मोफत एमआरआय व सीटी स्कॅन आणि शस्त्रक्रियेसाठी ₹५,००,००० पर्यंतची मदत.",
+    "benefitType": "Free Private Diagnostics & Surgical Grant",
+    "benefitAmount": "Free High-end Scans + Up to ₹5 Lakh",
+    "eligibility_en": "Bonafide residents of Delhi for at least 3 years carrying Delhi Voter ID.",
+    "eligibility_hi": "दिल्लीचे ३ वर्षांचे रहिवासी असणारे नागरिक (दिल्ली मतदार ओळखपत्र धारक).",
+    "documents_en": [
+      "Delhi Voter ID Card (mandatory for adults)",
+      "Aadhaar Card",
+      "Doctor Referral slip from Delhi Government Hospital",
+      "Income proof (for surgical aid)"
+    ],
+    "documents_hi": [
+      "दिल्ली मतदार ओळखपत्र",
+      "आधार कार्ड",
+      "दिल्ली सरकारी डॉक्टरांची रेफरल चिठ्ठी",
+      "उत्पन्नाचा दाखला"
+    ],
+    "steps_en": [
+      "Visit Delhi Government hospital (e.g. LNJP, GB Pant, DDU)",
+      "Doctor prescribes high-end scan; if waiting list exceeds 30 days, referral slip is issued",
+      "Visit empanelled private imaging centre and undergo scan completely free of cost"
+    ],
+    "steps_hi": [
+      "दिल्ली सरकारी रुग्णालयात तपासणी करा",
+      "डॉक्टरांकडून मोफत खाजगी स्कॅन रेफरल चिठ्ठी मिळवा",
+      "मान्यताप्राप्त खाजगी लॅबमध्ये जाऊन मोफत एमआरआय/सीटी स्कॅन करा"
+    ],
+    "applyUrl": "https://health.delhigovt.nic.in/",
+    "sourceUrl": "https://delhi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "aam-aadmi-mohalla-clinics-delhi",
+    "level": "STATE",
+    "state": "Delhi",
+    "category": "health",
+    "tags": "health, delhi, mohalla-clinic, primary-care, free",
+    "title_en": "Aam Aadmi Mohalla Clinics (Delhi)",
+    "title_hi": "आम आदमी मोहल्ला क्लिनिक (दिल्ली)",
+    "description_en": "Flagship primary health network of Government of NCT of Delhi operating over 500 walk-in neighborhood clinics offering free doctor consultations, 212 free lab tests, and 200+ free medicines.",
+    "description_hi": "दिल्लीतील ५०० हून अधिक वस्त्यांमध्ये नागरिकांना घराशेजारी मोफत डॉक्टर तपासणी, २१२ प्रकारच्या मोफत लॅब चाचण्या आणि मोफत औषधे देणारी मोहल्ला क्लिनिक सेवा.",
+    "benefits_en": "100% free consultation with qualified doctors, 212 free diagnostic laboratory tests, and free dispensing of 200+ essential medicines on the spot.",
+    "benefits_hi": "मोफत डॉक्टर तपासणी, २१२ मोफत रक्त-लघवी चाचण्या आणि २०० हून अधिक औषधे १००% मोफत.",
+    "benefitType": "Free Primary Healthcare",
+    "benefitAmount": "100% Free Walk-in Clinic",
+    "eligibility_en": "Open to all citizens visiting the clinic regardless of state of origin or income.",
+    "eligibility_hi": "कोणत्याही नागरिकासाठी विनामूल्य खुले.",
+    "documents_en": [
+      "Any identity proof or mobile number for digital registration"
+    ],
+    "documents_hi": [
+      "कोणतेही ओळखपत्र किंवा मोबाईल क्रमांक"
+    ],
+    "steps_en": [
+      "Walk into the nearest Mohalla Clinic in your locality",
+      "Register at tablet counter and meet doctor in consultation room",
+      "Get lab samples drawn and collect prescribed medicines from pharmacy counter free of charge"
+    ],
+    "steps_hi": [
+      "परिसरातील मोहल्ला क्लिनिकमध्ये थेट जा",
+      "टॅबलेटवर नाव नोंदवून डॉक्टरांना भेटा",
+      "मोफत तपासण्यांचे सॅम्पल द्या व मोफत औषधे खिडकीतून मिळवा"
+    ],
+    "applyUrl": "https://health.delhigovt.nic.in/",
+    "sourceUrl": "https://delhi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "farishtey-dilli-ke-emergency-treatment",
+    "level": "STATE",
+    "state": "Delhi",
+    "category": "health",
+    "tags": "health, delhi, emergency, road-accident, burns",
+    "title_en": "Farishtey Dilli Ke Scheme (Delhi)",
+    "title_hi": "फरिश्ते दिल्ली के योजना (मोफत आपत्कालीन उपचार)",
+    "description_en": "Life-saving emergency scheme in Delhi providing 100% free hospital treatment in any private or government hospital for road accident, burn, and acid attack victims, along with cash incentive to good samaritans.",
+    "description_hi": "दिल्लीत रस्ते अपघात, भाजलेले किंवा ॲसिड हल्ल्यातील बळींना कोणत्याही खाजगी रुग्णालयात मोफत उपचार देणारी आणि मदत करणाऱ्याला ₹२,००० प्रोत्साहन देणारी योजना.",
+    "benefits_en": "100% free ICU, surgeries, and hospitalization in any private empanelled hospital in Delhi without any limit, plus ₹2,000 cash reward and certificate for the good samaritan who brings the victim.",
+    "benefits_hi": "खाजगी रुग्णालयांमध्ये सर्व आपत्कालीन उपचार पूर्णपणे मोफत आणि रुग्णाला रुग्णालयात पोहोचवणाऱ्या व्यक्तीला ₹२,००० रोख बक्षीस.",
+    "benefitType": "100% Free Emergency Medical Care",
+    "benefitAmount": "Full Cost Covered + ₹2,000 Good Samaritan Reward",
+    "eligibility_en": "Anyone meeting with a road accident, acid attack, or burn injury within the NCT of Delhi.",
+    "eligibility_hi": "दिल्लीच्या हद्दीत अपघात झालेली कोणतीही व्यक्ती.",
+    "documents_en": [
+      "None required (Immediate life-saving admission mandatory)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Good samaritan or PCR/ambulance brings victim to nearest private/government hospital",
+      "Hospital admits patient immediately under Farishtey scheme with zero advance deposit",
+      "Delhi Government pays the entire medical bill directly to the hospital"
+    ],
+    "steps_hi": [
+      "अपघातग्रस्ताला तात्काळ जवळच्या खाजगी किंवा सरकारी रुग्णालयात दाखल केले जाते",
+      "रुग्णालय कोणतेही पैसे न मागता उपचार सुरू करते",
+      "दिल्ली सरकार संपूर्ण बिलाची रक्कम थेट रुग्णालयाला अदा करते"
+    ],
+    "applyUrl": "https://health.delhigovt.nic.in/",
+    "sourceUrl": "https://delhi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "punjab-mukh-mantri-sehat-bima-yojana",
+    "level": "STATE",
+    "state": "Punjab",
+    "category": "health",
+    "tags": "health, punjab, sehat-bima, cashless, hospitalization",
+    "title_en": "Mukh Mantri Sehat Bima Yojana (Punjab)",
+    "title_hi": "मुख्य मंत्री सेहत विमा योजना (पंजाब)",
+    "description_en": "Punjab state health agency comprehensive cashless insurance scheme providing up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization to over 40 lakh families.",
+    "description_hi": "पंजाबमधील ४० लाखांहून अधिक कुटुंबांना प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचारांची हमी देणारी आरोग्य विमा योजना.",
+    "benefits_en": "Cashless treatment up to ₹5,00,000 per family per year covering 1,600+ medical and surgical packages across empanelled public and private hospitals.",
+    "benefits_hi": "प्रति कुटुंब ₹५,००,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या मोफत.",
+    "benefitType": "Cashless Health Insurance",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "NFSA ration cardholders, J-form holding farmers, small traders, construction workers, and accredited journalists in Punjab.",
+    "eligibility_hi": "पंजाबमधील रेशन कार्ड धारक, शेतकरी (जे-फॉर्म), छोटे व्यापारी व बांधकाम मजूर.",
+    "documents_en": [
+      "Aadhaar Card",
+      "NFSA Ration Card / J-Form / Smart Card",
+      "Sehat Bima E-Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड / जे-फॉर्म",
+      "सेहत विमा कार्ड"
+    ],
+    "steps_en": [
+      "Check eligibility and generate e-card at nearest CSC centre or hospital kiosk",
+      "Visit empanelled hospital in Punjab and show card at Arogya Mitra desk",
+      "Undergo cashless surgery and medical care without any out-of-pocket costs"
+    ],
+    "steps_hi": [
+      "सीएससी केंद्रावरून सेहत विमा ई-कार्ड काढा",
+      "रुग्णालयात आरोग्य मित्राला कार्ड दाखवा",
+      "संपूर्ण मोफत व कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://shapunjab.in/",
+    "sourceUrl": "https://punjab.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "aam-aadmi-clinics-punjab",
+    "level": "STATE",
+    "state": "Punjab",
+    "category": "health",
+    "tags": "health, punjab, clinic, diagnostics, free-medicine",
+    "title_en": "Aam Aadmi Clinics (Punjab)",
+    "title_hi": "आम आदमी क्लिनिक (पंजाब)",
+    "description_en": "Network of 800+ decentralized neighborhood health centres across rural and urban Punjab providing free primary doctor consultations, 40+ free diagnostic tests, and 80+ free medicines.",
+    "description_hi": "पंजाबमधील ग्रामीण व शहरी भागात ८०० हून अधिक दवाखान्यांमार्फत मोफत डॉक्टर तपासणी, ४० मोफत लॅब टेस्ट आणि ८० प्रकारची औषधे विनामूल्य देणारी योजना.",
+    "benefits_en": "Free clinical checkup with medical officer, 41 automated lab diagnostic tests with instant digital reports, and free essential medicines.",
+    "benefits_hi": "मोफत डॉक्टर तपासणी, ४१ प्रकारच्या रक्त चाचण्या आणि मोफत औषधांचे वाटप.",
+    "benefitType": "Free Primary Healthcare Network",
+    "benefitAmount": "100% Free Consultations & Tests",
+    "eligibility_en": "All citizens visiting the clinic across Punjab.",
+    "eligibility_hi": "पंजाबमधील सर्व नागरिक.",
+    "documents_en": [
+      "Aadhaar Card or Mobile number"
+    ],
+    "documents_hi": [
+      "आधार कार्ड किंवा मोबाईल क्रमांक"
+    ],
+    "steps_en": [
+      "Walk into nearest Aam Aadmi Clinic in your village or ward",
+      "Complete digital token registration",
+      "Consult doctor, get blood test done, and collect free medicines from the dispensary counter"
+    ],
+    "steps_hi": [
+      "गावातील किंवा वॉर्डातील आम आदमी क्लिनिकमध्ये जा",
+      "डिजिटल टोकन घ्या व डॉक्टरांना भेटा",
+      "मोफत तपासणी करून औषधे मिळवा"
+    ],
+    "applyUrl": "https://punjab.gov.in/",
+    "sourceUrl": "https://punjab.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "jharkhand-mukhyamantri-gambhir-bimari-upchar",
+    "level": "STATE",
+    "state": "Jharkhand",
+    "category": "health",
+    "tags": "health, jharkhand, serious-illness, financial-grant, cancer",
+    "title_en": "Mukhyamantri Gambhir Bimari Upchar Yojana (Jharkhand)",
+    "title_hi": "मुख्यमंत्री गंभीर आजार उपचार योजना (झारखंड)",
+    "description_en": "Department of Health & Family Welfare Jharkhand scheme providing direct financial grants up to ₹10,00,000 for treatment of cancer, kidney transplant, liver transplant, and open-heart surgeries.",
+    "description_hi": "झारखंडमधील गरीब रुग्णांना कर्करोग, अवयव प्रत्यारोपण व ओपन हार्ट सर्जरी अशा गंभीर आजारांवर उपचारासाठी ₹१० लाखांपर्यंत थेट अनुदान देणारी योजना.",
+    "benefits_en": "Financial assistance of up to ₹10,00,000 transferred directly to recognized premier hospitals in India for patient treatment.",
+    "benefits_hi": "गंभीर उपचारांसाठी कमाल ₹१०,००,००० पर्यंतचे थेट शासकीय अनुदान रुग्णालयाच्या खात्यात.",
+    "benefitType": "Super-Specialty Treatment Grant",
+    "benefitAmount": "Up to ₹10,00,000",
+    "eligibility_en": "Residents of Jharkhand with annual family income up to ₹8,00,000 suffering from recognized life-threatening conditions.",
+    "eligibility_hi": "झारखंडचे रहिवासी ज्यांचे वार्षिक उत्पन्न ₹८ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Income Certificate (Circle Officer)",
+      "Jharkhand Domicile Certificate",
+      "Hospital Treatment Cost Estimate Letter",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "उत्पन्नाचा दाखला",
+      "रहिवासी दाखला",
+      "रुग्णालयाचे खर्चाचे अंदाजपत्रक",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Obtain medical estimate from empanelled super-specialty hospital",
+      "Submit application to Civil Surgeon Office of your district",
+      "District and State level committee approves grant and disburses payment directly to hospital"
+    ],
+    "steps_hi": [
+      "रुग्णालयाकडून उपचारांचा खर्च अंदाजपत्रक घ्या",
+      "जिल्हा सिव्हिल सर्जन कार्यालयात अर्ज सादर करा",
+      "समितीकडून मंजुरी मिळून थेट रुग्णालयाला ₹१० लाखांपर्यंत निधी वर्ग"
+    ],
+    "applyUrl": "https://jharkhand.gov.in/",
+    "sourceUrl": "https://health.jharkhand.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "madhya-pradesh-mukhyamantri-bal-hriday-upchar",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "health",
+    "tags": "health, madhya-pradesh, pediatric, cardiac-surgery, children",
+    "title_en": "Mukhyamantri Bal Hriday Upchar Yojana (Madhya Pradesh)",
+    "title_hi": "मुख्यमंत्री बाल हृदय उपचार योजना (मध्य प्रदेश)",
+    "description_en": "Public Health Department Madhya Pradesh initiative providing 100% free surgical treatment up to ₹1.5 Lakh for children born with congenital heart defects.",
+    "description_hi": "मध्य प्रदेशातील जन्मतः हृदयविकार असलेल्या बालकांना मोफत हार्ट सर्जरी व उपचारासाठी ₹१.५ लाखांपर्यंत संपूर्ण सहाय्य देणारी योजना.",
+    "benefits_en": "100% free heart surgery, diagnostic catheterization, hospital ICU stay, medicines, and transport for child and guardian.",
+    "benefits_hi": "बालकांसाठी हार्ट सर्जरी, आयसीयू, औषधे व प्रवासाचा खर्च १००% विनामूल्य.",
+    "benefitType": "Free Pediatric Heart Surgery",
+    "benefitAmount": "Up to ₹1,50,000 + Travel",
+    "eligibility_en": "Children residing in Madhya Pradesh aged 0 to 18 years diagnosed with congenital heart disease.",
+    "eligibility_hi": "मध्य प्रदेशातील ० ते १८ वयोगटातील हृदयविकारग्रस्त बालके.",
+    "documents_en": [
+      "Samagra Family ID",
+      "Birth Certificate / Age Proof",
+      "Echocardiography Report",
+      "Aadhaar Card of Parent"
+    ],
+    "documents_hi": [
+      "समग्र आयडी",
+      "मुलाचा जन्म दाखला",
+      "इको तपासणी अहवाल",
+      "पालकांचे आधार कार्ड"
+    ],
+    "steps_en": [
+      "Get child screened through RBSK team or at District Hospital",
+      "Chief Medical and Health Officer (CMHO) forwards case to State level",
+      "Surgery performed free of cost at empanelled super-specialty heart hospital"
+    ],
+    "steps_hi": [
+      "शासकीय रुग्णालयात मुलाची इको टेस्ट करून घ्या",
+      "मुख्य आरोग्य अधिकाऱ्यांमार्फत (CMHO) मंजुरी",
+      "मान्यताप्राप्त कार्डियाक रुग्णालयात मोफत शस्त्रक्रिया केली जाते"
+    ],
+    "applyUrl": "https://health.mp.gov.in/",
+    "sourceUrl": "https://mp.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "deendayal-swasthya-seva-yojana-ddssy-goa",
+    "level": "STATE",
+    "state": "Goa",
+    "category": "health",
+    "tags": "health, goa, ddssy, cashless, universal",
+    "title_en": "Deen Dayal Swasthya Seva Yojana (DDSSY - Goa)",
+    "title_hi": "दीनदयाळ आरोग्य सेवा योजना (DDSSY - गोवा)",
+    "description_en": "Universal health insurance scheme by Directorate of Health Services Goa providing cashless hospitalization coverage up to ₹4,00,000 for all families residing in Goa for 5+ years.",
+    "description_hi": "गोव्यातील सर्व नागरिकांना प्रति कुटुंब ₹४ लाखांपर्यंत कॅशलेस दर्जेदार आरोग्य संरक्षण देणारी सर्वसमावेशक आरोग्य विमा योजना.",
+    "benefits_en": "Cashless hospitalization cover of ₹2,50,000 for family of up to 3 members and ₹4,00,000 for family of 4+ members covering 447 medical and surgical packages.",
+    "benefits_hi": "३ सदस्यांच्या कुटुंबासाठी ₹२.५ लाख आणि ४+ सदस्यांसाठी ₹४,००,००० पर्यंत कॅशलेस उपचार.",
+    "benefitType": "Universal Cashless Health Insurance",
+    "benefitAmount": "₹2,50,000 - ₹4,00,000 / family/year",
+    "eligibility_en": "Any person residing in the state of Goa for 5 years or more.",
+    "eligibility_hi": "किमान ५ वर्षे गोव्यात वास्तव्यास असणारा कोणताही नागरिक व कुटुंब.",
+    "documents_en": [
+      "5 Years Goa Residence Certificate / Voter ID / Passport",
+      "Aadhaar Card of all family members",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "५ वर्षांचा रहिवासी दाखला / मतदार कार्ड",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Apply and generate DDSSY Smart Card at Goa Electronics Limited (GEL) service centres",
+      "Present card at empanelled private or government hospitals in Goa",
+      "Receive complete cashless treatment according to authorized packages"
+    ],
+    "steps_hi": [
+      "GEL सेवा केंद्रातून DDSSY स्मार्ट कार्ड मिळवा",
+      "मान्यताप्राप्त रुग्णालयात कार्ड सादर करा",
+      "कोणतेही शुल्क न भरता कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://goadhs.gov.in/",
+    "sourceUrl": "https://goa.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "atal-amrit-abhiyan-assam",
+    "level": "STATE",
+    "state": "Assam",
+    "category": "health",
+    "tags": "health, assam, atal-amrit, critical-illness, cashless",
+    "title_en": "Atal Amrit Abhiyan (Assam)",
+    "title_hi": "अटल अमृत अभियान (आसाम)",
+    "description_en": "Flagship critical illness health assurance scheme by Government of Assam providing cashless medical treatment up to ₹2,00,000 per individual per year for 6 critical disease categories.",
+    "description_hi": "आसाममधील नागरिकांना कर्करोग, हृदयरोग, मूत्रपिंड, मेंदू व बालरोगांवर प्रति व्यक्ती ₹२ लाखांपर्यंत मोफत कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "Cashless cover of ₹2,00,000 per person per year covering Cardiovascular, Cancer, Kidney diseases, Neuro-conditions, Burns, and Neonatal pediatric diseases.",
+    "benefits_hi": "प्रति व्यक्ती प्रति वर्ष ₹२,००,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या मोफत.",
+    "benefitType": "Cashless Critical Illness Insurance",
+    "benefitAmount": "₹2,00,000 / person/year",
+    "eligibility_en": "All citizens domiciled in Assam with annual family income up to ₹5,00,000.",
+    "eligibility_hi": "आसामचे रहिवासी ज्यांचे वार्षिक कौटुंबिक उत्पन्न ₹५ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Atal Amrit Abhiyan Smart Card",
+      "Income Certificate",
+      "Aadhaar Card / Voter ID"
+    ],
+    "documents_hi": [
+      "अटल अमृत कार्ड",
+      "उत्पन्नाचा दाखला",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Enroll at dedicated district kiosk and get biometric smart card",
+      "Visit network hospital in Assam, Kolkata, Bengaluru, or Delhi",
+      "Present card to Arogyamitra for cashless hospitalization and treatment"
+    ],
+    "steps_hi": [
+      "जिल्हा किओस्कवर नोंदणी करून स्मार्ट कार्ड मिळवा",
+      "मान्यताप्राप्त रुग्णालयात आरोग्य मित्राशी संपर्क साधा",
+      "कॅशलेस पद्धतीने गंभीर आजारांवर उपचार मिळवा"
+    ],
+    "applyUrl": "https://aaa-assam.in/",
+    "sourceUrl": "https://assam.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tripura-chief-ministers-jan-arogya-yojana-cm-jay",
+    "level": "STATE",
+    "state": "Tripura",
+    "category": "health",
+    "tags": "health, tripura, cmjay, universal, cashless",
+    "title_en": "Chief Minister Jan Arogya Yojana (CM-JAY - Tripura)",
+    "title_hi": "मुख्यमंत्री जन आरोग्य योजना (CM-JAY - त्रिपुरा)",
+    "description_en": "Universal health insurance scheme launched by Government of Tripura providing cashless hospitalization coverage of up to ₹5,00,000 per family per year to all domiciled households.",
+    "description_hi": "त्रिपुरातील सर्व कुटुंबांना कोणत्याही उत्पन्नाच्या अटीशिवाय प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस आरोग्य विमा देणारी योजना.",
+    "benefits_en": "Cashless treatment up to ₹5,00,000 per family per year across 26,000+ PMJAY empanelled hospitals throughout India.",
+    "benefits_hi": "प्रति कुटुंब ₹५,००,००० पर्यंत कॅशलेस उपचार देशभरातील सर्व आयुष्मान रुग्णालयांमध्ये.",
+    "benefitType": "Universal Health Insurance",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "All permanent resident families of Tripura not covered under Ayushman Bharat PMJAY, including state government employees and pensioners.",
+    "eligibility_hi": "त्रिपुरातील सर्व कायम रहिवासी कुटुंबे व सरकारी कर्मचारी.",
+    "documents_en": [
+      "Tripura Ration Card",
+      "Aadhaar Card of all family members",
+      "CM-JAY Card"
+    ],
+    "documents_hi": [
+      "त्रिपुरा रेशन कार्ड",
+      "आधार कार्ड",
+      "CM-JAY कार्ड"
+    ],
+    "steps_en": [
+      "Register online or at common service centres (CSC) in Tripura",
+      "Download CM-JAY card with Aadhaar e-KYC",
+      "Show card at any empanelled hospital for cashless treatment"
+    ],
+    "steps_hi": [
+      "सीएससी केंद्रावरून ऑनलाइन नोंदणी करा",
+      "आधार ई-केवायसी करून कार्ड डाऊनलोड करा",
+      "रुग्णालयात कार्ड दाखवून मोफत उपचार मिळवा"
+    ],
+    "applyUrl": "https://tripura.gov.in/",
+    "sourceUrl": "https://tripura.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "megha-health-insurance-scheme-mhis-meghalaya",
+    "level": "STATE",
+    "state": "Meghalaya",
+    "category": "health",
+    "tags": "health, meghalaya, mhis, universal, cashless",
+    "title_en": "Megha Health Insurance Scheme (MHIS - Meghalaya)",
+    "title_hi": "मेघा आरोग्य विमा योजना (MHIS - मेघालय)",
+    "description_en": "Universal health assurance scheme in Meghalaya combined with PMJAY providing comprehensive cashless hospital cover up to ₹5,30,000 per family per year.",
+    "description_hi": "मेघालयातील सर्व नागरिकांसाठी प्रति कुटुंब प्रति वर्ष ₹५,३०,००० पर्यंत मोफत व कॅशलेस उपचार देणारी सर्वसमावेशक आरोग्य योजना.",
+    "benefits_en": "Cashless hospitalization coverage of ₹5,30,000 per family per year with no cap on family size, covering oncology, cardiology, day care, and diagnostics.",
+    "benefits_hi": "कुटुंबातील सर्व सदस्यांसाठी ₹५,३०,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या मोफत.",
+    "benefitType": "Universal Cashless Health Cover",
+    "benefitAmount": "₹5,30,000 / family/year",
+    "eligibility_en": "All citizens residing in Meghalaya (except central government employees).",
+    "eligibility_hi": "मेघालयातील सर्व नागरिक व कुटुंबे.",
+    "documents_en": [
+      "Aadhaar Card / EPIC Voter ID",
+      "Ration Card / MHIS previous card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / मतदार कार्ड",
+      "रेशन कार्ड / जुने MHIS कार्ड"
+    ],
+    "steps_en": [
+      "Enroll at village MHIS registration camp or CSC centre",
+      "Receive instant photo smart card",
+      "Visit any empanelled hospital in Meghalaya, Guwahati, or major Indian cities for cashless admission"
+    ],
+    "steps_hi": [
+      "गावातील नोंदणी शिबिरात जाऊन स्मार्ट कार्ड मिळवा",
+      "मान्यताप्राप्त रुग्णालयात कार्ड दाखवा",
+      "कॅशलेस पद्धतीने दर्जेदार उपचार मिळवा"
+    ],
+    "applyUrl": "https://mhis.org.in/",
+    "sourceUrl": "https://meghalaya.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chief-ministers-health-insurance-cmhis-nagaland",
+    "level": "STATE",
+    "state": "Nagaland",
+    "category": "health",
+    "tags": "health, nagaland, cmhis, universal, cashless",
+    "title_en": "Chief Minister's Health Insurance Scheme (CMHIS - Nagaland)",
+    "title_hi": "मुख्यमंत्री आरोग्य विमा योजना (CMHIS - नागालँड)",
+    "description_en": "Universal health insurance scheme launched by Government of Nagaland providing cashless hospitalization cover of ₹5,00,000 to ₹20,00,000 per family per year.",
+    "description_hi": "नागालँडमधील सर्व नागरिकांना आणि शासकीय कर्मचाऱ्यांना ₹५ लाख ते ₹२० लाखांपर्यंत कॅशलेस उपचार देणारी सर्वसमावेशक आरोग्य योजना.",
+    "benefits_en": "Cashless cover of ₹5,00,000 per family for general indigenous households and ₹20,00,000 for state government employees and pensioners across PMJAY network hospitals.",
+    "benefits_hi": "सामान्य नागरिकांसाठी ₹५,००,००० आणि शासकीय कर्मचाऱ्यांसाठी ₹२०,००,००० पर्यंत कॅशलेस उपचार.",
+    "benefitType": "Universal Health Insurance",
+    "benefitAmount": "₹5,00,000 - ₹20,00,000 / family/year",
+    "eligibility_en": "Indigenous inhabitants and permanent residents of Nagaland, state government employees and pensioners.",
+    "eligibility_hi": "नागालँडचे स्थानिक रहिवासी व शासकीय कर्मचारी.",
+    "documents_en": [
+      "Indigenous Inhabitant Certificate (IIC) / Permanent Resident Certificate",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "स्थानिक रहिवासी दाखला",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Register online at cmhis.nagaland.gov.in or CSC centre",
+      "Generate digital CMHIS card with Aadhaar verification",
+      "Avail cashless secondary and tertiary hospitalization in empanelled hospitals"
+    ],
+    "steps_hi": [
+      "cmhis.nagaland.gov.in वर ऑनलाइन नोंदणी करा",
+      "डिजिटल कार्ड डाऊनलोड करा",
+      "रुग्णालयात दाखवून कॅशलेस उपचार घ्या"
+    ],
+    "applyUrl": "https://cmhis.nagaland.gov.in/",
+    "sourceUrl": "https://nagaland.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chief-minister-arogya-arunachal-yojana-cmaay",
+    "level": "STATE",
+    "state": "Arunachal Pradesh",
+    "category": "health",
+    "tags": "health, arunachal-pradesh, cmaay, cashless, insurance",
+    "title_en": "Chief Minister Arogya Arunachal Yojana (CMAAY)",
+    "title_hi": "मुख्यमंत्री आरोग्य अरुणाचल योजना (CMAAY)",
+    "description_en": "Universal health assurance scheme by Government of Arunachal Pradesh providing cashless hospitalization cover up to ₹5,00,000 per family per year for APST and state employees.",
+    "description_hi": "अरुणाचल प्रदेशातील स्थानिक आदिवासी व नागरिकांना प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचारांची हमी देणारी योजना.",
+    "benefits_en": "Cashless cover of ₹5,00,000 per family per year covering secondary and tertiary care hospitalization in network hospitals across Arunachal Pradesh and Northeast India.",
+    "benefits_hi": "प्रति कुटुंब प्रति वर्ष ₹५,००,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या मोफत.",
+    "benefitType": "Cashless Health Assurance",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "Arunachal Pradesh Scheduled Tribe (APST) families and regular state government employees.",
+    "eligibility_hi": "अरुणाचल प्रदेशातील स्थानिक रहिवासी (APST) व सरकारी कर्मचारी.",
+    "documents_en": [
+      "APST Certificate / PRC",
+      "Aadhaar Card of all family members",
+      "Ration Card"
+    ],
+    "documents_hi": [
+      "APST दाखला / रहिवासी दाखला",
+      "आधार कार्ड",
+      "रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Enroll at district kiosk or online on cmaay.com",
+      "Generate CMAAY card via biometric verification",
+      "Present card at empanelled hospital for immediate cashless admission"
+    ],
+    "steps_hi": [
+      "cmaay.com वर किंवा जिल्हा केंद्रात नोंदणी करा",
+      "बायोमेट्रिक कार्ड मिळवा",
+      "मान्यताप्राप्त रुग्णालयात कॅशलेस उपचार घ्या"
+    ],
+    "applyUrl": "https://cmaay.com/",
+    "sourceUrl": "https://arunachalpradesh.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mizoram-state-health-care-scheme-mshcs",
+    "level": "STATE",
+    "state": "Mizoram",
+    "category": "health",
+    "tags": "health, mizoram, mshcs, health-care, cashless",
+    "title_en": "Mizoram State Health Care Scheme (MSHCS)",
+    "title_hi": "मिझोराम राज्य आरोग्य सेवा योजना (MSHCS)",
+    "description_en": "Comprehensive health coverage scheme by Government of Mizoram providing financial assistance and cashless reimbursement up to ₹5,00,000 per family per year for medical treatments.",
+    "description_hi": "मिझोराममधील नागरिकांना उपचारांसाठी प्रति कुटुंब ₹५ लाखांपर्यंत आर्थिक संरक्षण देणारी राज्य सरकारची आरोग्य योजना.",
+    "benefits_en": "Health insurance cover of up to ₹5,00,000 per family per year covering surgical procedures, critical illnesses, and ICU treatments.",
+    "benefits_hi": "प्रति कुटुंब ₹५,००,००० पर्यंत आरोग्य संरक्षण, शस्त्रक्रिया व गंभीर उपचारांचा खर्च मंजूर.",
+    "benefitType": "State Health Insurance",
+    "benefitAmount": "Up to ₹5,00,000 / family/year",
+    "eligibility_en": "Permanent residents of Mizoram enrolled with Mizoram State Health Care Society.",
+    "eligibility_hi": "मिझोराममधील स्थानिक रहिवासी कुटुंब.",
+    "documents_en": [
+      "Tribal Certificate / Residential Proof",
+      "Aadhaar Card",
+      "Ration Card",
+      "MSHCS Card"
+    ],
+    "documents_hi": [
+      "स्थानिक रहिवासी दाखला",
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "MSHCS कार्ड"
+    ],
+    "steps_en": [
+      "Apply at District Medical Superintendent office or online portal",
+      "Pay nominal annual subscription fee for card renewal",
+      "Submit medical bills or avail cashless care at empanelled hospitals"
+    ],
+    "steps_hi": [
+      "जिल्हा वैद्यकीय कार्यालयातून कार्ड मिळवा",
+      "नाममात्र शुल्कात नूतनीकरण करा",
+      "मान्यताप्राप्त रुग्णालयातून मोफत किंवा प्रतिपूर्ती उपचार मिळवा"
+    ],
+    "applyUrl": "https://health.mizoram.gov.in/",
+    "sourceUrl": "https://mizoram.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chief-ministers-gi-hakshelgi-tengbang-cmht-manipur",
+    "level": "STATE",
+    "state": "Manipur",
+    "category": "health",
+    "tags": "health, manipur, cmht, cashless, insurance",
+    "title_en": "Chief Minister-gi Hakshelgi Tengbang (CMHT - Manipur)",
+    "title_hi": "मुख्यमंत्री-गी हक्शेलगी तेंगबांग (CMHT - मणिपूर)",
+    "description_en": "Pioneering health assurance scheme by Government of Manipur providing cashless hospitalization cover up to ₹5,00,000 per family per year for poor, widows, and media persons.",
+    "description_hi": "मणिपूरमधील गरीब कुटुंबे, विधवा महिला, अपंग व पत्रकारांना प्रति वर्ष ₹५ लाखांपर्यंत मोफत कॅशलेस उपचार देणारी योजना.",
+    "benefits_en": "Cashless treatment up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization in network hospitals across Manipur, Assam, and Delhi.",
+    "benefits_hi": "प्रति वर्ष ₹५,००,००० पर्यंत कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या मोफत.",
+    "benefitType": "Cashless Health Assurance",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "Poor families, Antyodaya cardholders, widows, disabled persons, and certified journalists in Manipur.",
+    "eligibility_hi": "मणिपूरमधील गरीब कुटुंबे, विधवा, दिव्यांग नागरिक व पत्रकार.",
+    "documents_en": [
+      "CMHT Card / Ration Card",
+      "Aadhaar Card",
+      "Income Certificate / Disability Certificate / Media Accreditation"
+    ],
+    "documents_hi": [
+      "CMHT कार्ड",
+      "आधार कार्ड",
+      "उत्पन्नाचा किंवा अपंगत्वाचा दाखला"
+    ],
+    "steps_en": [
+      "Enroll at District Hospital CMHT kiosk and get biometric smart card",
+      "Present card at network hospital reception desk",
+      "Receive complete cashless treatment without making any payment"
+    ],
+    "steps_hi": [
+      "जिल्हा रुग्णालयातील किओस्कवर नोंदणी करून कार्ड मिळवा",
+      "नेटवर्क रुग्णालयात कार्ड दाखवा",
+      "विनामूल्य कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://cmhtmanipur.gov.in/",
+    "sourceUrl": "https://manipur.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "himachal-mukhya-mantri-sahara-yojana",
+    "level": "STATE",
+    "state": "Himachal Pradesh",
+    "category": "health",
+    "tags": "health, himachal-pradesh, sahara, chronic-illness, dbt-pension",
+    "title_en": "Mukhya Mantri Sahara Yojana (Himachal Pradesh)",
+    "title_hi": "मुख्यमंत्री सहारा योजना (हिमाचल प्रदेश)",
+    "description_en": "Social security healthcare initiative by Health and Family Welfare Department Himachal Pradesh providing monthly cash assistance of ₹3,000 to patients suffering from specified debilitating chronic illnesses.",
+    "description_hi": "पक्षाघात, कर्करोग, पार्किन्सन्स, मस्क्युलर डिस्ट्रॉफी अशा गंभीर व दुर्धर आजारांनी ग्रस्त रुग्णांना दरमहा ₹३,००० ची थेट आर्थिक मदत देणारी योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹3,000 per month directly into the bank account of the chronically ill patient to support nutrition, attendant care, and medicines.",
+    "benefits_hi": "रुग्णाच्या बँक खात्यात दरमहा ₹३,००० चे थेट शासकीय अनुदान.",
+    "benefitType": "Monthly Medical Financial Assistance",
+    "benefitAmount": "₹3,00,0 / month",
+    "eligibility_en": "Permanent residents of Himachal Pradesh with annual family income up to ₹4,00,000 suffering from Parkinson, paralysis, cancer, muscular dystrophy, or chronic kidney failure.",
+    "eligibility_hi": "हिमाचल प्रदेशातील नागरिक, वार्षिक उत्पन्न ₹४ लाखांच्या आत व गंभीर आजाराने ग्रस्त रुग्ण.",
+    "documents_en": [
+      "Medical Diagnostic Certificate signed by Medical Board",
+      "Bonafide Himachali Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "वैद्यकीय मंडळाचे आजार प्रमाणपत्र",
+      "हिमाचल रहिवासी दाखला",
+      "उत्पन्नाचा दाखला",
+      "आधार कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Get medical certificate issued by District Medical Board / Medical Superintendent",
+      "Submit application to Block Medical Officer (BMO) or Chief Medical Officer (CMO)",
+      "Financial assistance of ₹3,000 credited monthly directly to beneficiary account"
+    ],
+    "steps_hi": [
+      "जिल्हा वैद्यकीय मंडळाकडून आजाराचे प्रमाणपत्र मिळवा",
+      "मुख्य वैद्यकीय अधिकाऱ्यांकडे (CMO) अर्ज सादर करा",
+      "दरमहा ₹३,००० थेट बँक खात्यात जमा होतात"
+    ],
+    "applyUrl": "https://hpsbys.in/",
+    "sourceUrl": "https://himachal.nic.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "atal-ayushman-uttarakhand-yojana",
+    "level": "STATE",
+    "state": "Uttarakhand",
+    "category": "health",
+    "tags": "health, uttarakhand, atal-ayushman, cashless, universal",
+    "title_en": "Atal Ayushman Uttarakhand Yojana",
+    "title_hi": "अटल आयुष्मान उत्तराखंड योजना",
+    "description_en": "Universal health assurance scheme covering all 27 lakh households in Uttarakhand providing cashless secondary and tertiary hospital care up to ₹5,00,000 per family per year.",
+    "description_hi": "उत्तराखंडमधील सर्व २७ लाख कुटुंबांना प्रति वर्ष ₹५ लाखांपर्यंत मोफत व कॅशलेस उपचारांची हमी देणारी सार्वत्रिक आरोग्य योजना.",
+    "benefits_en": "Cashless treatment up to ₹5,00,000 per family per year covering 1,750+ medical procedures across public and empanelled private hospitals in Uttarakhand and Delhi NCR.",
+    "benefits_hi": "प्रति कुटुंब ₹५,००,००० पर्यंत कॅशलेस उपचार, १,७५० हून अधिक शस्त्रक्रिया व तपासण्या मोफत.",
+    "benefitType": "Universal Cashless Health Cover",
+    "benefitAmount": "₹5,00,000 / family/year",
+    "eligibility_en": "All permanent resident households of Uttarakhand holding a state ration card.",
+    "eligibility_hi": "उत्तराखंडमधील सर्व रहिवासी कुटुंब.",
+    "documents_en": [
+      "Uttarakhand Ration Card",
+      "Aadhaar Card of all family members",
+      "Golden Card"
+    ],
+    "documents_hi": [
+      "रेशन कार्ड",
+      "आधार कार्ड",
+      "गोल्डन कार्ड"
+    ],
+    "steps_en": [
+      "Check eligibility and generate Golden Card using Aadhaar on ayushmanuttarakhand.org",
+      "Visit empanelled hospital and meet Arogya Mitra at helpdesk",
+      "Avail complete cashless treatment with zero out-of-pocket costs"
+    ],
+    "steps_hi": [
+      "पोर्टलवरून आधारने गोल्डन कार्ड काढा",
+      "मान्यताप्राप्त रुग्णालयात आरोग्य मित्राला भेटा",
+      "संपूर्ण मोफत व कॅशलेस उपचार मिळवा"
+    ],
+    "applyUrl": "https://ayushmanuttarakhand.org/",
+    "sourceUrl": "https://uk.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "puducherry-free-medical-aid-chronic-illness",
+    "level": "STATE",
+    "state": "Puducherry",
+    "category": "health",
+    "tags": "health, puducherry, medical-aid, cancer, kidney",
+    "title_en": "Puducherry Medical Assistance for Life-Threatening Diseases",
+    "title_hi": "पुडुचेरी गंभीर आजार वैद्यकीय सहाय्य योजना",
+    "description_en": "Directorate of Health and Family Welfare Puducherry scheme providing financial grant up to ₹2,50,000 to poor residents suffering from cancer, heart diseases, and renal failure.",
+    "description_hi": "पुडुचेरीतील गरीब नागरिकांना कर्करोग, हृदयरोग व मूत्रपिंड निकामी होण्यावर उपचारासाठी ₹२.५ लाखांपर्यंत शासकीय मदत देणारी योजना.",
+    "benefits_en": "Financial assistance up to ₹2,50,000 disbursed directly to recognized hospitals for surgeries and medications.",
+    "benefits_hi": "उपचारासाठी ₹२,५०,००० पर्यंतचे थेट शासकीय अनुदान.",
+    "benefitType": "Financial Medical Grant",
+    "benefitAmount": "Up to ₹2,50,000",
+    "eligibility_en": "Residents of UT of Puducherry for at least 3 years with annual family income up to ₹75,000.",
+    "eligibility_hi": "पुडुचेरीचे रहिवासी ज्यांचे कौटुंबिक वार्षिक उत्पन्न ₹७५,००० च्या आत आहे.",
+    "documents_en": [
+      "Puducherry Residence Certificate",
+      "Income Certificate",
+      "Medical Certificate and expenditure estimate from Government Hospital (JIPMER/GH)",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "रहिवासी दाखला",
+      "उत्पन्नाचा दाखला",
+      "शासकीय डॉक्टरांचे खर्चाचे अंदाजपत्रक",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Obtain medical certificate and cost estimate from treating doctor at JIPMER or General Hospital",
+      "Submit application to Directorate of Health & Family Welfare, Puducherry",
+      "Sanctioned funds transferred directly to hospital account"
+    ],
+    "steps_hi": [
+      "JIPMER किंवा सरकारी डॉक्टरांकडून खर्चाचा अंदाज घ्या",
+      "आरोग्य संचालनालयात अर्ज सादर करा",
+      "थेट रुग्णालयाच्या खात्यात अनुदान जमा"
+    ],
+    "applyUrl": "https://health.py.gov.in/",
+    "sourceUrl": "https://py.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "central-government-health-scheme-cghs",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, cghs, employees, pensioners, cashless",
+    "title_en": "Central Government Health Scheme (CGHS)",
+    "title_hi": "केंद्रीय सरकार आरोग्य योजना (CGHS)",
+    "description_en": "Comprehensive healthcare facility for Central Government employees, pensioners, and eligible dependents across 80+ cities in India.",
+    "description_hi": "केंद्र सरकारी कर्मचारी, निवृत्तीवेतनधारक व त्यांच्या कुटुंबीयांना देशभरात मोफत ओपीडी, औषधे व कॅशलेस उपचार देणारी आरोग्य योजना.",
+    "benefits_en": "Free OPD consultations, supply of generic & branded medicines, cashless hospitalization in empanelled private hospitals, and reimbursement for emergency care.",
+    "benefits_hi": "मोफत ओपीडी तपासणी, सर्व औषधांचा मोफत पुरवठा व खाजगी मान्यताप्राप्त रुग्णालयात कॅशलेस उपचार.",
+    "benefitType": "Comprehensive Health Coverage",
+    "benefitAmount": "Full Healthcare Coverage",
+    "eligibility_en": "All central government employees, central pensioners, ex-MPs, freedom fighters, and their dependents.",
+    "eligibility_hi": "केंद्र सरकारचे सेवारत व सेवानिवृत्त कर्मचारी आणि त्यांचे कुटुंब.",
+    "documents_en": [
+      "CGHS Plastic Card",
+      "Aadhaar Card",
+      "Pension Payment Order (PPO) / Service ID"
+    ],
+    "documents_hi": [
+      "CGHS प्लास्टिक कार्ड",
+      "आधार कार्ड",
+      "पेन्शन पेमेंट ऑर्डर (PPO)"
+    ],
+    "steps_en": [
+      "Enroll through cghs.nic.in and receive plastic CGHS card with beneficiary ID",
+      "Visit CGHS Wellness Centre for consultation and medicine collection",
+      "For hospitalization, obtain referral to empanelled hospital for cashless care"
+    ],
+    "steps_hi": [
+      "cghs.nic.in वर नोंदणी करून कार्ड मिळवा",
+      "वेलनेस सेंटरमधून मोफत औषधे मिळवा",
+      "मोठ्या उपचारांसाठी मान्यताप्राप्त रुग्णालयात कॅशलेस ॲडमिशन घ्या"
+    ],
+    "applyUrl": "https://cghs.nic.in/",
+    "sourceUrl": "https://cghs.nic.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "employees-state-insurance-scheme-esic-medical",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, esic, workers, medical-benefit",
+    "title_en": "Employees State Insurance Corporation (ESIC) Medical Benefit",
+    "title_hi": "कर्मचारी राज्य विमा महामंडळ (ESIC) वैद्यकीय लाभ योजना",
+    "description_en": "Statutory social security health scheme providing comprehensive medical care from day one of insurable employment to organized sector workers and their families.",
+    "description_hi": "औद्योगिक व खाजगी क्षेत्रातील कामगार व त्यांच्या कुटुंबीयांना मोफत वैद्यकीय सेवा, औषधे व सुपर स्पेशालिटी उपचार देणारी राष्ट्रीय योजना.",
+    "benefits_en": "100% cashless medical care including outpatient, inpatient, specialist consultations, super-specialty surgeries, and sickness cash benefits.",
+    "benefits_hi": "कामगार व कुटुंबीयांसाठी मोफत ओपीडी, भरती, शस्त्रक्रिया व सुपर-स्पेशालिटी रुग्णालयात कॅशलेस उपचार.",
+    "benefitType": "Comprehensive Social Health Cover",
+    "benefitAmount": "100% Cashless Medical Care",
+    "eligibility_en": "Employees earning monthly wages up to ₹21,000 (₹25,000 for PwD) in covered factories and establishments.",
+    "eligibility_hi": "दरमहा ₹२१,००० पर्यंत वेतन असणारे संघटित क्षेत्रातील नोंदणीकृत कामगार.",
+    "documents_en": [
+      "ESIC Pehchan Smart Card / e-Pehchan Card",
+      "Aadhaar Card of Insured Person and dependents"
+    ],
+    "documents_hi": [
+      "ESIC ई-पहचान कार्ड",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Employer registers worker on ESIC portal and generates Insurance Number",
+      "Worker and family visit ESIC dispensary or hospital with e-Pehchan card",
+      "Referral provided to private tie-up super specialty hospitals when needed for cashless treatment"
+    ],
+    "steps_hi": [
+      "मालकामार्फत पोर्टलवर कामगाराची नोंदणी",
+      "ई-पहचान कार्ड घेऊन ईएसआयसी दवाखान्यात जा",
+      "गरज भासल्यास टाय-अप खाजगी रुग्णालयात मोफत उपचार"
+    ],
+    "applyUrl": "https://www.esic.gov.in/",
+    "sourceUrl": "https://www.esic.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-ayush-mission-nam",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, ayush, ayurveda, homeopathy, wellness",
+    "title_en": "National AYUSH Mission (NAM)",
+    "title_hi": "राष्ट्रीय आयुष मिशन (आयुर्वेद, योग व होमिओपॅथी)",
+    "description_en": "Ministry of Ayush flagship initiative promoting affordable, holistic, and preventive healthcare through Ayurveda, Yoga, Unani, Siddha, and Homeopathy dispensaries and AYUSH Health & Wellness Centres.",
+    "description_hi": "आयुर्वेद, योग, युनानी, निसर्गोपचार व होमिओपॅथीच्या माध्यमातून नागरिकांना मोफत व नैसर्गिक उपचार उपलब्ध करून देणारे राष्ट्रीय मिशन.",
+    "benefits_en": "Free AYUSH consultations, free authentic herbal and homeopathic medicines, Yoga sessions, Panchakarma therapies at subsidized cost, and preventive lifestyle guidance.",
+    "benefits_hi": "मोफत आयुर्वेदिक व होमिओपॅथिक औषधे, तज्ज्ञ डॉक्टरांचा सल्ला आणि योग प्रशिक्षण मोफत.",
+    "benefitType": "Free Holistic Healthcare & Medicines",
+    "benefitAmount": "100% Free AYUSH Care",
+    "eligibility_en": "Open to all citizens across India seeking traditional medicine and wellness systems.",
+    "eligibility_hi": "भारतातील सर्व नागरिक.",
+    "documents_en": [
+      "None required (Standard OPD registration)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Visit any AYUSH Dispensary or Ayushman Arogya Mandir (AYUSH) in your area",
+      "Consult certified Ayurvedic / Homeopathic Medical Officer",
+      "Receive free prescribed herbal formulations and lifestyle counseling"
+    ],
+    "steps_hi": [
+      "जवळच्या आयुष दवाखाना किंवा वेलनेस सेंटरला भेट द्या",
+      "आयुर्वेदिक किंवा होमिओपॅथिक डॉक्टरांशी चर्चा करा",
+      "मोफत दर्जेदार आयुर्वेदिक व होमिओपॅथिक औषधे मिळवा"
+    ],
+    "applyUrl": "https://ayush.gov.in/",
+    "sourceUrl": "https://ayush.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pradhan-mantri-surakshit-matritva-abhiyan-pmsma",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, maternal, pregnancy, antenatal, pmsma",
+    "title_en": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+    "title_hi": "प्रधानमंत्री सुरक्षित मातृत्व अभियान (PMSMA)",
+    "description_en": "Ministry of Health & Family Welfare national initiative providing assured, comprehensive, and quality antenatal care free of cost to all pregnant women on the 9th of every month.",
+    "description_hi": "प्रत्येक महिन्याच्या ९ तारखेला सर्व गरोदर महिलांना स्त्रीरोगतज्ज्ञांमार्फत मोफत व सर्वसमावेशक तपासणी, सोनोग्राफी व औषधे देणारी राष्ट्रीय मोहीम.",
+    "benefits_en": "Free antenatal checkups by specialists, free ultrasound (USG), blood investigations (Hb, blood group, VDRL, HIV), identification of high-risk pregnancies, and free Iron-Folic acid.",
+    "benefits_hi": "तज्ज्ञ डॉक्टरांकडून मोफत तपासणी, मोफत सोनोग्राफी, रक्त-लघवी तपासण्या आणि मोफत कॅल्शियम व लोहाच्या गोळ्या.",
+    "benefitType": "Free Specialized Antenatal Care",
+    "benefitAmount": "100% Free Antenatal Checkups",
+    "eligibility_en": "All pregnant women in their 2nd and 3rd trimesters visiting public health facilities on the 9th of every month.",
+    "eligibility_hi": "दुसऱ्या व तिसऱ्या तिमाहीतील सर्व गरोदर महिला.",
+    "documents_en": [
+      "Mother and Child Protection (MCP) Card",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "माता व बाल संरक्षण (MCP) कार्ड",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Visit any government hospital, CHC, or PHC on the 9th of any month",
+      "Undergo mandatory diagnostic panel and specialist physical examination",
+      "High-risk pregnancies tagged with red sticker for prioritized hospital delivery"
+    ],
+    "steps_hi": [
+      "दरमहा ९ तारखेला जवळच्या शासकीय रुग्णालयात जा",
+      "मोफत तपासण्या व सोनोग्राफी करून घ्या",
+      "जोखीमयुक्त गरोदरपणाची नोंद करून विशेष काळजी घेतली जाते"
+    ],
+    "applyUrl": "https://pmsma.mohfw.gov.in/",
+    "sourceUrl": "https://pmsma.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-rabies-control-programme-nrcp",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, rabies, dog-bite, free-vaccine",
+    "title_en": "National Rabies Control Programme (NRCP - Free Anti-Rabies Vaccine)",
+    "title_hi": "राष्ट्रीय रेबीज नियंत्रण कार्यक्रम - मोफत रेबीज लस",
+    "description_en": "Centrally sponsored public health scheme ensuring 100% free availability of Anti-Rabies Vaccine (ARV) and Rabies Immunoglobulin (RIG) in all government health institutions.",
+    "description_hi": "श्वानदंश (कुत्रा चावणे) किंवा प्राण्यांच्या हल्ल्यानंतर रेबीजचा धोका टाळण्यासाठी शासकीय रुग्णालयांमध्ये मोफत रेबीज लस व सिरम देणारा राष्ट्रीय कार्यक्रम.",
+    "benefits_en": "100% free course of Anti-Rabies Vaccines (intradermal / intramuscular schedule) and lifesaving Rabies Immunoglobulin for Category III animal bites.",
+    "benefits_hi": "रेबीज प्रतिबंधक लस (४ ते ५ डोस) आणि सिरम शासकीय रुग्णालयांमध्ये १००% विनामूल्य उपलब्ध.",
+    "benefitType": "Free Life-Saving Emergency Vaccines",
+    "benefitAmount": "100% Free Vaccines & Serum",
+    "eligibility_en": "Any person bitten, scratched, or exposed to suspect rabid animals across India.",
+    "eligibility_hi": "कुत्रा, मांजर किंवा वन्यप्राणी चावलेला कोणताही नागरिक.",
+    "documents_en": [
+      "None required (Immediate post-exposure prophylaxis is mandatory)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Wash animal bite wound immediately with soap and running water for 15 minutes",
+      "Visit casualty/emergency of nearest Government Hospital or PHC",
+      "Receive free tetanus toxoid and scheduled anti-rabies vaccine doses according to regimen"
+    ],
+    "steps_hi": [
+      "जखम साबण आणि पाण्याने १५ मिनिटे स्वच्छ धुवा",
+      "तात्काळ जवळच्या शासकीय रुग्णालयात जा",
+      "वेळापत्रकानुसार मोफत रेबीज लस टोचून घ्या"
+    ],
+    "applyUrl": "https://ncdc.gov.in/",
+    "sourceUrl": "https://main.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-oral-health-programme-nohp",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, dental, oral-health, free-treatment",
+    "title_en": "National Oral Health Programme (NOHP)",
+    "title_hi": "राष्ट्रीय दंत आरोग्य कार्यक्रम (NOHP)",
+    "description_en": "Ministry of Health & Family Welfare program integrating oral healthcare into the primary health system, providing free dental fillings, tooth extractions, scaling, and oral cancer screenings.",
+    "description_hi": "शासकीय रुग्णालये व सामुदायिक आरोग्य केंद्रांमध्ये दातांची तपासणी, कीड भरणे, दात काढणे व मुख कर्करोग तपासणी मोफत करून देणारा कार्यक्रम.",
+    "benefits_en": "Free dental checkups, tooth extractions, scaling, silver amalgam / composite fillings, and early detection biopsies for oral pre-cancerous lesions.",
+    "benefits_hi": "मोफत दात तपासणी, दात काढणे, स्वच्छता, फिलिंग आणि मुख कर्करोगाची पूर्व तपासणी.",
+    "benefitType": "Free Public Dental Care",
+    "benefitAmount": "100% Free Dental Services",
+    "eligibility_en": "All citizens seeking dental and oral healthcare at government dental clinics.",
+    "eligibility_hi": "भारतातील सर्व नागरिक.",
+    "documents_en": [
+      "OPD Registration Ticket"
+    ],
+    "documents_hi": [
+      "ओपीडी नोंदणी पावती"
+    ],
+    "steps_en": [
+      "Visit Dental OPD at District Hospital, Sub-District Hospital, or CHC",
+      "Dentist examines oral cavity using modern dental chair equipment",
+      "Treatment procedures and oral hygiene instructions provided free of cost"
+    ],
+    "steps_hi": [
+      "जिल्हा रुग्णालय किंवा ग्रामीण रुग्णालयातील दंत विभागात जा",
+      "दंतवैद्यांकडून दातांची तपासणी करून घ्या",
+      "मोफत उपचार व औषधे मिळवा"
+    ],
+    "applyUrl": "https://main.mohfw.gov.in/",
+    "sourceUrl": "https://mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-tobacco-cessation-services-quitline",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, tobacco-cessation, quitline, addiction-free",
+    "title_en": "National Tobacco Cessation Services (Quitline 1800-112-356)",
+    "title_hi": "राष्ट्रीय तंबाखू मुक्ती समुपदेशन सेवा (क्विटलाईन १८००-११२-३५६)",
+    "description_en": "Ministry of Health & Family Welfare national dedicated quitline providing free behavioral counseling, psychological support, and medical guidance to help individuals quit smoking, gutkha, and tobacco.",
+    "description_hi": "तंबाखू, गुटखा, विडी व सिगारेटचे व्यसन सोडण्यासाठी मोफत मार्गदर्शन, समुपदेशन व वैद्यकीय सल्ला देणारी राष्ट्रीय टोल-फ्री हेल्पलाईन सेवा.",
+    "benefits_en": "Personalized telephonic counseling sessions over 6 months, proactive follow-up calls, guidance on Nicotine Replacement Therapy (NRT), and relapse prevention strategies.",
+    "benefits_hi": "६ महिन्यांचे मोफत वैयक्तिक समुपदेशन, व्यसनमुक्तीसाठी निकोटीन थेरपी मार्गदर्शन आणि फॉलो-अप कॉल्स.",
+    "benefitType": "24x7 Free Addiction Cessation Support",
+    "benefitAmount": "100% Free Service (1800-112-356)",
+    "eligibility_en": "Anyone wanting to quit any form of tobacco or nicotine addiction.",
+    "eligibility_hi": "तंबाखू किंवा धुम्रपानाचे व्यसन सोडू इच्छिणारा कोणताही नागरिक.",
+    "documents_en": [
+      "None required (Completely confidential)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Dial toll-free number 1800-112-356 or give missed call to 011-22901701",
+      "Counselor registers caller and evaluates nicotine dependence level",
+      "Structured 6-week to 6-month proactive quit program initiated with regular scheduled call sessions"
+    ],
+    "steps_hi": [
+      "१८००-११२-३५६ वर कॉल करा किंवा ०११-२२९०१७०१ वर मिस्ड कॉल द्या",
+      "समुपदेशकाकडून व्यसनाची तीव्रता समजून घेतली जाते",
+      "६ महिन्यांपर्यंत नियमित फोन करून व्यसनमुक्तीसाठी मार्गदर्शन केले जाते"
+    ],
+    "applyUrl": "https://ntcp.mohfw.gov.in/",
+    "sourceUrl": "https://main.mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "district-early-intervention-centre-deic-rbsk",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "health",
+    "tags": "health, central, deic, rbsk, child-therapy, disability-prevention",
+    "title_en": "District Early Intervention Centre (DEIC - RBSK)",
+    "title_hi": "जिल्हा शीघ्र निदान व उपचार केंद्र (DEIC - RBSK)",
+    "description_en": "Specialized interdisciplinary centres under Rashtriya Bal Swasthya Karyakram established at district hospitals providing free early screening, diagnosis, and comprehensive therapy for children aged 0-18 with developmental delays.",
+    "description_hi": "० ते १८ वर्षे वयोगटातील बालकांमधील जन्मजात व्यंग, विकासातील विलंब, ऑटिझम व सेरेब्रल पाल्सीवर मोफत फिजिओथेरपी व स्पीच थेरपी देणारे जिल्हा केंद्र.",
+    "benefits_en": "100% free multi-disciplinary services: Physiotherapy, Occupational Therapy, Speech Therapy, Audiology, Pediatric Optometry, Psychological assessment, and dental care under one roof.",
+    "benefits_hi": "एकाच छताखाली मोफत फिजिओथेरपी, ऑक्युपेशनल थेरपी, स्पीच थेरपी, कान-डोळे तपासणी आणि मानसिक मूल्यमापन.",
+    "benefitType": "100% Free Pediatric Therapy & Rehabilitation",
+    "benefitAmount": "Zero Cost for All Therapies",
+    "eligibility_en": "All children aged 0 to 18 years identified with developmental delays, sensory impairments, autism, or neurological deficits.",
+    "eligibility_hi": "० ते १८ वर्षांपर्यंतची विकासात मागे असणारी बालके व दिव्यांग मुले.",
+    "documents_en": [
+      "RBSK Screening Card / Birth Certificate",
+      "Aadhaar Card of Parent/Child"
+    ],
+    "documents_hi": [
+      "RBSK तपासणी कार्ड / जन्म दाखला",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Get referred by school/anganwadi RBSK mobile team or walk into District Hospital DEIC unit",
+      "Pediatrician and multi-specialist team assess the child developmental profile",
+      "Customized therapy sessions (speech, physical, sensory) scheduled weekly free of charge"
+    ],
+    "steps_hi": [
+      "आरोग्य पथकाच्या रेफरलने किंवा थेट जिल्हा रुग्णालयातील DEIC केंद्रात जा",
+      "तज्ज्ञ डॉक्टरांकडून मुलाचे मूल्यमापन",
+      "दर आठवड्याला मोफत थेरपी सेशन्स दिले जातात"
+    ],
+    "applyUrl": "https://rbsk.gov.in/",
+    "sourceUrl": "https://nhm.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-matoshree-rugna-seva-yojana",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "health",
+    "tags": "health, maharashtra, rural-health, specialist-camps",
+    "title_en": "Maharashtra Matoshree Gramin Arogya Seva Abhiyan",
+    "title_hi": "महाराष्ट्र मातोश्री ग्रामीण आरोग्य सेवा अभियान",
+    "description_en": "Public Health Department Maharashtra statewide outreach mission deploying super-specialist medical teams to rural and remote talukas for mega health diagnostic and surgical camps.",
+    "description_hi": "ग्रामीण व दुर्गम भागातील नागरिकांना गावातच तज्ज्ञ डॉक्टरांकडून मोफत तपासणी, औषधोपचार व मोफत शस्त्रक्रिया उपलब्ध करून देणारे महा-आरोग्य शिबीर अभियान.",
+    "benefits_en": "Free on-the-spot screening by cardiologists, oncologists, orthopedic surgeons, gynecologists, free distribution of spectacles, hearing aids, and medicines.",
+    "benefits_hi": "तज्ज्ञ डॉक्टरांकडून मोफत तपासणी, मोफत चष्मे व श्रवणयंत्रे वाटप, आणि मोठ्या शस्त्रक्रियांसाठी मोफत रेफरल.",
+    "benefitType": "Free Specialist Mega Health Camps",
+    "benefitAmount": "100% Free Specialized Care",
+    "eligibility_en": "All rural citizens and families in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रातील सर्व ग्रामीण व वंचित नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Ration Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / रेशन कार्ड"
+    ],
+    "steps_en": [
+      "Attend the notified Matoshree Health Camp in your taluka / sub-division",
+      "Register at reception and choose required specialty consultation (Eye, Heart, Ortho, Gynae)",
+      "Undergo examination and receive free medicines or hospital admission slip for surgery"
+    ],
+    "steps_hi": [
+      "तालुक्यातील जाहीर केलेल्या महाआरोग्य शिबिरास उपस्थित राहा",
+      "हव्या असलेल्या विभागाची तपासणी करून घ्या",
+      "मोफत औषधे, चष्मे मिळवा किंवा शस्त्रक्रियेसाठी नोंदणी करा"
+    ],
+    "applyUrl": "https://arogya.maharashtra.gov.in/",
+    "sourceUrl": "https://arogya.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  }
+]

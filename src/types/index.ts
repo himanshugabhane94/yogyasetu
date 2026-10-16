@@ -67,6 +67,7 @@ export interface SchemeItem {
   lastVerified?: string | null;
   openDate?: string | null;
   closeDate?: string | null;
+  tags?: string | null;
   status: 'DRAFT' | 'VERIFIED' | 'PUBLISHED' | 'CLOSED';
   viewsCount: number;
   createdAt: string;

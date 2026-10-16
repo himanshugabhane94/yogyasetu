@@ -39,3 +39,6 @@ next-env.d.ts
 *.db
 *.db-journal
 dev.db
+
+# scratch helper scripts
+scratch/

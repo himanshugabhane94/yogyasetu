@@ -76,11 +76,17 @@ model Scheme {
   viewsCount         Int                  @default(0)
   createdByAdminId   String?
   createdBy          User?                @relation("CreatedByAdmin", fields: [createdByAdminId], references: [id])
+  tags               String?              @default("")
   createdAt          DateTime             @default(now())
   updatedAt          DateTime             @updatedAt
 
   bookmarks          Bookmark[]
   applications       ApplicationTracker[]
+
+  @@index([categoryId])
+  @@index([state])
+  @@index([level])
+  @@index([status])
 }
 
 model Bookmark {

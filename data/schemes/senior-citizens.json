@@ -1,0 +1,3604 @@
+[
+  {
+    "slug": "mukhyamantri-vayoshri-yojana-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra",
+    "title_en": "Mukhyamantri Vayoshri Yojana (Assistance for Senior Citizens - Maharashtra)",
+    "title_hi": "मुख्यमंत्री वयोश्री योजना (ज्येष्ठ नागरिक सहाय्य योजना - महाराष्ट्र)",
+    "description_en": "Provides a one-time direct benefit transfer of ₹3,00,0 to senior citizens aged 65 years and above in Maharashtra whose annual family income is up to ₹2 Lakh for purchasing assistive living devices, spectacles, hearing aids, and walkers.",
+    "description_hi": "महाराष्ट्रातील 65 वर्षे व त्यावरील ज्येष्ठ नागरिकांना चष्मा, श्रवणयंत्र, वॉकर, काठी इत्यादी सहाय्यक उपकरणे खरेदीसाठी ₹3,000 ची थेट आर्थिक मदत देणारी योजना.",
+    "benefits_en": "One-time DBT grant of ₹3,000 credited directly into the senior citizen Aadhaar-linked bank account to procure assistive aids and medical appliances.",
+    "benefits_hi": "वृद्धापकाळातील सहाय्यक उपकरणे खरेदीसाठी थेट ₹3,000 ज्येष्ठ नागरिकाच्या बँक खात्यात वर्ग.",
+    "benefitType": "Direct Cash",
+    "benefitAmount": "₹3,000 One-time Direct Benefit Transfer",
+    "eligibility_en": {
+      "minAge": 65,
+      "maxAge": 100,
+      "gender": "All",
+      "maxIncome": 200000,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "Retired",
+        "Unemployed",
+        "Farmer"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card / Age Proof (Age 65+)",
+      "Domicile Certificate of Maharashtra or Voter ID Card",
+      "Tahsildar Income Certificate (Annual Family Income ≤ ₹2.00 Lakh) or Yellow/Orange Ration Card",
+      "Medical Certificate / Physical Disability Certificate (if applicable)",
+      "Aadhaar-Seeded Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "amrut-senior-citizen-free-st-travel-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra",
+    "title_en": "Amrut Jyeshtha Nagarik Scheme - 100% Free Bus Travel for Seniors 75+ (Maharashtra)",
+    "title_hi": "अमृत ज्येष्ठ नागरिक मोफत एसटी प्रवास योजना (75 वर्षांवरील ज्येष्ठांना 100% मोफत)",
+    "description_en": "Provides 100% free travel across all MSRTC ordinary and semi-luxury bus routes within Maharashtra for senior citizens aged 75 years and above, and 50% concession for seniors aged 65 to 74 years.",
+    "description_hi": "महाराष्ट्रातील 75 वर्षे व त्यावरील सर्व ज्येष्ठ नागरिकांना एसटी बसेसमधून 100% मोफत प्रवास आणि 65 ते 74 वयोगटातील ज्येष्ठांना 50% तिकीट सवलत देणारी योजना.",
+    "benefits_en": "Unlimited free travel within the state for seniors 75+ upon showing Aadhaar / Smart Card; 50% concession for seniors 65 to 74 years.",
+    "benefits_hi": "75 वर्षांवरील वृद्धांना संपूर्ण मोफत प्रवास व 65 ते 74 वर्षांच्या ज्येष्ठांना अर्धे तिकीट सवलत.",
+    "benefitType": "Direct Cash",
+    "benefitAmount": "100% Free Travel for Age 75+ | 50% Concession for Age 65-74",
+    "eligibility_en": {
+      "minAge": 65,
+      "maxAge": 105,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "Retired",
+        "Senior Citizen",
+        "Unemployed"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card / Voter ID Card / PAN Card clearly indicating Date of Birth (Age 65+ or 75+)",
+      "MSRTC Senior Citizen Smart Card (issued at bus depot)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sanjay-gandhi-niradhar-anudan-yojana",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra",
+    "title_en": "Sanjay Gandhi Niradhar Anudan Yojana (Destitute Pension Scheme - Maharashtra)",
+    "title_hi": "संजय गांधी निराधार अनुदान योजना (महाराष्ट्र शासन)",
+    "description_en": "Provides a monthly pension of ₹1,500 to destitute persons, blind individuals, physically disabled persons (40%+ disability), widows, divorced/deserted women, and orphan children residing in Maharashtra.",
+    "description_hi": "महाराष्ट्रातील निराधार व्यक्ती, अंध, अपंग, विधवा, घटस्फोटित व परित्यक्ता महिला आणि अनाथ बालकांना सन्मानाने जगण्यासाठी दरमहा ₹1,500 निवृत्तीवेतन देणारी योजना.",
+    "benefits_en": "Monthly direct financial pension of ₹1,500 deposited directly into the beneficiary bank account via DBT.",
+    "benefits_hi": "दरमहा ₹1,500 चे निवृत्तीवेतन थेट आधार संलग्न बँक खात्यात दर महिन्याला जमा केले जाते.",
+    "benefitType": "Pension",
+    "benefitAmount": "₹1,500 / Month Direct Bank Pension",
+    "eligibility_en": {
+      "minAge": 18,
+      "maxAge": 65,
+      "gender": "All",
+      "maxIncome": 21000,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "Unemployed",
+        "Destitute",
+        "Disabled"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Domicile Certificate of Maharashtra (Minimum 15 years residence)",
+      "Tahsildar Income Certificate (Annual Family Income ≤ ₹21,000)",
+      "Age Proof",
+      "Disability Certificate from Civil Surgeon (if applying under disability category)",
+      "Death Certificate of Husband (for widows) or Court Divorce Decree"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shravanbal-seva-rajya-nivruttivetan-yojana",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra",
+    "title_en": "Shravanbal Seva Rajya Nivruttivetan Yojana (Old Age Pension - Maharashtra)",
+    "title_hi": "श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना (महाराष्ट्र शासन)",
+    "description_en": "Provides a monthly financial assistance pension of ₹1,500 to destitute elderly persons aged 65 years and above who are permanent residents of Maharashtra with annual family income up to ₹21,000.",
+    "description_hi": "महाराष्ट्रातील 65 वर्षे व त्यावरील निराधार व गरीब वृद्ध नागरिकांना दरमहा ₹1,500 पेन्शन देणारी राज्य पुरस्कृत वृद्धापकाळ निवृत्तीवेतन योजना.",
+    "benefits_en": "Direct transfer of ₹1,500 per month into beneficiary bank account (Category A: State scheme; Category B: Central IGNOAPS + State top-up).",
+    "benefits_hi": "दरमहा ₹1,500 ची आर्थिक मदत थेट वृद्ध व्यक्तीच्या बँक खात्यात वर्ग केली जाते.",
+    "benefitType": "Pension",
+    "benefitAmount": "₹1,500 / Month Old Age Pension",
+    "eligibility_en": {
+      "minAge": 65,
+      "maxAge": 105,
+      "gender": "All",
+      "maxIncome": 21000,
+      "states": [
+        "Maharashtra"
+      ],
+      "occupations": [
+        "Retired",
+        "Destitute",
+        "Unemployed"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Age Proof (Proof of age 65 years or above)",
+      "Domicile Certificate of Maharashtra (Residing in state for at least 15 years)",
+      "Tahsildar Income Certificate (Family Income ≤ ₹21,000 per year) or BPL Ration Card",
+      "Bank Account Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "atal-vayo-abhyuday-yojana-avay",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens",
+    "title_en": "Atal Vayo Abhyuday Yojana (AVAY - Welfare of Senior Citizens)",
+    "title_hi": "अटल वयो अभ्युदय योजना (एव्हीएवाय - ज्येष्ठ नागरिक कल्याण योजना)",
+    "description_en": "Umbrella scheme providing financial grants for running Senior Citizen Homes (Old Age Homes), Continuous Care Homes for elderly with dementia and bedridden conditions, mobile healthcare units, and operating the National Helpline for Senior Citizens (Elderline 14567).",
+    "description_hi": "निराधार व आजारी ज्येष्ठ नागरिकांना मोफत निवास, सकस आहार, आरोग्य सेवा देणारी वृद्धाश्रम योजना तसेच राष्ट्रीय ज्येष्ठ नागरिक हेल्पलाईन (एल्डरलाईन 14567) चालविणारी योजना.",
+    "benefits_en": "100% free lodging, boarding, healthcare, mental stimulation activities, and legal assistance in aided Senior Citizen Homes across all districts.",
+    "benefits_hi": "वृद्धाश्रमांमध्ये मोफत राहणे, जेवण, फिजिओथेरपी व औषधोपचार आणि 14567 हेल्पलाईनवरून कायदेशीर मदत.",
+    "benefitType": "Social Security",
+    "benefitAmount": "Free Shelter, Medical Care, Physiotherapy in Senior Citizen Homes & Elderline 14567 Support",
+    "eligibility_en": {
+      "minAge": 60,
+      "maxAge": 105,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "All"
+      ],
+      "occupations": [
+        "Senior Citizen",
+        "Retired",
+        "Destitute"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card / Age Proof (Age 60+)",
+      "Indigent / Destitute Proof or Recommendation from District Social Welfare Officer",
+      "Medical Fitness / Health Record"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "atal-pension-yojana-apy",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens",
+    "title_en": "Atal Pension Yojana (APY - Guaranteed Lifelong Pension Scheme)",
+    "title_hi": "अटल पेन्शन योजना (एपीवाय - हमीची आजीवन मासिक पेन्शन योजना)",
+    "description_en": "Government-backed guaranteed lifelong pension scheme for unorganized sector workers offering monthly pensions of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 after reaching age 60, based on small monthly contributions made during ages 18 to 40.",
+    "description_hi": "असंघटित क्षेत्रातील नागरिकांसाठी वृद्धापकाळात आर्थिक सुरक्षिततेची हमी देणारी योजना, ज्यामध्ये वयाच्या 18 ते 40 वर्षांत नाममात्र मासिक बचत केल्यास वयाच्या 60 नंतर दरमहा ₹1,000 ते ₹5,000 निश्चित पेन्शन मिळते.",
+    "benefits_en": "Guaranteed pension payable to subscriber for life, then to spouse after demise, with full return of accumulated corpus (up to ₹8.5 Lakh for ₹5,000 pension) to the legal nominee.",
+    "benefits_hi": "वयाच्या 60 नंतर आयुष्यभर दरमहा ₹5,000 पेन्शन, मृत्यूनंतर पती/पत्नीला तेवढीच पेन्शन, आणि नंतर वारसाला ₹8.5 लाखांचा संपूर्ण निधी परत.",
+    "benefitType": "Pension",
+    "benefitAmount": "Guaranteed Monthly Pension of ₹1,000 to ₹5,000 for Life from Age 60",
+    "eligibility_en": {
+      "minAge": 18,
+      "maxAge": 40,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "All"
+      ],
+      "occupations": [
+        "Worker",
+        "Self Employed",
+        "Farmer",
+        "Homemaker",
+        "Unemployed"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Savings Bank Account or Post Office Account",
+      "Active Mobile Number",
+      "Non-Income Taxpayer Declaration (subscribers joining after Oct 2022 must not be income taxpayers)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pradhan-mantri-suraksha-bima-yojana-pmsby",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens",
+    "title_en": "Pradhan Mantri Suraksha Bima Yojana (PMSBY - Accidental Insurance at ₹20/Year)",
+    "title_hi": "प्रधानमंत्री सुरक्षा विमा योजना (पीएमएसबीवाय - ₹२० मध्ये २ लाखांचा अपघात विमा)",
+    "description_en": "Provides high-value accidental death and disability insurance cover of ₹2,00,000 for accidental death or total permanent disability, and ₹1,00,000 for permanent partial disability, for an annual premium of just ₹20 auto-debited from the subscriber bank account.",
+    "description_hi": "वार्षिक अवघ्या ₹20 च्या नाममात्र हप्त्यावर ₹2,00,000 चा अपघात विमा (अपघाती मृत्यू किंवा दोन्ही डोळे/हात-पाय निकामी झाल्यास ₹2 लाख व एका अवयवासाठी ₹1 लाख) देणारी योजना.",
+    "benefits_en": "Full ₹2 Lakh risk cover against road accidents, snake bite, drowning, electric shock, machinery accidents for just ₹20 per year.",
+    "benefits_hi": "अपघातात मृत्यू किंवा कायमचे अपंगत्व आल्यास वारसाला ₹2 लाखांचे विमा कवच अवघ्या ₹20 वार्षिक हप्त्यात.",
+    "benefitType": "Insurance",
+    "benefitAmount": "₹2,00,000 for Accidental Death / Permanent Total Disability; ₹1,00,000 for Partial Disability",
+    "eligibility_en": {
+      "minAge": 18,
+      "maxAge": 70,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "All"
+      ],
+      "occupations": [
+        "All"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Savings Bank Account or Post Office Savings Account with auto-debit consent",
+      "Nominee Details and Mobile Number"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pradhan-mantri-jeevan-jyoti-bima-yojana-pmjjby",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens",
+    "title_en": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY - Life Insurance at ₹436/Year)",
+    "title_hi": "प्रधानमंत्री जीवन ज्योती विमा योजना (पीएमजेजेबीवाय - ₹४३६ मध्ये २ लाखांचा जीवन विमा)",
+    "description_en": "Provides life insurance cover of ₹2,00,000 in case of death of the insured member due to any cause (natural death, illness, medical condition, or accident) for an affordable annual premium of ₹436 auto-debited from the bank account.",
+    "description_hi": "कोणत्याही कारणाने (नैसर्गिक आजारपण, हृदयविकार किंवा अपघात) मृत्यू झाल्यास कुटुंबाला ₹2 लाखांचे आर्थिक जीवन विमा छत्र देणारी व वार्षिक अवघ्या ₹436 हप्त्याची केंद्र योजना.",
+    "benefits_en": "Guaranteed lump sum payment of ₹2,00,000 to the nominee upon death of the account holder due to any cause, providing instant family security.",
+    "benefits_hi": "नैसर्गिक किंवा अपघाती मृत्यू झाल्यास वारसाला ₹2,00,000 ची विमा रक्कम थेट बँक खात्यात.",
+    "benefitType": "Insurance",
+    "benefitAmount": "₹2,00,000 Life Insurance Cover on Death Due to Any Cause",
+    "eligibility_en": {
+      "minAge": 18,
+      "maxAge": 50,
+      "gender": "All",
+      "maxIncome": null,
+      "states": [
+        "All"
+      ],
+      "occupations": [
+        "All"
+      ],
+      "categories": [
+        "All",
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "education": [
+        "No Formal Education",
+        "Below 10th",
+        "10th Pass",
+        "12th Pass",
+        "Graduate"
+      ]
+    },
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card",
+      "Savings Bank Account or Post Office Savings Account",
+      "Auto-Debit Consent Form",
+      "Nominee Aadhaar and Bank Account Details"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-teerth-yatra-yojana-delhi-",
+    "level": "STATE",
+    "state": "Delhi",
+    "category": "senior-citizens",
+    "tags": "senior-citizens",
+    "title_en": "Mukhyamantri Teerth Yatra Yojana (Delhi)",
+    "title_hi": "मुख्यमंत्री तीर्थ यात्रा योजना (दिल्ली)",
+    "description_en": "All-inclusive free pilgrimage travel scheme by Government of Delhi for senior citizens covering train travel in AC trains, AC hotel accommodation, meals, and local sightseeing.",
+    "description_hi": "दिल्ली के 60 वर्ष से अधिक आयु के वरिष्ठ नागरिकों को देश भर के प्रमुख तीर्थ स्थलों की 100% निःशुल्क एसी तीर्थ यात्रा।",
+    "benefits_en": "100% free Bharat Gaurav AC train travel, 3-star AC hotel stays, wholesome meals, insurance, and travel kits for the senior citizen and one younger attendant.",
+    "benefits_hi": "पूर्णतः निःशुल्क यात्रा, एसी ट्रेन टिकट, होटल आवास, भोजन और मेडिकल बीमा।",
+    "benefitType": "Social Security",
+    "benefitAmount": "100% Free AC Pilgrimage Tour",
+    "eligibility_en": "Senior citizens aged 60+ (or 65+) meeting age and domicile conditions",
+    "eligibility_hi": "६० वर्षे किंवा त्यावरील ज्येष्ठ नागरिक विहित अटींनुसार",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Bank Passbook",
+      "Income Certificate (if applicable)",
+      "Residence / Domicile Certificate"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बँक पासबुक",
+      "उत्पन्नाचा दाखला",
+      "अधिवास प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply online through state social welfare portal or visit Tehsil / Block Social Welfare Office",
+      "Submit application form with age and bank details",
+      "Monthly pension or assistive devices sanctioned directly to beneficiary"
+    ],
+    "steps_hi": [
+      "अधिकृत सामाजिक कल्याण पोर्टलवर किंवा तहसील कार्यालयात अर्ज करा",
+      "वयाचा दाखला व बँक तपशील जोडा",
+      "मंजुरीनंतर पेन्शन खात्यात जमा किंवा उपकरणांचे वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "indira-gandhi-national-old-age-pension-nsap-ignoaps",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, nsap, ignoaps, old-age-pension, dbt",
+    "title_en": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS - NSAP)",
+    "title_hi": "इंदिरा गांधी राष्ट्रीय वृद्धापकाळ निवृत्तीवेतन योजना (IGNOAPS)",
+    "description_en": "National Social Assistance Programme (NSAP) core pension scheme by Ministry of Rural Development providing assured non-contributory monthly pensions to elderly citizens living below the poverty line.",
+    "description_hi": "ग्रामीण विकास मंत्रालयाची राष्ट्रीय सामाजिक सहाय्य योजना, ज्याद्वारे दारिद्र्यरेषेखालील वृद्ध नागरिकांना दरमहा थेट बँक खात्यात वृद्धापकाळ पेन्शन दिली जाते.",
+    "benefits_en": "Monthly pension of ₹200 (60-79 years) and ₹500 (80+ years) contributed by Central Government, supplemented by additional State contribution (totaling ₹1,000 to ₹3,000 per month depending on state).",
+    "benefits_hi": "६० ते ७९ वर्षांच्या वृद्धांना आणि ८० वर्षांवरील वृद्धांना दरमहा नियमित पेन्शन थेट बँक किंवा पोस्ट खात्यात जमा.",
+    "benefitType": "Direct Benefit Transfer Pension",
+    "benefitAmount": "₹1,000 - ₹3,000 / month (combined with state top-up)",
+    "eligibility_en": "Elderly person aged 60 years or above belonging to a household living below the poverty line (BPL).",
+    "eligibility_hi": "६० वर्षे किंवा त्याहून अधिक वयाचे वृद्ध नागरिक जे दारिद्र्यरेषेखालील (BPL) कुटुंबातील आहेत.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "BPL Ration Card / SECC listing",
+      "Bank Account Passbook (Aadhaar-linked)",
+      "Passport-size Photograph"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बीपीएल रेशन कार्ड",
+      "आधार संलग्न बँक पासबुक",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Apply through Gram Panchayat, Block Development Office (BDO), or nsap.nic.in portal",
+      "Verification of age and BPL status by local revenue authority",
+      "Monthly pension transferred directly to Aadhaar-linked bank or post office account"
+    ],
+    "steps_hi": [
+      "ग्रामपंचायत, बीडीओ किंवा nsap.nic.in पोर्टलवरून अर्ज करा",
+      "वयाची व दारिद्र्यरेषेची पडताळणी",
+      "दरमहा पेन्शन थेट बँक किंवा टपाल खात्यात जमा"
+    ],
+    "applyUrl": "https://nsap.nic.in/",
+    "sourceUrl": "https://nsap.nic.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "rashtriya-vayoshri-yojana-rvy-alimco",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, rvy, physical-aids, alimco, free",
+    "title_en": "Rashtriya Vayoshri Yojana (RVY)",
+    "title_hi": "राष्ट्रीय वयोश्री योजना (RVY)",
+    "description_en": "Ministry of Social Justice & Empowerment scheme providing free physical aids and assisted-living devices for senior citizens belonging to BPL category suffering from age-related disabilities or infirmities.",
+    "description_hi": "वाढत्या वयामुळे दृष्टीदोष, ऐकू न येणे, चालण्यास त्रास होणाऱ्या दारिद्र्यरेषेखालील ज्येष्ठ नागरिकांना मोफत कृत्रिम साधने व सहाय्यक उपकरणे देणारी राष्ट्रीय योजना.",
+    "benefits_en": "100% free distribution of assisted-living devices: walking sticks, elbow crutches, walkers, tripods/quadpods, hearing aids, wheelchairs, artificial dentures, and spectacles via ALIMCO.",
+    "benefits_hi": "श्रवणयंत्रे (कान मशिन), व्हीलचेअर, वॉकर, काठी, चष्मे आणि कवळी (कृत्रिम दात) मोफत वाटप.",
+    "benefitType": "Free Assisted-Living Physical Devices",
+    "benefitAmount": "100% Free Devices (ALIMCO)",
+    "eligibility_en": "Senior citizens aged 60+ belonging to BPL category or whose monthly family income does not exceed ₹15,000.",
+    "eligibility_hi": "६० वर्षांवरील ज्येष्ठ नागरिक ज्यांचे मासिक कौटुंबिक उत्पन्न ₹१५,००० पेक्षा कमी आहे किंवा जे बीपीएल प्रवर्गातील आहेत.",
+    "documents_en": [
+      "Age Proof / Aadhaar Card",
+      "BPL Card / Income Certificate (below ₹15,000/month)",
+      "Medical Certificate from Government Doctor regarding infirmity / disability"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बीपीएल कार्ड / उत्पन्नाचा दाखला",
+      "शासकीय डॉक्टरांचे शारीरिक व्यंग प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Attend official RVY screening camp organized by ALIMCO and District Administration",
+      "Medical evaluation by experts to determine required assistive devices",
+      "Devices fitted and distributed free of cost at mega distribution camp"
+    ],
+    "steps_hi": [
+      "जिल्हा प्रशासन व अलिमकोने आयोजित केलेल्या तपासणी शिबिरास उपस्थित राहा",
+      "तज्ज्ञ डॉक्टरांकडून तपासणी करून उपकरणांची नोंद",
+      "मोफत वाटप शिबिरात साधनांचे थेट वाटप"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://alimco.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "senior-citizens-savings-scheme-scss",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, savings, scss, high-interest, post-office",
+    "title_en": "Senior Citizens Savings Scheme (SCSS)",
+    "title_hi": "ज्येष्ठ नागरिक बचत योजना (SCSS)",
+    "description_en": "Government of India backed sovereign savings scheme for individuals aged 60+ offering guaranteed quarterly interest payouts, capital safety, and Section 80C income tax deductions.",
+    "description_hi": "६० वर्षे व त्यावरील ज्येष्ठ नागरिकांसाठी भारत सरकारची सर्वोच्च व्याजदर (८.२%) देणारी सुरक्षित त्रैमासिक व्याज बचत योजना.",
+    "benefits_en": "Highest sovereign interest rate (currently 8.2% p.a.), quarterly interest credit directly to bank account, maximum deposit limit up to ₹30 Lakh, and tax deduction up to ₹1.5 Lakh under Section 80C.",
+    "benefits_hi": "८.२% वार्षिक व्याजदर, दर तीन महिन्यांनी खात्यात थेट व्याज, कमाल ₹३० लाखांपर्यंत ठेव मर्यादा व कलम ८०सी अंतर्गत कर सवलत.",
+    "benefitType": "Guaranteed Sovereign Interest Savings",
+    "benefitAmount": "8.2% p.a. Quarterly Payout (Up to ₹30 Lakh)",
+    "eligibility_en": "Individuals aged 60 years or above; retired defense personnel aged 50+; civilian employees taking VRS aged 55+.",
+    "eligibility_hi": "६० वर्षांवरील सर्व ज्येष्ठ नागरिक (संरक्षण दलातील ५०+ आणि VRS घेतलेले ५५+ नागरिक).",
+    "documents_en": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Proof of Age / Retirement proof (if applicable)",
+      "Cheque / Demand Draft for initial deposit"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "पॅन कार्ड",
+      "वयाचा पुरावा / सेवानिवृत्ती आदेश",
+      "धनादेश"
+    ],
+    "steps_en": [
+      "Visit any Post Office or authorized commercial bank branch (SBI, PNB, BoB, etc.)",
+      "Fill Form-1 (SCSS Account Opening Form) with nominee details",
+      "Deposit amount by cheque; quarterly interest automatically credited to savings account"
+    ],
+    "steps_hi": [
+      "कोणत्याही पोस्ट ऑफिस किंवा राष्ट्रीयकृत बँकेच्या शाखेत जा",
+      "SCSS खाते उघडण्याचा फॉर्म-१ भरा व वारसदार नोंदवा",
+      "रक्कम जमा करा; दर तीन महिन्यांनी व्याज थेट खात्यात जमा होते"
+    ],
+    "applyUrl": "https://www.indiapost.gov.in/",
+    "sourceUrl": "https://dea.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "national-programme-for-health-care-of-the-elderly-nphce",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, nphce, geriatric, health-care, free",
+    "title_en": "National Programme for Health Care of the Elderly (NPHCE)",
+    "title_hi": "ज्येष्ठ नागरिकांसाठी राष्ट्रीय आरोग्य सेवा कार्यक्रम (NPHCE)",
+    "description_en": "Ministry of Health & Family Welfare dedicated geriatric healthcare program establishing specialized Geriatric OPDs, dedicated 10-bed geriatric wards in District Hospitals, and Regional Geriatric Centres.",
+    "description_hi": "शासकीय रुग्णालयांमध्ये ज्येष्ठ नागरिकांसाठी स्वतंत्र ओपीडी, १० खाटांचा विशेष जेरियाट्रिक वॉर्ड आणि मोफत औषधोपचार देणारा राष्ट्रीय कार्यक्रम.",
+    "benefits_en": "Dedicated weekly geriatric clinic at PHC/CHC, prioritized consultation and billing counters, specialized geriatric physiotherapy, and free screening for dementia, diabetes, and hypertension.",
+    "benefits_hi": "प्राथमिक आरोग्य केंद्रात स्वतंत्र जेरियाट्रिक क्लिनिक, रांगेविना तपासणी, फिजिओथेरपी व वृद्धत्व आजारांवर मोफत उपचार.",
+    "benefitType": "Dedicated Geriatric Public Healthcare",
+    "benefitAmount": "100% Free Specialized Geriatric Care",
+    "eligibility_en": "All senior citizens aged 60 years and above.",
+    "eligibility_hi": "६० वर्षे व त्यावरील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card or Hospital Senior Citizen Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड किंवा ज्येष्ठ नागरिक ओळखपत्र"
+    ],
+    "steps_en": [
+      "Visit dedicated Senior Citizen / Geriatric OPD counter at District Hospital or Medical College",
+      "Undergo comprehensive geriatric health assessment (memory, balance, chronic vitals)",
+      "Avail specialized physiotherapy and free dispensed geriatric medications"
+    ],
+    "steps_hi": [
+      "जिल्हा रुग्णालयातील स्वतंत्र ज्येष्ठ नागरिक खिडकीवर नाव नोंदवा",
+      "तज्ज्ञ डॉक्टरांकडून सर्वसमावेशक आरोग्य तपासणी करून घ्या",
+      "मोफत औषधे व फिजिओथेरपी सेवा मिळवा"
+    ],
+    "applyUrl": "https://main.mohfw.gov.in/",
+    "sourceUrl": "https://mohfw.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "elderline-national-helpline-for-senior-citizens-14567",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, elderline, helpline, rescue, legal-aid",
+    "title_en": "Elderline - National Helpline for Senior Citizens (Toll-Free 14567)",
+    "title_hi": "एल्डरलाईन - ज्येष्ठ नागरिकांसाठी राष्ट्रीय हेल्पलाईन (१४५६७)",
+    "description_en": "Ministry of Social Justice & Empowerment 24x7 toll-free helpline operating across all Indian states providing free information, guidance, emotional counseling, rescue of abandoned elders, and legal assistance.",
+    "description_hi": "ज्येष्ठ नागरिकांच्या संरक्षणासाठी, माहिती, समुपदेशन, बेघर वृद्धांची सुटका आणि कौटुंबिक छळाविरुद्ध मदत देणारी राष्ट्रीय मोफत हेल्पलाईन (१४५६७).",
+    "benefits_en": "Free assistance on old age homes, pensions, maintenance claims under MWPSC Act, field intervention for rescuing destitute/homeless seniors, and psychological counseling.",
+    "benefits_hi": "मोफत कायदेशीर सल्ला, वृद्धाश्रमांची माहिती, छळाविरुद्ध पोलीस मदत, बेघर वृद्धांचे पुनर्वसन आणि मानसिक आधार.",
+    "benefitType": "24x7 Free Senior Citizen Helpline",
+    "benefitAmount": "100% Free Toll-Free Service (14567)",
+    "eligibility_en": "Any senior citizen aged 60+ or anyone calling on behalf of an elderly person in distress.",
+    "eligibility_hi": "कोणताही ज्येष्ठ नागरिक (६०+) किंवा त्यांच्या वतीने मदत मागणारी व्यक्ती.",
+    "documents_en": [
+      "None required (Completely toll-free & confidential)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Dial toll-free number 14567 from any landline or mobile phone",
+      "Select state language and explain your requirement / emergency to Elderline call officer",
+      "Helpline coordinates with local police, social welfare officers, and NGOs for immediate resolution"
+    ],
+    "steps_hi": [
+      "१४५६७ वर मोफत कॉल करा",
+      "आपली अडचण किंवा तक्रार सांगा",
+      "स्थानिक पोलीस, समाजकल्याण अधिकारी यांच्यामार्फत तात्काळ मदत पोहोचवली जाते"
+    ],
+    "applyUrl": "https://elderline.dosje.gov.in/",
+    "sourceUrl": "https://socialjustice.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "integrated-programme-for-senior-citizens-ipsrc",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, ipsrc, old-age-home, shelter",
+    "title_en": "Integrated Programme for Senior Citizens (IPSrC)",
+    "title_hi": "ज्येष्ठ नागरिकांसाठी एकात्मिक कार्यक्रम (IPSrC)",
+    "description_en": "Ministry of Social Justice & Empowerment scheme providing grants to maintain Senior Citizens Homes (Old Age Homes), Continuous Care Homes for Alzheimer/Dementia patients, and Mobile Medicare Units.",
+    "description_hi": "निराधार व गरजू ज्येष्ठ नागरिकांसाठी मोफत निवासी वृद्धाश्रम, अल्झायमर/स्मृतीभ्रंश रुग्णांसाठी विशेष काळजी केंद्रे आणि फिरते दवाखाने चालवणारी योजना.",
+    "benefits_en": "Free residential stay, nutritious food, clean clothing, medical care, and recreational facilities in government-supported Senior Citizen Homes.",
+    "benefits_hi": "मोफत निवास, पौष्टिक भोजन, कपडे, वैद्यकीय उपचार आणि मनोरंजनाची सोय शासकीय अनुदानित वृद्धाश्रमांमध्ये.",
+    "benefitType": "Free Residential Elder Care",
+    "benefitAmount": "100% Free Shelter & Care",
+    "eligibility_en": "Destitute, abandoned, or needy senior citizens aged 60+ without family support.",
+    "eligibility_hi": "निराधार, बेघर किंवा कुटुंबाचा आधार नसलेले ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Age proof (Aadhaar/Voter ID if available)",
+      "Income / Destitute certificate from local authority"
+    ],
+    "documents_hi": [
+      "वयाचा पुरावा (आधार/मतदार कार्ड)",
+      "निराधार असल्याचे प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Apply directly to the Superintendent of nearest government-aided Senior Citizen Home",
+      "District Social Welfare Officer validates admission recommendation",
+      "Senior admitted for dignified permanent care with full boarding and medical assistance"
+    ],
+    "steps_hi": [
+      "जवळच्या मान्यताप्राप्त वृद्धाश्रम अधीक्षकांकडे अर्ज करा",
+      "जिल्हा समाजकल्याण अधिकाऱ्यांकडून मंजुरी",
+      "सर्व सुविधांसह मोफत कायमस्वरूपी प्रवेश दिला जातो"
+    ],
+    "applyUrl": "https://socialjustice.gov.in/",
+    "sourceUrl": "https://socialjustice.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "ayushman-vandan-card-seniors-70-plus",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, ayushman-vandan, pmjay, health-cover, 70-plus",
+    "title_en": "Ayushman Bharat PM-JAY Senior Citizens Health Cover (70+ Years)",
+    "title_hi": "आयुष्मान भारत वरिष्ठ नागरिक आरोग्य कवच (७०+ वर्षे - आयुष्मान वंदन)",
+    "description_en": "Universal health coverage expansion by Government of India providing an exclusive ₹5,00,000 top-up cashless hospitalization cover annually for every senior citizen aged 70 years and above, irrespective of family income.",
+    "description_hi": "भारतातील ७० वर्षे व त्यावरील सर्व ज्येष्ठ नागरिकांना कुटुंबाच्या उत्पन्नाची कोणतीही अट न ठेवता दरवर्षी ₹५ लाखांपर्यंत मोफत व स्वतंत्र कॅशलेस आरोग्य विमा देणारी ऐतिहासिक योजना.",
+    "benefits_en": "Dedicated ₹5,00,000 annual cashless cover for secondary and tertiary hospitalization across 29,000+ empanelled hospitals for all individuals aged 70+.",
+    "benefits_hi": "प्रति वर्ष ₹५,००,००० पर्यंत स्वतंत्र कॅशलेस उपचार, शस्त्रक्रिया व तपासण्या; कोणत्याही उत्पन्न मर्यादा किंवा बीपीएल अटींशिवाय.",
+    "benefitType": "Universal Cashless Health Cover (70+)",
+    "benefitAmount": "₹5,00,000 / individual/year",
+    "eligibility_en": "All Indian citizens aged 70 years and above based on date of birth recorded on Aadhaar card.",
+    "eligibility_hi": "आधार कार्डवर नोंदणीकृत जन्मतारखेनुसार ७० वर्षे पूर्ण केलेले भारतातील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card (Mandatory for age verification and e-KYC)",
+      "Active Mobile Number for OTP"
+    ],
+    "documents_hi": [
+      "आधार कार्ड (वय पडताळणीसाठी अनिवार्य)",
+      "ओटीपीसाठी मोबाईल क्रमांक"
+    ],
+    "steps_en": [
+      "Visit beneficiary.nha.gov.in or Ayushman App",
+      "Enter Aadhaar number and complete Aadhaar OTP e-KYC",
+      "Generate and download instant distinct Ayushman Vandan Card with photo",
+      "Avail cashless treatments in any empanelled hospital across India"
+    ],
+    "steps_hi": [
+      "beneficiary.nha.gov.in वर जा किंवा आयुष्मान ॲप उघडा",
+      "आधार क्रमांक टाकून ओटीपीने e-KYC करा",
+      "फोटो असलेले आयुष्मान वंदन कार्ड त्वरित डाऊनलोड करा",
+      "देशभरातील कोणत्याही मान्यताप्राप्त रुग्णालयात मोफत उपचार घ्या"
+    ],
+    "applyUrl": "https://beneficiary.nha.gov.in/",
+    "sourceUrl": "https://pmjay.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "jeevan-pramaan-digital-life-certificate",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, jeevan-pramaan, pensioners, biometric, dlc",
+    "title_en": "Jeevan Pramaan - Digital Life Certificate for Pensioners",
+    "title_hi": "जीवन प्रमाण - पेन्शनधारकांसाठी डिजिटल हयात दाखला",
+    "description_en": "Biometric and facial recognition enabled digital service for pensioners allowing elderly central, state, and defense pensioners to submit their annual life certificate from home without visiting bank branches.",
+    "description_hi": "ज्येष्ठ पेन्शनधारकांना बँकेत प्रत्यक्ष न जाता मोबाईल ॲपवरून चेहरा किंवा अंगठ्याचा ठसा स्कॅन करून घरबसल्या डिजिटल हयात दाखला सादर करण्याची सोय.",
+    "benefits_en": "Hassle-free digital submission of life certificate within minutes, instant acknowledgement SMS, automatic intimation to Pension Disbursing Agency (PDA), and uninterrupted pension credit.",
+    "benefits_hi": "घरी बसल्या अवघ्या ५ मिनिटांत डिजिटल हयात दाखला सादर, बँकेच्या फेऱ्या बंद आणि पेन्शन अखंडितपणे चालू राहण्याची हमी.",
+    "benefitType": "Digital Pensioner Authentication Service",
+    "benefitAmount": "100% Free Service",
+    "eligibility_en": "All pensioners of Central Government, State Governments, Defense, Railways, Telecom, Postal, and EPFO.",
+    "eligibility_hi": "केंद्र, राज्य, संरक्षण, रेल्वे व ईपीएफओचे सर्व सेवानिवृत्त पेन्शनधारक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Pension Payment Order (PPO) Number",
+      "Pension Bank Account details",
+      "Mobile Number"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "पीपीओ (PPO) क्रमांक",
+      "पेन्शन बँक खाते क्रमांक",
+      "मोबाईल क्रमांक"
+    ],
+    "steps_en": [
+      "Download Jeevan Pramaan Face App on Android smartphone or visit Post Office / CSC",
+      "Enter Aadhaar and PPO number and take facial photo through smartphone camera",
+      "Unique Pramaan-ID generated and life certificate automatically sent to pension paying branch"
+    ],
+    "steps_hi": [
+      "स्मार्टफोनवर Jeevan Pramaan Face ॲप डाऊनलोड करा",
+      "आधार व पीपीओ क्रमांक टाका आणि मोबाईल कॅमेऱ्यासमोर चेहरा स्कॅन करा",
+      "दाखला तात्काळ मंजूर होऊन बँकेकडे ऑनलाइन पाठवला जातो"
+    ],
+    "applyUrl": "https://jeevanpramaan.gov.in/",
+    "sourceUrl": "https://jeevanpramaan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sacred-portal-senior-able-citizens-reemployment",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, sacred, reemployment, jobs",
+    "title_en": "SACRED - Senior Able Citizens for Re-Employment in Dignity",
+    "title_hi": "सॅक्रेड (SACRED) - ज्येष्ठ नागरिकांसाठी पुनर्नोंदणी व रोजगार पोर्टल",
+    "description_en": "Ministry of Social Justice & Empowerment dedicated IT platform connecting experienced senior citizens (aged 60+) who wish to stay active with enterprises and organizations seeking experienced talent.",
+    "description_hi": "६० वर्षांवरील अनुभवी ज्येष्ठ नागरिकांना त्यांच्या कौशल्य व अनुभवानुसार सल्लागार, अर्धवेळ किंवा पूर्णवेळ रोजगाराच्या संधी मिळवून देणारे राष्ट्रीय पोर्टल.",
+    "benefits_en": "Free registration for senior job-seekers, access to virtual, advisory, and part-time jobs across private and public sectors with fair remuneration.",
+    "benefits_hi": "मोफत नोंदणी, सल्लागार व अर्धवेळ कामाच्या संधी, आणि सन्मानपूर्वक अतिरिक्त उत्पन्न मिळवण्याची सोय.",
+    "benefitType": "Senior Employment Matching Platform",
+    "benefitAmount": "Free Job Matching Service",
+    "eligibility_en": "Citizens aged 60 years and above looking for employment, mentorship, or consulting roles.",
+    "eligibility_hi": "६० वर्षे व त्यावरील ज्येष्ठ नागरिक जे काम किंवा मार्गदर्शन करण्यास इच्छुक आहेत.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Educational & Professional Experience details / Resume"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "बायोडाटा / शैक्षणिक व कामाचा अनुभव"
+    ],
+    "steps_en": [
+      "Register on sacred.dosje.gov.in with Aadhaar verification",
+      "Build professional profile detailing past career, skills, and preferred job locations",
+      "Employers search matched candidate profiles and contact seniors for interviews"
+    ],
+    "steps_hi": [
+      "sacred.dosje.gov.in वर आधार पडताळणी करून नोंदणी करा",
+      "कामाचा अनुभव व कौशल्ये भरा",
+      "कंपन्या थेट संपर्क साधून सन्मानपूर्वक कामाची संधी देतात"
+    ],
+    "applyUrl": "https://sacred.dosje.gov.in/",
+    "sourceUrl": "https://socialjustice.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-senior-citizen-id-card-scheme",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, id-card, concessions, priority",
+    "title_en": "Maharashtra Senior Citizen Identity Card Scheme",
+    "title_hi": "महाराष्ट्र ज्येष्ठ नागरिक ओळखपत्र योजना",
+    "description_en": "Social Justice & Special Assistance Department Maharashtra initiative issuing official laminated Senior Citizen Identity Cards guaranteeing priority service at government offices, hospitals, banks, and travel concessions.",
+    "description_hi": "महाराष्ट्र शासनाच्या सामाजिक न्याय विभागामार्फत ज्येष्ठ नागरिकांना अधिकृत ओळखपत्र देणारी योजना, ज्याद्वारे शासकीय कार्यालये, रुग्णालये व प्रवासात प्राधान्य मिळते.",
+    "benefits_en": "Official state identity card granting priority queue at civil hospitals, 50% bus fare concession on MSRTC, bank interest preferences, and priority processing in government offices.",
+    "benefits_hi": "अधिकृत शासकीय ओळखपत्र, एसटी बस प्रवासात ५०% ते १००% सवलत, शासकीय रुग्णालयात प्राधान्य व बँकांमध्ये विशेष सुविधा.",
+    "benefitType": "Official Identity Card & Public Concessions",
+    "benefitAmount": "Lifetime Valid Government ID",
+    "eligibility_en": "Permanent residents of Maharashtra who have completed 60 years of age.",
+    "eligibility_hi": "महाराष्ट्रातील ६० वर्षे पूर्ण केलेले सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Age Proof (School Leaving Certificate / Birth Certificate / Passport / Voter ID)",
+      "Address Proof (Ration Card / Electricity Bill)",
+      "Blood Group Report",
+      "Passport size photographs (3 copies)"
+    ],
+    "documents_hi": [
+      "वयाचा दाखला (शाळा सोडल्याचा दाखला / जन्म दाखला / मतदार कार्ड)",
+      "रहिवासी दाखला / रेशन कार्ड",
+      "रक्तगट अहवाल",
+      "३ पासपोर्ट फोटो"
+    ],
+    "steps_en": [
+      "Apply online on aaplesarkar.mahaonline.gov.in or visit Tehsil / Collectorate office / local Senior Citizens Association",
+      "Tehsildar / District Social Welfare Officer verifies documents",
+      "Receive official laminated Senior Citizen Card signed by competent authority"
+    ],
+    "steps_hi": [
+      "आपले सरकार पोर्टलवर किंवा तहसील कार्यालयात अर्ज सादर करा",
+      "तहसीलदारांकडून कागदपत्र पडताळणी",
+      "अधिकृत लॅमिनेटेड ज्येष्ठ नागरिक ओळखपत्र दिले जाते"
+    ],
+    "applyUrl": "https://aaplesarkar.mahaonline.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "msrtc-concessional-bus-travel-seniors-65-74",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, msrtc, bus-travel, 50-percent-discount",
+    "title_en": "MSRTC 50% Concessional Travel for Senior Citizens (65-74 Years)",
+    "title_hi": "एसटी महामंडळ ज्येष्ठ नागरिक ५०% प्रवास सवलत योजना (६५-७४ वर्षे)",
+    "description_en": "Maharashtra State Road Transport Corporation (MSRTC) scheme providing 50% concession on ticket fares for senior citizens aged between 65 and 74 years across all ordinary, semi-luxury, and express buses.",
+    "description_hi": "महाराष्ट्रातील ६५ ते ७४ वर्षे वयोगटातील ज्येष्ठ नागरिकांना एसटीच्या साध्या, निमआराम व जलद बसेसमध्ये तिकीट दरात ५०% सवलत देणारी योजना.",
+    "benefits_en": "50% discount on bus passenger fare on all MSRTC ordinary, express, and semi-luxury (Asia / Hirkani) state transport bus routes.",
+    "benefits_hi": "एसटीच्या सर्व साध्या व निमआराम बसेसच्या तिकीटावर ५०% थेट सवलत.",
+    "benefitType": "50% Travel Fare Subsidy",
+    "benefitAmount": "50% Discount on Ticket Fare",
+    "eligibility_en": "Citizens of Maharashtra aged 65 to 74 years holding verified Aadhaar card or Senior Citizen ID card.",
+    "eligibility_hi": "महाराष्ट्रातील ६५ ते ७४ वर्षे वयाचे सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Maharashtra Senior Citizen Card / Voter ID"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / ज्येष्ठ नागरिक ओळखपत्र / मतदार कार्ड"
+    ],
+    "steps_en": [
+      "Present Aadhaar Card or Senior Citizen ID at MSRTC booking counter or to the bus conductor",
+      "Conductor verifies age and issues 50% discounted ticket",
+      "Travel conveniently across Maharashtra at half price"
+    ],
+    "steps_hi": [
+      "एसटी बुकिंग खिडकीवर किंवा वाहकाला (कंडक्टर) आधार कार्ड दाखवा",
+      "कंडक्टर वयाची खात्री करून ५०% सवलतीचे तिकीट देतो",
+      "राज्यभरात निम्म्या दरात प्रवास करा"
+    ],
+    "applyUrl": "https://msrtc.maharashtra.gov.in/",
+    "sourceUrl": "https://msrtc.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "matoshree-old-age-homes-maharashtra",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, vriddhashram, shelter, free-food",
+    "title_en": "Matoshree Old Age Homes Scheme (Maharashtra)",
+    "title_hi": "मातोश्री वृद्धाश्रम योजना (महाराष्ट्र)",
+    "description_en": "Maharashtra Social Justice Department initiative running fully state-aided residential Vriddhashrams in every district providing free dignified shelter, food, and geriatric medical care to destitute seniors.",
+    "description_hi": "महाराष्ट्रातील प्रत्येक जिल्ह्यात चालवले जाणारे शासकीय अनुदानित मातोश्री वृद्धाश्रम, जिथे निराधार वृद्ध नागरिकांना मोफत निवास, जेवण व औषधोपचार दिला जातो.",
+    "benefits_en": "100% free residential shelter, three nutritious meals a day, clothing, regular doctor visits, and recreational activities.",
+    "benefits_hi": "मोफत राहण्याची सोय, दररोज तीन वेळचे जेवण, कपडे, डॉक्टरांची तपासणी व औषधोपचार १००% मोफत.",
+    "benefitType": "Free Institutional Residential Care",
+    "benefitAmount": "100% Free Shelter & Boarding",
+    "eligibility_en": "Destitute, childless, or neglected senior citizens aged 60+ residing in Maharashtra without sufficient income.",
+    "eligibility_hi": "महाराष्ट्रातील निराधार, दुर्लक्षित किंवा उत्पन्नाचे साधन नसलेले ६० वर्षांवरील वृद्ध नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Destitute Certificate / Recommendation from Gram Panchayat or Taluka Social Welfare Officer"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "निराधार असल्याचा ग्रामपंचायत किंवा तहसीलदारांचा दाखला"
+    ],
+    "steps_en": [
+      "Contact nearest Matoshree Old Age Home or District Social Welfare Officer",
+      "Submit admission request form with medical fitness report",
+      "Admitted to home with dignified living amenities"
+    ],
+    "steps_hi": [
+      "जवळच्या मातोश्री वृद्धाश्रमाशी किंवा जिल्हा समाजकल्याण अधिकाऱ्यांशी संपर्क साधा",
+      "अर्ज सादर करा",
+      "तपासणीनंतर वृद्धाश्रमात मोफत कायमस्वरूपी प्रवेश दिला जातो"
+    ],
+    "applyUrl": "https://sjsa.maharashtra.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-police-elder-security-cell-1090",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, police, safety, helpline-1090",
+    "title_en": "Maharashtra Police Senior Citizen Safety Cell (Helpline 1090)",
+    "title_hi": "महाराष्ट्र पोलीस ज्येष्ठ नागरिक सुरक्षा कक्ष (हेल्पलाईन १०९०)",
+    "description_en": "Specialized community policing initiative by Maharashtra Police and Mumbai Police establishing Senior Citizen Security Cells in all police stations with regular beat constable visits and a dedicated 1090 emergency helpline.",
+    "description_hi": "एकटे राहणाऱ्या ज्येष्ठ नागरिकांच्या सुरक्षिततेसाठी महाराष्ट्र पोलिसांचा विशेष सुरक्षा कक्ष, नियमित बीट मार्शल भेटी आणि २४ तास आपत्कालीन १०९० हेल्पलाईन.",
+    "benefits_en": "Dedicated registration at local police station, periodic visits by beat constables, priority response during distress or medical emergencies, and protection against property disputes.",
+    "benefits_hi": "पोलीस ठाण्यात मोफत नोंदणी, बीट पोलिसांच्या नियमित भेटी, घरगुती छळ किंवा फसवणुकीपासून संरक्षण आणि आपत्कालीन मदत.",
+    "benefitType": "Senior Citizen Police Protection",
+    "benefitAmount": "100% Free Public Safety Service",
+    "eligibility_en": "Senior citizens aged 60+ living alone or with elderly spouse in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रात एकटे किंवा केवळ पती-पत्नी राहत असलेले ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Photograph",
+      "Emergency contact details of relatives/neighbors"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "फोटो",
+      "जवळच्या नातेवाईक किंवा शेजाऱ्यांचा संपर्क क्रमांक"
+    ],
+    "steps_en": [
+      "Visit local police station or register online on Mumbai Police / Maharashtra Police web portal",
+      "Police officer visits residence to verify details and inputs into Senior Citizen Register",
+      "Beat staff visits regularly to check on welfare, dial 1090 anytime for emergency aid"
+    ],
+    "steps_hi": [
+      "स्थानिक पोलीस ठाण्यात जाऊन किंवा ऑनलाइन नोंदणी करा",
+      "बीट अधिकारी घरी येऊन माहिती नोंदवून घेतात",
+      "नियमित पोलीस भेटी आणि अडचणीच्या वेळी १०९० डायल करा"
+    ],
+    "applyUrl": "https://mahapolice.gov.in/",
+    "sourceUrl": "https://mahapolice.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "madhu-babu-pension-yojana-odisha",
+    "level": "STATE",
+    "state": "Odisha",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, odisha, mbpy, pension, dbt",
+    "title_en": "Madhu Babu Pension Yojana - Old Age Pension (Odisha)",
+    "title_hi": "मधू बाबू निवृत्तीवेतन योजना (ओडिशा)",
+    "description_en": "Social Security & Empowerment of Persons with Disabilities Department Odisha scheme providing monthly social security pension of ₹1,000 to ₹1,200 to destitute elderly persons.",
+    "description_hi": "ओडिशातील गरीब व निराधार ज्येष्ठ नागरिकांना दरमहा ₹१,००० ते ₹१,२०० ची वृद्धापकाळ पेन्शन देणारी योजना.",
+    "benefits_en": "Direct monthly pension of ₹1,00,0 per month for beneficiaries aged 60-79 years, and ₹1,200 per month for elderly aged 80 years and above.",
+    "benefits_hi": "६० ते ७९ वयोगटासाठी दरमहा ₹१,००० आणि ८० वर्षांवरील वृद्धांसाठी दरमहा ₹१,२०० थेट बँक खात्यात.",
+    "benefitType": "Direct Monthly Pension",
+    "benefitAmount": "₹1,000 - ₹1,200 / month",
+    "eligibility_en": "Senior citizens aged 60+ domiciled in Odisha with annual family income up to ₹24,000 without other pension support.",
+    "eligibility_hi": "ओडिशातील ६० वर्षांवरील रहिवासी ज्यांचे वार्षिक उत्पन्न ₹२४,००० पेक्षा कमी आहे.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Age Proof Certificate",
+      "Income Certificate",
+      "Bank Passbook / Post Office Account details"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "वयाचा दाखला",
+      "उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on ssepd.odisha.gov.in or submit form to Block Development Officer / Executive Officer",
+      "Verification by Gram Panchayat / Urban local body",
+      "Pension disbursed on the 15th of every month directly to account or through cash in Gram Panchayat"
+    ],
+    "steps_hi": [
+      "ssepd.odisha.gov.in वर ऑनलाइन अर्ज करा किंवा बीडीओ कार्यालयात सादर करा",
+      "स्थानिक स्वराज्य संस्थेकडून पडताळणी",
+      "दरमहा १५ तारखेला पेन्शन बँक खात्यात जमा केली जाते"
+    ],
+    "applyUrl": "https://ssepd.odisha.gov.in/",
+    "sourceUrl": "https://ssepd.odisha.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "baristha-nagarika-tirtha-yatra-odisha",
+    "level": "STATE",
+    "state": "Odisha",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, odisha, pilgrimage, tirth-yatra, free-travel",
+    "title_en": "Baristha Nagarika Tirtha Yatra Yojana (Odisha)",
+    "title_hi": "वरिष्ठ नागरिक तीर्थयात्रा योजना (ओडिशा)",
+    "description_en": "Tourism Department Odisha initiative offering 100% free all-inclusive pilgrim special train journeys for underprivileged senior citizens to major pilgrimage centres across India.",
+    "description_hi": "ओडिशातील गरीब ज्येष्ठ नागरिकांना भारतातील प्रमुख तीर्थक्षेत्रांची मोफत रेल्वे यात्रा, भोजन व राहण्याची सोय करून देणारी योजना.",
+    "benefits_en": "100% free AC/Sleeper train travel, hotel accommodation, nutritious vegetarian food, local bus transport, medical team, and accidental insurance.",
+    "benefits_hi": "मोफत रेल्वे प्रवास, मोफत राहणे व जेवण, वैद्यकीय पथक आणि प्रवासी विमा १००% विनामूल्य.",
+    "benefitType": "100% Free Pilgrimage Tour",
+    "benefitAmount": "All Expenses Paid by State",
+    "eligibility_en": "Senior citizens aged 60-75 years holding Odisha domicile with annual income up to ₹3,00,000 (100% free for BPL, 50% for non-BPL).",
+    "eligibility_hi": "ओडिशातील ६० ते ७५ वयोगटातील नागरिक ज्यांचे उत्पन्न ₹३ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Medical Fitness Certificate from Government Doctor",
+      "BPL Card / Income Certificate",
+      "Voter Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "शासकीय डॉक्टरांचे फिटनेस प्रमाणपत्र",
+      "बीपीएल कार्ड / उत्पन्नाचा दाखला",
+      "मतदार कार्ड"
+    ],
+    "steps_en": [
+      "Apply through District Collectorate or online at odishatourism.gov.in",
+      "District selection committee scrutinizes applications and conducts medical check",
+      "Selected pilgrims board dedicated IRCTC tourist train with government nodal officers"
+    ],
+    "steps_hi": [
+      "जिल्हाधिकारी कार्यालय किंवा पर्यटन पोर्टलवर अर्ज करा",
+      "वैद्यकीय तपासणीनंतर सोडतीद्वारे निवड",
+      "विशेष आयआरसीटीसी यात्रेकरू ट्रेनने मोफत प्रवास"
+    ],
+    "applyUrl": "https://odishatourism.gov.in/",
+    "sourceUrl": "https://odisha.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "ysr-pension-kanuka-old-age-andhra-pradesh",
+    "level": "STATE",
+    "state": "Andhra Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, andhra-pradesh, ysr-pension, old-age, doorstep-cash",
+    "title_en": "YSR Pension Kanuka - Old Age Pension (Andhra Pradesh)",
+    "title_hi": "वायएसआर पेन्शन कानुका - वृद्धापकाळ पेन्शन (आंध्र प्रदेश)",
+    "description_en": "Society for Elimination of Rural Poverty (SERP) Andhra Pradesh scheme providing a substantial monthly social pension of ₹3,000 delivered directly at the beneficiary doorstep by village/ward volunteers on the 1st of every month.",
+    "description_hi": "आंध्र प्रदेशातील गरीब वृद्धांना दरमहा १ तारखेला थेट दारात येऊन ₹३,००० ची मासिक पेन्शन रोख देणारी योजना.",
+    "benefits_en": "Direct monthly pension of ₹3,000 per month delivered right to the elderly person doorstep with facial recognition or biometric authentication.",
+    "benefits_hi": "दरमहा १ तारखेला घरपोच ₹३,००० रोख पेन्शन बायोमेट्रिक ओळखीने दिली जाते.",
+    "benefitType": "Doorstep Social Security Pension",
+    "benefitAmount": "₹3,000 / month",
+    "eligibility_en": "Elderly persons aged 60 years or above belonging to families with monthly income below ₹10,000 in rural and ₹12,000 in urban areas holding White Ration Card.",
+    "eligibility_hi": "६० वर्षे व त्यावरील वृद्ध नागरिक, पांढरे रेशन कार्ड असलेले कुटुंब.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Rice Card / White Ration Card",
+      "Age proof certificate",
+      "Bank Account details (if DBT preferred)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "राईस कार्ड / रेशन कार्ड",
+      "वयाचा पुरावा"
+    ],
+    "steps_en": [
+      "Apply at Grama / Ward Sachivalayam with assistance of local volunteer",
+      "Welfare & Education Assistant verifies eligibility via doorstep audit",
+      "Pension sanctioned and volunteer hands over cash at doorstep on 1st of every month"
+    ],
+    "steps_hi": [
+      "ग्राम किंवा वॉर्ड सचिवालयात स्वयंसेवकामार्फत अर्ज करा",
+      "घरी येऊन पात्रता पडताळणी केली जाते",
+      "दरमहा १ तारखेला थेट घरात येऊन ₹३,००० दिले जातात"
+    ],
+    "applyUrl": "https://sspensions.ap.gov.in/",
+    "sourceUrl": "https://ap.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "aasara-old-age-pension-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, telangana, aasara, old-age-pension, dbt",
+    "title_en": "Aasara Pensions for Senior Citizens (Telangana)",
+    "title_hi": "आसरा वृद्धापकाळ पेन्शन योजना (तेलंगणा)",
+    "description_en": "Panchayat Raj & Rural Development Department Telangana social safety net scheme providing a guaranteed monthly pension of ₹2,016 to all vulnerable senior citizens aged 57 years and above.",
+    "description_hi": "तेलंगणातील ५७ वर्षे व त्यावरील सर्व गरीब व दुर्बल ज्येष्ठ नागरिकांना दरमहा ₹२,०१६ ची थेट पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly financial assistance of ₹2,016 credited directly to the beneficiary bank or post office account via biometric authentication.",
+    "benefits_hi": "दरमहा ₹२,०१६ थेट बँक किंवा पोस्ट खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Social Pension",
+    "benefitAmount": "₹2,016 / month",
+    "eligibility_en": "Senior citizens aged 57 years and above belonging to vulnerable BPL families with Food Security Card.",
+    "eligibility_hi": "तेलंगणातील ५७ वर्षे किंवा त्याहून अधिक वयाचे नागरिक ज्यांच्याकडे रेशन कार्ड आहे.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Food Security Card (FSC)",
+      "Electoral Photo Identity Card (EPIC) / Age Proof",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "फूड सिक्युरिटी कार्ड (रेशन कार्ड)",
+      "मतदार ओळखपत्र",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Submit application at local MeeSeva centre or during Praja Palana camps",
+      "Municipal Commissioner / MPDO conducts physical verification of age and family status",
+      "Pension card issued and monthly benefit disbursed directly"
+    ],
+    "steps_hi": [
+      "मी-सेवा केंद्र किंवा प्रजा पालन शिबिरात अर्ज सादर करा",
+      "अधिकाऱ्यांकडून वयाची व कुटुंबाची पडताळणी",
+      "पेन्शन कार्ड जारी होऊन दरमहा ₹२,०१६ खात्यात जमा"
+    ],
+    "applyUrl": "https://aasara.telangana.gov.in/",
+    "sourceUrl": "https://telangana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sandhya-suraksha-yojana-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, karnataka, sandhya-suraksha, pension, bus-pass",
+    "title_en": "Sandhya Suraksha Yojana (Karnataka)",
+    "title_hi": "संध्या सुरक्षा योजना (कर्नाटक)",
+    "description_en": "Directorate of Social Security and Pensions Karnataka scheme providing monthly old age pension of ₹1,000 to ₹1,200 along with subsidized KSRTC bus pass and medical aid to senior citizens.",
+    "description_hi": "कर्नाटकातील गरीब व अल्प उत्पन्न ज्येष्ठ नागरिकांना दरमहा ₹१,००० ते ₹१,२०० पेन्शन आणि सवलतीचा बस पास देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹1,000 to ₹1,200 credited directly to bank account, concessional KSRTC bus pass, and tie-up with NGOs for daycare and health checkups.",
+    "benefits_hi": "दरमहा ₹१,००० ते ₹१,२०० थेट बँक खात्यात, एसटी बस प्रवासात सवलत व मोफत आरोग्य तपासणी.",
+    "benefitType": "Monthly Pension & Transport Subsidy",
+    "benefitAmount": "₹1,000 - ₹1,200 / month",
+    "eligibility_en": "Senior citizens aged 65 years and above residing in Karnataka whose combined family income does not exceed ₹20,000 per annum.",
+    "eligibility_hi": "कर्नाटकातील ६५ वर्षे पूर्ण केलेले नागरिक ज्यांचे वार्षिक कौटुंबिक उत्पन्न ₹२०,००० च्या आत आहे.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Income Certificate from Tehsildar (below ₹20,000/yr)",
+      "Karnataka Domicile proof (residence of 3+ years)",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "रहिवासी दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through Seva Sindhu portal (sevasindhu.karnataka.gov.in) or Nadakacheri centre",
+      "Revenue Inspector inspects residence and income status",
+      "Tahsildar approves sanction order and monthly pension is initiated"
+    ],
+    "steps_hi": [
+      "सेवा सिंधू पोर्टलवर किंवा नाडाकचेरी केंद्रात अर्ज करा",
+      "महसूल निरीक्षकाकडून पडताळणी",
+      "तहसीलदारांच्या मंजुरीनंतर दरमहा पेन्शन खात्यात जमा"
+    ],
+    "applyUrl": "https://sevasindhu.karnataka.gov.in/",
+    "sourceUrl": "https://dssp.karnataka.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "kerala-indira-gandhi-old-age-pension",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, kerala, welfare-pension, old-age, dbt",
+    "title_en": "Kerala Social Security Old Age Pension",
+    "title_hi": "केरळ सामाजिक सुरक्षा वृद्धापकाळ पेन्शन योजना",
+    "description_en": "Local Self Government Department Kerala flagship welfare pension providing ₹1,600 per month directly to senior citizens aged 60+ delivered through direct bank transfer or cooperative bank agents at home.",
+    "description_hi": "केरळातील ६० वर्षे व त्यावरील सर्व गरजू वृद्धांना दरमहा ₹१,६०० ची पेन्शन थेट खात्यात किंवा घरपोच रोख देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹1,600 credited directly into bank account or delivered in cash by Primary Agricultural Cooperative Society (PACS) agent at home.",
+    "benefits_hi": "दरमहा ₹१,६०० ची सामाजिक सुरक्षा पेन्शन बँक खात्यात किंवा थेट घरात रोख दिली जाते.",
+    "benefitType": "Direct Monthly Welfare Pension",
+    "benefitAmount": "₹1,600 / month",
+    "eligibility_en": "Elderly persons aged 60 years or above residing in Kerala whose annual family income is below ₹1,00,000 and not receiving any statutory pension.",
+    "eligibility_hi": "केरळातील ६० वर्षांवरील रहिवासी ज्यांचे वार्षिक उत्पन्न ₹१ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Income Certificate (Village Officer)",
+      "Bank Account details / Cooperative Bank account"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "उत्पन्नाचा दाखला",
+      "बँक खाते"
+    ],
+    "steps_en": [
+      "Submit application online at welfarepension.lsgkerala.gov.in or at Grama Panchayat / Municipality office",
+      "Enquiry conducted by Panchayat Secretary",
+      "Pension sanctioned and monthly ₹1,600 disbursed without interruption"
+    ],
+    "steps_hi": [
+      "welfarepension.lsgkerala.gov.in वर किंवा ग्रामपंचायतीत अर्ज करा",
+      "पंचायत सचिवाकडून तपासणी",
+      "दरमहा ₹१,६०० थेट खात्यात जमा किंवा घरपोच दिले जातात"
+    ],
+    "applyUrl": "https://welfarepension.lsgkerala.gov.in/",
+    "sourceUrl": "https://kerala.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "vayo-amrutham-ayurvedic-elderly-care-kerala",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, kerala, vayo-amrutham, ayurveda, free-treatment",
+    "title_en": "Vayo Amrutham Ayurvedic Healthcare for Elderly (Kerala)",
+    "title_hi": "वयो अमृतम आयुर्वेदिक ज्येष्ठ नागरिक आरोग्य योजना (केरळ)",
+    "description_en": "Department of AYUSH Kerala initiative providing free specialized Ayurvedic clinical checkups, Panchakarma therapies, and authentic geriatric herbal medicines to residents of old age homes and rural elderly.",
+    "description_hi": "वृद्धाश्रमातील व ग्रामीण भागातील ज्येष्ठ नागरिकांना मोफत आयुर्वेदिक तपासणी, पंचकर्म उपचार आणि सांधेदुखीवर मोफत औषधे देणारी केरळची योजना.",
+    "benefits_en": "Free weekly Ayurvedic doctor visits, free specialized herbal oils and formulations for arthritis, back pain, and insomnia, plus free Panchakarma rejuvenation treatments.",
+    "benefits_hi": "मोफत आयुर्वेदिक तपासणी, सांधेदुखी व आमवातावर मोफत तेल व औषधे आणि मोफत पंचकर्म उपचार.",
+    "benefitType": "Free Specialized Ayurvedic Geriatric Care",
+    "benefitAmount": "100% Free Treatment & Medicines",
+    "eligibility_en": "Senior citizens aged 60+ residing in Kerala government and aided old age homes or visiting government Ayurvedic dispensaries.",
+    "eligibility_hi": "केरळातील ६० वर्षांवरील ज्येष्ठ नागरिक व वृद्धाश्रमातील रहिवासी.",
+    "documents_en": [
+      "Age proof / Aadhaar Card"
+    ],
+    "documents_hi": [
+      "वयाचा पुरावा / आधार कार्ड"
+    ],
+    "steps_en": [
+      "Mobile Ayurvedic Medical Team visits old age home or attend weekly Vayo Amrutham clinic at District Ayurveda Hospital",
+      "Ayurvedic Medical Officer examines physical ailments and constitutional doshas",
+      "Receive free medicinal oils, herbal decoctions, and scheduled therapy sessions"
+    ],
+    "steps_hi": [
+      "जिल्हा आयुर्वेदिक रुग्णालयातील वयो अमृतम क्लिनिकला भेट द्या",
+      "डॉक्टरांकडून तपासणी करून घ्या",
+      "मोफत आयुर्वेदिक औषधे व पंचकर्म उपचार मिळवा"
+    ],
+    "applyUrl": "https://ayush.kerala.gov.in/",
+    "sourceUrl": "https://kerala.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "vridhavastha-pension-yojana-uttar-pradesh",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, uttar-pradesh, old-age-pension, sspy, dbt",
+    "title_en": "Vridhavastha Pension Yojana (Uttar Pradesh)",
+    "title_hi": "वृद्धावस्था पेन्शन योजना (उत्तर प्रदेश)",
+    "description_en": "Social Welfare Department Uttar Pradesh pension scheme providing financial security of ₹1,000 per month (₹3,000 per quarter) to elderly citizens aged 60+ living below the poverty line.",
+    "description_hi": "उत्तर प्रदेशातील ६० वर्षे व त्यावरील सर्व गरीब ज्येष्ठ नागरिकांना दरमहा ₹१,००० (दर तिमाहीस ₹३,०००) ची पेन्शन देणारी समाजकल्याण योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹1,000 per month credited quarterly (₹3,000) directly into the beneficiary Aadhaar-seeded bank account.",
+    "benefits_hi": "दर तिमाहीस ₹३,००० (दरमहा ₹१,०००) थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Direct Quarterly Pension",
+    "benefitAmount": "₹1,000 / month (₹3,000/quarter)",
+    "eligibility_en": "Citizens of Uttar Pradesh aged 60 years or above with annual family income up to ₹46,080 in rural and ₹56,460 in urban areas.",
+    "eligibility_hi": "उत्तर प्रदेशातील ६० वर्षांवरील नागरिक, ग्रामीण भागात वार्षिक उत्पन्न ₹४६,०८० च्या आत व शहरी भागात ₹५६,४६० च्या आत.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Age Proof / Voter Card",
+      "Income Certificate (Tehsildar)",
+      "Bank Account Passbook (Aadhaar linked)",
+      "Passport size photo"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "वयाचा पुरावा",
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "आधार संलग्न बँक पासबुक",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Apply online on Unified Pension Portal (sspy-up.gov.in)",
+      "Block Development Officer (rural) or Sub-Divisional Magistrate (urban) verifies documents",
+      "District Social Welfare Officer sanctions pension and quarterly amount credited directly via PFMS"
+    ],
+    "steps_hi": [
+      "sspy-up.gov.in वर ऑनलाइन अर्ज करा",
+      "बीडीओ किंवा एसडीएम कार्यालयाकडून तपासणी",
+      "जिल्हा समाजकल्याण अधिकाऱ्यांच्या मंजुरीनंतर दर तीन महिन्यांनी ₹३,००० खात्यात जमा"
+    ],
+    "applyUrl": "https://sspy-up.gov.in/",
+    "sourceUrl": "https://up.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "old-age-samman-allowance-haryana",
+    "level": "STATE",
+    "state": "Haryana",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, haryana, samman-allowance, automatic-pension, ppp",
+    "title_en": "Old Age Samman Allowance (Haryana)",
+    "title_hi": "वृद्धावस्था सन्मान भत्ता योजना (हरियाणा)",
+    "description_en": "Social Justice & Empowerment Department Haryana scheme providing a monthly old-age pension of ₹3,000 per month automatically sanctioned through Parivar Pehchan Patra (PPP) upon attaining 60 years of age.",
+    "description_hi": "हरियाणामधील ६० वर्षे पूर्ण केलेल्या सर्व पात्र ज्येष्ठ नागरिकांना परिवार पहचान पत्र (PPP) द्वारे अर्ज न करता आपोआप दरमहा ₹३,००० ची सन्मान पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly pension allowance of ₹3,00,0 per month credited directly to bank account on the 10th of every month, with pro-active automatic sanction without tedious physical forms.",
+    "benefits_hi": "दरमहा ₹३,००० थेट बँक खात्यात जमा, कोणतीही धावपळ न करता परिवार पहचान पत्र (PPP) द्वारे थेट मंजुरी.",
+    "benefitType": "Automated Monthly Social Allowance",
+    "benefitAmount": "₹3,000 / month",
+    "eligibility_en": "Domicile of Haryana aged 60 years or above with combined annual family income not exceeding ₹3,00,000.",
+    "eligibility_hi": "हरियाणामधील ६० वर्षांचे रहिवासी ज्यांचे कौटुंबिक वार्षिक उत्पन्न ₹३ लाखांपेक्षा कमी आहे.",
+    "documents_en": [
+      "Parivar Pehchan Patra (PPP / Family ID)",
+      "Aadhaar Card",
+      "Bank Account details linked with PPP"
+    ],
+    "documents_hi": [
+      "परिवार पहचान पत्र (PPP)",
+      "आधार कार्ड",
+      "बँक खाते"
+    ],
+    "steps_en": [
+      "System automatically tracks age 60 milestone in verified Parivar Pehchan Patra database",
+      "Field verification officer contacts elder for consent form signature at home",
+      "Allowance sanctioned and ₹3,000 transferred monthly via DBT"
+    ],
+    "steps_hi": [
+      "PPP डेटाबेसमधून ६० वर्षे पूर्ण होताच नाव आपोआप निवडले जाते",
+      "कर्मचारी घरी येऊन संमतीपत्र घेतात",
+      "दरमहा ₹३,००० थेट खात्यात वर्ग होतात"
+    ],
+    "applyUrl": "https://socialjusticehry.gov.in/",
+    "sourceUrl": "https://haryana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-tirth-yatra-yojana-haryana",
+    "level": "STATE",
+    "state": "Haryana",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, haryana, tirth-yatra, pilgrimage, free-travel",
+    "title_en": "Mukhyamantri Tirth Yatra Yojana (Haryana)",
+    "title_hi": "मुख्यमंत्री तीर्थयात्रा योजना (हरियाणा)",
+    "description_en": "Haryana Tourism and Transport Department scheme offering 100% free pilgrimage travel by train or Volvo bus to Ayodhya, Varanasi, Prayagraj, and Amritsar for senior citizens aged 60+.",
+    "description_hi": "हरियाणातील ज्येष्ठ नागरिकांना अयोध्या, काशी, प्रयागराज अशा तीर्थक्षेत्रांची मोफत यात्रा, प्रवास, राहणे व जेवण देणारी योजना.",
+    "benefits_en": "100% free round-trip travel tickets, boarding and lodging, food, tour escort, and medical insurance for elderly citizens.",
+    "benefits_hi": "मोफत प्रवास, मोफत निवास, सात्विक भोजन आणि वैद्यकीय विमा १००% विनामूल्य.",
+    "benefitType": "100% Free Pilgrimage Scheme",
+    "benefitAmount": "All Expenses Paid by State",
+    "eligibility_en": "Residents of Haryana aged 60+ verified on PPP with annual income under ₹1,80,000.",
+    "eligibility_hi": "हरियाणामधील ६० वर्षांवरील नागरिक ज्यांचे उत्पन्न ₹१.८० लाखांच्या आत आहे.",
+    "documents_en": [
+      "Parivar Pehchan Patra (PPP)",
+      "Aadhaar Card",
+      "Medical Fitness Certificate from Government Hospital"
+    ],
+    "documents_hi": [
+      "परिवार पहचान पत्र (PPP)",
+      "आधार कार्ड",
+      "शासकीय डॉक्टरांचे फिटनेस प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Register online on tirthyatra.haryana.gov.in using Family ID",
+      "Select preferred pilgrimage destination and tour batch",
+      "Travel on AC train/bus with dedicated state tour managers and doctors"
+    ],
+    "steps_hi": [
+      "tirthyatra.haryana.gov.in वर PPP आयडी वापरून नोंदणी करा",
+      "तीर्थक्षेत्र निवडा",
+      "शासनामार्फत मोफत तीर्थयात्रेचा आनंद घ्या"
+    ],
+    "applyUrl": "https://tirthyatra.haryana.gov.in/",
+    "sourceUrl": "https://haryana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-vridhjan-pension-yojana-bihar",
+    "level": "STATE",
+    "state": "Bihar",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, bihar, mvpy, universal-pension, dbt",
+    "title_en": "Mukhyamantri Vridhjan Pension Yojana (MVPY - Bihar)",
+    "title_hi": "मुख्यमंत्री वृद्धजन पेन्शन योजना (MVPY - बिहार)",
+    "description_en": "Social Welfare Department Bihar universal pension initiative providing monthly pensions to all senior citizens aged 60+ irrespective of caste, religion, or community who are not receiving government/EPFO pensions.",
+    "description_hi": "बिहारमधील सर्व ६० वर्षांवरील नागरिकांना जात, धर्म किंवा उत्पन्नाच्या अटीशिवाय दरमहा थेट बँक खात्यात पेन्शन देणारी सार्वत्रिक योजना.",
+    "benefits_en": "Monthly pension of ₹400 per month for senior citizens aged 60 to 79 years, and ₹500 per month for elders aged 80 years and above, credited directly to Aadhaar-seeded accounts.",
+    "benefits_hi": "६० ते ७९ वर्षांच्या वृद्धांना दरमहा ₹४०० आणि ८० वर्षांवरील वृद्धांना दरमहा ₹५०० थेट खात्यात.",
+    "benefitType": "Universal Monthly Senior Pension",
+    "benefitAmount": "₹400 - ₹500 / month",
+    "eligibility_en": "Permanent residents of Bihar aged 60 years or above not drawing any other pension from state/central government or EPFO.",
+    "eligibility_hi": "बिहारमधील ६० वर्षांवरील सर्व रहिवासी ज्यांना अन्य कोणतीही सरकारी पेन्शन मिळत नाही.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Aadhaar-linked Bank Account Passbook",
+      "Voter Card / Age Proof",
+      "Consent letter for Aadhaar authentication"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "आधार संलग्न बँक पासबुक",
+      "मतदार कार्ड",
+      "संमतीपत्र"
+    ],
+    "steps_en": [
+      "Apply online on elabharthi.bihar.gov.in or at Block RTPS counter",
+      "Block Social Security Cell conducts Aadhaar demographic verification",
+      "Sanction order issued and monthly pension credited directly via DBT"
+    ],
+    "steps_hi": [
+      "elabharthi.bihar.gov.in वर किंवा ब्लॉक RTPS काऊंटरवर अर्ज करा",
+      "आधार पडताळणी पूर्ण होते",
+      "मंजुरीनंतर दरमहा थेट बँक खात्यात पेन्शन जमा"
+    ],
+    "applyUrl": "https://elabharthi.bihar.gov.in/",
+    "sourceUrl": "https://state.bihar.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-vriddhajan-samman-pension-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, rajasthan, samman-pension, social-security, dbt",
+    "title_en": "Mukhyamantri Vriddhajan Samman Pension (Rajasthan)",
+    "title_hi": "मुख्यमंत्री वृद्धजन सन्मान पेन्शन योजना (राजस्थान)",
+    "description_en": "Social Justice & Empowerment Department Rajasthan scheme providing guaranteed monthly pension starting at ₹1,000 to ₹1,500 per month to elderly women (aged 55+) and men (aged 58+).",
+    "description_hi": "राजस्थानमधील ५५ वर्षांवरील महिला व ५८ वर्षांवरील पुरुषांना दरमहा ₹१,००० ते ₹१,५०० ची सन्मान पेन्शन देणारी सामाजिक सुरक्षा योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹1,000 per month (up to 75 years) and ₹1,500 per month (above 75 years), with mandatory 15% automatic annual increment.",
+    "benefits_hi": "दरमहा ₹१,००० ते ₹१,५०० थेट बँक खात्यात जमा, दरवर्षी १५% स्वयंचलित पेन्शन वाढीसह.",
+    "benefitType": "Indexed Monthly Old-Age Pension",
+    "benefitAmount": "₹1,000 - ₹1,500 / month (with 15% annual hike)",
+    "eligibility_en": "Women aged 55+ and men aged 58+ domiciled in Rajasthan having annual family income under ₹48,000.",
+    "eligibility_hi": "५५ वर्षांवरील महिला व ५८ वर्षांवरील पुरुष, वार्षिक कौटुंबिक उत्पन्न ₹४८,००० च्या आत.",
+    "documents_en": [
+      "Jan Aadhaar Card",
+      "Aadhaar Card",
+      "Bank Passbook linked with Jan Aadhaar"
+    ],
+    "documents_hi": [
+      "जन आधार कार्ड",
+      "आधार कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online via SSO Rajasthan (sso.rajasthan.gov.in) or visit nearest e-Mitra kiosk",
+      "Automated validation against Jan Aadhaar database",
+      "Sub-Divisional Officer (SDO) sanctions pension and funds disbursed monthly"
+    ],
+    "steps_hi": [
+      "ई-मित्र केंद्रावरून किंवा SSO आयडीवरून जन आधारने अर्ज करा",
+      "डेटाबेस पडताळणीनंतर एसडीएम कार्यालयाकडून मंजुरी",
+      "दरमहा पेन्शन थेट खात्यात वर्ग"
+    ],
+    "applyUrl": "https://ssp.rajasthan.gov.in/",
+    "sourceUrl": "https://rajasthan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "varishtha-nagrik-tirth-yatra-rajasthan",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, rajasthan, tirth-yatra, air-travel, free-pilgrimage",
+    "title_en": "Varishtha Nagrik Tirth Yatra Yojana (Rajasthan)",
+    "title_hi": "वरिष्ठ नागरिक तीर्थयात्रा योजना (राजस्थान - मोफत विमान व रेल्वे प्रवास)",
+    "description_en": "Devasthan Department Rajasthan scheme providing 100% free pilgrimage tours by chartered air flights and AC special trains to sacred destinations across India and Nepal for elderly citizens aged 60+.",
+    "description_hi": "राजस्थानमधील ज्येष्ठ नागरिकांना विमानाने किंवा वातानुकूलित विशेष रेल्वेने भारतातील प्रमुख तीर्थक्षेत्रे व नेपाळमधील पशुपतीनाथ येथे मोफत यात्रा घडवणारी योजना.",
+    "benefits_en": "100% free chartered air travel or AC train travel, star accommodation, vegetarian meals, local transport, travel kits, and accompanying medical doctors.",
+    "benefits_hi": "मोफत विमान किंवा रेल्वे प्रवास, उत्तम हॉटेल्समध्ये राहणे, सात्विक भोजन व डॉक्टरांची सोय पूर्णपणे मोफत.",
+    "benefitType": "100% Free Air & Train Pilgrimage Tour",
+    "benefitAmount": "All Flight/Train & Stay Expenses Covered",
+    "eligibility_en": "Senior citizens aged 60 years and above domiciled in Rajasthan who pay no income tax (seniors 70+ can take an attendant free of cost).",
+    "eligibility_hi": "राजस्थानचे ६० वर्षांवरील रहिवासी जे आयकर भरत नाहीत (७० वर्षांवरील वृद्धांना सोबत एका सहाय्यकास मोफत परवानगी).",
+    "documents_en": [
+      "Jan Aadhaar Card",
+      "Medical Fitness Certificate from Government Doctor",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "जन आधार कार्ड",
+      "शासकीय डॉक्टरांचे फिटनेस प्रमाणपत्र",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Apply online on devasthan.rajasthan.gov.in using Jan Aadhaar ID",
+      "Computerized lottery draw conducted by District Collectorate",
+      "Selected pilgrims travel on scheduled chartered flight / tourist train batches"
+    ],
+    "steps_hi": [
+      "devasthan.rajasthan.gov.in वर जन आधारने ऑनलाइन अर्ज करा",
+      "जिल्हाधिकाऱ्यांमार्फत संगणकीय सोडत",
+      "निवड झालेल्या वृद्धांना विमानाने किंवा विशेष ट्रेनने मोफत प्रवास"
+    ],
+    "applyUrl": "https://devasthan.rajasthan.gov.in/",
+    "sourceUrl": "https://rajasthan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukhyamantri-tirth-darshan-yojana-madhya-pradesh",
+    "level": "STATE",
+    "state": "Madhya Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, madhya-pradesh, tirth-darshan, pilgrimage, train-air",
+    "title_en": "Mukhyamantri Tirth Darshan Yojana (Madhya Pradesh)",
+    "title_hi": "मुख्यमंत्री तीर्थ दर्शन योजना (मध्य प्रदेश)",
+    "description_en": "Religious Trusts and Endowments Department MP pioneering initiative offering 100% state-funded special train and air pilgrimage tours for elderly citizens aged 60+ to prominent shrines.",
+    "description_hi": "मध्य प्रदेशातील ६० वर्षांवरील ज्येष्ठ नागरिकांना विमानाने व विशेष गाड्यांनी देशातील प्रमुख तीर्थक्षेत्रांची मोफत यात्रा घडवून आणणारी योजना.",
+    "benefits_en": "100% free travel tickets, comfortable hotel stay, breakfast/meals, drinking water, local bus transport, travel insurance, and medical escort.",
+    "benefits_hi": "मोफत विमान व रेल्वे प्रवास, भोजन, राहण्याची सोय व मोफत वैद्यकीय सहाय्य.",
+    "benefitType": "100% Free Pilgrimage Scheme",
+    "benefitAmount": "All Expenses Paid by State",
+    "eligibility_en": "Senior citizens of Madhya Pradesh aged 60+ (58+ for women) who are not income tax payees.",
+    "eligibility_hi": "मध्य प्रदेशातील ६० वर्षांवरील पुरुष व ५८ वर्षांवरील महिला ज्या आयकरदात्या नाहीत.",
+    "documents_en": [
+      "Samagra ID",
+      "Aadhaar Card",
+      "Government Medical Fitness Certificate"
+    ],
+    "documents_hi": [
+      "समग्र आयडी",
+      "आधार कार्ड",
+      "वैद्यकीय तंदुरुस्ती दाखला"
+    ],
+    "steps_en": [
+      "Submit application form at Tehsil or Municipal office",
+      "Sub-Divisional Magistrate selects beneficiaries through computerized lottery",
+      "Pilgrims depart on special tourist train / flight with dedicated district nodal officers"
+    ],
+    "steps_hi": [
+      "तहसील किंवा नगरपालिकेत अर्ज सादर करा",
+      "एसडीएम कार्यालयाकडून संगणकीय सोडतीत निवड",
+      "शासकीय अधिकाऱ्यांच्या देखरेखीखाली मोफत यात्रा"
+    ],
+    "applyUrl": "https://tirthdarshan.mp.gov.in/",
+    "sourceUrl": "https://mp.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sarvajan-old-age-pension-yojana-jharkhand",
+    "level": "STATE",
+    "state": "Jharkhand",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, jharkhand, sarvajan-pension, universal, dbt",
+    "title_en": "Sarvajan Pension Yojana - Old Age Pension (Jharkhand)",
+    "title_hi": "सर्वजन पेन्शन योजना - वृद्धापकाळ पेन्शन (झारखंड)",
+    "description_en": "Women, Child Development and Social Security Department Jharkhand universal pension removing the BPL restriction, providing guaranteed monthly pension of ₹1,000 to all citizens aged 50+ (SC/ST/Women) and 60+ (General).",
+    "description_hi": "झारखंडमधील सर्व ५० वर्षांवरील (महिला/एससी/एसटी) व ६० वर्षांवरील सर्व नागरिकांना दरमहा ₹१,००० ची हमी पेन्शन देणारी सार्वत्रिक योजना.",
+    "benefits_en": "Monthly pension of ₹1,000 credited directly into the bank account of every eligible elderly person on the 5th of every month.",
+    "benefits_hi": "दरमहा ५ तारखेला थेट बँक खात्यात ₹१,००० नियमित जमा.",
+    "benefitType": "Universal Social Security Pension",
+    "benefitAmount": "₹1,000 / month",
+    "eligibility_en": "Women and SC/ST individuals aged 50+, others aged 60+ residing in Jharkhand who are not tax payees or government pensioners.",
+    "eligibility_hi": "५० वर्षांवरील महिला, एससी/एसटी बांधव आणि ६० वर्षांवरील इतर सर्व झारखंडचे रहिवासी.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Voter ID / Age Proof",
+      "Bank Account Passbook (Aadhaar linked)",
+      "Caste Certificate (if applying at age 50)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "मतदार कार्ड",
+      "बँक पासबुक",
+      "जात प्रमाणपत्र (५० व्या वर्षी अर्ज करण्यासाठी)"
+    ],
+    "steps_en": [
+      "Apply during Aapki Yojana Aapki Sarkar Aapke Dwar camps or at Block Office",
+      "Block Development Officer validates age and domicile",
+      "Sanction issued within 15 days and monthly pension begins via DBT"
+    ],
+    "steps_hi": [
+      "सरकार आपके द्वार शिबिरात किंवा ब्लॉक कार्यालयात अर्ज करा",
+      "बीडीओ कार्यालयाकडून १५ दिवसांत मंजुरी",
+      "दरमहा ₹१,००० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://jharkhand.gov.in/",
+    "sourceUrl": "https://jharkhand.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "delhi-financial-assistance-to-senior-citizens",
+    "level": "STATE",
+    "state": "Delhi",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, delhi, old-age-pension, edistrict, monthly-grant",
+    "title_en": "Delhi Financial Assistance to Senior Citizens (Old Age Pension)",
+    "title_hi": "दिल्ली ज्येष्ठ नागरिक आर्थिक सहाय्य योजना (वृद्धापकाळ पेन्शन)",
+    "description_en": "Department of Social Welfare Government of NCT of Delhi scheme providing monthly financial support of ₹2,000 to ₹2,500 to needy senior citizens aged 60+.",
+    "description_hi": "दिल्लीतील ६० वर्षे व त्यावरील सर्व गरजू ज्येष्ठ नागरिकांना दरमहा ₹२,००० ते ₹२,५०० ची थेट आर्थिक मदत देणारी पेन्शन योजना.",
+    "benefits_en": "Monthly pension of ₹2,000 per month for seniors aged 60 to 69 years, and ₹2,500 per month for elderly aged 70 years and above (additional ₹500 for SC/ST/Minority).",
+    "benefits_hi": "६० ते ६९ वयोगटासाठी दरमहा ₹२,००० आणि ७० वर्षांवरील वृद्धांसाठी दरमहा ₹२,५०० थेट बँक खात्यात.",
+    "benefitType": "Monthly Financial Assistance",
+    "benefitAmount": "₹2,000 - ₹2,500 / month",
+    "eligibility_en": "Residents of NCT of Delhi for at least 5 years aged 60+ with annual family income up to ₹1,00,000.",
+    "eligibility_hi": "दिल्लीतील ५ वर्षांचे वास्तव्य असणारे ६० वर्षांवरील नागरिक ज्यांचे वार्षिक कौटुंबिक उत्पन्न ₹१ लाखांच्या आत आहे.",
+    "documents_en": [
+      "Delhi Voter ID Card / Proof of 5 years residence in Delhi",
+      "Aadhaar Card",
+      "Self-declaration of income (under ₹1 Lakh)",
+      "Bank Passbook (single account in Delhi)"
+    ],
+    "documents_hi": [
+      "दिल्ली मतदार ओळखपत्र / ५ वर्षांचा रहिवासी दाखला",
+      "आधार कार्ड",
+      "उत्पन्नाचे स्वयंघोषणापत्र",
+      "दिल्लीतील बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on e-District Delhi portal (edistrict.delhigovt.nic.in)",
+      "Field verification by District Social Welfare Inspector",
+      "Approval by District Social Welfare Officer and monthly DBT pension credit"
+    ],
+    "steps_hi": [
+      "e-District Delhi पोर्टलवर ऑनलाइन अर्ज करा",
+      "समाजकल्याण निरीक्षकाकडून पाहणी",
+      "मंजुरीनंतर दरमहा ₹२,००० ते ₹२,५०० खात्यात जमा"
+    ],
+    "applyUrl": "https://edistrict.delhigovt.nic.in/",
+    "sourceUrl": "https://delhi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shravan-tirth-darshan-yojana-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, gujarat, shravan-tirth, bus-travel-subsidy, pilgrimage",
+    "title_en": "Shravan Tirth Darshan Yojana (Gujarat)",
+    "title_hi": "श्रवण तीर्थ दर्शन योजना (गुजरात)",
+    "description_en": "Gujarat Pavitra Yatradham Vikas Board scheme providing a 50% state travel subsidy to senior citizens travelling in groups to religious pilgrimage circuits within Gujarat.",
+    "description_hi": "गुजरातमधील ज्येष्ठ नागरिकांना राज्यातील धार्मिक तीर्थक्षेत्रांच्या दर्शनासाठी एसटी बस भाड्यात ५०% थेट शासकीय अनुदान देणारी योजना.",
+    "benefits_en": "50% subsidy on bus travel fare (up to ₹300 per day per senior citizen for 3 nights/4 days) along with nominal night accommodation subsidy.",
+    "benefits_hi": "बस प्रवासाच्या तिकीटावर ५०% शासकीय अनुदान आणि राहण्याच्या खर्चात सवलत.",
+    "benefitType": "50% Travel Fare Subsidy",
+    "benefitAmount": "50% Bus Ticket Subsidy",
+    "eligibility_en": "Senior citizens aged 60+ residing in Gujarat traveling in groups of at least 30 people in non-AC GSRTC buses.",
+    "eligibility_hi": "गुजरातमधील ६० वर्षांवरील ज्येष्ठ नागरिक जे समूहाने तीर्थयात्रेचे आयोजन करतात.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof of all participating senior citizens",
+      "Group travel plan and bus booking requisition",
+      "Bank Account details of group coordinator"
+    ],
+    "documents_hi": [
+      "सर्व ज्येष्ठ नागरिकांचे आधार कार्ड",
+      "तीर्थयात्रा बस प्रवासाचा आराखडा",
+      "बँक खाते"
+    ],
+    "steps_en": [
+      "Apply online on yatradham.gujarat.gov.in with list of 30+ senior citizens",
+      "Hire GSRTC bus through depot manager at concessional rates",
+      "50% reimbursement credited to account after successful pilgrimage completion"
+    ],
+    "steps_hi": [
+      "yatradham.gujarat.gov.in वर ३०+ वृद्धांच्या यादीसह अर्ज करा",
+      "एसटी बसचे सवलतीच्या दरात बुकिंग करा",
+      "यात्रा पूर्ण झाल्यानंतर ५०% रक्कम खात्यात परत जमा"
+    ],
+    "applyUrl": "https://yatradham.gujarat.gov.in/",
+    "sourceUrl": "https://gujaratindia.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tamil-nadu-destitute-old-age-pension-oap",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, tamil-nadu, oap, pension, free-rice, free-clothing",
+    "title_en": "Tamil Nadu Destitute Old Age Pension Scheme (OAP)",
+    "title_hi": "तमिळनाडू निराधार वृद्धापकाळ निवृत्तीवेतन योजना (OAP)",
+    "description_en": "Revenue & Disaster Management Department Tamil Nadu social security scheme providing ₹1,000 monthly pension, 4 kg free rice, and free clothing (dhoti/saree) to destitute senior citizens.",
+    "description_hi": "तमिळनाडूतील निराधार वृद्धांना दरमहा ₹१,००० पेन्शन, ४ किलो मोफत तांदूळ आणि पोंगल सणाला मोफत धोतर/साडी देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹1,000 credited via DBT, 4 kg of free quality rice every month through PDS ration shop, and free set of dhotis/sarees distributed bi-annually.",
+    "benefits_hi": "दरमहा ₹१,००० थेट पेन्शन, रेशन दुकानातून ४ किलो मोफत तांदूळ आणि वर्षातून दोनदा मोफत कपडे.",
+    "benefitType": "Monthly Cash Pension + Foodgrain Support",
+    "benefitAmount": "₹1,000 / month + Free Rice & Clothes",
+    "eligibility_en": "Destitute elderly persons aged 60 years or above residing in Tamil Nadu without major assets or earning family members.",
+    "eligibility_hi": "तमिळनाडूतील ६० वर्षांवरील निराधार वृद्ध ज्यांना कुटुंबाचा कोणताही आर्थिक आधार नाही.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Smart Family Ration Card",
+      "Destitute Certificate from Village Administrative Officer (VAO)",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "स्मार्ट रेशन कार्ड",
+      "ग्रामप्रशासकीय अधिकाऱ्यांचा (VAO) निराधार दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Submit application through local e-Sevai centre or to Special Tahsildar (Social Security Schemes)",
+      "Revenue Inspector and VAO conduct enquiry",
+      "Special Tahsildar sanctions pension and monthly credit is disbursed automatically"
+    ],
+    "steps_hi": [
+      "ई-सेवई केंद्रातून किंवा विशेष तहसीलदारांकडे अर्ज करा",
+      "महसूल अधिकाऱ्यांकडून प्रत्यक्ष पाहणी",
+      "दरमहा ₹१,००० व मोफत तांदूळ सुरू होतो"
+    ],
+    "applyUrl": "https://www.tnesevai.tn.gov.in/",
+    "sourceUrl": "https://tn.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "himachal-pradesh-social-security-old-age-pension",
+    "level": "STATE",
+    "state": "Himachal Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, himachal-pradesh, social-security, old-age-pension, dbt",
+    "title_en": "Himachal Pradesh Social Security Old Age Pension Scheme",
+    "title_hi": "हिमाचल प्रदेश सामाजिक सुरक्षा वृद्धापकाळ पेन्शन योजना",
+    "description_en": "Social Justice and Empowerment Department Himachal Pradesh scheme providing a monthly pension of ₹1,500 to elderly citizens aged 60+ (completely free of any income limit for all elders aged 70+).",
+    "description_hi": "हिमाचल प्रदेशातील ६० वर्षांवरील वृद्धांना दरमहा ₹१,५०० ची पेन्शन देणारी योजना (७० वर्षांवरील सर्व वृद्धांसाठी कोणतीही उत्पन्न मर्यादा नाही).",
+    "benefits_en": "Monthly pension of ₹1,500 credited directly into the beneficiary bank or post office account via electronic benefit transfer.",
+    "benefits_hi": "दरमहा ₹१,५०० थेट बँक किंवा पोस्ट खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Social Security Pension",
+    "benefitAmount": "₹1,500 / month",
+    "eligibility_en": "Himachali bonafide citizens aged 60-69 with annual family income up to ₹50,000; and ALL citizens aged 70+ without any income restriction.",
+    "eligibility_hi": "६० ते ६९ वयोगटातील नागरिक (उत्पन्न ₹५०,००० च्या आत) आणि ७० वर्षांवरील सर्व ज्येष्ठ नागरिक (कोणतीही उत्पन्न मर्यादा नाही).",
+    "documents_en": [
+      "Bonafide Himachali Certificate",
+      "Aadhaar Card / Age Proof",
+      "Income Certificate (exempt for 70+)",
+      "Bank / Post Office Passbook"
+    ],
+    "documents_hi": [
+      "हिमाचल बोनाफाईड दाखला",
+      "आधार कार्ड / वयाचा पुरावा",
+      "उत्पन्नाचा दाखला (७०+ वयाच्या नागरिकांसाठी सूट)",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on e-District Himachal portal (edistrict.hp.gov.in) or submit form to Tehsil Welfare Officer",
+      "Verification by Gram Panchayat Secretary / Tehsil staff",
+      "District Welfare Officer sanctions pension and monthly funds transferred via DBT"
+    ],
+    "steps_hi": [
+      "e-District Himachal पोर्टलवर ऑनलाइन अर्ज करा",
+      "तहसील कल्याण अधिकाऱ्यांकडून पडताळणी",
+      "दरमहा ₹१,५०० थेट खात्यात वर्ग"
+    ],
+    "applyUrl": "https://edistrict.hp.gov.in/",
+    "sourceUrl": "https://himachal.nic.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "uttarakhand-vridhavastha-pension-yojana",
+    "level": "STATE",
+    "state": "Uttarakhand",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, uttarakhand, old-age-pension, ssp, dbt",
+    "title_en": "Uttarakhand Old Age Pension Scheme",
+    "title_hi": "उत्तराखंड वृद्धावस्था पेन्शन योजना",
+    "description_en": "Social Welfare Department Uttarakhand scheme providing a monthly pension of ₹1,500 to destitute and low-income elderly residents aged 60 years and above.",
+    "description_hi": "उत्तराखंडमधील ६० वर्षे पूर्ण केलेल्या गरीब व गरजू ज्येष्ठ नागरिकांना दरमहा ₹१,५०० ची थेट आर्थिक मदत देणारी वृद्धापकाळ योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹1,500 per month credited directly to beneficiary bank account in quarterly installments.",
+    "benefits_hi": "दरमहा ₹१,५०० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Social Pension",
+    "benefitAmount": "₹1,500 / month",
+    "eligibility_en": "Permanent residents of Uttarakhand aged 60+ living in BPL household or having monthly family income up to ₹4,000.",
+    "eligibility_hi": "उत्तराखंडचे ६० वर्षांवरील रहिवासी जे बीपीएल यादीत आहेत किंवा मासिक उत्पन्न ₹४,००० च्या आत आहे.",
+    "documents_en": [
+      "Uttarakhand Domicile Certificate",
+      "Aadhaar Card / Age proof",
+      "BPL Card / Income Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "उत्तराखंड रहिवासी दाखला",
+      "आधार कार्ड",
+      "बीपीएल रेशन कार्ड / उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on ssp.uk.gov.in portal or at Block Development Office",
+      "Gram Panchayat and Social Welfare Inspector verify credentials",
+      "District Social Welfare Officer sanctions pension and funds disbursed via DBT"
+    ],
+    "steps_hi": [
+      "ssp.uk.gov.in वर ऑनलाइन अर्ज करा किंवा ब्लॉक कार्यालयात जा",
+      "अधिकाऱ्यांकडून छाननी व तपासणी",
+      "दरमहा ₹१,५०० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://ssp.uk.gov.in/",
+    "sourceUrl": "https://uk.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "goa-dayanand-social-security-scheme-dsss",
+    "level": "STATE",
+    "state": "Goa",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, goa, dsss, senior-pension, monthly-aid",
+    "title_en": "Dayanand Social Security Scheme - Senior Citizens (Goa)",
+    "title_hi": "दयानंद सामाजिक सुरक्षा योजना - ज्येष्ठ नागरिक (गोवा)",
+    "description_en": "Directorate of Social Welfare Goa scheme providing monthly financial assistance of ₹2,000 to ₹2,500 to vulnerable and low-income elderly persons residing in Goa for 15+ years.",
+    "description_hi": "गोव्यातील १५ वर्षांचे वास्तव्य असणाऱ्या गरीब व दुर्बल ज्येष्ठ नागरिकांना दरमहा ₹२,००० ते ₹२,५०० ची थेट पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly financial assistance of ₹2,000 per month (60-69 years) and ₹2,500 per month (70+ years) credited directly to bank account.",
+    "benefits_hi": "६० ते ६९ वयोगटासाठी दरमहा ₹२,००० आणि ७० वर्षांवरील वृद्धांसाठी दरमहा ₹२,५०० थेट बँक खात्यात.",
+    "benefitType": "Direct Monthly Social Security Grant",
+    "benefitAmount": "₹2,000 - ₹2,500 / month",
+    "eligibility_en": "Permanent residents of Goa for at least 15 years aged 60+ with annual family income up to ₹1,50,000.",
+    "eligibility_hi": "गोव्यातील १५ वर्षांचा रहिवासी असणारा ६० वर्षांवरील नागरिक, वार्षिक उत्पन्न ₹१.५ लाखांच्या आत.",
+    "documents_en": [
+      "15 Years Goa Residence Certificate",
+      "Aadhaar Card / Age Proof",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "१५ वर्षांचा गोवा रहिवासी दाखला",
+      "आधार कार्ड / वयाचा पुरावा",
+      "उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Download application form from socialwelfare.goa.gov.in",
+      "Attach attested documents and submit to Directorate of Social Welfare, Panaji or Sub-Divisional Office",
+      "Sanction issued and monthly benefit credited directly via ECS / DBT"
+    ],
+    "steps_hi": [
+      "socialwelfare.goa.gov.in वरून अर्ज डाऊनलोड करा",
+      "कागदपत्रांसह समाजकल्याण संचालनालयात सादर करा",
+      "मंजुरीनंतर दरमहा ₹२,००० ते ₹२,५०० थेट खात्यात जमा"
+    ],
+    "applyUrl": "https://socialwelfare.goa.gov.in/",
+    "sourceUrl": "https://goa.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "kushal-konwar-universal-old-age-pension-assam",
+    "level": "STATE",
+    "state": "Assam",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, assam, old-age-pension, dbt, universal",
+    "title_en": "Kushal Konwar Universal Old Age Pension Scheme (Assam)",
+    "title_hi": "कुशल कोंवर सार्वत्रिक वृद्धापकाळ पेन्शन योजना (आसाम)",
+    "description_en": "Panchayat & Rural Development Department Assam universal pension scheme providing monthly financial support of ₹250 to ₹1,000 directly to elderly citizens aged 60+.",
+    "description_hi": "आसाममधील ६० वर्षे व त्यावरील सर्व गरीब ज्येष्ठ नागरिकांना दरमहा थेट बँक खात्यात पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹250 to ₹1,000 credited directly to the beneficiary bank account via Direct Benefit Transfer on the 1st of every month.",
+    "benefits_hi": "दरमहा १ तारखेला थेट बँक खात्यात पेन्शन जमा.",
+    "benefitType": "Direct Monthly Pension",
+    "benefitAmount": "₹250 - ₹1,000 / month",
+    "eligibility_en": "Senior citizens aged 60 years or above residing in Assam with annual family income not exceeding ₹50,000.",
+    "eligibility_hi": "आसाममधील ६० वर्षांवरील रहिवासी ज्यांचे कौटुंबिक वार्षिक उत्पन्न ₹५०,००० च्या आत आहे.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Ration Card (NFSA)",
+      "Gaon Panchayat Certificate of residence",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "रेशन कार्ड",
+      "गावपंचायतीचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Submit application to Gaon Panchayat or Block Development Office",
+      "Gaon Sabha verifies eligibility list",
+      "Funds disbursed directly into beneficiary bank accounts every month"
+    ],
+    "steps_hi": [
+      "गावपंचायतीत किंवा बीडीओ कार्यालयात अर्ज सादर करा",
+      "ग्रामसभेकडून लाभार्थ्यांची निवड",
+      "दरमहा थेट बँक खात्यात पेन्शन वर्ग"
+    ],
+    "applyUrl": "https://pnrd.assam.gov.in/",
+    "sourceUrl": "https://assam.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "puducherry-destitute-senior-citizen-pension",
+    "level": "STATE",
+    "state": "Puducherry",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, puducherry, old-age-pension, destitute, monthly-aid",
+    "title_en": "Puducherry Destitute Senior Citizen Pension Scheme",
+    "title_hi": "पुडुचेरी निराधार ज्येष्ठ नागरिक पेन्शन योजना",
+    "description_en": "Department of Social Welfare Puducherry scheme providing one of the highest monthly old age pensions of ₹2,000 to ₹3,000 to indigent elderly residents.",
+    "description_hi": "पुडुचेरीतील निराधार ज्येष्ठ नागरिकांना दरमहा ₹२,००० ते ₹३,००० ची सन्मानजनक पेन्शन देणारी समाजकल्याण योजना.",
+    "benefits_en": "Monthly pension of ₹2,000 (60-79 years) and ₹3,000 (80+ years) credited directly to beneficiary bank account.",
+    "benefits_hi": "६० ते ७९ वर्षांसाठी दरमहा ₹२,००० आणि ८० वर्षांवरील वृद्धांसाठी दरमहा ₹३,००० थेट बँक खात्यात.",
+    "benefitType": "Direct Monthly Social Security Pension",
+    "benefitAmount": "₹2,000 - ₹3,000 / month",
+    "eligibility_en": "Residents of UT of Puducherry for at least 3 years aged 60+ without family support having family income under ₹75,000.",
+    "eligibility_hi": "पुडुचेरीचे ३ वर्षांचे रहिवासी असणारे ६० वर्षांवरील नागरिक, वार्षिक उत्पन्न ₹७५,००० च्या आत.",
+    "documents_en": [
+      "Puducherry Residence Certificate",
+      "Aadhaar Card / Age Proof",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "पुडुचेरी रहिवासी दाखला",
+      "आधार कार्ड",
+      "उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through Welfare Officer / Anganwadi worker or online portal",
+      "Field verification by Welfare Inspector",
+      "Approval by Director of Social Welfare and monthly credit via DBT"
+    ],
+    "steps_hi": [
+      "कल्याण अधिकारी किंवा ऑनलाइन पोर्टलवर अर्ज करा",
+      "अधिकाऱ्यांकडून तपासणी",
+      "दरमहा ₹२,००० ते ₹३,००० थेट खात्यात जमा"
+    ],
+    "applyUrl": "https://socwelfare.py.gov.in/",
+    "sourceUrl": "https://py.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chandigarh-senior-citizen-social-pension",
+    "level": "STATE",
+    "state": "Chandigarh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, chandigarh, old-age-pension, monthly-aid",
+    "title_en": "Chandigarh Senior Citizen Social Security Pension",
+    "title_hi": "चंदिगढ ज्येष्ठ नागरिक सामाजिक सुरक्षा पेन्शन योजना",
+    "description_en": "Department of Social Welfare Chandigarh Administration scheme providing monthly financial pension of ₹1,000 to elderly citizens aged 60+.",
+    "description_hi": "चंदिगढमधील ६० वर्षांवरील गरीब ज्येष्ठ नागरिकांना दरमहा ₹१,००० ची थेट पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹1,000 credited directly to beneficiary bank account on the 1st week of every month.",
+    "benefits_hi": "दरमहा ₹१,००० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Monthly Social Assistance",
+    "benefitAmount": "₹1,000 / month",
+    "eligibility_en": "Residents of UT of Chandigarh for at least 3 years aged 60+ with annual family income under ₹1,50,000.",
+    "eligibility_hi": "चंदिगढचे ३ वर्षांचे रहिवासी, ६० वर्षांवरील नागरिक, कौटुंबिक वार्षिक उत्पन्न ₹१.५ लाखांच्या आत.",
+    "documents_en": [
+      "Chandigarh Domicile / Voter ID",
+      "Aadhaar Card",
+      "Income Certificate from SDM",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "चंदिगढ मतदार कार्ड / रहिवासी दाखला",
+      "आधार कार्ड",
+      "उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on e-District Chandigarh portal (admser.chd.nic.in)",
+      "Document verification by District Social Welfare Office",
+      "Pension sanctioned and credited monthly via DBT"
+    ],
+    "steps_hi": [
+      "e-District Chandigarh पोर्टलवर अर्ज करा",
+      "कागदपत्र पडताळणीनंतर मंजुरी",
+      "दरमहा ₹१,००० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://chandigarh.gov.in/",
+    "sourceUrl": "https://chandigarh.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "jammu-kashmir-integrated-social-security-seniors",
+    "level": "STATE",
+    "state": "Jammu and Kashmir",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, jammu-kashmir, isss, old-age-pension, dbt",
+    "title_en": "J&K Integrated Social Security Scheme (ISSS - Old Age Pension)",
+    "title_hi": "जम्मू आणि काश्मीर एकात्मिक सामाजिक सुरक्षा योजना (ISSS)",
+    "description_en": "Social Welfare Department J&K scheme providing assured monthly pension of ₹1,000 to old-aged citizens who have no adequate means of livelihood.",
+    "description_hi": "जम्मू आणि काश्मीरमधील ६० वर्षांवरील गरजू ज्येष्ठ नागरिकांना दरमहा ₹१,००० ची पेन्शन देणारी योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹1,000 per month credited directly to the beneficiary bank account without any intermediaries.",
+    "benefits_hi": "दरमहा ₹१,००० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Social Security Pension",
+    "benefitAmount": "₹1,000 / month",
+    "eligibility_en": "Domiciles of UT of Jammu & Kashmir aged 60 years or above with annual family income below ₹75,000.",
+    "eligibility_hi": "जम्मू-काश्मीरचे ६० वर्षांवरील रहिवासी ज्यांचे वार्षिक उत्पन्न ₹७५,००० च्या आत आहे.",
+    "documents_en": [
+      "J&K Domicile Certificate",
+      "Aadhaar Card / Age Proof",
+      "Income Certificate (Tehsildar)",
+      "Bank Account Passbook"
+    ],
+    "documents_hi": [
+      "जम्मू-काश्मीर अधिवास प्रमाणपत्र (डोमिसाईल)",
+      "आधार कार्ड",
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on JanSugam portal (jansugam.jk.gov.in)",
+      "Tehsil Social Welfare Officer verifies age and domicile",
+      "District Social Welfare Officer sanctions monthly pension via DBT"
+    ],
+    "steps_hi": [
+      "jansugam.jk.gov.in पोर्टलवर ऑनलाइन अर्ज करा",
+      "तहसील समाजकल्याण अधिकाऱ्यांकडून तपासणी",
+      "दरमहा ₹१,००० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://jk.gov.in/",
+    "sourceUrl": "https://jk.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tamil-nadu-senior-citizen-free-bus-tokens",
+    "level": "STATE",
+    "state": "Tamil Nadu",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, tamil-nadu, mtc, free-bus-tokens, urban-travel",
+    "title_en": "Tamil Nadu Free City Bus Tokens for Senior Citizens",
+    "title_hi": "तमिळनाडू ज्येष्ठ नागरिक मोफत शहर बस टोकन योजना",
+    "description_en": "Transport Department Tamil Nadu initiative providing 10 free travel tokens every month to senior citizens aged 60+ for free travel in Metropolitan Transport Corporation (MTC) and city buses across Tamil Nadu.",
+    "description_hi": "तमिळनाडूतील ६० वर्षांवरील ज्येष्ठ नागरिकांना दरमहा १० मोफत बस टोकन्स देणारी योजना, ज्याद्वारे शहरात कुठेही मोफत प्रवास करता येतो.",
+    "benefits_en": "10 free bus travel tokens issued every month valid on all non-AC city/town government transport buses.",
+    "benefits_hi": "दरमहा १० मोफत बस टोकन्स, ज्याद्वारे शहरात विनामूल्य एसटी बस प्रवास करता येतो.",
+    "benefitType": "Free City Bus Travel Tokens",
+    "benefitAmount": "10 Free Bus Tokens / month",
+    "eligibility_en": "Citizens aged 60 years or above residing in Tamil Nadu.",
+    "eligibility_hi": "तमिळनाडूतील ६० वर्षे पूर्ण केलेले सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Smart Family Card / Ration Card",
+      "Passport size photographs"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "स्मार्ट रेशन कार्ड",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Visit local bus depot ticket counter during designated token distribution days",
+      "Show Aadhaar and Smart Card to receive monthly booklet of 10 travel tokens",
+      "Hand over one token to conductor per trip for 100% free bus ride"
+    ],
+    "steps_hi": [
+      "स्थानिक बस डेपो खिडकीवर आधार कार्ड दाखवा",
+      "दरमहा १० मोफत बस टोकनचे पुस्तक मिळवा",
+      "प्रवासाच्या वेळी कंडक्टरला टोकन देऊन मोफत प्रवास करा"
+    ],
+    "applyUrl": "https://mtcbus.tn.gov.in/",
+    "sourceUrl": "https://tn.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pradhan-mantri-vaya-vandana-yojana-pmvvy-lic",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, pmvvy, lic, pension, annuity",
+    "title_en": "Pradhan Mantri Vaya Vandana Yojana (PMVVY - LIC)",
+    "title_hi": "प्रधानमंत्री वय वंदना योजना (PMVVY - LIC)",
+    "description_en": "Ministry of Finance and Life Insurance Corporation (LIC) of India retirement pension scheme providing an assured rate of return with monthly, quarterly, half-yearly, or annual pension payouts for 10 years.",
+    "description_hi": "भारतीय जीवन विमा निगम (LIC) मार्फत ज्येष्ठ नागरिकांना १० वर्षांसाठी निश्चित परतावा व नियमित पेन्शन देणारी केंद्र सरकारची योजना.",
+    "benefits_en": "Guaranteed 7.4% per annum return payable monthly (equivalent to 7.66% p.a.) for 10 years, full return of purchase price at maturity, and loan facility up to 75% after 3 years.",
+    "benefits_hi": "१० वर्षांसाठी ७.४% निश्चित वार्षिक परतावा, दरमहा खात्यात पेन्शन, मुदत संपताच मूळ रक्कम परत आणि ३ वर्षांनंतर ७५% पर्यंत कर्ज सुविधा.",
+    "benefitType": "Guaranteed Pension Annuity",
+    "benefitAmount": "Up to ₹9,250 / month Guaranteed Pension",
+    "eligibility_en": "Citizens of India aged 60 years or above with no upper age limit.",
+    "eligibility_hi": "६० वर्षे व त्यावरील सर्व ज्येष्ठ नागरिक, वयाची कोणतीही कमाल मर्यादा नाही.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "PAN Card",
+      "Bank Account details / Cancelled Cheque",
+      "Purchase Price Cheque/DD"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "पॅन कार्ड",
+      "बँक खाते / रद्द केलेला धनादेश"
+    ],
+    "steps_en": [
+      "Visit any LIC branch or apply online on licindia.in",
+      "Choose preferred pension mode (monthly, quarterly, half-yearly, yearly) and deposit purchase price",
+      "Pension payouts start immediately as per the chosen frequency"
+    ],
+    "steps_hi": [
+      "LIC शाखेत जा किंवा licindia.in वर अर्ज करा",
+      "पेन्शनचा प्रकार निवडा (मासिक, त्रैमासिक किंवा वार्षिक)",
+      "निवडलेल्या मुदतीनुसार दरमहा खात्यात पेन्शन सुरू होते"
+    ],
+    "applyUrl": "https://licindia.in/",
+    "sourceUrl": "https://financialservices.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "reverse-mortgage-loan-scheme-seniors",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, reverse-mortgage, annuity, housing, tax-free",
+    "title_en": "Reverse Mortgage Loan Scheme for Senior Citizens",
+    "title_hi": "ज्येष्ठ नागरिकांसाठी रिव्हर्स मॉर्टगेज कर्ज योजना",
+    "description_en": "National Housing Bank (NHB) scheme allowing house-owning senior citizens to monetize their self-acquired residential property into regular tax-free monthly cash flows without having to vacate or sell the house.",
+    "description_hi": "स्वतःचे घर असलेल्या ज्येष्ठ नागरिकांना घर न विकता व घरातच राहून बँकेकडून दरमहा करमुक्त पेन्शन मिळवून देणारी राष्ट्रीय गृहनिर्माण बँकेची योजना.",
+    "benefits_en": "Tax-free monthly annuity stream directly from bank, zero repayment liability during lifetime of the borrower, and full rights to live in the house till demise.",
+    "benefits_hi": "दरमहा नियमित करमुक्त रक्कम, हयात असेपर्यंत घर सोडण्याची गरज नाही आणि कोणतेही कर्ज परतफेड करण्याचे बंधन नाही.",
+    "benefitType": "Tax-Free Monthly Cash Flow from Property",
+    "benefitAmount": "Tax-Free Monthly Annuity Stream",
+    "eligibility_en": "Senior citizens aged 60+ (minimum age 55 for spouse) owning self-acquired, unencumbered residential property in India.",
+    "eligibility_hi": "भारतात स्वतःच्या मालकीचे कर्जमुक्त घर असणारे ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Title Deed of residential property",
+      "Aadhaar Card",
+      "PAN Card",
+      "Property Tax receipts",
+      "Valuation Report"
+    ],
+    "documents_hi": [
+      "घराचे मूळ खरेदीखत",
+      "आधार कार्ड",
+      "पॅन कार्ड",
+      "घरपट्टी पावती"
+    ],
+    "steps_en": [
+      "Apply at any nationalized bank (SBI, BoB, Canara, etc.) offering reverse mortgage",
+      "Bank conducts property valuation and title search",
+      "Agreement executed and bank initiates monthly annuity disbursement to senior savings account"
+    ],
+    "steps_hi": [
+      "रिव्हर्स मॉर्टगेज देणाऱ्या राष्ट्रीयकृत बँकेत अर्ज करा",
+      "बँकेकडून घराचे मूल्यांकन केले जाते",
+      "करारानंतर दरमहा ठरलेली रक्कम बँकेकडून थेट खात्यात जमा केली जाते"
+    ],
+    "applyUrl": "https://nhb.org.in/",
+    "sourceUrl": "https://nhb.org.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "post-office-monthly-income-scheme-mis-seniors",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, pomis, post-office, monthly-interest",
+    "title_en": "Post Office Monthly Income Scheme (POMIS) for Seniors",
+    "title_hi": "पोस्ट ऑफिस मासिक उत्पन्न योजना (POMIS)",
+    "description_en": "Department of Posts guaranteed sovereign savings scheme providing fixed, reliable monthly interest income for retired and senior citizens.",
+    "description_hi": "ज्येष्ठ नागरिकांना त्यांच्या बचतीवर दरमहा खात्रीशीर व सुरक्षित मासिक व्याज मिळवून देणारी टपाल खात्याची योजना.",
+    "benefits_en": "Guaranteed 7.4% annual interest paid out monthly, investment limit up to ₹9 Lakh for single and ₹15 Lakh for joint accounts, and zero capital risk.",
+    "benefits_hi": "७.४% वार्षिक व्याज दरमहा थेट खात्यात जमा, सुरक्षित मुद्दल आणि कमाल ₹१५ लाखांपर्यंत ठेव मर्यादा.",
+    "benefitType": "Guaranteed Monthly Interest Income",
+    "benefitAmount": "7.4% p.a. Monthly Interest Credit",
+    "eligibility_en": "Any resident Indian citizen, highly popular among senior citizens and retirees.",
+    "eligibility_hi": "भारतातील सर्व नागरिक, विशेषतः सेवानिवृत्त व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Post Office Savings Account Passbook",
+      "Passport size photos"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "पॅन कार्ड",
+      "पोस्ट ऑफिस सेव्हिंग्स बँक पासबुक",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Visit any Post Office branch with required KYC documents",
+      "Fill POMIS account opening form and deposit sum via cheque",
+      "Monthly interest gets credited automatically to linked Post Office savings account"
+    ],
+    "steps_hi": [
+      "जवळच्या पोस्ट ऑफिस शाखेत जा",
+      "POMIS खाते उघडण्याचा फॉर्म भरा व रक्कम जमा करा",
+      "दरमहा ठराविक व्याज थेट बचत खात्यात जमा होते"
+    ],
+    "applyUrl": "https://www.indiapost.gov.in/",
+    "sourceUrl": "https://indiapost.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "income-tax-section-80ttb-interest-deduction",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, income-tax, 80ttb, tax-exemption",
+    "title_en": "Income Tax Deduction on Interest for Senior Citizens (Section 80TTB)",
+    "title_hi": "ज्येष्ठ नागरिकांसाठी व्याजावर आयकर वजावट (कलम ८०TTB)",
+    "description_en": "Income Tax Department statutory relief allowing senior citizens aged 60+ to claim deductions up to ₹50,000 on interest income earned from savings accounts, fixed deposits (FD), and recurring deposits (RD).",
+    "description_hi": "६० वर्षे व त्यावरील ज्येष्ठ नागरिकांना बँक व पोस्टातील मुदत ठेवी (FD) आणि बचत खात्यावरील ₹५०,००० पर्यंतच्या व्याजावर १००% आयकर सूट देणारी तरतूद.",
+    "benefits_en": "Deduction up to ₹50,000 from gross total income on interest from bank/post office deposits; no TDS deduction under Section 194A up to ₹50,000.",
+    "benefits_hi": "वार्षिक ₹५०,००० पर्यंतच्या व्याज उत्पन्नावर कोणताही कर नाही आणि बँकांकडून टीडीएस (TDS) कपात नाही.",
+    "benefitType": "Direct Tax Exemption",
+    "benefitAmount": "Up to ₹50,000 Tax Deduction",
+    "eligibility_en": "Resident individual who is of the age of 60 years or more at any time during the financial year.",
+    "eligibility_hi": "आर्थिक वर्षात ६० वर्षे पूर्ण असणारे भारतातील निवासी ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "PAN Card",
+      "Form 15H submitted to bank/post office",
+      "Annual Information Statement (AIS) / Form 16A"
+    ],
+    "documents_hi": [
+      "पॅन कार्ड",
+      "बँकेत सादर केलेला फॉर्म १५-एच",
+      "फॉर्म १६-ए / बँक स्टेटमेंट"
+    ],
+    "steps_en": [
+      "Submit Form 15H at beginning of financial year to banks to prevent TDS deduction on deposit interest",
+      "File annual Income Tax Return (ITR-1 / ITR-2) on incometax.gov.in",
+      "Claim deduction up to ₹50,000 under Section 80TTB in deductions schedule"
+    ],
+    "steps_hi": [
+      "वर्षाच्या सुरुवातीला बँकेत फॉर्म १५-एच जमा करा",
+      "incometax.gov.in वर आयटीआर भरताना कलम ८०TTB अंतर्गत ₹५०,००० ची वजावट क्लेम करा",
+      "कर सवलतीचा थेट फायदा मिळवा"
+    ],
+    "applyUrl": "https://www.incometax.gov.in/",
+    "sourceUrl": "https://www.incometax.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "income-tax-section-80d-health-insurance-seniors",
+    "level": "CENTRAL",
+    "state": null,
+    "category": "senior-citizens",
+    "tags": "senior-citizens, central, income-tax, 80d, health-insurance, tax-relief",
+    "title_en": "Higher Health Insurance Tax Deduction for Senior Citizens (Section 80D)",
+    "title_hi": "ज्येष्ठ नागरिकांसाठी आरोग्य विम्यावर उच्च आयकर वजावट (कलम ८०D)",
+    "description_en": "Income Tax statutory benefit providing an enhanced deduction limit of up to ₹50,000 per year for health insurance premiums paid by or on behalf of senior citizens, including medical expenditure for un-insured elderly.",
+    "description_hi": "ज्येष्ठ नागरिकांसाठी आरोग्य विम्याच्या हप्त्यावर किंवा वैद्यकीय उपचारांच्या खर्चावर दरवर्षी ₹५०,००० पर्यंत आयकर वजावट मिळवून देणारी योजना.",
+    "benefits_en": "Deduction up to ₹50,000 on medical insurance premiums or actual medical expenditure for super-senior/senior citizens not covered by health insurance.",
+    "benefits_hi": "आरोग्य विमा प्रीमियम किंवा प्रत्यक्ष वैद्यकीय उपचारांच्या बिलांवर ₹५०,००० पर्यंत थेट कर वजावट.",
+    "benefitType": "Direct Tax Exemption",
+    "benefitAmount": "Up to ₹50,000 Tax Deduction",
+    "eligibility_en": "Senior citizens aged 60+ or adult children paying medical expenses/insurance for senior citizen parents.",
+    "eligibility_hi": "६० वर्षांवरील ज्येष्ठ नागरिक किंवा त्यांच्या आरोग्य विम्याचा खर्च करणारे पालक/मुलगे.",
+    "documents_en": [
+      "Medical Insurance Premium Receipt",
+      "Hospital / Medical Bills for uninsured senior citizens",
+      "PAN Card of taxpayer"
+    ],
+    "documents_hi": [
+      "आरोग्य विमा भरणा पावती",
+      "दवाखान्याची बिले",
+      "पॅन कार्ड"
+    ],
+    "steps_en": [
+      "Pay health insurance premium via non-cash banking mode (UPI/Netbanking/Card)",
+      "Collect section 80D tax certificate from insurance company",
+      "Enter amount in Section 80D column while filing ITR on incometax.gov.in"
+    ],
+    "steps_hi": [
+      "ऑनलाइन माध्यमातून विमा हप्ता भरा",
+      "८०डी कर प्रमाणपत्र मिळवा",
+      "आयटीआर भरताना कलम ८०डी मध्ये ₹५०,००० ची वजावट नोंदवा"
+    ],
+    "applyUrl": "https://www.incometax.gov.in/",
+    "sourceUrl": "https://www.incometax.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shravanbal-sewa-rajya-nivruttivetan-group-a",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, shravanbal, bpl, monthly-pension, dbt",
+    "title_en": "Shravanbal Seva Rajya Nivruttivetan Yojana - Group A (Maharashtra)",
+    "title_hi": "श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना - गट अ (महाराष्ट्र)",
+    "description_en": "Social Justice Department Maharashtra scheme providing monthly financial pension to elderly citizens aged 65+ whose names are included in the Central Government BPL list.",
+    "description_hi": "केंद्राच्या दारिद्र्यरेषेखालील (BPL) यादीत नाव असणाऱ्या महाराष्ट्रातील ६५ वर्षांवरील वृद्ध नागरिकांना दरमहा ₹१,५०० ची पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹1,500 credited directly into the beneficiary bank account (State share ₹1,300 + Central NSAP share ₹200).",
+    "benefits_hi": "दरमहा ₹१,५०० थेट बँक खात्यात नियमित जमा (राज्य हिस्सा ₹१,३०० + केंद्र हिस्सा ₹२००).",
+    "benefitType": "Monthly Direct Benefit Transfer Pension",
+    "benefitAmount": "₹1,500 / month",
+    "eligibility_en": "Citizens residing in Maharashtra aged 65 years and above whose names appear in the Central BPL family list 2002/SECC.",
+    "eligibility_hi": "महाराष्ट्रातील ६५ वर्षांवरील नागरिक ज्यांचे नाव केंद्रीय बीपीएल यादीत नोंदलेले आहे.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "BPL Ration Card / BPL Certificate",
+      "Maharashtra Domicile of 15 years",
+      "Bank Passbook (Aadhaar linked)"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बीपीएल दाखला / रेशन कार्ड",
+      "१५ वर्षांचा रहिवासी दाखला",
+      "आधार संलग्न बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on aaplesarkar.mahaonline.gov.in or submit form at Tehsil office (Sanjay Gandhi Yojana branch)",
+      "Tahsildar verifies BPL inclusion and age",
+      "Committee sanctions case and monthly pension credited via DBT"
+    ],
+    "steps_hi": [
+      "आपले सरकार पोर्टलवर किंवा तहसील कार्यालयात संजय गांधी कक्षात अर्ज करा",
+      "तहसीलदारांकडून पडताळणी",
+      "दरमहा ₹१,५०० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://aaplesarkar.mahaonline.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shravanbal-sewa-rajya-nivruttivetan-group-b",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, shravanbal, non-bpl, low-income, pension",
+    "title_en": "Shravanbal Seva Rajya Nivruttivetan Yojana - Group B (Maharashtra)",
+    "title_hi": "श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना - गट ब (महाराष्ट्र)",
+    "description_en": "State-funded pension scheme for senior citizens aged 65+ who are not in the Central BPL list but have low annual family income up to ₹21,000.",
+    "description_hi": "केंद्राच्या बीपीएल यादीत नसलेल्या परंतु कौटुंबिक वार्षिक उत्पन्न ₹२१,००० च्या आत असणाऱ्या महाराष्ट्रातील ६५ वर्षांवरील वृद्धांना दरमहा ₹१,५०० पेन्शन देणारी योजना.",
+    "benefits_en": "100% state-funded monthly pension of ₹1,500 credited directly to the beneficiary bank account.",
+    "benefits_hi": "महाराष्ट्र शासनाकडून दरमहा ₹१,५०० ची संपूर्ण पेन्शन थेट बँक खात्यात जमा.",
+    "benefitType": "State Monthly Pension",
+    "benefitAmount": "₹1,500 / month",
+    "eligibility_en": "Senior citizens aged 65 years and above residing in Maharashtra for 15+ years with annual family income up to ₹21,000.",
+    "eligibility_hi": "महाराष्ट्रात किमान १५ वर्षे वास्तव्य असणारे ६५ वर्षांवरील नागरिक, वार्षिक उत्पन्न ₹२१,००० च्या आत.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Income Certificate issued by Tehsildar (under ₹21,000/yr)",
+      "15 Years Residence Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "तहसीलदारांचा उत्पन्नाचा दाखला",
+      "१५ वर्षांचा रहिवासी दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through Aaple Sarkar portal or at Taluka Tehsildar office",
+      "Sanjay Gandhi Niradhar Committee scrutinizes application",
+      "Sanction issued and monthly ₹1,500 transferred to bank account"
+    ],
+    "steps_hi": [
+      "आपले सरकार पोर्टलवरून किंवा तहसील कार्यालयातून अर्ज करा",
+      "संजय गांधी समितीकडून छाननी",
+      "दरमहा ₹१,५०० थेट बँक खात्यात वर्ग"
+    ],
+    "applyUrl": "https://aaplesarkar.mahaonline.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-sanjay-gandhi-niradhar-elderly-destitute",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, sanjay-gandhi, destitute, pension",
+    "title_en": "Sanjay Gandhi Niradhar Anudan Yojana (Destitute Elderly Component)",
+    "title_hi": "संजय गांधी निराधार अनुदान योजना (निराधार वृद्ध घटक)",
+    "description_en": "Financial assistance scheme in Maharashtra for destitute elderly persons who have no source of livelihood and have no children or whose children are unable to support them.",
+    "description_hi": "कोणताही आर्थिक आधार नसलेल्या, अपत्य नसलेल्या किंवा मुले सांभाळत नसलेल्या निराधार वृद्ध नागरिकांना दरमहा ₹१,५०० चे अनुदान देणारी योजना.",
+    "benefits_en": "Monthly financial assistance of ₹1,500 for single destitute elder (and ₹2,100 if two eligible beneficiaries in the household).",
+    "benefits_hi": "एका निराधार व्यक्तीसाठी दरमहा ₹१,५०० (कुटुंबात दोन पात्र व्यक्ती असल्यास ₹२,१००) थेट बँक खात्यात.",
+    "benefitType": "Destitute Monthly Maintenance Grant",
+    "benefitAmount": "₹1,500 - ₹2,100 / month",
+    "eligibility_en": "Destitute elderly men and women aged 65+ domiciled in Maharashtra with family income up to ₹21,000/yr.",
+    "eligibility_hi": "महाराष्ट्रातील ६५ वर्षांवरील निराधार वृद्ध, वार्षिक उत्पन्न ₹२१,००० च्या आत.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Age proof",
+      "Income Certificate",
+      "Tehsildar destitute enquiry report",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "वयाचा पुरावा",
+      "उत्पन्नाचा दाखला",
+      "निराधार असल्याचा अहवाल",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Submit application form at Tehsil office",
+      "Talathi and Circle Officer verify destitute status in village/ward",
+      "Sanctioned by Committee and disbursed monthly via DBT"
+    ],
+    "steps_hi": [
+      "तहसील कार्यालयात अर्ज सादर करा",
+      "तलाठी व मंडळ अधिकाऱ्यांकडून निराधारपणाची तपासणी",
+      "दरमहा ₹१,५०० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://aaplesarkar.mahaonline.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "maharashtra-senior-citizen-day-care-centres",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, day-care, recreation, wellness",
+    "title_en": "Maharashtra Senior Citizen Day Care & Recreation Centres",
+    "title_hi": "महाराष्ट्र ज्येष्ठ नागरिक विरंगुळा व डे-केअर केंद्र योजना",
+    "description_en": "Social Justice Department Maharashtra scheme providing grants to municipal corporations and registered NGOs to establish and operate Day Care Centres equipped with libraries, indoor games, health clinics, and yoga for senior citizens.",
+    "description_hi": "ज्येष्ठ नागरिकांसाठी विरंगुळा केंद्र, वाचनालय, योगासने, आरोग्य तपासणी व मनोरंजनाची साधने उपलब्ध करून देणारी डे-केअर केंद्र योजना.",
+    "benefits_en": "Free access to recreation clubs, newspapers, periodicals, board games (carrom, chess), periodic physiotherapy, and digital literacy workshops.",
+    "benefits_hi": "मोफत विरंगुळा केंद्र, वाचनालय, वृत्तपत्रे, इनडोअर खेळ, योगासने आणि नियमित मोफत आरोग्य तपासणी.",
+    "benefitType": "Free Senior Community Centre Services",
+    "benefitAmount": "100% Free Daycare & Recreation",
+    "eligibility_en": "All senior citizens aged 60+ residing in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रातील ६० वर्षांवरील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Senior Citizen Card / Aadhaar Card"
+    ],
+    "documents_hi": [
+      "ज्येष्ठ नागरिक ओळखपत्र किंवा आधार कार्ड"
+    ],
+    "steps_en": [
+      "Visit the municipal or NGO-operated Senior Citizen Day Care Centre in your ward",
+      "Register membership free of cost",
+      "Participate in daily recreational, health, and social activities"
+    ],
+    "steps_hi": [
+      "आपल्या परिसरातील अधिकृत ज्येष्ठ नागरिक विरंगुळा केंद्राला भेट द्या",
+      "मोफत सभासदत्व नोंदवा",
+      "दैनंदिन उपक्रमांचा विनामूल्य आनंद घ्या"
+    ],
+    "applyUrl": "https://sjsa.maharashtra.gov.in/",
+    "sourceUrl": "https://sjsa.maharashtra.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "niradhar-vriddh-pension-yojana-gujarat",
+    "level": "STATE",
+    "state": "Gujarat",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, gujarat, niradhar-vruddh, pension, dbt",
+    "title_en": "Niradhar Vrudh Pension Yojana (Gujarat)",
+    "title_hi": "निराधार वृद्ध पेन्शन योजना (गुजरात)",
+    "description_en": "Social Justice & Empowerment Department Gujarat scheme providing monthly pension of ₹1,000 to ₹1,250 to destitute elderly persons aged 60 years and above who have no children or source of income.",
+    "description_hi": "गुजरातमधील ६० वर्षे व त्यावरील निराधार वृद्धांना ज्यांना उत्पन्नाचा कोणताही आधार नाही, त्यांना दरमहा ₹१,००० ते ₹१,२५० ची पेन्शन देणारी योजना.",
+    "benefits_en": "Direct Benefit Transfer of ₹1,000 per month (60-79 years) and ₹1,250 per month (80+ years) credited directly to beneficiary post office / bank account.",
+    "benefits_hi": "६० ते ७९ वर्षांसाठी दरमहा ₹१,००० आणि ८० वर्षांवरील वृद्धांसाठी दरमहा ₹१,२५० थेट बँक खात्यात.",
+    "benefitType": "Direct Monthly Destitute Pension",
+    "benefitAmount": "₹1,000 - ₹1,250 / month",
+    "eligibility_en": "Destitute senior citizens aged 60+ residing in Gujarat for 10+ years whose annual income is within BPL limits.",
+    "eligibility_hi": "गुजरातमधील १० वर्षांचे वास्तव्य असणारे ६० वर्षांवरील निराधार वृद्ध नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "BPL Card / Income Certificate (Mamlatdar)",
+      "Certificate of No Child / Destitute Status",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "मामलतदारांचा उत्पन्नाचा दाखला",
+      "निराधार प्रमाणपत्र",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply online on Digital Gujarat portal (digitalgujarat.gov.in) or submit form at Jan Seva Kendra",
+      "Mamlatdar verifies destitute status and residence",
+      "Pension sanctioned and monthly benefit transferred directly via DBT"
+    ],
+    "steps_hi": [
+      "डिजिटल गुजरात पोर्टलवर किंवा जनसेवा केंद्रात अर्ज करा",
+      "मामलतदारांकडून तपासणी",
+      "दरमहा ₹१,००० ते ₹१,२५० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://digitalgujarat.gov.in/",
+    "sourceUrl": "https://sje.gujarat.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "uttar-pradesh-vriddhashram-yojana",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, uttar-pradesh, vriddhashram, free-shelter, food",
+    "title_en": "Uttar Pradesh Vriddhashram Scheme (Free Old Age Homes)",
+    "title_hi": "उत्तर प्रदेश मोफत वृद्धाश्रम योजना",
+    "description_en": "Social Welfare Department UP program establishing and managing modern 150-bed residential Old Age Homes in all 75 districts of Uttar Pradesh providing completely free shelter, nutritious meals, clothing, and geriatric healthcare.",
+    "description_hi": "उत्तर प्रदेशातील सर्व ७५ जिल्ह्यांमध्ये चालवले जाणारे मोफत वृद्धाश्रम, जिथे बेघर व निराधार वृद्धांना मोफत निवास, भोजन, कपडे व औषधोपचार दिला जातो.",
+    "benefits_en": "100% free residential living, three nutritious balanced meals daily, seasonal clothing, continuous medical checkups, and library/entertainment facilities.",
+    "benefits_hi": "मोफत राहणे, पौष्टिक जेवण, कपडे, २४ तास वैद्यकीय सेवा आणि मनोरंजनाची सोय १००% विनामूल्य.",
+    "benefitType": "Free Residential Geriatric Care",
+    "benefitAmount": "100% Free Shelter, Food & Healthcare",
+    "eligibility_en": "Destitute or abandoned elderly persons aged 60+ residing in Uttar Pradesh.",
+    "eligibility_hi": "उत्तर प्रदेशातील ६० वर्षांवरील निराधार किंवा बेघर ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Destitute recommendation from local Gram Pradhan / Municipal Councilor"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा दाखला",
+      "ग्रामप्रधान किंवा नगरसेवकाचे निराधार शिफारस पत्र"
+    ],
+    "steps_en": [
+      "Contact District Social Welfare Officer (DSWO) or Superintendent of district Vriddhashram",
+      "Doctor conducts admission health checkup",
+      "Admitted to home with dignified amenities and permanent care"
+    ],
+    "steps_hi": [
+      "जिल्हा समाजकल्याण अधिकारी किंवा वृद्धाश्रम अधीक्षकांशी संपर्क साधा",
+      "आरोग्य तपासणीनंतर मोफत प्रवेश दिला जातो"
+    ],
+    "applyUrl": "https://socialwelfareup.upsdc.gov.in/",
+    "sourceUrl": "https://up.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "shravan-kumar-senior-citizen-homes-bihar",
+    "level": "STATE",
+    "state": "Bihar",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, bihar, shravan-kumar, old-age-home, shelter",
+    "title_en": "Shravan Kumar Senior Citizen Old Age Home Scheme (Bihar)",
+    "title_hi": "श्रवण कुमार ज्येष्ठ नागरिक वृद्धाश्रम योजना (बिहार)",
+    "description_en": "Social Welfare Department Bihar scheme constructing modern 50-bed Senior Citizen Homes in every district headquarter offering safe housing, medical care, and food to elderly citizens.",
+    "description_hi": "बिहारमधील प्रत्येक जिल्ह्यात ५० खाटांचे आधुनिक वृद्धाश्रम चालवणारी योजना, जिथे निराधार वृद्धांना मोफत सन्मानजनक निवारा मिळतो.",
+    "benefits_en": "Free residential boarding, breakfast and meals, round-the-clock nursing care, medical visits, and recreation.",
+    "benefits_hi": "मोफत निवास, जेवण, २४ तास नर्सिंग सेवा, नियमित डॉक्टर तपासणी आणि विरंगुळ्याची साधने.",
+    "benefitType": "Free Institutional Elder Care",
+    "benefitAmount": "100% Free Living & Healthcare",
+    "eligibility_en": "Destitute, indigent, or abandoned senior citizens aged 60+ residing in Bihar.",
+    "eligibility_hi": "बिहारमधील ६० वर्षांवरील निराधार किंवा कुटुंबाचा आधार नसलेले ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Application for admission"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "प्रवेश अर्ज"
+    ],
+    "steps_en": [
+      "Apply through Assistant Director, District Social Security Cell",
+      "Verification of applicant eligibility",
+      "Permanent admission allotted at district Shravan Kumar Home"
+    ],
+    "steps_hi": [
+      "जिल्हा सामाजिक सुरक्षा कक्षात अर्ज सादर करा",
+      "तपासणीनंतर श्रवण कुमार वृद्धाश्रमात मोफत प्रवेश"
+    ],
+    "applyUrl": "https://state.bihar.gov.in/socialwelfare/",
+    "sourceUrl": "https://state.bihar.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chhattisgarh-mukhyamantri-pension-yojana",
+    "level": "STATE",
+    "state": "Chhattisgarh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, chhattisgarh, pension, social-welfare, dbt",
+    "title_en": "Mukhyamantri Pension Yojana - Senior Citizens (Chhattisgarh)",
+    "title_hi": "मुख्यमंत्री पेन्शन योजना - ज्येष्ठ नागरिक (छत्तीसगड)",
+    "description_en": "Social Welfare Department Chhattisgarh scheme providing monthly pension to elderly citizens not covered under NSAP.",
+    "description_hi": "छत्तीसगडमधील ज्या गरीब वृद्धांना केंद्रीय पेन्शन मिळत नाही, त्यांना राज्य सरकारकडून दरमहा पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹350 to ₹650 credited directly to beneficiary bank account.",
+    "benefits_hi": "दरमहा थेट बँक खात्यात पेन्शन जमा.",
+    "benefitType": "Monthly Social Pension",
+    "benefitAmount": "₹350 - ₹650 / month",
+    "eligibility_en": "Senior citizens aged 60+ residing in Chhattisgarh belonging to low-income households.",
+    "eligibility_hi": "छत्तीसगडमधील ६० वर्षांवरील रहिवासी ज्यांना अन्य कोणतीही पेन्शन नाही.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply at Gram Panchayat or Urban Civic Centre",
+      "Joint Director Social Welfare sanctions case",
+      "Disbursed monthly via DBT"
+    ],
+    "steps_hi": [
+      "ग्रामपंचायत किंवा नागरी केंद्रात अर्ज करा",
+      "पडताळणीनंतर दरमहा बँक खात्यात पेन्शन वर्ग"
+    ],
+    "applyUrl": "https://sw.cg.gov.in/",
+    "sourceUrl": "https://cgstate.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "chhattisgarh-siyan-sahayata-helpline-155359",
+    "level": "STATE",
+    "state": "Chhattisgarh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, chhattisgarh, siyan-sahayata, helpline, elder-care",
+    "title_en": "Siyan Sahayata Helpline & Care Scheme (Toll-Free 155359 - Chhattisgarh)",
+    "title_hi": "सियान सहायता हेल्पलाईन व ज्येष्ठ नागरिक काळजी योजना (छत्तीसगड)",
+    "description_en": "Dedicated toll-free helpline and rapid response service in Chhattisgarh assisting elderly persons (called Siyan) with healthcare, nutrition, free legal aid, and emergency transport.",
+    "description_hi": "छत्तीसगडमधील ज्येष्ठ नागरिकांच्या (सियान) मदतीसाठी २४ तास मोफत टोल-फ्री हेल्पलाईन (१५५३५९), कायदेशीर मदत व आरोग्य सहाय्य देणारी योजना.",
+    "benefits_en": "Immediate distress assistance, doorstep medical visits, legal mediation with children under Senior Citizens Act, and free ambulance referral.",
+    "benefits_hi": "मोफत कायदेशीर सल्ला, घरपोच वैद्यकीय मदत, कौटुंबिक समुपदेशन आणि आपत्कालीन मदत.",
+    "benefitType": "24x7 Senior Emergency & Welfare Helpline",
+    "benefitAmount": "100% Free Service (Dial 155359)",
+    "eligibility_en": "Senior citizens aged 60+ residing anywhere in Chhattisgarh.",
+    "eligibility_hi": "छत्तीसगडमधील ६० वर्षांवरील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "None required (Call toll-free 155359 directly)"
+    ],
+    "documents_hi": [
+      "कोणत्याही कागदपत्रांची आवश्यकता नाही"
+    ],
+    "steps_en": [
+      "Dial toll-free 155359 from any phone",
+      "Share nature of grievance or medical assistance needed",
+      "Siyan response team mobilizes local officials and provides prompt assistance"
+    ],
+    "steps_hi": [
+      "१५५३५९ वर मोफत कॉल करा",
+      "आपली तक्रार किंवा अडचण सांगा",
+      "तातडीने शासकीय पथक घरी येऊन मदत करते"
+    ],
+    "applyUrl": "https://sw.cg.gov.in/",
+    "sourceUrl": "https://cgstate.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "west-bengal-old-age-pension-jai-bangla",
+    "level": "STATE",
+    "state": "West Bengal",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, west-bengal, jai-bangla, old-age-pension, dbt",
+    "title_en": "Jai Bangla Pension Scheme - Old Age Pension (West Bengal)",
+    "title_hi": "जय बांगला वृद्धापकाळ पेन्शन योजना (पश्चिम बंगाल)",
+    "description_en": "Women & Child Development and Social Welfare Department West Bengal umbrella scheme providing ₹1,000 monthly pension to destitute elderly persons aged 60+ (Tapashili Bandhu for SC and Jai Johar for ST).",
+    "description_hi": "पश्चिम बंगालमधील ६० वर्षे व त्यावरील अनुसूचित जाती, जमाती व सामान्य प्रवर्गातील गरीब वृद्धांना दरमहा ₹१,००० ची थेट पेन्शन देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹1,000 credited directly into the beneficiary bank account via Direct Benefit Transfer on the 1st of every month.",
+    "benefits_hi": "दरमहा १ तारखेला थेट बँक खात्यात ₹१,००० ची पेन्शन जमा.",
+    "benefitType": "Direct Monthly Social Security Pension",
+    "benefitAmount": "₹1,000 / month",
+    "eligibility_en": "Elderly persons aged 60+ residing in West Bengal for 10+ years with monthly income under ₹1,000.",
+    "eligibility_hi": "पश्चिम बंगालमधील १० वर्षांचे वास्तव्य असणारे ६० वर्षांवरील गरीब नागरिक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card (Khadya Sathi)",
+      "Swasthya Sathi Card",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "खाद्य साथी रेशन कार्ड",
+      "स्वास्थ्य साथी कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply during Duare Sarkar camp or at BDO / Municipality office",
+      "Verification by Block Development Officer",
+      "Approved cases receive monthly pension directly in bank account"
+    ],
+    "steps_hi": [
+      "दुआरे सरकार शिबिरात किंवा नगरपालिकेत अर्ज सादर करा",
+      "बीडीओ कार्यालयाकडून तपासणी",
+      "दरमहा ₹१,००० थेट खात्यात वर्ग"
+    ],
+    "applyUrl": "https://jaibangla.wb.gov.in/",
+    "sourceUrl": "https://wb.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "punjab-social-security-old-age-pension",
+    "level": "STATE",
+    "state": "Punjab",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, punjab, old-age-pension, dbt, monthly-pension",
+    "title_en": "Punjab Social Security Old Age Pension Scheme",
+    "title_hi": "पंजाब सामाजिक सुरक्षा वृद्धापकाळ पेन्शन योजना",
+    "description_en": "Department of Social Security and Women & Child Development Punjab scheme providing guaranteed financial assistance of ₹1,500 per month to elderly women (aged 58+) and men (aged 65+).",
+    "description_hi": "पंजाबमधील ५८ वर्षांवरील महिला व ६५ वर्षांवरील पुरुषांना दरमहा ₹१,५०० ची नियमित पेन्शन देणारी सामाजिक सुरक्षा योजना.",
+    "benefits_en": "Direct monthly pension of ₹1,500 credited directly into the beneficiary bank account via electronic clearing.",
+    "benefits_hi": "दरमहा ₹१,५०० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Financial Assistance",
+    "benefitAmount": "₹1,500 / month",
+    "eligibility_en": "Women aged 58+ and men aged 65+ domiciled in Punjab with annual family income up to ₹60,000.",
+    "eligibility_hi": "पंजाबचे रहिवासी, ५८ वर्षांवरील महिला व ६५ वर्षांवरील पुरुष, वार्षिक उत्पन्न ₹६०,००० च्या आत.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Voter Card",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "मतदार कार्ड",
+      "उत्पन्नाचा दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through Sewa Kendra or online on eservices.punjab.gov.in",
+      "Child Development Project Officer (CDPO) / Social Security Officer verifies documents",
+      "District Social Security Officer sanctions monthly pension via DBT"
+    ],
+    "steps_hi": [
+      "सेवा केंद्रात किंवा ऑनलाइन पोर्टलवर अर्ज सादर करा",
+      "अधिकाऱ्यांकडून पडताळणी",
+      "दरमहा ₹१,५०० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://connect.punjab.gov.in/",
+    "sourceUrl": "https://sswcd.punjab.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "mukh-mantri-tirth-yatra-scheme-punjab",
+    "level": "STATE",
+    "state": "Punjab",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, punjab, tirth-yatra, pilgrimage, ac-trains",
+    "title_en": "Mukh Mantri Tirth Yatra Scheme (Punjab)",
+    "title_hi": "मुख्य मंत्री तीर्थ यात्रा योजना (पंजाब)",
+    "description_en": "Punjab Government initiative providing 100% free pilgrimage travel by AC trains and luxury buses to sacred shrines including Sri Hazur Sahib, Sri Patna Sahib, Varanasi, Ajmer Sharif, and Salasar.",
+    "description_hi": "पंजाबमधील ज्येष्ठ नागरिकांना श्री हजूर साहिब, पटना साहिब, काशी, अजमेर शरीफ अशा प्रमुख धार्मिक स्थळांची मोफत वातानुकूलित रेल्वे यात्रा घडवून आणणारी योजना.",
+    "benefits_en": "100% free round-trip AC train travel, stay in comfortable hotels, meals and refreshments, medical team, and local sightseeing.",
+    "benefits_hi": "मोफत वातानुकूलित रेल्वे प्रवास, मोफत निवास, सात्विक भोजन व औषधोपचार १००% विनामूल्य.",
+    "benefitType": "100% Free Pilgrimage Travel Scheme",
+    "benefitAmount": "All Travel & Boarding Expenses Paid by State",
+    "eligibility_en": "Permanent residents of Punjab aged 60+ (can take an attendant aged 18-50 if elder is 75+).",
+    "eligibility_hi": "पंजाबचे ६० वर्षांवरील रहिवासी (७५ वर्षांवरील वृद्धांना सोबत एक सहाय्यक मोफत नेण्याची मुभा).",
+    "documents_en": [
+      "Aadhaar Card",
+      "Punjab Domicile / Voter Card",
+      "Medical Fitness Certificate from Civil Hospital"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "मतदार कार्ड",
+      "सिव्हिल हॉस्पिटलचे फिटनेस प्रमाणपत्र"
+    ],
+    "steps_en": [
+      "Register at local MLA office, SDM office, or DC office during tour announcement",
+      "Medical board certifies fitness for travel",
+      "Board specialized pilgrim train with state coordinators"
+    ],
+    "steps_hi": [
+      "एसडीएम किंवा जिल्हाधिकारी कार्यालयात नोंदणी करा",
+      "वैद्यकीय तपासणीनंतर निवड",
+      "विशेष यात्रेकरू ट्रेनने मोफत तीर्थयात्रा"
+    ],
+    "applyUrl": "https://punjab.gov.in/",
+    "sourceUrl": "https://punjab.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tripura-mukhyamantri-shanti-kali-pension",
+    "level": "STATE",
+    "state": "Tripura",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, tripura, shanti-kali, pension, dbt",
+    "title_en": "Tripura Mukhyamantri Shanti Kali Old Age Pension Scheme",
+    "title_hi": "त्रिपुरा मुख्यमंत्री शांती काली वृद्धापकाळ पेन्शन योजना",
+    "description_en": "Social Welfare & Social Education Department Tripura scheme providing enhanced monthly pension of ₹2,000 to indigent senior citizens aged 60+.",
+    "description_hi": "त्रिपुरातील ६० वर्षे व त्यावरील सर्व गरीब ज्येष्ठ नागरिकांना दरमहा ₹२,००० ची सन्मानजनक पेन्शन देणारी समाजकल्याण योजना.",
+    "benefits_en": "Monthly pension of ₹2,000 credited directly into beneficiary bank account via Direct Benefit Transfer.",
+    "benefits_hi": "दरमहा ₹२,००० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Social Security Pension",
+    "benefitAmount": "₹2,000 / month",
+    "eligibility_en": "Senior citizens aged 60 years or above residing in Tripura holding BPL ration card.",
+    "eligibility_hi": "त्रिपुरातील ६० वर्षांवरील बीपीएल कुटुंब.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Ration Card (BPL)",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "बीपीएल रेशन कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through Child Development Project Officer (CDPO) / Social Welfare Office",
+      "Panchayat / Municipal Council verifies applicant credentials",
+      "Monthly pension of ₹2,000 disbursed via DBT"
+    ],
+    "steps_hi": [
+      "स्थानिक समाजकल्याण कार्यालयात अर्ज करा",
+      "पडताळणीनंतर मंजुरी",
+      "दरमहा ₹२,००० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://tripura.gov.in/",
+    "sourceUrl": "https://tripura.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "meghalaya-social-assistance-for-senior-citizens",
+    "level": "STATE",
+    "state": "Meghalaya",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, meghalaya, social-assistance, pension",
+    "title_en": "Meghalaya Social Assistance Scheme for Senior Citizens",
+    "title_hi": "मेघालय ज्येष्ठ नागरिक सामाजिक सहाय्य योजना",
+    "description_en": "Social Welfare Department Meghalaya scheme providing monthly financial assistance to destitute and aged tribal citizens aged 60+ without family maintenance.",
+    "description_hi": "मेघालयातील ६० वर्षे व त्यावरील गरीब आदिवासी वृद्धांना दरमहा आर्थिक सहाय्य देणारी योजना.",
+    "benefits_en": "Monthly pension of ₹500 to ₹1,000 credited directly into beneficiary bank account.",
+    "benefits_hi": "दरमहा थेट बँक खात्यात पेन्शन जमा.",
+    "benefitType": "Monthly Financial Assistance",
+    "benefitAmount": "₹500 - ₹1,000 / month",
+    "eligibility_en": "Tribal senior citizens aged 60+ domiciled in Meghalaya living in poverty.",
+    "eligibility_hi": "मेघालयातील ६० वर्षांवरील स्थानिक रहिवासी.",
+    "documents_en": [
+      "Aadhaar Card / Voter Card",
+      "Headman / Nokma recommendation certificate",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / मतदार कार्ड",
+      "स्थानिक प्रमुखांचा (हेडमन) दाखला",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through District Social Welfare Officer (DSWO)",
+      "Scrutiny and village authority verification",
+      "Monthly assistance disbursed via DBT"
+    ],
+    "steps_hi": [
+      "जिल्हा समाजकल्याण अधिकाऱ्यांकडे अर्ज करा",
+      "तपासणीनंतर दरमहा बँक खात्यात पेन्शन वर्ग"
+    ],
+    "applyUrl": "https://megsocialwelfare.gov.in/",
+    "sourceUrl": "https://meghalaya.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "sikkim-social-security-old-age-pension",
+    "level": "STATE",
+    "state": "Sikkim",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, sikkim, social-security, old-age-pension, dbt",
+    "title_en": "Sikkim Social Security Old Age Pension Scheme",
+    "title_hi": "सिक्किम सामाजिक सुरक्षा वृद्धापकाळ पेन्शन योजना",
+    "description_en": "Women and Child Development Department Sikkim scheme providing monthly old age pension of ₹2,000 to senior citizens aged 60+.",
+    "description_hi": "सिक्किममधील ६० वर्षे व त्यावरील ज्येष्ठ नागरिकांना दरमहा ₹२,००० ची पेन्शन देणारी योजना.",
+    "benefits_en": "Direct monthly pension of ₹2,000 credited directly to beneficiary bank account.",
+    "benefits_hi": "दरमहा ₹२,००० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Direct Monthly Pension",
+    "benefitAmount": "₹2,000 / month",
+    "eligibility_en": "Certificate of Identification (COI) / Sikkim Domicile holders aged 60+ not receiving other pensions.",
+    "eligibility_hi": "सिक्किमचे रहिवासी (COI धारक) जे ६० वर्षांवरील आहेत.",
+    "documents_en": [
+      "Certificate of Identification (COI)",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "COI / सिक्किम रहिवासी दाखला",
+      "आधार कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply at Block Administrative Centre (BAC)",
+      "Verification by Welfare Officer",
+      "Pension sanctioned and disbursed monthly via DBT"
+    ],
+    "steps_hi": [
+      "ब्लॉक प्रशासकीय केंद्रात अर्ज करा",
+      "अधिकाऱ्यांकडून तपासणी",
+      "दरमहा ₹२,००० थेट बँक खात्यात जमा"
+    ],
+    "applyUrl": "https://sikkim.gov.in/",
+    "sourceUrl": "https://sikkim.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "manipur-old-age-pension-scheme-moaps",
+    "level": "STATE",
+    "state": "Manipur",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, manipur, moaps, old-age-pension, dbt",
+    "title_en": "Manipur Old Age Pension Scheme (MOAPS)",
+    "title_hi": "मणिपूर वृद्धापकाळ पेन्शन योजना (MOAPS)",
+    "description_en": "Social Welfare Department Manipur scheme providing monthly financial pension of ₹500 to ₹1,000 to elderly citizens aged 60+.",
+    "description_hi": "मणिपूरमधील ६० वर्षे व त्यावरील सर्व गरीब ज्येष्ठ नागरिकांना दरमहा पेन्शन देणारी समाजकल्याण योजना.",
+    "benefits_en": "Monthly pension of ₹500 (60-79 years) and ₹1,000 (80+ years) credited directly to bank account via DBT.",
+    "benefits_hi": "दरमहा ₹५०० ते ₹१,००० थेट बँक खात्यात नियमित जमा.",
+    "benefitType": "Monthly Financial Pension",
+    "benefitAmount": "₹500 - ₹1,000 / month",
+    "eligibility_en": "Permanent residents of Manipur aged 60+ belonging to BPL households.",
+    "eligibility_hi": "मणिपूरमधील ६० वर्षांवरील बीपीएल नागरिक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank Passbook"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "रेशन कार्ड",
+      "बँक पासबुक"
+    ],
+    "steps_en": [
+      "Apply through District Social Welfare Officer",
+      "Verification by social welfare inspector",
+      "Funds credited directly to bank account every month"
+    ],
+    "steps_hi": [
+      "जिल्हा समाजकल्याण कार्यालयात अर्ज सादर करा",
+      "तपासणीनंतर थेट खात्यात पेन्शन जमा"
+    ],
+    "applyUrl": "https://socialwelfare.mn.gov.in/",
+    "sourceUrl": "https://manipur.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "ksrtc-concessional-bus-pass-seniors-karnataka",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, karnataka, ksrtc, bus-pass, discount",
+    "title_en": "KSRTC Concessional Travel Scheme for Senior Citizens (Karnataka)",
+    "title_hi": "KSRTC ज्येष्ठ नागरिक सवलतीचा प्रवास योजना (कर्नाटक)",
+    "description_en": "Karnataka State Road Transport Corporation scheme providing a 25% concession on bus ticket fares for senior citizens aged 60+ across Karnataka.",
+    "description_hi": "कर्नाटकातील ६० वर्षांवरील ज्येष्ठ नागरिकांना केएसआरटीसी बसेसच्या तिकीटावर २५% सवलत देणारी योजना.",
+    "benefits_en": "25% discount on all ordinary and express bus services operated by KSRTC, NWKRTC, and KKRTC.",
+    "benefits_hi": "सर्व सरकारी बसेसच्या तिकीटावर २५% थेट सवलत.",
+    "benefitType": "25% Travel Fare Concession",
+    "benefitAmount": "25% Discount on Bus Ticket",
+    "eligibility_en": "Citizens of Karnataka aged 60 years and above.",
+    "eligibility_hi": "कर्नाटकातील ६० वर्षे पूर्ण केलेले नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Senior Citizen Identity Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड किंवा ज्येष्ठ नागरिक ओळखपत्र"
+    ],
+    "steps_en": [
+      "Show Aadhaar Card or Senior Citizen ID card at bus booking counter or to conductor",
+      "Conductor issues discounted ticket on spot"
+    ],
+    "steps_hi": [
+      "तिकीट खिडकीवर आधार कार्ड दाखवा",
+      "जागेवरच २५% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://ksrtc.in/",
+    "sourceUrl": "https://karnataka.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "delhi-dtc-concessional-senior-citizen-bus-pass",
+    "level": "STATE",
+    "state": "Delhi",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, delhi, dtc, bus-pass, concessional-travel",
+    "title_en": "Delhi DTC Concessional Senior Citizen Bus Pass Scheme",
+    "title_hi": "दिल्ली डीटीसी सवलतीचा ज्येष्ठ नागरिक बस पास योजना",
+    "description_en": "Delhi Transport Corporation (DTC) scheme providing deeply subsidized monthly all-route bus passes for ₹50 per month to senior citizens aged 60+.",
+    "description_hi": "दिल्लीतील ६० वर्षांवरील ज्येष्ठ नागरिकांना नाममात्र फक्त ₹५० प्रति महिना दरात सर्व मार्गांवर अमर्यादित प्रवासाचा डीटीसी बस पास देणारी योजना.",
+    "benefits_en": "Unlimited travel on all DTC and Cluster non-AC and AC city buses across Delhi NCR for just ₹50 per month.",
+    "benefits_hi": "फक्त ₹५० प्रति महिना दरात सर्व डीटीसी बसेसमध्ये अमर्यादित प्रवास.",
+    "benefitType": "Subsidized All-Route City Bus Pass",
+    "benefitAmount": "₹50 / month All-Route Pass",
+    "eligibility_en": "Senior citizens aged 60 years and above residing in Delhi.",
+    "eligibility_hi": "दिल्लीतील ६० वर्षांवरील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Voter ID of Delhi",
+      "Passport size photo"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / दिल्ली मतदार ओळखपत्र",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Apply online on dtcpass.delhi.gov.in",
+      "Upload photo and address proof",
+      "Digital pass sent instantly by SMS/email or plastic smart card delivered by post"
+    ],
+    "steps_hi": [
+      "dtcpass.delhi.gov.in वर ऑनलाइन अर्ज करा",
+      "फोटो व आधार अपलोड करा",
+      "मोबाईलवर डिजिटल बस पास त्वरित मिळतो"
+    ],
+    "applyUrl": "https://dtcpass.delhi.gov.in/",
+    "sourceUrl": "https://dtc.delhi.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "tsrtc-senior-citizen-concessional-travel-telangana",
+    "level": "STATE",
+    "state": "Telangana",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, telangana, tsrtc, bus-pass, discount",
+    "title_en": "TSRTC Senior Citizen Concessional Travel Pass (Telangana)",
+    "title_hi": "TSRTC ज्येष्ठ नागरिक सवलत बस पास योजना (तेलंगणा)",
+    "description_en": "Telangana State Road Transport Corporation scheme providing a 25% discount on bus fares for senior citizens aged 60+ in Palle Velugu, Express, and City buses.",
+    "description_hi": "तेलंगणातील ६० वर्षांवरील सर्व ज्येष्ठ नागरिकांना एसटी बसेसच्या तिकीट दरात २५% सवलत देणारी योजना.",
+    "benefits_en": "25% concession on passenger bus ticket fare across Telangana.",
+    "benefits_hi": "एसटी बस प्रवासात २५% थेट तिकीट सवलत.",
+    "benefitType": "25% Travel Concession",
+    "benefitAmount": "25% Discount on Tickets",
+    "eligibility_en": "Residents of Telangana aged 60 years and above.",
+    "eligibility_hi": "तेलंगणातील ६० वर्षे पूर्ण केलेले सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Senior Citizen ID"
+    ],
+    "documents_hi": [
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Present Aadhaar Card to bus conductor or booking counter",
+      "Conductor verifies age and issues 25% concessional ticket"
+    ],
+    "steps_hi": [
+      "वाहकाला आधार कार्ड दाखवा",
+      "२५% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://tsrtcpass.cgg.gov.in/",
+    "sourceUrl": "https://telangana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "kerala-ksrtc-concessional-travel-senior-citizens",
+    "level": "STATE",
+    "state": "Kerala",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, kerala, ksrtc, bus-pass, concession",
+    "title_en": "KSRTC Senior Citizen Concessional Travel Pass (Kerala)",
+    "title_hi": "KSRTC ज्येष्ठ नागरिक सवलतीचा प्रवास पास (केरळ)",
+    "description_en": "Kerala State Road Transport Corporation scheme providing smart travel pass with up to 50% fare concession for senior citizens aged 65+ on city and ordinary services.",
+    "description_hi": "केरळातील ६५ वर्षांवरील ज्येष्ठ नागरिकांना सरकारी बसेसमध्ये ५०% पर्यंत सवलतीचा प्रवास पास देणारी योजना.",
+    "benefits_en": "Up to 50% discount on bus ticket fares across Kerala public transport buses.",
+    "benefits_hi": "बस तिकीटावर ५०% पर्यंत थेट सवलत.",
+    "benefitType": "Travel Fare Concession",
+    "benefitAmount": "Up to 50% Fare Discount",
+    "eligibility_en": "Senior citizens aged 65 years and above domiciled in Kerala.",
+    "eligibility_hi": "केरळातील ६५ वर्षांवरील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Passport size photo"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Apply at nearest KSRTC bus depot with Aadhaar copy",
+      "Receive smart concession card",
+      "Travel with discounted ticket rates across Kerala"
+    ],
+    "steps_hi": [
+      "जवळच्या बस डेपोमध्ये अर्ज करा",
+      "स्मार्ट कन्सेशन कार्ड मिळवा",
+      "सवलतीत प्रवास करा"
+    ],
+    "applyUrl": "https://keralartc.com/",
+    "sourceUrl": "https://kerala.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "himachal-hrtc-senior-citizen-smart-card",
+    "level": "STATE",
+    "state": "Himachal Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, himachal-pradesh, hrtc, smart-card, bus-discount",
+    "title_en": "HRTC Senior Citizen Smart Card Scheme (Himachal Pradesh)",
+    "title_hi": "HRTC ज्येष्ठ नागरिक स्मार्ट कार्ड योजना (हिमाचल प्रदेश)",
+    "description_en": "Himachal Road Transport Corporation scheme issuing smart cards offering 20% discount on all ordinary bus fares to senior citizens aged 60+.",
+    "description_hi": "हिमाचल प्रदेशातील ६० वर्षांवरील ज्येष्ठ नागरिकांना एचआरटीसीच्या बसेसमध्ये २०% तिकीट सवलत देणारे स्मार्ट कार्ड.",
+    "benefits_en": "20% concession on passenger bus fares throughout Himachal Pradesh.",
+    "benefits_hi": "बस प्रवासात २०% थेट तिकीट सवलत.",
+    "benefitType": "20% Bus Fare Discount",
+    "benefitAmount": "20% Fare Discount",
+    "eligibility_en": "Senior citizens aged 60 years and above residing in Himachal Pradesh.",
+    "eligibility_hi": "हिमाचल प्रदेशातील ६० वर्षे पूर्ण केलेले नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Himachal Bonafide Certificate"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / बोनाफाईड दाखला"
+    ],
+    "steps_en": [
+      "Apply at HRTC bus stand counter with ₹50 card fee",
+      "Receive laminated RFID smart card",
+      "Show card to conductor to get 20% ticket discount"
+    ],
+    "steps_hi": [
+      "बस स्टँड काऊंटरवर अर्ज करा",
+      "स्मार्ट कार्ड मिळवा व प्रवासात २०% सवलत मिळवा"
+    ],
+    "applyUrl": "https://www.hrtchp.com/",
+    "sourceUrl": "https://himachal.nic.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "punjab-roadways-senior-citizen-concession",
+    "level": "STATE",
+    "state": "Punjab",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, punjab, punbus, roadways, free-travel-women",
+    "title_en": "Punjab Roadways & Punbus Senior Citizen Concessional Travel",
+    "title_hi": "पंजाब रोडवेज व पनबस ज्येष्ठ नागरिक प्रवास सवलत योजना",
+    "description_en": "Department of Transport Punjab scheme providing 100% free bus travel for senior women (60+) and 50% concession for senior men (65+) in all state government ordinary and fast buses.",
+    "description_hi": "पंजाबमधील ६० वर्षांवरील ज्येष्ठ महिलांना १००% मोफत आणि ६५ वर्षांवरील ज्येष्ठ पुरुषांना ५०% सवलतीत सरकारी बस प्रवास देणारी योजना.",
+    "benefits_en": "100% free travel for senior women aged 60+ and 50% discount on ticket fares for senior men aged 65+ across Punjab Roadways and Punbus fleets.",
+    "benefits_hi": "ज्येष्ठ महिलांना १००% मोफत प्रवास आणि ज्येष्ठ पुरुषांना ५०% तिकीट सवलत.",
+    "benefitType": "Free / 50% Concessional Travel",
+    "benefitAmount": "100% Free (Women) / 50% Concession (Men)",
+    "eligibility_en": "Resident of Punjab aged 60+ (for women) and 65+ (for men).",
+    "eligibility_hi": "पंजाबमधील ६० वर्षांवरील महिला व ६५ वर्षांवरील पुरुष.",
+    "documents_en": [
+      "Aadhaar Card / Punjab Voter ID Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / मतदार ओळखपत्र"
+    ],
+    "steps_en": [
+      "Present Aadhaar Card or Punjab Voter ID to bus conductor",
+      "Conductor verifies age and issues zero-fare ticket to senior women or 50% ticket to senior men"
+    ],
+    "steps_hi": [
+      "वाहकाला आधार कार्ड दाखवा",
+      "महिलांसाठी शून्य शुल्काचे व पुरुषांसाठी ५०% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://punbusonline.com/",
+    "sourceUrl": "https://punjab.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "haryana-roadways-senior-citizen-50-percent",
+    "level": "STATE",
+    "state": "Haryana",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, haryana, roadways, bus-discount, 50-percent",
+    "title_en": "Haryana Roadways 50% Concession for Senior Citizens",
+    "title_hi": "हरियाणा रोडवेज ज्येष्ठ नागरिक ५०% प्रवास सवलत योजना",
+    "description_en": "Haryana State Transport scheme providing a 50% concession on bus ticket fares for senior citizens (women aged 60+ and men aged 65+) across all ordinary and semi-express routes.",
+    "description_hi": "हरियाणा रोडवेजच्या सर्व बसेसमध्ये ६० वर्षांवरील महिला व ६५ वर्षांवरील पुरुषांना तिकीटात ५०% सवलत देणारी योजना.",
+    "benefits_en": "50% concession on passenger bus fares within Haryana and on inter-state routes up to Delhi and Chandigarh.",
+    "benefits_hi": "हरियाणा रोडवेजच्या बसेसमध्ये ५०% थेट तिकीट सवलत.",
+    "benefitType": "50% Bus Fare Subsidy",
+    "benefitAmount": "50% Ticket Discount",
+    "eligibility_en": "Residents of Haryana (women 60+, men 65+) verified via Parivar Pehchan Patra.",
+    "eligibility_hi": "हरियाणामधील ६० वर्षांवरील महिला व ६५ वर्षांवरील पुरुष नागरिक.",
+    "documents_en": [
+      "Parivar Pehchan Patra (PPP)",
+      "Aadhaar Card"
+    ],
+    "documents_hi": [
+      "परिवार पहचान पत्र (PPP)",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Show PPP or Aadhaar Card to bus conductor during journey",
+      "Conductor enters details and issues 50% discounted ticket on spot"
+    ],
+    "steps_hi": [
+      "वाहकाला पीपीपी किंवा आधार दाखवून जागेवर ५०% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://hartrans.gov.in/",
+    "sourceUrl": "https://haryana.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "uttar-pradesh-upsrtc-senior-citizen-concession",
+    "level": "STATE",
+    "state": "Uttar Pradesh",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, uttar-pradesh, upsrtc, bus-discount, travel",
+    "title_en": "UPSRTC Senior Citizen Concessional Travel Pass (Uttar Pradesh)",
+    "title_hi": "UPSRTC ज्येष्ठ नागरिक सवलतीचा प्रवास पास (उत्तर प्रदेश)",
+    "description_en": "Uttar Pradesh State Road Transport Corporation scheme issuing concessional travel smart cards offering fare discounts and reserved seating for seniors aged 60+ in all state buses.",
+    "description_hi": "उत्तर प्रदेश राज्य मार्ग परिवहन महामंडळाच्या बसेसमध्ये ६० वर्षांवरील ज्येष्ठ नागरिकांना राखीव जागा व तिकीट सवलत देणारी योजना.",
+    "benefits_en": "Concessional travel smart card, reserved front seats, and priority boarding across all UPSRTC roadways buses.",
+    "benefits_hi": "एसटी बसेसमध्ये राखीव जागा, प्राधान्य आणि सवलतीचे स्मार्ट कार्ड.",
+    "benefitType": "Concessional Travel Smart Card",
+    "benefitAmount": "Fare Concession & Reserved Seating",
+    "eligibility_en": "Citizens of Uttar Pradesh aged 60 years and above.",
+    "eligibility_hi": "उत्तर प्रदेशातील ६० वर्षे पूर्ण केलेले सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age Proof",
+      "Passport size photo",
+      "UP Domicile Proof"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "फोटो",
+      "रहिवासी दाखला"
+    ],
+    "steps_en": [
+      "Apply at any UPSRTC regional bus depot counter or online on upsrtc.up.gov.in",
+      "Submit Aadhaar and photo for smart card generation",
+      "Present card during travel to receive concessional ticketing"
+    ],
+    "steps_hi": [
+      "यूपीएसआरटीसी बस डेपो काऊंटरवर अर्ज करा",
+      "स्मार्ट कार्ड मिळवा आणि प्रवासात सवलत मिळवा"
+    ],
+    "applyUrl": "https://upsrtc.up.gov.in/",
+    "sourceUrl": "https://up.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "rajasthan-rsrtc-senior-citizen-concession",
+    "level": "STATE",
+    "state": "Rajasthan",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, rajasthan, rsrtc, bus-discount, 30-percent",
+    "title_en": "RSRTC Senior Citizen 30% Concessional Travel Pass (Rajasthan)",
+    "title_hi": "RSRTC ज्येष्ठ नागरिक ३०% प्रवास सवलत योजना (राजस्थान)",
+    "description_en": "Rajasthan State Road Transport Corporation scheme providing 30% discount on bus fares for senior citizens aged 60+ across Rajasthan and up to 50% for seniors aged 80+.",
+    "description_hi": "राजस्थानच्या रोडवेज बसेसमध्ये ६० वर्षांवरील ज्येष्ठ नागरिकांना ३०% आणि ८० वर्षांवरील वृद्धांना ५०% तिकीट सवलत देणारी योजना.",
+    "benefits_en": "30% discount on express and ordinary bus tickets for 60+ seniors, and 50% discount plus free companion travel for seniors aged 80+.",
+    "benefits_hi": "६० वर्षांवरील वृद्धांना ३०% आणि ८० वर्षांवरील वृद्धांना ५०% तिकीट सवलत व एका साथीदारास मोफत प्रवास.",
+    "benefitType": "30% to 50% Bus Fare Discount",
+    "benefitAmount": "30% - 50% Ticket Concession",
+    "eligibility_en": "Senior citizens aged 60 years and above domiciled in Rajasthan.",
+    "eligibility_hi": "राजस्थानमधील ६० वर्षे व त्यावरील सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Jan Aadhaar Card",
+      "Aadhaar Card / Age proof"
+    ],
+    "documents_hi": [
+      "जन आधार कार्ड",
+      "आधार कार्ड"
+    ],
+    "steps_en": [
+      "Show Jan Aadhaar or Aadhaar Card at RSRTC booking counter or to conductor",
+      "Receive concessional ticket with 30% or 50% discount"
+    ],
+    "steps_hi": [
+      "तिकीट खिडकीवर जन आधार दाखवा",
+      "जागेवरच ३०% ते ५०% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://transport.rajasthan.gov.in/",
+    "sourceUrl": "https://rajasthan.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "west-bengal-wbtc-senior-citizen-pass",
+    "level": "STATE",
+    "state": "West Bengal",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, west-bengal, wbtc, tram-bus, concession",
+    "title_en": "WBTC Concessional Senior Bus & Tram Pass (West Bengal)",
+    "title_hi": "पश्चिम बंगाल परिवहन महामंडळ ज्येष्ठ नागरिक सवलत पास",
+    "description_en": "West Bengal Transport Corporation scheme providing concessional monthly and annual travel passes for senior citizens on city buses and historic Kolkata trams.",
+    "description_hi": "कोलकाता व पश्चिम बंगालमधील शहर बसेस व ट्रॅममध्ये ज्येष्ठ नागरिकांना सवलतीचा मासिक पास देणारी योजना.",
+    "benefits_en": "Deeply subsidized travel passes for senior citizens across non-AC city bus routes and Kolkata tram services.",
+    "benefits_hi": "शहरी बसेस व ट्रॅमच्या प्रवासात ज्येष्ठ नागरिकांना सवलतीचे मासिक पास.",
+    "benefitType": "Subsidized Urban Travel Pass",
+    "benefitAmount": "Concessional City Pass",
+    "eligibility_en": "Citizens aged 60+ residing in Kolkata Metropolitan Area and West Bengal.",
+    "eligibility_hi": "पश्चिम बंगालमधील ६० वर्षे पूर्ण केलेले नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Swasthya Sathi Card / Voter Card",
+      "Photos"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / वयाचा पुरावा",
+      "मतदार कार्ड",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Apply at WBTC central bus depot / tram depot counters",
+      "Submit Aadhaar and receive photo identity travel pass",
+      "Avail concessional unlimited rides across designated routes"
+    ],
+    "steps_hi": [
+      "परिवहन डेपो काऊंटरवर अर्ज करा",
+      "फोटो ओळखपत्र पास मिळवा आणि सवलतीत प्रवास करा"
+    ],
+    "applyUrl": "https://wbtc.co.in/",
+    "sourceUrl": "https://wb.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "assam-astc-senior-citizen-bus-concession",
+    "level": "STATE",
+    "state": "Assam",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, assam, astc, bus-discount, concession",
+    "title_en": "ASTC Senior Citizen Concessional Travel Scheme (Assam)",
+    "title_hi": "ASTC ज्येष्ठ नागरिक प्रवास सवलत योजना (आसाम)",
+    "description_en": "Assam State Transport Corporation scheme providing 25% discount on passenger ticket fares and reserved frontline seats for seniors aged 60+ in all state transport buses.",
+    "description_hi": "आसाम राज्य परिवहन महामंडळाच्या बसेसमध्ये ६० वर्षांवरील ज्येष्ठ नागरिकांना २५% तिकीट सवलत व राखीव जागा देणारी योजना.",
+    "benefits_en": "25% fare concession and reserved priority seats on all ASTC rural and inter-district buses.",
+    "benefits_hi": "बसेसच्या तिकीटात २५% थेट सवलत आणि राखीव जागा.",
+    "benefitType": "25% Fare Concession",
+    "benefitAmount": "25% Ticket Discount",
+    "eligibility_en": "Residents of Assam aged 60 years and above.",
+    "eligibility_hi": "आसाममधील ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof / Voter Card"
+    ],
+    "documents_hi": [
+      "आधार कार्ड / मतदार ओळखपत्र"
+    ],
+    "steps_en": [
+      "Show Aadhaar card at ASTC booking counter or to conductor",
+      "Receive 25% concessional passenger ticket"
+    ],
+    "steps_hi": [
+      "तिकीट खिडकीवर आधार कार्ड दाखवा",
+      "२५% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://astc.assam.gov.in/",
+    "sourceUrl": "https://assam.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "goa-kadamba-senior-citizen-bus-pass",
+    "level": "STATE",
+    "state": "Goa",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, goa, ktcl, kadamba, bus-discount",
+    "title_en": "Kadamba Transport Senior Citizen Concessional Pass (Goa)",
+    "title_hi": "कदंब परिवहन ज्येष्ठ नागरिक सवलत बस पास (गोवा)",
+    "description_en": "Kadamba Transport Corporation Limited (KTCL) Goa scheme providing 50% concession on bus fares for senior citizens aged 60+ possessing Goa Senior Citizen Card.",
+    "description_hi": "गोव्यातील ६० वर्षांवरील ज्येष्ठ नागरिकांना कदंब महामंडळाच्या सर्व बसेसमध्ये ५०% तिकीट सवलत देणारी योजना.",
+    "benefits_en": "50% concession on ticket fares across all KTCL intra-state bus routes.",
+    "benefits_hi": "गोव्यातील कदंब बसेसच्या तिकीटावर ५०% थेट सवलत.",
+    "benefitType": "50% Bus Fare Subsidy",
+    "benefitAmount": "50% Ticket Discount",
+    "eligibility_en": "Goa residents aged 60 years and above carrying Goa Senior Citizen Card.",
+    "eligibility_hi": "गोव्याचे रहिवासी असलेले ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Goa Senior Citizen Identity Card / Aadhaar Card"
+    ],
+    "documents_hi": [
+      "गोवा ज्येष्ठ नागरिक ओळखपत्र किंवा आधार कार्ड"
+    ],
+    "steps_en": [
+      "Show Goa Senior Citizen Card at bus stand counter or to bus conductor",
+      "Conductor verifies card and issues 50% discounted ticket"
+    ],
+    "steps_hi": [
+      "वाहकाला ज्येष्ठ नागरिक कार्ड दाखवा",
+      "५०% सवलतीत तिकीट मिळवा"
+    ],
+    "applyUrl": "https://ktclgoa.com/",
+    "sourceUrl": "https://goa.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "puducherry-prtc-senior-citizen-bus-concession",
+    "level": "STATE",
+    "state": "Puducherry",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, puducherry, prtc, bus-discount, concession",
+    "title_en": "PRTC Senior Citizen Concessional Travel Scheme (Puducherry)",
+    "title_hi": "PRTC ज्येष्ठ नागरिक सवलतीचा प्रवास योजना (पुडुचेरी)",
+    "description_en": "Puducherry Road Transport Corporation scheme granting 50% discount on bus fares for senior citizens aged 60+ across town and rural services.",
+    "description_hi": "पुडुचेरीतील ६० वर्षांवरील ज्येष्ठ नागरिकांना पीआरटीसी बसेसमध्ये ५०% तिकीट सवलत देणारी योजना.",
+    "benefits_en": "50% concession on passenger bus fares within the Union Territory of Puducherry.",
+    "benefits_hi": "सरकारी बसेसच्या प्रवासात ५०% थेट तिकीट सवलत.",
+    "benefitType": "50% Travel Concession",
+    "benefitAmount": "50% Ticket Discount",
+    "eligibility_en": "Residents of UT of Puducherry aged 60 years and above.",
+    "eligibility_hi": "पुडुचेरीतील ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Puducherry Senior Citizen Card / Aadhaar Card"
+    ],
+    "documents_hi": [
+      "पुडुचेरी ज्येष्ठ नागरिक कार्ड / आधार कार्ड"
+    ],
+    "steps_en": [
+      "Present Senior Citizen Card at PRTC booking counter",
+      "Discounted ticket issued immediately on spot"
+    ],
+    "steps_hi": [
+      "तिकीट खिडकीवर कार्ड दाखवा",
+      "५०% सवलतीचे तिकीट मिळवा"
+    ],
+    "applyUrl": "https://prtc.py.gov.in/",
+    "sourceUrl": "https://py.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "bmtc-senior-citizen-bus-pass-bengaluru",
+    "level": "STATE",
+    "state": "Karnataka",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, karnataka, bmtc, bengaluru, city-bus-pass",
+    "title_en": "Bengaluru BMTC Concessional Senior Citizen Monthly Bus Pass",
+    "title_hi": "बंगळुरू BMTC ज्येष्ठ नागरिक सवलतीचा मासिक बस पास",
+    "description_en": "Bengaluru Metropolitan Transport Corporation (BMTC) scheme issuing deeply discounted monthly and annual bus passes for senior citizens aged 60+ to travel freely across the IT capital.",
+    "description_hi": "बंगळुरूमधील ६० वर्षांवरील ज्येष्ठ नागरिकांना बीएमटीसीच्या सर्व शहर बसेसमध्ये सवलतीच्या दरात मासिक पास देणारी योजना.",
+    "benefits_en": "Concessional monthly bus pass (over 50% discount compared to regular commuter pass) valid on all non-AC BMTC city buses.",
+    "benefits_hi": "नियमित मासिक पासपेक्षा ५०% हून अधिक सवलतीत ज्येष्ठ नागरिक शहर बस पास.",
+    "benefitType": "Subsidized Urban Bus Pass",
+    "benefitAmount": "50%+ Monthly Pass Discount",
+    "eligibility_en": "Senior citizens aged 60+ residing in Bengaluru and Karnataka.",
+    "eligibility_hi": "कर्नाटक व बंगळुरूमध्ये राहणारे ६० वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card / Age proof",
+      "Passport size photo",
+      "Karnataka Domicile proof"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "फोटो",
+      "रहिवासी दाखला"
+    ],
+    "steps_en": [
+      "Apply through Seva Sindhu portal or at designated BMTC major bus stations (Majestic, Shivajinagar, etc.)",
+      "Receive smart card photo bus pass with annual validity",
+      "Travel seamlessly across Bengaluru city routes"
+    ],
+    "steps_hi": [
+      "सेवा सिंधू पोर्टलवरून किंवा प्रमुख बस स्थानकांवर अर्ज करा",
+      "स्मार्ट फोटो बस पास मिळवा आणि शहरात कुठेही सवलतीत फिरा"
+    ],
+    "applyUrl": "https://mybmtc.karnataka.gov.in/",
+    "sourceUrl": "https://karnataka.gov.in/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "best-senior-citizen-concessional-bus-pass-mumbai",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, best, mumbai, bus-concession",
+    "title_en": "BEST Undertaking Mumbai Senior Citizen Concessional Pass Scheme",
+    "title_hi": "बेस्ट (BEST) मुंबई ज्येष्ठ नागरिक सवलत बस पास योजना",
+    "description_en": "Brihanmumbai Electric Supply & Transport (BEST) Undertaking scheme providing special concessional monthly/quarterly bus passes and 50% fare discounts for senior citizens aged 60+ across Greater Mumbai, Navi Mumbai, and Thane.",
+    "description_hi": "मुंबई, नवी मुंबई व ठाण्यात बेस्टच्या बसेसमध्ये ६० वर्षांवरील ज्येष्ठ नागरिकांना ५०% तिकीट सवलत व सवलतीचे मासिक पास देणारी योजना.",
+    "benefits_en": "50% concession on ordinary non-AC bus single tickets and deeply discounted unlimited monthly travel passes for seniors.",
+    "benefits_hi": "बेस्टच्या साध्या बसेसमध्ये ५०% तिकीट सवलत आणि सवलतीचे मासिक अमर्यादित पास.",
+    "benefitType": "Subsidized Metropolitan Bus Pass",
+    "benefitAmount": "50% Ticket Discount / Concessional Pass",
+    "eligibility_en": "Senior citizens aged 60 years and above residing in Maharashtra.",
+    "eligibility_hi": "महाराष्ट्रातील ६० वर्षे पूर्ण केलेले सर्व ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "Aadhaar Card",
+      "Maharashtra Senior Citizen Card / Age Proof",
+      "Passport photo"
+    ],
+    "documents_hi": [
+      "आधार कार्ड",
+      "ज्येष्ठ नागरिक ओळखपत्र",
+      "फोटो"
+    ],
+    "steps_en": [
+      "Apply at any BEST bus depot pass counter or via Chalo App",
+      "Submit Aadhaar card and photo to generate Senior Citizen Chalo Smart Card",
+      "Tap smart card while boarding to enjoy half-fare or unlimited travel"
+    ],
+    "steps_hi": [
+      "बेस्ट बस डेपो काऊंटरवर किंवा चलो ॲपवरून अर्ज करा",
+      "ज्येष्ठ नागरिक चलो स्मार्ट कार्ड मिळवा",
+      "बसमध्ये कार्ड टॅप करून ५०% सवलतीत प्रवास करा"
+    ],
+    "applyUrl": "https://bestundertaking.com/",
+    "sourceUrl": "https://bestundertaking.com/",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "slug": "pmpml-senior-citizen-concessional-pass-pune",
+    "level": "STATE",
+    "state": "Maharashtra",
+    "category": "senior-citizens",
+    "tags": "senior-citizens, maharashtra, pmpml, pune, bus-pass",
+    "title_en": "PMPML Pune Senior Citizen Concessional Travel Pass Scheme",
+    "title_hi": "PMPML पुणे ज्येष्ठ नागरिक सवलत बस पास योजना",
+    "description_en": "Pune Mahanagar Parivahan Mahamandal Limited (PMPML) scheme providing deeply discounted annual travel passes (just ₹500/year for unlimited travel for seniors 65+) and 50% fare discount for seniors aged 60+.",
+    "description_hi": "पुणे व पिंपरी-चिंचवडमध्ये ६५ वर्षांवरील ज्येष्ठांना फक्त ₹५०० प्रति वर्ष दरात अमर्यादित शहर बस प्रवासाचा PMPML पास देणारी योजना.",
+    "benefits_en": "Annual travel pass for just ₹500 per year allowing unlimited free travel across Pune and Pimpri-Chinchwad city bus networks for seniors aged 65+.",
+    "benefits_hi": "केवळ ₹५०० प्रति वर्ष शुल्कात पुणे व पिंपरी-चिंचवडमध्ये वर्षभर अमर्यादित मोफत बस प्रवास.",
+    "benefitType": "Deeply Subsidized Annual City Bus Pass",
+    "benefitAmount": "₹500 / year Unlimited City Bus Travel",
+    "eligibility_en": "Senior citizens aged 65 years and above residing in PMC or PCMC jurisdiction.",
+    "eligibility_hi": "पुणे (PMC) किंवा पिंपरी-चिंचवड (PCMC) हद्दीत राहणारे ६५ वर्षांवरील ज्येष्ठ नागरिक.",
+    "documents_en": [
+      "PMC / PCMC Residence Proof",
+      "Aadhaar Card / Age proof (65+)",
+      "Passport size photographs (2 copies)"
+    ],
+    "documents_hi": [
+      "पुणे/पिंपरी-चिंचवड रहिवासी दाखला",
+      "आधार कार्ड (६५+ वय)",
+      "२ फोटो"
+    ],
+    "steps_en": [
+      "Visit any PMPML main bus pass centre (Swargate, Pune Station, Katraj, etc.)",
+      "Pay nominal fee of ₹500 and verify age on Aadhaar",
+      "Receive laminated annual pass and travel free on all non-AC PMPML buses for full year"
+    ],
+    "steps_hi": [
+      "PMPML च्या कोणत्याही मुख्य बस पास केंद्रावर जा (उदा. स्वारगेट, पुणे स्टेशन)",
+      "फक्त ₹५०० भरून आधार पडताळणी करा",
+      "वर्षभर पुण्यात मोफत बस प्रवासाचा आनंद घ्या"
+    ],
+    "applyUrl": "https://pmpml.org/",
+    "sourceUrl": "https://pmpml.org/",
+    "lastVerified": "2026-10-16"
+  }
+]

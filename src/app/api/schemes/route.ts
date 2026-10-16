@@ -77,6 +77,12 @@ export async function GET(request: Request) {
       }
     }
 
+    // Tag filter (e.g. hostel, mahadbt, skills)
+    const tag = searchParams.get('tag')?.trim();
+    if (tag && tag.toLowerCase() !== 'all') {
+      conditions.push({ tags: { contains: tag, mode: 'insensitive' } });
+    }
+
     // Search query (case-insensitive search)
     if (search) {
       conditions.push({
@@ -87,6 +93,7 @@ export async function GET(request: Request) {
           { descriptionHi: { contains: search, mode: 'insensitive' } },
           { departmentEn: { contains: search, mode: 'insensitive' } },
           { departmentHi: { contains: search, mode: 'insensitive' } },
+          { tags: { contains: search, mode: 'insensitive' } },
         ],
       });
     }
