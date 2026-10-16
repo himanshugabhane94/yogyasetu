@@ -468,7 +468,10 @@ async function main() {
 
 main()
   .catch((err) => {
-    console.error('Fatal execution error during bulk import:', err);
+    // Redact any database connection string or credentials to ensure secrets are never logged
+    const rawMsg = err?.message || String(err);
+    const sanitizedMsg = rawMsg.replace(/((?:postgres(?:ql)?|mysql|sqlite|sqlserver):\/\/[^:]+:)[^@]+@/gi, '$1***@');
+    console.error('Fatal execution error during bulk import:', sanitizedMsg);
     process.exit(1);
   })
   .finally(async () => {
