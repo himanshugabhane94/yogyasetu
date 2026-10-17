@@ -125,7 +125,8 @@ model Reminder {
   user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
   schemeId     String
   scheme       Scheme    @relation(fields: [schemeId], references: [id], onDelete: Cascade)
-  daysBefore   Int       // 7, 3, 1
+  daysBefore   Int       // 7, 3, 1 (0 for custom remindOn dates)
+  remindOn     DateTime? // Custom user-chosen reminder date for ongoing schemes
   channelEmail Boolean   @default(true)
   channelInApp Boolean   @default(true)
   lastSentAt   DateTime?

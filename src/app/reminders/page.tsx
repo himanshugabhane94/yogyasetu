@@ -58,18 +58,24 @@ export default function RemindersPage() {
     }
   }, [status, router]);
 
-  const handleDelete = async (id: string, schemeTitle: string) => {
-    if (!confirm(language === 'hi' ? `क्या आप "${schemeTitle}" का रिमाइंडर हटाना चाहते हैं?` : `Delete reminder for "${schemeTitle}"?`)) {
+  const handleDelete = async (schemeId: string, schemeTitle: string) => {
+    if (
+      !confirm(
+        language === 'hi'
+          ? `क्या आप "${schemeTitle}" का रिमाइंडर हटाना चाहते हैं?`
+          : `Delete reminder for "${schemeTitle}"?`
+      )
+    ) {
       return;
     }
 
-    setDeletingId(id);
+    setDeletingId(schemeId);
     try {
-      const res = await fetch(`/api/reminders?id=${id}`, {
+      const res = await fetch(`/api/reminders?schemeId=${schemeId}`, {
         method: 'DELETE',
       });
       if (res.ok) {
-        setReminders((prev) => prev.filter((r) => r.id !== id));
+        setReminders((prev) => prev.filter((r) => r.schemeId !== schemeId));
         setToastMessage(language === 'hi' ? 'रिमाइंडर हटा दिया गया' : 'Reminder deleted');
         setTimeout(() => setToastMessage(null), 3000);
       }
@@ -163,8 +169,8 @@ export default function RemindersPage() {
             </h3>
             <p className="text-xs sm:text-sm text-slate-500 max-w-md mx-auto mb-6 leading-relaxed">
               {language === 'hi'
-                ? 'आपने अभी तक किसी योजना के लिए अंतिम तिथि रिमाइंडर सेट नहीं किया है। योजनाओं के विवरण पृष्ठ पर जाकर "Remind Me" बटन दबाएं।'
-                : 'You have not configured any deadline reminders yet. Visit any scheme detail page and click the "Remind Me" button to receive alerts before deadlines.'}
+                ? 'आपने अभी तक किसी योजना के लिए रिमाइंडर सेट नहीं किया है। योजनाओं के विवरण पृष्ठ या कार्ड पर दिए गए घंटी बटन पर जाकर रिमाइंडर सेट करें।'
+                : 'You have not configured any reminders yet. Visit any scheme detail page or click the bell icon on scheme cards to set reminders.'}
             </p>
             <Link
               href="/schemes"
@@ -180,7 +186,18 @@ export default function RemindersPage() {
               const scheme = group.scheme;
               const title = language === 'hi' && scheme.titleHi ? scheme.titleHi : scheme.titleEn;
               const department = language === 'hi' && scheme.departmentHi ? scheme.departmentHi : scheme.departmentEn;
-              const milestones = group.remindersList.map((r: any) => `${r.daysBefore}d`).join(', ');
+              
+              // Check if this scheme has a custom chosen reminder date
+              const customReminder = group.remindersList.find(
+                (r: any) => r.remindOn || r.daysBefore === 0
+              );
+              const isCustomDate = Boolean(customReminder && customReminder.remindOn);
+
+              const milestones = group.remindersList
+                .filter((r: any) => r.daysBefore > 0)
+                .map((r: any) => `${r.daysBefore}d`)
+                .join(', ');
+
               const hasEmail = group.remindersList.some((r: any) => r.channelEmail);
               const hasInApp = group.remindersList.some((r: any) => r.channelInApp);
 
@@ -221,22 +238,58 @@ export default function RemindersPage() {
                         <span>{department}</span>
                       </p>
 
-                      {/* Configured Milestones & Channels */}
+                      {/* Configured Milestones / Custom Date & Channels */}
                       <div className="flex flex-wrap items-center gap-2 text-xs">
-                        <span className="inline-flex items-center px-2.5 py-1 rounded-lg bg-amber-50 text-amber-800 border border-amber-200 font-semibold text-[11px]">
-                          <Clock className="w-3 h-3 mr-1" />
-                          <span>{language === 'hi' ? `अलर्ट: ${milestones} पहले` : `Alerts: ${milestones} before`}</span>
-                        </span>
+                        {isCustomDate ? (
+                          <span className="inline-flex items-center px-2.5 py-1 rounded-lg bg-blue-50 text-blue-900 border border-blue-200 font-bold text-[11px]">
+                            <Calendar className="w-3 h-3 mr-1 text-blue-600" />
+                            <span>
+                              {language === 'hi'
+                                ? `रिमाइंडर तिथि: ${
+                                    customReminder.remindOnFormatted ||
+                                    new Date(customReminder.remindOn).toLocaleDateString('hi-IN', {
+                                      day: 'numeric',
+                                      month: 'short',
+                                      year: 'numeric',
+                                    })
+                                  }`
+                                : `Reminder set for: ${
+                                    customReminder.remindOnFormatted ||
+                                    new Date(customReminder.remindOn).toLocaleDateString('en-IN', {
+                                      day: 'numeric',
+                                      month: 'short',
+                                      year: 'numeric',
+                                    })
+                                  }`}
+                              {customReminder.daysLeft !== null && customReminder.daysLeft !== undefined
+                                ? ` (${customReminder.daysLeft >= 0 ? `in ${customReminder.daysLeft}d` : 'past'})`
+                                : ''}
+                            </span>
+                          </span>
+                        ) : (
+                          <span className="inline-flex items-center px-2.5 py-1 rounded-lg bg-amber-50 text-amber-800 border border-amber-200 font-semibold text-[11px]">
+                            <Clock className="w-3 h-3 mr-1" />
+                            <span>
+                              {language === 'hi' ? `अलर्ट: ${milestones} पहले` : `Alerts: ${milestones} before`}
+                            </span>
+                          </span>
+                        )}
 
                         {hasEmail && (
-                          <span className="inline-flex items-center px-2 py-1 rounded-lg bg-slate-100 text-slate-700 text-[11px] font-medium" title="Email alerts active">
+                          <span
+                            className="inline-flex items-center px-2 py-1 rounded-lg bg-slate-100 text-slate-700 text-[11px] font-medium"
+                            title="Email alerts active"
+                          >
                             <Mail className="w-3 h-3 mr-1 text-govNavy-700" />
                             <span>Email</span>
                           </span>
                         )}
 
                         {hasInApp && (
-                          <span className="inline-flex items-center px-2 py-1 rounded-lg bg-slate-100 text-slate-700 text-[11px] font-medium" title="In-App bell notifications active">
+                          <span
+                            className="inline-flex items-center px-2 py-1 rounded-lg bg-slate-100 text-slate-700 text-[11px] font-medium"
+                            title="In-App bell notifications active"
+                          >
                             <Bell className="w-3 h-3 mr-1 text-amber-600" />
                             <span>In-App</span>
                           </span>
@@ -247,7 +300,13 @@ export default function RemindersPage() {
                     {/* Actions: Edit, Delete, Apply */}
                     <div className="flex items-center space-x-2 pt-2 sm:pt-0 shrink-0">
                       <button
-                        onClick={() => setEditingScheme(scheme)}
+                        onClick={() =>
+                          setEditingScheme({
+                            ...scheme,
+                            deadlineFormatted: group.deadlineFormatted,
+                            daysLeft: group.daysLeft,
+                          })
+                        }
                         className="p-2.5 rounded-xl border border-slate-200 hover:border-slate-300 bg-slate-50 hover:bg-slate-100 text-slate-600 transition-colors"
                         title={language === 'hi' ? 'रिमाइंडर संपादित करें' : 'Edit Reminders'}
                       >
@@ -255,8 +314,8 @@ export default function RemindersPage() {
                       </button>
 
                       <button
-                        onClick={() => handleDelete(group.remindersList[0].id, title)}
-                        disabled={deletingId === group.remindersList[0].id}
+                        onClick={() => handleDelete(group.schemeId, title)}
+                        disabled={deletingId === group.schemeId}
                         className="p-2.5 rounded-xl border border-rose-200 hover:border-rose-300 bg-rose-50 hover:bg-rose-100 text-rose-600 transition-colors"
                         title={language === 'hi' ? 'रिमाइंडर हटाएं' : 'Delete Reminder'}
                       >
@@ -286,7 +345,12 @@ export default function RemindersPage() {
         {editingScheme && (
           <RemindMeModal
             schemeId={editingScheme.id}
-            schemeTitle={language === 'hi' && editingScheme.titleHi ? editingScheme.titleHi : editingScheme.titleEn}
+            schemeTitle={
+              language === 'hi' && editingScheme.titleHi ? editingScheme.titleHi : editingScheme.titleEn
+            }
+            deadlineFormatted={editingScheme.deadlineFormatted}
+            daysLeft={editingScheme.daysLeft}
+            isOngoing={!editingScheme.deadline && !editingScheme.closeDate}
             isOpen={true}
             onClose={() => setEditingScheme(null)}
             onSuccess={() => {

@@ -51,7 +51,17 @@ export async function GET(request: Request) {
       let formattedDate: string | null = null;
       let isPast = false;
 
-      if (targetDate) {
+      if (r.remindOn) {
+        const rd = new Date(r.remindOn);
+        const diffMs = rd.getTime() - now.getTime();
+        daysLeft = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+        isPast = daysLeft < 0;
+        formattedDate = rd.toLocaleDateString('en-IN', {
+          day: 'numeric',
+          month: 'short',
+          year: 'numeric',
+        });
+      } else if (targetDate) {
         const d = new Date(targetDate);
         const diffMs = d.getTime() - now.getTime();
         daysLeft = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
@@ -67,6 +77,14 @@ export async function GET(request: Request) {
         id: r.id,
         schemeId: r.schemeId,
         daysBefore: r.daysBefore,
+        remindOn: r.remindOn,
+        remindOnFormatted: r.remindOn
+          ? new Date(r.remindOn).toLocaleDateString('en-IN', {
+              day: 'numeric',
+              month: 'short',
+              year: 'numeric',
+            })
+          : null,
         channelEmail: r.channelEmail,
         channelInApp: r.channelInApp,
         lastSentAt: r.lastSentAt,
@@ -106,7 +124,7 @@ export async function GET(request: Request) {
 /**
  * POST /api/reminders
  * Create or update deadline reminders for a scheme
- * Body: { schemeId: string, daysBefore: number | number[], channelEmail?: boolean, channelInApp?: boolean, replaceAllForScheme?: boolean }
+ * Body: { schemeId: string, daysBefore?: number | number[], remindOn?: string, channelEmail?: boolean, channelInApp?: boolean, replaceAllForScheme?: boolean }
  */
 export async function POST(request: Request) {
   try {
@@ -118,7 +136,14 @@ export async function POST(request: Request) {
     }
 
     const body = await request.json();
-    const { schemeId, daysBefore, channelEmail = true, channelInApp = true, replaceAllForScheme = false } = body;
+    const {
+      schemeId,
+      daysBefore,
+      remindOn,
+      channelEmail = true,
+      channelInApp = true,
+      replaceAllForScheme = false,
+    } = body;
 
     if (!schemeId) {
       return NextResponse.json({ error: 'schemeId is required' }, { status: 400 });
@@ -134,13 +159,63 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Scheme not found' }, { status: 404 });
     }
 
+    // Case 1: Custom date reminder (for ongoing schemes or specific user date)
+    if (remindOn) {
+      const parsedRemindOn = new Date(remindOn);
+      if (isNaN(parsedRemindOn.getTime())) {
+        return NextResponse.json({ error: 'Invalid remindOn date' }, { status: 400 });
+      }
+
+      if (replaceAllForScheme) {
+        await prisma.reminder.deleteMany({
+          where: {
+            userId,
+            schemeId,
+            daysBefore: { notIn: [0] },
+          },
+        });
+      }
+
+      const reminder = await prisma.reminder.upsert({
+        where: {
+          userId_schemeId_daysBefore: {
+            userId,
+            schemeId,
+            daysBefore: 0,
+          },
+        },
+        create: {
+          userId,
+          schemeId,
+          daysBefore: 0,
+          remindOn: parsedRemindOn,
+          channelEmail: Boolean(channelEmail),
+          channelInApp: Boolean(channelInApp),
+          status: 'ACTIVE',
+        },
+        update: {
+          remindOn: parsedRemindOn,
+          channelEmail: Boolean(channelEmail),
+          channelInApp: Boolean(channelInApp),
+          status: 'ACTIVE',
+        },
+      });
+
+      return NextResponse.json({
+        success: true,
+        message: 'Reminder configured successfully',
+        reminders: [reminder],
+      });
+    }
+
+    // Case 2: Deadline-based milestone reminders (7, 3, 1 days)
     const daysList: number[] = Array.isArray(daysBefore)
       ? daysBefore.map((d: any) => parseInt(d, 10)).filter((d: number) => !isNaN(d) && d > 0)
       : typeof daysBefore === 'number' && daysBefore > 0
       ? [daysBefore]
       : [7, 3, 1]; // default 7, 3, 1 days
 
-    // If replaceAllForScheme is true, delete existing active reminders for milestones not in daysList
+    // If replaceAllForScheme is true, delete existing active reminders for milestones not in daysList (and custom reminders)
     if (replaceAllForScheme) {
       await prisma.reminder.deleteMany({
         where: {
@@ -166,11 +241,13 @@ export async function POST(request: Request) {
           userId,
           schemeId,
           daysBefore: days,
+          remindOn: null,
           channelEmail: Boolean(channelEmail),
           channelInApp: Boolean(channelInApp),
           status: 'ACTIVE',
         },
         update: {
+          remindOn: null,
           channelEmail: Boolean(channelEmail),
           channelInApp: Boolean(channelInApp),
           status: 'ACTIVE',

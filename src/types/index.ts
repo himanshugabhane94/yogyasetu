@@ -137,6 +137,9 @@ export interface ReminderItem {
   schemeId: string;
   scheme?: SchemeItem;
   daysBefore: number;
+  remindOn?: string | null;
+  remindOnFormatted?: string | null;
+  daysLeft?: number | null;
   channelEmail: boolean;
   channelInApp: boolean;
   lastSentAt?: string | null;

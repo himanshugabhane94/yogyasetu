@@ -171,13 +171,16 @@ export default function SchemeDetailPage() {
   // Target deadline calculation
   const targetDeadline = scheme.deadline || scheme.closeDate;
   let hasActiveFutureDeadline = false;
-  let daysLeft = 0;
+  let isClosed = false;
+  let daysLeft: number | undefined = undefined;
   let formattedDeadlineStr = '';
   if (targetDeadline) {
     const d = new Date(targetDeadline);
     const diffMs = d.getTime() - Date.now();
-    daysLeft = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
-    hasActiveFutureDeadline = daysLeft >= 0;
+    const dl = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+    daysLeft = dl;
+    hasActiveFutureDeadline = dl >= 0;
+    isClosed = dl < 0;
     formattedDeadlineStr = d.toLocaleDateString('en-IN', {
       day: 'numeric',
       month: 'short',
@@ -258,7 +261,7 @@ export default function SchemeDetailPage() {
 
             {/* Actions: Remind Me, Save, Share, Print */}
             <div className="flex items-center space-x-2 no-print">
-              {hasActiveFutureDeadline && (
+              {!isClosed && (
                 <button
                   onClick={() => {
                     if (!session) {
@@ -268,7 +271,7 @@ export default function SchemeDetailPage() {
                     setRemindModalOpen(true);
                   }}
                   className="inline-flex items-center space-x-1.5 px-3.5 py-2 rounded-xl text-xs font-bold bg-amber-500 hover:bg-amber-600 active:bg-amber-700 text-govNavy-950 shadow-soft-sm transition-all"
-                  title={language === 'hi' ? 'अंतिम तिथि रिमाइंडर सेट करें' : 'Set Deadline Reminder'}
+                  title={language === 'hi' ? 'रिमाइंडर सेट करें' : 'Set Reminder'}
                 >
                   <Bell className="w-3.5 h-3.5 fill-current" />
                   <span>{language === 'hi' ? 'रिमाइंडर (Remind Me)' : 'Remind Me'}</span>
@@ -569,6 +572,7 @@ export default function SchemeDetailPage() {
           schemeTitle={title}
           deadlineFormatted={formattedDeadlineStr}
           daysLeft={daysLeft}
+          isOngoing={!targetDeadline}
           isOpen={remindModalOpen}
           onClose={() => setRemindModalOpen(false)}
         />

@@ -80,6 +80,102 @@ async function handleCron(request: Request) {
 
     for (const reminder of activeReminders) {
       processedCount++;
+
+      // Case 1: Custom reminder date (ongoing schemes or user-chosen reminder date)
+      if (reminder.remindOn) {
+        const remindOnDate = new Date(reminder.remindOn);
+        const remindOnIst = getIstDateString(remindOnDate);
+
+        // If remindOn date is in the past, mark SENT and continue
+        if (remindOnIst < todayIst) {
+          await prisma.reminder.update({
+            where: { id: reminder.id },
+            data: { status: 'SENT' },
+          });
+          expiredCount++;
+          continue;
+        }
+
+        // Trigger condition: today in IST matches remindOn date
+        if (remindOnIst === todayIst) {
+          // Idempotency check: has this reminder already been sent today?
+          if (reminder.lastSentAt) {
+            const lastSentIst = getIstDateString(new Date(reminder.lastSentAt));
+            if (lastSentIst === todayIst) {
+              await prisma.reminder.update({
+                where: { id: reminder.id },
+                data: { status: 'SENT' },
+              });
+              continue;
+            }
+          }
+
+          const formattedDate = formatIstDisplayDate(remindOnDate);
+
+          // 1. In-App Notification
+          if (reminder.channelInApp) {
+            try {
+              const notifTitleEn = `Scheduled Reminder: ${reminder.scheme.titleEn}`;
+              const notifTitleHi = `निर्धारित रिमाइंडर: ${reminder.scheme.titleHi}`;
+              const notifMsgEn = `This is your scheduled reminder for ${reminder.scheme.titleEn}. This scheme is ongoing. Review details and apply on the official government portal. Verify details on the official website.`;
+              const notifMsgHi = `यह ${reminder.scheme.titleHi} के लिए आपका निर्धारित रिमाइंडर है। यह योजना निरंतर (Ongoing) है। आधिकारिक पोर्टल पर विवरण देखें और आवेदन करें। आधिकारिक वेबसाइट पर विवरण सत्यापित करें।`;
+
+              await prisma.notification.create({
+                data: {
+                  userId: reminder.userId,
+                  type: 'DEADLINE',
+                  titleEn: notifTitleEn,
+                  titleHi: notifTitleHi,
+                  title_en: notifTitleEn,
+                  title_hi: notifTitleHi,
+                  messageEn: notifMsgEn,
+                  messageHi: notifMsgHi,
+                  body_en: notifMsgEn,
+                  body_hi: notifMsgHi,
+                  link: `/schemes/${reminder.scheme.id}`,
+                  read: false,
+                  isRead: false,
+                },
+              });
+            } catch (notifErr) {
+              console.error(`Failed to create in-app notification for reminder ${reminder.id}:`, notifErr);
+            }
+          }
+
+          // 2. Email Notification
+          if (reminder.channelEmail && reminder.user?.email && reminder.user.email.includes('@')) {
+            try {
+              await sendDeadlineReminderEmail(
+                reminder.user.email,
+                reminder.user.name,
+                reminder.scheme.titleEn,
+                reminder.scheme.departmentEn,
+                0,
+                formattedDate,
+                reminder.scheme.officialLink || 'https://myscheme.gov.in',
+                reminder.scheme.id
+              );
+            } catch (mailErr) {
+              errorCount++;
+              console.error(`Failed to send email to ${reminder.user.email} for reminder ${reminder.id}:`, mailErr);
+            }
+          }
+
+          // 3. Mark lastSentAt to today AND mark SENT
+          await prisma.reminder.update({
+            where: { id: reminder.id },
+            data: {
+              lastSentAt: now,
+              status: 'SENT',
+            },
+          });
+
+          sentCount++;
+        }
+        continue;
+      }
+
+      // Case 2: Deadline-based milestone reminder (7, 3, 1 days before deadline)
       const targetDeadline = reminder.scheme.deadline || reminder.scheme.closeDate;
 
       // If scheme has no date-based deadline, skip

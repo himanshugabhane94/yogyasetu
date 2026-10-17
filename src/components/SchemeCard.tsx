@@ -6,7 +6,9 @@ import { useSession } from 'next-auth/react';
 import { useLanguage } from '@/context/LanguageContext';
 import { SchemeItem, EligibilityCriteria } from '@/types';
 import DeadlineBadge from '@/components/DeadlineBadge';
+import RemindMeModal from '@/components/RemindMeModal';
 import {
+  Bell,
   Bookmark,
   ExternalLink,
   FileText,
@@ -60,6 +62,25 @@ export default function SchemeCard({
   const { language, t } = useLanguage();
   const [isBookmarked, setIsBookmarked] = useState(scheme.isBookmarked || false);
   const [isBookmarking, setIsBookmarking] = useState(false);
+  const [remindModalOpen, setRemindModalOpen] = useState(false);
+
+  // Target deadline calculation
+  const targetDeadline = scheme.deadline || scheme.closeDate;
+  let isClosed = false;
+  let daysLeft: number | undefined = undefined;
+  let formattedDeadlineStr = '';
+  if (targetDeadline) {
+    const d = new Date(targetDeadline);
+    const diffMs = d.getTime() - Date.now();
+    const dl = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+    daysLeft = dl;
+    isClosed = dl < 0;
+    formattedDeadlineStr = d.toLocaleDateString('en-IN', {
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric',
+    });
+  }
 
   // Parse JSON documents count and eligibility
   let docsCount = 3;
@@ -102,6 +123,17 @@ export default function SchemeCard({
     } finally {
       setIsBookmarking(false);
     }
+  };
+
+  const handleRemindClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    if (!session) {
+      window.location.href = '/login?callbackUrl=' + encodeURIComponent(window.location.pathname);
+      return;
+    }
+    setRemindModalOpen(true);
   };
 
   const title = language === 'hi' && scheme.titleHi ? scheme.titleHi : scheme.titleEn;
@@ -182,6 +214,19 @@ export default function SchemeCard({
               >
                 {scheme.matchScore}% Match
               </span>
+            )}
+
+            {/* Reminder Bell Button (visible unless Closed) */}
+            {!isClosed && (
+              <button
+                type="button"
+                onClick={handleRemindClick}
+                aria-label="Set reminder"
+                title={language === 'hi' ? 'रिमाइंडर सेट करें' : 'Set Reminder'}
+                className="p-2 rounded-xl text-slate-400 hover:text-amber-600 hover:bg-amber-50 transition-smooth"
+              >
+                <Bell className="w-4 h-4" />
+              </button>
             )}
 
             {/* Bookmark button */}
@@ -324,6 +369,17 @@ export default function SchemeCard({
           </Link>
         )}
       </div>
+
+      {/* Remind Me Modal */}
+      <RemindMeModal
+        schemeId={scheme.id}
+        schemeTitle={title}
+        deadlineFormatted={formattedDeadlineStr}
+        daysLeft={daysLeft}
+        isOngoing={!targetDeadline}
+        isOpen={remindModalOpen}
+        onClose={() => setRemindModalOpen(false)}
+      />
     </div>
   );
 }
