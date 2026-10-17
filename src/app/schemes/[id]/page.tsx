@@ -23,7 +23,10 @@ import {
   Clock,
   Layers,
   ArrowUpRight,
+  Bell,
 } from 'lucide-react';
+import DeadlineBadge from '@/components/DeadlineBadge';
+import RemindMeModal from '@/components/RemindMeModal';
 
 export default function SchemeDetailPage() {
   const params = useParams();
@@ -37,6 +40,7 @@ export default function SchemeDetailPage() {
   const [copied, setCopied] = useState(false);
   const [applicationStatus, setApplicationStatus] = useState<string>('NONE');
   const [updatingStatus, setUpdatingStatus] = useState(false);
+  const [remindModalOpen, setRemindModalOpen] = useState(false);
 
   useEffect(() => {
     if (params.id) {
@@ -164,6 +168,23 @@ export default function SchemeDetailPage() {
     ? (language === 'hi' ? scheme.category.nameHi : scheme.category.nameEn)
     : 'Government Scheme';
 
+  // Target deadline calculation
+  const targetDeadline = scheme.deadline || scheme.closeDate;
+  let hasActiveFutureDeadline = false;
+  let daysLeft = 0;
+  let formattedDeadlineStr = '';
+  if (targetDeadline) {
+    const d = new Date(targetDeadline);
+    const diffMs = d.getTime() - Date.now();
+    daysLeft = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+    hasActiveFutureDeadline = daysLeft >= 0;
+    formattedDeadlineStr = d.toLocaleDateString('en-IN', {
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric',
+    });
+  }
+
   return (
     <div className="bg-slate-50 min-h-screen py-8 px-4 sm:px-6 lg:px-8">
       <div className="max-w-5xl mx-auto">
@@ -235,8 +256,25 @@ export default function SchemeDetailPage() {
               })()}
             </div>
 
-            {/* Actions: Save, Share, Print */}
+            {/* Actions: Remind Me, Save, Share, Print */}
             <div className="flex items-center space-x-2 no-print">
+              {hasActiveFutureDeadline && (
+                <button
+                  onClick={() => {
+                    if (!session) {
+                      router.push(`/login?callbackUrl=${encodeURIComponent(window.location.pathname)}`);
+                      return;
+                    }
+                    setRemindModalOpen(true);
+                  }}
+                  className="inline-flex items-center space-x-1.5 px-3.5 py-2 rounded-xl text-xs font-bold bg-amber-500 hover:bg-amber-600 active:bg-amber-700 text-govNavy-950 shadow-soft-sm transition-all"
+                  title={language === 'hi' ? 'अंतिम तिथि रिमाइंडर सेट करें' : 'Set Deadline Reminder'}
+                >
+                  <Bell className="w-3.5 h-3.5 fill-current" />
+                  <span>{language === 'hi' ? 'रिमाइंडर (Remind Me)' : 'Remind Me'}</span>
+                </button>
+              )}
+
               <button
                 onClick={handleBookmarkToggle}
                 className={`p-2.5 rounded-xl border transition-smooth ${
@@ -278,10 +316,23 @@ export default function SchemeDetailPage() {
           </h1>
 
           {/* Ministry / Department */}
-          <p className="text-xs sm:text-sm text-slate-600 flex items-center mb-6">
+          <p className="text-xs sm:text-sm text-slate-600 flex items-center mb-3">
             <Building2 className="w-4 h-4 mr-1.5 text-slate-400 shrink-0" />
             <span className="font-semibold">{department}</span>
           </p>
+
+          {/* Deadline Badge */}
+          <div className="mb-6">
+            <DeadlineBadge
+              deadline={scheme.deadline}
+              closeDate={scheme.closeDate}
+              deadlineNote={scheme.deadlineNote}
+              deadlineVerifiedAt={scheme.deadlineVerifiedAt}
+              lastVerified={scheme.lastVerified}
+              updatedAt={scheme.updatedAt}
+              showVerifiedDate={true}
+            />
+          </div>
 
           {/* Benefit Highlight Box */}
           {scheme.benefitAmount && (
@@ -511,6 +562,16 @@ export default function SchemeDetailPage() {
             )}
           </section>
         </div>
+
+        {/* Remind Me Dialog */}
+        <RemindMeModal
+          schemeId={scheme.id}
+          schemeTitle={title}
+          deadlineFormatted={formattedDeadlineStr}
+          daysLeft={daysLeft}
+          isOpen={remindModalOpen}
+          onClose={() => setRemindModalOpen(false)}
+        />
       </div>
     </div>
   );

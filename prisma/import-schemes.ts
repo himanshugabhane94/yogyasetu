@@ -488,6 +488,9 @@ async function main() {
       const benefitType = raw.benefitType || raw.benefit_type || 'Financial';
       const benefitAmount = raw.benefitAmount || raw.benefit_amount || null;
       const lastVerified = raw.lastVerified ? new Date(raw.lastVerified) : new Date();
+      const deadline = raw.deadline ? new Date(raw.deadline) : raw.closeDate ? new Date(raw.closeDate) : null;
+      const deadlineNote = raw.deadlineNote || raw.deadline_note || (!deadline ? 'Ongoing' : null);
+      const deadlineVerifiedAt = raw.deadlineVerifiedAt ? new Date(raw.deadlineVerifiedAt) : lastVerified;
 
       const payload = {
         categoryId,
@@ -509,6 +512,9 @@ async function main() {
         level,
         state,
         tags,
+        deadline,
+        deadlineNote,
+        deadlineVerifiedAt,
         lastVerified,
         status: 'PUBLISHED',
       };

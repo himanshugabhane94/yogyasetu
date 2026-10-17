@@ -2,41 +2,36 @@ import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/lib/auth';
 import prisma from '@/lib/prisma';
-import { sendDeadlineReminderEmail } from '@/lib/mailer';
 
 export const dynamic = 'force-dynamic';
 
 /**
  * GET /api/reminders
- * Returns upcoming deadline schemes for the logged-in user (within 30 days)
- * and automatically logs database notifications / emails for 7, 3, 1 day thresholds.
+ * Fetch active deadline reminders for the authenticated user
  */
-export async function GET() {
+export async function GET(request: Request) {
   try {
     const session = await getServerSession(authOptions);
-    if (!session?.user) {
-      return NextResponse.json({ deadlines: [] });
+    const userId = (session?.user as any)?.id;
+
+    if (!session || !userId) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    const userId = (session.user as any).id;
-    if (!userId) {
-      return NextResponse.json({ deadlines: [] });
+    const { searchParams } = new URL(request.url);
+    const schemeId = searchParams.get('schemeId')?.trim();
+
+    const whereClause: any = {
+      userId,
+      status: { not: 'CANCELLED' },
+    };
+
+    if (schemeId) {
+      whereClause.schemeId = schemeId;
     }
 
-    const now = new Date();
-    const thirtyDaysFromNow = new Date(now.getTime() + 30 * 24 * 60 * 60 * 1000);
-
-    // Fetch user's bookmarked schemes that have an upcoming closeDate within 30 days
-    const bookmarks = await prisma.bookmark.findMany({
-      where: {
-        userId,
-        scheme: {
-          closeDate: {
-            gte: now,
-            lte: thirtyDaysFromNow,
-          },
-        },
-      },
+    const reminders = await prisma.reminder.findMany({
+      where: whereClause,
       include: {
         scheme: {
           include: {
@@ -44,91 +39,205 @@ export async function GET() {
           },
         },
       },
+      orderBy: { createdAt: 'desc' },
     });
 
-    const user = await prisma.user.findUnique({
-      where: { id: userId },
-      select: { name: true, email: true },
-    });
+    const now = new Date();
 
-    const upcomingDeadlines = [];
+    const formattedReminders = reminders.map((r) => {
+      const scheme = r.scheme;
+      const targetDate = scheme.deadline || scheme.closeDate;
+      let daysLeft: number | null = null;
+      let formattedDate: string | null = null;
+      let isPast = false;
 
-    for (const bm of bookmarks) {
-      const scheme = bm.scheme;
-      if (!scheme.closeDate) continue;
-
-      const diffMs = new Date(scheme.closeDate).getTime() - now.getTime();
-      const daysLeft = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
-      const formattedDate = new Date(scheme.closeDate).toLocaleDateString('en-IN', {
-        day: 'numeric',
-        month: 'short',
-        year: 'numeric',
-      });
-
-      upcomingDeadlines.push({
-        id: scheme.id,
-        titleEn: scheme.titleEn,
-        titleHi: scheme.titleHi,
-        departmentEn: scheme.departmentEn,
-        departmentHi: scheme.departmentHi,
-        closeDate: scheme.closeDate,
-        closeDateFormatted: formattedDate,
-        daysLeft,
-        officialLink: scheme.officialLink,
-        category: scheme.category,
-      });
-
-      // Trigger automated notification for 7, 3, and 1 day milestones if not sent today
-      if (daysLeft === 7 || daysLeft === 3 || daysLeft === 1) {
-        const notifTitle = `Deadline Alert: ${daysLeft} ${daysLeft === 1 ? 'day' : 'days'} left for ${scheme.titleEn}`;
-        
-        // Check if notification already logged today
-        const existingNotif = await prisma.notification.findFirst({
-          where: {
-            userId,
-            titleEn: notifTitle,
-          },
+      if (targetDate) {
+        const d = new Date(targetDate);
+        const diffMs = d.getTime() - now.getTime();
+        daysLeft = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+        formattedDate = d.toLocaleDateString('en-IN', {
+          day: 'numeric',
+          month: 'short',
+          year: 'numeric',
         });
-
-        if (!existingNotif) {
-          await prisma.notification.create({
-            data: {
-              userId,
-              type: 'DEADLINE',
-              titleEn: notifTitle,
-              titleHi: `अंतिम तिथि चेतावनी: ${scheme.titleHi} के लिए ${daysLeft} दिन शेष`,
-              messageEn: `The application deadline for ${scheme.titleEn} closes on ${formattedDate}. Complete your submission before the portal closes.`,
-              messageHi: `${scheme.titleHi} के लिए आवेदन करने की अंतिम तिथि ${formattedDate} है। कृपया समय से पहले आवेदन करें।`,
-              link: `/schemes/${scheme.id}`,
-            },
-          });
-
-          // Dispatch email if user has a valid email address
-          if (user?.email && user.email.includes('@')) {
-            await sendDeadlineReminderEmail(
-              user.email,
-              user.name,
-              scheme.titleEn,
-              scheme.departmentEn,
-              daysLeft,
-              formattedDate,
-              scheme.officialLink,
-              scheme.id
-            );
-          }
-        }
+        isPast = daysLeft < 0;
       }
-    }
 
-    // Sort by soonest deadline first
-    upcomingDeadlines.sort((a, b) => a.daysLeft - b.daysLeft);
+      return {
+        id: r.id,
+        schemeId: r.schemeId,
+        daysBefore: r.daysBefore,
+        channelEmail: r.channelEmail,
+        channelInApp: r.channelInApp,
+        lastSentAt: r.lastSentAt,
+        status: r.status,
+        createdAt: r.createdAt,
+        daysLeft,
+        isPast,
+        deadlineFormatted: formattedDate,
+        scheme: {
+          id: scheme.id,
+          titleEn: scheme.titleEn,
+          titleHi: scheme.titleHi,
+          departmentEn: scheme.departmentEn,
+          departmentHi: scheme.departmentHi,
+          deadline: scheme.deadline,
+          closeDate: scheme.closeDate,
+          deadlineNote: scheme.deadlineNote,
+          deadlineVerifiedAt: scheme.deadlineVerifiedAt || scheme.lastVerified,
+          officialLink: scheme.officialLink,
+          state: scheme.state,
+          level: scheme.level,
+          category: scheme.category,
+        },
+      };
+    });
 
     return NextResponse.json({
-      deadlines: upcomingDeadlines,
-      count: upcomingDeadlines.length,
+      reminders: formattedReminders,
+      count: formattedReminders.length,
     });
   } catch (error: any) {
     console.error('Fetch reminders error:', error);
-    return NextResponse.json({ error: 'Failed to fetch deadline reminders' }, { status: 500 });
+    return NextResponse.json({ error: 'Failed to fetch reminders' }, { status: 500 });
+  }
+}
+
+/**
+ * POST /api/reminders
+ * Create or update deadline reminders for a scheme
+ * Body: { schemeId: string, daysBefore: number | number[], channelEmail?: boolean, channelInApp?: boolean, replaceAllForScheme?: boolean }
+ */
+export async function POST(request: Request) {
+  try {
+    const session = await getServerSession(authOptions);
+    const userId = (session?.user as any)?.id;
+
+    if (!session || !userId) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
+    const body = await request.json();
+    const { schemeId, daysBefore, channelEmail = true, channelInApp = true, replaceAllForScheme = false } = body;
+
+    if (!schemeId) {
+      return NextResponse.json({ error: 'schemeId is required' }, { status: 400 });
+    }
+
+    // Verify scheme exists
+    const scheme = await prisma.scheme.findUnique({
+      where: { id: schemeId },
+      select: { id: true, deadline: true, closeDate: true, deadlineNote: true },
+    });
+
+    if (!scheme) {
+      return NextResponse.json({ error: 'Scheme not found' }, { status: 404 });
+    }
+
+    const daysList: number[] = Array.isArray(daysBefore)
+      ? daysBefore.map((d: any) => parseInt(d, 10)).filter((d: number) => !isNaN(d) && d > 0)
+      : typeof daysBefore === 'number' && daysBefore > 0
+      ? [daysBefore]
+      : [7, 3, 1]; // default 7, 3, 1 days
+
+    // If replaceAllForScheme is true, delete existing active reminders for milestones not in daysList
+    if (replaceAllForScheme) {
+      await prisma.reminder.deleteMany({
+        where: {
+          userId,
+          schemeId,
+          daysBefore: { notIn: daysList },
+        },
+      });
+    }
+
+    const savedReminders = [];
+
+    for (const days of daysList) {
+      const reminder = await prisma.reminder.upsert({
+        where: {
+          userId_schemeId_daysBefore: {
+            userId,
+            schemeId,
+            daysBefore: days,
+          },
+        },
+        create: {
+          userId,
+          schemeId,
+          daysBefore: days,
+          channelEmail: Boolean(channelEmail),
+          channelInApp: Boolean(channelInApp),
+          status: 'ACTIVE',
+        },
+        update: {
+          channelEmail: Boolean(channelEmail),
+          channelInApp: Boolean(channelInApp),
+          status: 'ACTIVE',
+        },
+      });
+      savedReminders.push(reminder);
+    }
+
+    return NextResponse.json({
+      success: true,
+      message: 'Reminders configured successfully',
+      reminders: savedReminders,
+    });
+  } catch (error: any) {
+    console.error('Create reminder error:', error);
+    return NextResponse.json({ error: 'Failed to configure reminder' }, { status: 500 });
+  }
+}
+
+/**
+ * DELETE /api/reminders
+ * Delete a specific reminder or all reminders for a scheme
+ * Query param: ?id=... or ?schemeId=...
+ */
+export async function DELETE(request: Request) {
+  try {
+    const session = await getServerSession(authOptions);
+    const userId = (session?.user as any)?.id;
+
+    if (!session || !userId) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
+    const { searchParams } = new URL(request.url);
+    const id = searchParams.get('id');
+    const schemeId = searchParams.get('schemeId');
+
+    if (id) {
+      const existing = await prisma.reminder.findUnique({
+        where: { id },
+      });
+
+      if (!existing || existing.userId !== userId) {
+        return NextResponse.json({ error: 'Reminder not found' }, { status: 404 });
+      }
+
+      await prisma.reminder.delete({
+        where: { id },
+      });
+
+      return NextResponse.json({ success: true, message: 'Reminder deleted' });
+    }
+
+    if (schemeId) {
+      await prisma.reminder.deleteMany({
+        where: {
+          userId,
+          schemeId,
+        },
+      });
+
+      return NextResponse.json({ success: true, message: 'All reminders for scheme deleted' });
+    }
+
+    return NextResponse.json({ error: 'id or schemeId required' }, { status: 400 });
+  } catch (error: any) {
+    console.error('Delete reminder error:', error);
+    return NextResponse.json({ error: 'Failed to delete reminder' }, { status: 500 });
   }
 }

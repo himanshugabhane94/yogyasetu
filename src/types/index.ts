@@ -67,6 +67,9 @@ export interface SchemeItem {
   lastVerified?: string | null;
   openDate?: string | null;
   closeDate?: string | null;
+  deadline?: string | null;
+  deadlineNote?: string | null;
+  deadlineVerifiedAt?: string | null;
   tags?: string | null;
   status: 'DRAFT' | 'VERIFIED' | 'PUBLISHED' | 'CLOSED';
   viewsCount: number;
@@ -113,12 +116,30 @@ export interface ApplicationTrackerItem {
 export interface NotificationItem {
   id: string;
   userId: string;
-  type: 'SCHEME_MATCH' | 'DEADLINE' | 'STATUS_UPDATE' | 'SYSTEM';
-  titleEn: string;
-  titleHi: string;
-  messageEn: string;
-  messageHi: string;
+  type?: 'SCHEME_MATCH' | 'DEADLINE' | 'STATUS_UPDATE' | 'SYSTEM' | string;
+  titleEn?: string;
+  titleHi?: string;
+  messageEn?: string;
+  messageHi?: string;
+  title_en?: string | null;
+  title_hi?: string | null;
+  body_en?: string | null;
+  body_hi?: string | null;
   link?: string | null;
-  read: boolean;
+  read?: boolean;
+  isRead?: boolean;
+  createdAt: string;
+}
+
+export interface ReminderItem {
+  id: string;
+  userId: string;
+  schemeId: string;
+  scheme?: SchemeItem;
+  daysBefore: number;
+  channelEmail: boolean;
+  channelInApp: boolean;
+  lastSentAt?: string | null;
+  status: 'ACTIVE' | 'SENT' | 'CANCELLED';
   createdAt: string;
 }

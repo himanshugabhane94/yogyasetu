@@ -244,40 +244,56 @@ export async function sendDeadlineReminderEmail(
         <title>Scheme Deadline Reminder</title>
         <style>
           body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #F8FAFC; margin: 0; padding: 24px; color: #1E293B; }
-          .card { max-width: 540px; margin: 0 auto; background: #FFFFFF; border-radius: 20px; border: 1px solid #E2E8F0; padding: 36px 32px; box-shadow: 0 4px 16px rgba(11, 61, 145, 0.06); }
-          .badge { display: inline-block; padding: 6px 12px; border-radius: 20px; font-size: 12px; font-weight: 800; color: #FFFFFF; background-color: ${urgencyColor}; margin-bottom: 16px; }
+          .card { max-width: 540px; margin: 0 auto; background: #FFFFFF; border-radius: 20px; border: 1px solid #E2E8F0; padding: 36px 32px; box-shadow: 0 4px 16px rgba(11, 61, 145, 0.06); overflow: hidden; }
+          .tricolor-stripe { height: 5px; background: linear-gradient(90deg, #FF9933 0%, #FF9933 33.3%, #0B3D91 33.3%, #0B3D91 66.6%, #138808 66.6%, #138808 100%); margin: -36px -32px 28px -32px; }
+          .brand { text-align: center; margin-bottom: 20px; }
+          .brand-title { font-size: 22px; font-weight: 900; color: #0B3D91; letter-spacing: -0.5px; }
+          .brand-saffron { color: #FF9933; }
+          .badge { display: inline-block; padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 800; color: #FFFFFF; background-color: ${urgencyColor}; margin-bottom: 16px; }
           h2 { font-size: 20px; font-weight: 800; color: #0B3D91; margin: 0 0 12px 0; }
           p { font-size: 14px; line-height: 1.6; color: #475569; margin: 0 0 16px 0; }
-          .scheme-box { background: #F1F5F9; border-left: 4px solid #0B3D91; border-radius: 12px; padding: 16px 20px; margin: 20px 0; }
-          .scheme-title { font-size: 16px; font-weight: 800; color: #0B3D91; margin-bottom: 4px; }
-          .scheme-dept { font-size: 12px; color: #64748B; margin-bottom: 8px; }
-          .btn { display: inline-block; background-color: #0B3D91; color: #FFFFFF; font-weight: 800; font-size: 14px; padding: 12px 24px; border-radius: 12px; text-decoration: none; text-align: center; margin-top: 12px; }
+          .scheme-box { background: #F8FAFC; border-left: 4px solid #0B3D91; border-radius: 12px; padding: 16px 20px; margin: 20px 0; border: 1px solid #E2E8F0; border-left-width: 4px; }
+          .scheme-title { font-size: 16px; font-weight: 800; color: #0B3D91; margin-bottom: 6px; }
+          .scheme-dept { font-size: 12px; color: #64748B; margin-bottom: 10px; }
+          .btn { display: inline-block; background-color: #0B3D91; color: #FFFFFF !important; font-weight: 800; font-size: 14px; padding: 13px 26px; border-radius: 12px; text-decoration: none; text-align: center; margin-top: 8px; box-shadow: 0 2px 8px rgba(11, 61, 145, 0.2); }
+          .verify-notice { font-size: 12px; color: #64748B; font-weight: 600; text-align: center; margin-top: 20px; padding: 10px 14px; background: #F1F5F9; border-radius: 10px; }
           .footer { font-size: 11px; color: #94A3B8; text-align: center; margin-top: 28px; border-top: 1px solid #F1F5F9; padding-top: 16px; }
         </style>
       </head>
       <body>
         <div class="card">
-          <div class="badge">${urgencyText}</div>
+          <div class="tricolor-stripe"></div>
+          <div class="brand">
+            <span class="brand-title">Yogya<span class="brand-saffron">Setu</span></span>
+          </div>
+
+          <div style="text-align: center; margin-bottom: 12px;">
+            <div class="badge">${urgencyText}</div>
+          </div>
           <h2>Hello ${userName || 'Citizen'},</h2>
-          <p>This is a reminder that the application deadline for your saved government scheme is approaching soon:</p>
+          <p>This is a reminder that the application deadline for your saved government scheme is approaching:</p>
           
           <div class="scheme-box">
             <div class="scheme-title">${schemeTitle}</div>
-            <div class="scheme-dept">🏛️ ${department}</div>
-            <p style="margin: 0; font-size: 13px; font-weight: 700; color: ${urgencyColor};">
+            <div class="scheme-dept">🏛️ ${department || 'Government of India'}</div>
+            <p style="margin: 0; font-size: 14px; font-weight: 800; color: ${urgencyColor};">
               Closing Date: ${closeDateFormatted} (${daysLeft} ${daysLeft === 1 ? 'day' : 'days'} left)
             </p>
           </div>
 
-          <p>Please make sure you submit your application and upload the necessary documents before the portal closes.</p>
+          <p>Please make sure you submit your application and upload the necessary documents before the official portal closes.</p>
 
-          <div style="text-align: center;">
-            <a href="${officialLink}" class="btn">Apply on Official Portal &rarr;</a>
+          <div style="text-align: center; margin: 24px 0 16px 0;">
+            <a href="${officialLink}" class="btn" target="_blank" rel="noopener noreferrer">Apply on Official Portal &rarr;</a>
+          </div>
+
+          <div class="verify-notice">
+            ℹ️ Verify the deadline on the official website.
           </div>
 
           <div class="footer">
             YogyaSetu Citizen Portal | Scheme Deadline Monitoring Service
-            <br>&copy; 2026 YogyaSetu.
+            <br>&copy; 2026 YogyaSetu. Built for Citizens of India.
           </div>
         </div>
       </body>

@@ -1,10 +1,11 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useSession, signOut } from 'next-auth/react';
 import { useLanguage } from '@/context/LanguageContext';
+import { NotificationItem } from '@/types';
 import {
   Search,
   Bell,
@@ -19,6 +20,8 @@ import {
   Sparkles,
   Globe,
   ArrowRight,
+  Clock,
+  CheckCheck,
 } from 'lucide-react';
 
 export default function Navbar() {
@@ -27,20 +30,124 @@ export default function Navbar() {
   const { language, toggleLanguage, t } = useLanguage();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [userDropdownOpen, setUserDropdownOpen] = useState(false);
+  const [notificationsOpen, setNotificationsOpen] = useState(false);
+  const [notifications, setNotifications] = useState<NotificationItem[]>([]);
+  const [loadingNotifications, setLoadingNotifications] = useState(false);
   const [unreadNotifications, setUnreadNotifications] = useState(0);
+  const [urgentCount, setUrgentCount] = useState(0);
+  const [bannerDismissed, setBannerDismissed] = useState(true);
+
+  const notificationRef = useRef<HTMLDivElement>(null);
+  const userDropdownRef = useRef<HTMLDivElement>(null);
+
+  const fetchNotifications = async () => {
+    try {
+      setLoadingNotifications(true);
+      const res = await fetch('/api/notifications?limit=10');
+      const data = await res.json();
+      if (data.notifications) {
+        setNotifications(data.notifications);
+      }
+      if (data.unreadCount !== undefined) {
+        setUnreadNotifications(data.unreadCount);
+      }
+    } catch {
+      // silent
+    } finally {
+      setLoadingNotifications(false);
+    }
+  };
 
   useEffect(() => {
     if (session?.user) {
-      fetch('/api/notifications')
-        .then((res) => res.json())
-        .then((data) => {
-          if (data.unreadCount !== undefined) {
-            setUnreadNotifications(data.unreadCount);
-          }
-        })
-        .catch(() => {});
+      fetchNotifications();
+
+      // Check deadline banner
+      const isDismissed =
+        typeof window !== 'undefined' &&
+        sessionStorage.getItem('dismissed_deadline_banner') === 'true';
+
+      if (!isDismissed) {
+        fetch('/api/reminders')
+          .then((res) => res.json())
+          .then((data) => {
+            if (data.reminders) {
+              const urgent = data.reminders.filter(
+                (r: any) =>
+                  r.status === 'ACTIVE' &&
+                  r.daysLeft !== null &&
+                  r.daysLeft >= 0 &&
+                  r.daysLeft <= 7
+              );
+              const uniqueSchemes = new Set(
+                urgent.map((r: any) => r.scheme?.id || r.schemeId)
+              );
+              if (uniqueSchemes.size > 0) {
+                setUrgentCount(uniqueSchemes.size);
+                setBannerDismissed(false);
+              }
+            }
+          })
+          .catch(() => {});
+      }
     }
   }, [session]);
+
+  // Click outside to close dropdowns
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (notificationRef.current && !notificationRef.current.contains(event.target as Node)) {
+        setNotificationsOpen(false);
+      }
+      if (userDropdownRef.current && !userDropdownRef.current.contains(event.target as Node)) {
+        setUserDropdownOpen(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  const handleMarkAllRead = async () => {
+    try {
+      await fetch('/api/notifications/read', {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ markAll: true }),
+      });
+      setUnreadNotifications(0);
+      setNotifications((prev) =>
+        prev.map((n) => ({ ...n, isRead: true, read: true }))
+      );
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  const handleNotificationClick = async (notif: NotificationItem) => {
+    if (!notif.isRead && !notif.read) {
+      try {
+        await fetch('/api/notifications/read', {
+          method: 'PATCH',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ notificationId: notif.id }),
+        });
+        setUnreadNotifications((prev) => Math.max(0, prev - 1));
+        setNotifications((prev) =>
+          prev.map((n) => (n.id === notif.id ? { ...n, isRead: true, read: true } : n))
+        );
+      } catch (e) {
+        console.error(e);
+      }
+    }
+    setNotificationsOpen(false);
+  };
+
+  const handleDismissBanner = () => {
+    setBannerDismissed(true);
+    try {
+      sessionStorage.setItem('dismissed_deadline_banner', 'true');
+    } catch {}
+  };
 
   const navLinks = [
     { href: '/', label: t('navHome') },
@@ -178,24 +285,166 @@ export default function Navbar() {
               {/* User Session Menu or Solid Saffron CTA Button */}
               {session ? (
                 <div className="flex items-center space-x-2">
-                  {/* Notification Bell */}
-                  <Link
-                    href="/dashboard?tab=notifications"
-                    className="relative p-2 text-slate-600 hover:text-govNavy-900 rounded-xl hover:bg-slate-100 transition-smooth"
-                    title="Notifications"
-                  >
-                    <Bell className="w-5 h-5" />
-                    {unreadNotifications > 0 && (
-                      <span className="absolute top-1 right-1 w-4 h-4 bg-rose-600 text-white text-[10px] font-bold rounded-full flex items-center justify-center">
-                        {unreadNotifications}
-                      </span>
+                  {/* Notification Bell with Dropdown */}
+                  <div className="relative" ref={notificationRef}>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        const next = !notificationsOpen;
+                        setNotificationsOpen(next);
+                        if (next) {
+                          setUserDropdownOpen(false);
+                          fetchNotifications();
+                        }
+                      }}
+                      className="relative p-2 text-slate-600 hover:text-govNavy-900 rounded-xl hover:bg-slate-100 transition-smooth focus:outline-none"
+                      title={t('notificationsTitle')}
+                      aria-label="Open notifications"
+                      aria-expanded={notificationsOpen}
+                    >
+                      <Bell className="w-5 h-5" />
+                      {unreadNotifications > 0 && (
+                        <span className="absolute top-1 right-1 min-w-[16px] h-4 px-1 bg-rose-600 text-white text-[10px] font-bold rounded-full flex items-center justify-center shadow-sm">
+                          {unreadNotifications > 9 ? '9+' : unreadNotifications}
+                        </span>
+                      )}
+                    </button>
+
+                    {notificationsOpen && (
+                      <div className="absolute right-0 mt-2 w-80 sm:w-96 bg-white rounded-2xl shadow-soft-xl border border-slate-200/90 py-2 z-50 text-sm overflow-hidden">
+                        {/* Header */}
+                        <div className="px-4 py-2.5 border-b border-slate-100 flex items-center justify-between bg-slate-50/50">
+                          <div className="flex items-center space-x-2">
+                            <Bell className="w-4 h-4 text-govNavy-900" />
+                            <span className="font-bold text-slate-900 text-sm">
+                              {t('notificationsTitle')}
+                            </span>
+                            {unreadNotifications > 0 && (
+                              <span className="px-2 py-0.5 bg-rose-50 text-rose-700 text-[10px] font-bold rounded-full border border-rose-200">
+                                {unreadNotifications}
+                              </span>
+                            )}
+                          </div>
+                          {unreadNotifications > 0 && (
+                            <button
+                              type="button"
+                              onClick={handleMarkAllRead}
+                              className="text-[11px] font-semibold text-saffron-700 hover:text-saffron-800 flex items-center space-x-1 transition-colors"
+                            >
+                              <CheckCheck className="w-3.5 h-3.5" />
+                              <span>{t('markAllAsRead')}</span>
+                            </button>
+                          )}
+                        </div>
+
+                        {/* Notifications List */}
+                        <div className="max-h-80 overflow-y-auto divide-y divide-slate-100">
+                          {loadingNotifications && notifications.length === 0 ? (
+                            <div className="py-8 text-center text-xs text-slate-400">Loading...</div>
+                          ) : notifications.length === 0 ? (
+                            <div className="py-8 px-4 text-center">
+                              <Bell className="w-8 h-8 text-slate-300 mx-auto mb-2" />
+                              <p className="text-xs font-semibold text-slate-600">{t('noNotifications')}</p>
+                            </div>
+                          ) : (
+                            notifications.slice(0, 10).map((n) => {
+                              const isRead = n.isRead || n.read;
+                              const title =
+                                language === 'hi'
+                                  ? n.title_hi || n.titleHi || n.title_en || n.titleEn || 'सूचना'
+                                  : n.title_en || n.titleEn || 'Notification';
+                              const body =
+                                language === 'hi'
+                                  ? n.body_hi || n.messageHi || n.body_en || n.messageEn || ''
+                                  : n.body_en || n.messageEn || '';
+
+                              const itemContent = (
+                                <div
+                                  className={`p-3.5 flex items-start space-x-3 transition-colors hover:bg-slate-50 cursor-pointer ${
+                                    !isRead ? 'bg-amber-50/40' : ''
+                                  }`}
+                                  onClick={() => handleNotificationClick(n)}
+                                >
+                                  <div className="shrink-0 mt-0.5">
+                                    {!isRead ? (
+                                      <span className="w-2.5 h-2.5 rounded-full bg-saffron-600 block shadow-sm" />
+                                    ) : (
+                                      <span className="w-2.5 h-2.5 rounded-full bg-slate-200 block" />
+                                    )}
+                                  </div>
+                                  <div className="min-w-0 flex-1">
+                                    <p
+                                      className={`text-xs ${
+                                        !isRead ? 'font-bold text-slate-900' : 'font-medium text-slate-700'
+                                      } leading-snug`}
+                                    >
+                                      {title}
+                                    </p>
+                                    {body && (
+                                      <p className="text-[11px] text-slate-500 mt-1 line-clamp-2 leading-relaxed">
+                                        {body}
+                                      </p>
+                                    )}
+                                    <p className="text-[10px] text-slate-400 mt-1">
+                                      {new Date(n.createdAt).toLocaleDateString(
+                                        language === 'hi' ? 'hi-IN' : 'en-IN',
+                                        {
+                                          day: 'numeric',
+                                          month: 'short',
+                                          hour: '2-digit',
+                                          minute: '2-digit',
+                                        }
+                                      )}
+                                    </p>
+                                  </div>
+                                  {n.link && (
+                                    <ArrowRight className="w-3.5 h-3.5 text-slate-400 shrink-0 self-center" />
+                                  )}
+                                </div>
+                              );
+
+                              if (n.link) {
+                                return (
+                                  <Link key={n.id} href={n.link} className="block">
+                                    {itemContent}
+                                  </Link>
+                                );
+                              }
+                              return <div key={n.id}>{itemContent}</div>;
+                            })
+                          )}
+                        </div>
+
+                        {/* Footer */}
+                        <div className="px-3 py-2 bg-slate-50 border-t border-slate-100 flex items-center justify-between text-[11px] font-semibold text-govNavy-900">
+                          <Link
+                            href="/reminders"
+                            onClick={() => setNotificationsOpen(false)}
+                            className="flex items-center space-x-1 hover:text-saffron-700 transition-colors"
+                          >
+                            <Clock className="w-3.5 h-3.5" />
+                            <span>{t('navReminders')}</span>
+                          </Link>
+                          <Link
+                            href="/dashboard?tab=notifications"
+                            onClick={() => setNotificationsOpen(false)}
+                            className="hover:text-saffron-700 transition-colors"
+                          >
+                            {t('viewAllNotifications')} →
+                          </Link>
+                        </div>
+                      </div>
                     )}
-                  </Link>
+                  </div>
 
                   {/* User Dropdown */}
-                  <div className="relative">
+                  <div className="relative" ref={userDropdownRef}>
                     <button
-                      onClick={() => setUserDropdownOpen(!userDropdownOpen)}
+                      onClick={() => {
+                        const next = !userDropdownOpen;
+                        setUserDropdownOpen(next);
+                        if (next) setNotificationsOpen(false);
+                      }}
                       className="flex items-center space-x-2 p-1.5 rounded-xl border border-slate-200 hover:border-slate-300 bg-slate-50 hover:bg-slate-100 transition-smooth focus:ring-2 focus:ring-govNavy-800"
                       aria-expanded={userDropdownOpen}
                     >
@@ -227,6 +476,14 @@ export default function Navbar() {
                         >
                           <LayoutDashboard className="w-4 h-4 mr-2.5 text-slate-500" />
                           {t('navDashboard')}
+                        </Link>
+
+                        <Link
+                          href="/reminders"
+                          className="flex items-center px-4 py-2 text-slate-700 hover:bg-slate-50 font-medium"
+                        >
+                          <Clock className="w-4 h-4 mr-2.5 text-slate-500" />
+                          {t('navReminders')}
                         </Link>
 
                         <Link
@@ -286,6 +543,44 @@ export default function Navbar() {
         </div>
       </div>
 
+      {/* 3. Dismissible Deadline Banner (Logged-in users) */}
+      {!bannerDismissed && urgentCount > 0 && (
+        <div className="bg-amber-400 text-govNavy-950 px-4 py-2.5 text-xs font-semibold border-b border-amber-500 shadow-sm transition-all">
+          <div className="max-w-7xl mx-auto flex items-center justify-between gap-3">
+            <div className="flex items-center space-x-2.5 min-w-0">
+              <span className="flex h-2.5 w-2.5 relative shrink-0">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-govNavy-950 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-govNavy-950"></span>
+              </span>
+              <p className="truncate">
+                <span className="font-bold">
+                  {language === 'hi' ? 'समय-सीमा अलर्ट: ' : 'Deadline Alert: '}
+                </span>
+                {language === 'hi'
+                  ? `आपके पास अगले 7 दिनों में ${urgentCount} योजना ${urgentCount > 1 ? 'समय-सीमाएं' : 'समय-सीमा'} हैं।`
+                  : `You have ${urgentCount} ${urgentCount === 1 ? 'scheme deadline' : 'scheme deadlines'} in the next 7 days.`}
+              </p>
+            </div>
+            <div className="flex items-center space-x-2 shrink-0">
+              <Link
+                href="/reminders"
+                className="px-2.5 py-1 bg-govNavy-950 hover:bg-govNavy-900 text-white rounded-lg text-[11px] font-bold shadow-soft-sm transition-smooth"
+              >
+                {language === 'hi' ? 'रिमाइंडर देखें' : 'View Reminders'}
+              </Link>
+              <button
+                type="button"
+                onClick={handleDismissBanner}
+                aria-label="Dismiss banner"
+                className="p-1 text-govNavy-950 hover:bg-amber-500/50 rounded-lg transition-colors"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Mobile Drawer */}
       {mobileMenuOpen && (
         <div className="lg:hidden border-t border-slate-200 bg-white px-4 pt-3 pb-6 space-y-2 shadow-soft-lg">
@@ -317,6 +612,13 @@ export default function Navbar() {
                 className="block px-3 py-2 text-sm font-semibold text-govNavy-900"
               >
                 {t('navDashboard')}
+              </Link>
+              <Link
+                href="/reminders"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block px-3 py-2 text-sm font-semibold text-govNavy-900"
+              >
+                {t('navReminders')}
               </Link>
               {isAdminOrOfficer && (
                 <Link

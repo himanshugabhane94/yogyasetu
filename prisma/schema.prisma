@@ -30,6 +30,7 @@ model User {
   bookmarks     Bookmark[]
   applications  ApplicationTracker[]
   notifications Notification[]
+  reminders     Reminder[]
   createdSchemes Scheme[]            @relation("CreatedByAdmin")
 }
 
@@ -77,11 +78,15 @@ model Scheme {
   createdByAdminId   String?
   createdBy          User?                @relation("CreatedByAdmin", fields: [createdByAdminId], references: [id])
   tags               String?              @default("")
+  deadline           DateTime?
+  deadlineNote       String?              // e.g. "Ongoing", "Check official portal"
+  deadlineVerifiedAt DateTime?
   createdAt          DateTime             @default(now())
   updatedAt          DateTime             @updatedAt
 
   bookmarks          Bookmark[]
   applications       ApplicationTracker[]
+  reminders          Reminder[]
 
   @@index([categoryId])
   @@index([state])
@@ -114,18 +119,44 @@ model ApplicationTracker {
   @@unique([userId, schemeId])
 }
 
+model Reminder {
+  id           String    @id @default(cuid())
+  userId       String
+  user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  schemeId     String
+  scheme       Scheme    @relation(fields: [schemeId], references: [id], onDelete: Cascade)
+  daysBefore   Int       // 7, 3, 1
+  channelEmail Boolean   @default(true)
+  channelInApp Boolean   @default(true)
+  lastSentAt   DateTime?
+  status       String    @default("ACTIVE") // ACTIVE | SENT | CANCELLED
+  createdAt    DateTime  @default(now())
+
+  @@unique([userId, schemeId, daysBefore])
+  @@index([userId])
+  @@index([schemeId])
+  @@index([status])
+}
+
 model Notification {
   id        String   @id @default(cuid())
   userId    String
   user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-  type      String   // SCHEME_MATCH, DEADLINE, STATUS_UPDATE, SYSTEM
-  titleEn   String
-  titleHi   String
-  messageEn String   @db.Text
-  messageHi String   @db.Text
+  type      String   @default("SYSTEM") // SCHEME_MATCH, DEADLINE, STATUS_UPDATE, SYSTEM
+  titleEn   String   @default("")
+  titleHi   String   @default("")
+  messageEn String   @default("") @db.Text
+  messageHi String   @default("") @db.Text
+  title_en  String?
+  title_hi  String?
+  body_en   String?  @db.Text
+  body_hi   String?  @db.Text
   link      String?
   read      Boolean  @default(false)
+  isRead    Boolean  @default(false)
   createdAt DateTime @default(now())
+
+  @@index([userId])
 }
 
 model OtpVerification {

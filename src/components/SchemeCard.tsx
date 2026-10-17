@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useSession } from 'next-auth/react';
 import { useLanguage } from '@/context/LanguageContext';
 import { SchemeItem, EligibilityCriteria } from '@/types';
+import DeadlineBadge from '@/components/DeadlineBadge';
 import {
   Bookmark,
   ExternalLink,
@@ -208,10 +209,23 @@ export default function SchemeCard({
         </Link>
 
         {/* Ministry / Department */}
-        <p className="text-xs text-slate-500 line-clamp-1 mb-3 flex items-center">
+        <p className="text-xs text-slate-500 line-clamp-1 mb-2.5 flex items-center">
           <Building2 className="w-3.5 h-3.5 mr-1 text-slate-400 shrink-0" />
           <span className="truncate">{department}</span>
         </p>
+
+        {/* Deadline Badge */}
+        <div className="mb-3">
+          <DeadlineBadge
+            deadline={scheme.deadline}
+            closeDate={scheme.closeDate}
+            deadlineNote={scheme.deadlineNote}
+            deadlineVerifiedAt={scheme.deadlineVerifiedAt}
+            lastVerified={scheme.lastVerified}
+            updatedAt={scheme.updatedAt}
+            showVerifiedDate={true}
+          />
+        </div>
 
         {/* Description */}
         <p className="text-xs text-slate-600 line-clamp-2 mb-4 leading-relaxed">
