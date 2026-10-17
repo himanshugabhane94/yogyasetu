@@ -62,7 +62,10 @@
     ],
     "applyUrl": "https://swavlambancard.gov.in/",
     "sourceUrl": "https://www.myscheme.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": "2026-09-30T23:59:59.000Z",
+    "deadlineNote": "Per official MahaDBT circular on mahadbt.maharashtra.gov.in",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-state-handicapped-finance-corp-loans",
@@ -133,7 +136,10 @@
     ],
     "applyUrl": "https://swavlambancard.gov.in/",
     "sourceUrl": "https://www.myscheme.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "pradhan-mantri-divyasha-kendra-adip",
@@ -203,7 +209,10 @@
     ],
     "applyUrl": "https://swavlambancard.gov.in/",
     "sourceUrl": "https://www.myscheme.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "unique-disability-id-udid-card",
@@ -247,7 +256,10 @@
     ],
     "applyUrl": "https://www.swavlambancard.gov.in/",
     "sourceUrl": "https://swavlambancard.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "adip-scheme-assistance-to-disabled-persons-alimco",
@@ -289,7 +301,10 @@
     ],
     "applyUrl": "https://adip.depwd.gov.in/",
     "sourceUrl": "https://alimco.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "deendayal-disabled-rehabilitation-scheme-ddrs",
@@ -328,7 +343,10 @@
     ],
     "applyUrl": "https://depwd.gov.in/",
     "sourceUrl": "https://socialjustice.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "indira-gandhi-national-disability-pension-nsap-igndps",
@@ -370,7 +388,10 @@
     ],
     "applyUrl": "https://nsap.nic.in/",
     "sourceUrl": "https://nsap.nic.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "nhfdc-divyangjan-swavalamban-yojana-loans",
@@ -414,7 +435,10 @@
     ],
     "applyUrl": "https://depwd.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-fellowship-for-students-with-disabilities-nfsd",
@@ -456,7 +480,10 @@
     ],
     "applyUrl": "https://www.ugc.ac.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": "2026-10-31T23:59:59.000Z",
+    "deadlineNote": "Per official DEPwD / UGC portal schedule on depwd.gov.in",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "post-matric-scholarship-students-with-disabilities-central",
@@ -502,7 +529,10 @@
     ],
     "applyUrl": "https://scholarships.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": "2026-10-31T23:59:59.000Z",
+    "deadlineNote": "Per official DEPwD / NSP notice on scholarships.gov.in (AY 2026-27 cycle)",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "top-class-education-scholarship-for-students-with-disabilities",
@@ -546,7 +576,10 @@
     ],
     "applyUrl": "https://scholarships.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": "2026-10-31T23:59:59.000Z",
+    "deadlineNote": "Per official DEPwD / NSP notice on scholarships.gov.in (AY 2026-27 cycle)",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-niramaya-health-insurance-scheme",
@@ -588,7 +621,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/",
     "sourceUrl": "https://thenationaltrust.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "indian-railways-concession-for-divyangjan",
@@ -628,7 +664,10 @@
     ],
     "applyUrl": "https://www.irctc.co.in/",
     "sourceUrl": "https://indianrailways.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "sugamya-pustakalaya-accessible-online-library",
@@ -664,7 +703,10 @@
     ],
     "applyUrl": "https://library.daisyindia.org/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "income-tax-section-80u-deduction-for-pwd",
@@ -702,7 +744,10 @@
     ],
     "applyUrl": "https://www.incometax.gov.in/",
     "sourceUrl": "https://www.incometax.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-sanjay-gandhi-niradhar-divyangjan-pension",
@@ -746,7 +791,10 @@
     ],
     "applyUrl": "https://aaplesarkar.mahaonline.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "matoshree-divyang-swavalamban-yojana-maharashtra",
@@ -790,7 +838,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "msrtc-free-bus-travel-for-divyangjan-maharashtra",
@@ -830,7 +881,10 @@
     ],
     "applyUrl": "https://msrtc.maharashtra.gov.in/",
     "sourceUrl": "https://msrtc.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "divyangjan-marriage-incentive-grant-maharashtra",
@@ -873,7 +927,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-swadhar-yojana-for-divyang-students",
@@ -916,7 +973,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-local-body-5-percent-divyang-budget",
@@ -958,7 +1018,10 @@
     ],
     "applyUrl": "https://rdd.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "ysr-pension-kanuka-disabled-pension-andhra-pradesh",
@@ -998,7 +1061,10 @@
     ],
     "applyUrl": "https://sspensions.ap.gov.in/",
     "sourceUrl": "https://ap.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "aasara-disability-pension-telangana",
@@ -1040,7 +1106,10 @@
     ],
     "applyUrl": "https://aasara.telangana.gov.in/",
     "sourceUrl": "https://telangana.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "karnataka-disability-maintenance-allowance",
@@ -1082,7 +1151,10 @@
     ],
     "applyUrl": "https://sevasindhu.karnataka.gov.in/",
     "sourceUrl": "https://karnataka.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "kerala-disability-welfare-pension",
@@ -1123,7 +1195,10 @@
     ],
     "applyUrl": "https://welfarepension.lsgkerala.gov.in/",
     "sourceUrl": "https://kerala.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "ashwasa-kiranam-caregiver-scheme-kerala",
@@ -1164,7 +1239,10 @@
     ],
     "applyUrl": "https://socialsecuritymission.gov.in/",
     "sourceUrl": "https://kerala.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "tamil-nadu-differently-abled-maintenance-allowance",
@@ -1206,7 +1284,10 @@
     ],
     "applyUrl": "https://www.scd.tn.gov.in/",
     "sourceUrl": "https://tn.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "tamil-nadu-free-retrofitted-motorized-scooters",
@@ -1248,7 +1329,10 @@
     ],
     "applyUrl": "https://www.scd.tn.gov.in/",
     "sourceUrl": "https://tn.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "divyang-pension-yojana-uttar-pradesh",
@@ -1292,7 +1376,10 @@
     ],
     "applyUrl": "https://sspy-up.gov.in/",
     "sourceUrl": "https://up.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "divyang-pension-yojana-haryana",
@@ -1334,7 +1421,10 @@
     ],
     "applyUrl": "https://socialjusticehry.gov.in/",
     "sourceUrl": "https://haryana.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "bihar-divyang-pension-yojana-elabharthi",
@@ -1376,7 +1466,10 @@
     ],
     "applyUrl": "https://elabharthi.bihar.gov.in/",
     "sourceUrl": "https://state.bihar.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "vishesh-yogyajan-samman-pension-rajasthan",
@@ -1417,7 +1510,10 @@
     ],
     "applyUrl": "https://ssp.rajasthan.gov.in/",
     "sourceUrl": "https://rajasthan.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "rajasthan-free-scooty-distribution-divyang",
@@ -1459,7 +1555,10 @@
     ],
     "applyUrl": "https://sjmsnew.rajasthan.gov.in/",
     "sourceUrl": "https://rajasthan.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "madhya-pradesh-divyang-social-security-pension",
@@ -1500,7 +1599,10 @@
     ],
     "applyUrl": "https://socialjustice.mp.gov.in/",
     "sourceUrl": "https://mp.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "madhya-pradesh-divyang-vivah-protsahan-yojana",
@@ -1541,7 +1643,10 @@
     ],
     "applyUrl": "https://socialjustice.mp.gov.in/",
     "sourceUrl": "https://mp.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "manabik-pension-scheme-west-bengal",
@@ -1582,7 +1687,10 @@
     ],
     "applyUrl": "https://wb.gov.in/",
     "sourceUrl": "https://wb.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "madhu-babu-pension-disability-odisha",
@@ -1623,7 +1731,10 @@
     ],
     "applyUrl": "https://ssepd.odisha.gov.in/",
     "sourceUrl": "https://ssepd.odisha.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "punjab-financial-assistance-to-disabled-persons",
@@ -1664,7 +1775,10 @@
     ],
     "applyUrl": "https://connect.punjab.gov.in/",
     "sourceUrl": "https://sswcd.punjab.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "delhi-disability-pension-scheme",
@@ -1706,7 +1820,10 @@
     ],
     "applyUrl": "https://edistrict.delhigovt.nic.in/",
     "sourceUrl": "https://delhi.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "sant-surdas-divyang-pension-gujarat",
@@ -1748,7 +1865,10 @@
     ],
     "applyUrl": "https://digitalgujarat.gov.in/",
     "sourceUrl": "https://sje.gujarat.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "himachal-pradesh-disability-relief-allowance",
@@ -1790,7 +1910,10 @@
     ],
     "applyUrl": "https://edistrict.hp.gov.in/",
     "sourceUrl": "https://himachal.nic.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "uttarakhand-divyang-pension-yojana",
@@ -1831,7 +1954,10 @@
     ],
     "applyUrl": "https://ssp.uk.gov.in/",
     "sourceUrl": "https://uk.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "goa-dsss-disability-pension",
@@ -1873,7 +1999,10 @@
     ],
     "applyUrl": "https://socialwelfare.goa.gov.in/",
     "sourceUrl": "https://goa.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "jharkhand-swami-vivekananda-divyang-pension",
@@ -1914,7 +2043,10 @@
     ],
     "applyUrl": "https://jharkhand.gov.in/",
     "sourceUrl": "https://jharkhand.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "assam-deendayal-divyangjan-sahajya-yojana",
@@ -1955,7 +2087,10 @@
     ],
     "applyUrl": "https://pnrd.assam.gov.in/",
     "sourceUrl": "https://assam.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "puducherry-financial-assistance-to-differently-abled",
@@ -1996,7 +2131,10 @@
     ],
     "applyUrl": "https://socwelfare.py.gov.in/",
     "sourceUrl": "https://py.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "chandigarh-disability-pension-scheme",
@@ -2037,7 +2175,10 @@
     ],
     "applyUrl": "https://chandigarh.gov.in/",
     "sourceUrl": "https://chandigarh.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "jammu-kashmir-isss-disability-pension",
@@ -2079,7 +2220,10 @@
     ],
     "applyUrl": "https://jk.gov.in/",
     "sourceUrl": "https://jk.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "accessible-india-campaign-sugamya-bharat",
@@ -2115,7 +2259,10 @@
     ],
     "applyUrl": "https://accessibleindia.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "pre-matric-scholarship-for-students-with-disabilities",
@@ -2159,7 +2306,10 @@
     ],
     "applyUrl": "https://scholarships.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": "2026-10-31T23:59:59.000Z",
+    "deadlineNote": "Per official DEPwD / NSP notice on scholarships.gov.in (AY 2026-27 cycle)",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-overseas-scholarship-for-students-with-disabilities",
@@ -2203,7 +2353,10 @@
     ],
     "applyUrl": "https://depwd.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": "2026-06-02T23:59:59.000Z",
+    "deadlineNote": "Per official DEPwD / MoSJE notice on nosmsje.gov.in (Round 1 cycle)",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "free-coaching-scheme-for-students-with-disabilities",
@@ -2247,7 +2400,10 @@
     ],
     "applyUrl": "https://depwd.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-gharaunda-group-home-scheme",
@@ -2289,7 +2445,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/",
     "sourceUrl": "https://thenationaltrust.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "samagra-shiksha-inclusive-education-cwsn",
@@ -2329,7 +2488,10 @@
     ],
     "applyUrl": "https://samagra.education.gov.in/",
     "sourceUrl": "https://education.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "income-tax-section-80dd-dependent-disability",
@@ -2369,7 +2531,10 @@
     ],
     "applyUrl": "https://www.incometax.gov.in/",
     "sourceUrl": "https://www.incometax.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-special-schools-for-divyangjan",
@@ -2410,7 +2575,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-ddrc-free-assistive-devices-scheme",
@@ -2450,7 +2618,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "karnataka-sadhane-scheme-free-motorized-scooters",
@@ -2492,7 +2663,10 @@
     ],
     "applyUrl": "https://sevasindhu.karnataka.gov.in/",
     "sourceUrl": "https://karnataka.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "karnataka-adhara-scheme-concessional-loans",
@@ -2534,7 +2708,10 @@
     ],
     "applyUrl": "https://sevasindhu.karnataka.gov.in/",
     "sourceUrl": "https://karnataka.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "anuyatra-disability-programme-kerala",
@@ -2573,7 +2750,10 @@
     ],
     "applyUrl": "https://socialsecuritymission.gov.in/",
     "sourceUrl": "https://kerala.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "vikalp-motorized-wheelchairs-kerala",
@@ -2615,7 +2795,10 @@
     ],
     "applyUrl": "https://socialsecuritymission.gov.in/",
     "sourceUrl": "https://kerala.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "tamil-nadu-differently-abled-marriage-assistance-scheme",
@@ -2658,7 +2841,10 @@
     ],
     "applyUrl": "https://www.scd.tn.gov.in/",
     "sourceUrl": "https://tn.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "uttar-pradesh-free-motorized-tricycles-divyang",
@@ -2700,7 +2886,10 @@
     ],
     "applyUrl": "https://uphwd.gov.in/",
     "sourceUrl": "https://up.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "uttar-pradesh-divyang-vivah-protsahan-puraskar",
@@ -2742,7 +2931,10 @@
     ],
     "applyUrl": "https://uphwd.gov.in/",
     "sourceUrl": "https://up.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "sambal-yojana-battery-tricycle-bihar",
@@ -2784,7 +2976,10 @@
     ],
     "applyUrl": "https://state.bihar.gov.in/",
     "sourceUrl": "https://state.bihar.gov.in/socialwelfare/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "chhattisgarh-divyang-vivah-protsahan-yojana",
@@ -2825,7 +3020,10 @@
     ],
     "applyUrl": "https://sw.cg.gov.in/",
     "sourceUrl": "https://cgstate.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "karnataka-braille-kits-and-laptops-for-blind",
@@ -2866,7 +3064,10 @@
     ],
     "applyUrl": "https://sevasindhu.karnataka.gov.in/",
     "sourceUrl": "https://karnataka.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-government-braille-press-free-study-materials",
@@ -2903,7 +3104,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "tamil-nadu-free-hearing-aids-solar-rechargeable",
@@ -2942,7 +3146,10 @@
     ],
     "applyUrl": "https://www.scd.tn.gov.in/",
     "sourceUrl": "https://tn.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-vikas-day-care-scheme",
@@ -2984,7 +3191,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/vikas.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/vikas.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-samarth-respite-care-scheme",
@@ -3024,7 +3234,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/samarth.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/samarth.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-disha-early-intervention-scheme",
@@ -3064,7 +3277,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/disha.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/disha.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-prerna-marketing-assistance-scheme",
@@ -3104,7 +3320,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/prerna.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/prerna.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-sahayogi-caregiver-training-scheme",
@@ -3144,7 +3363,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/sahayogi.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/sahayogi.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-gyan-prabha-educational-support-scheme",
@@ -3184,7 +3406,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/gyan-prabha.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/gyan-prabha.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "national-trust-sambhav-aids-and-assistive-devices-scheme",
@@ -3220,7 +3445,10 @@
     ],
     "applyUrl": "https://thenationaltrust.gov.in/content/scheme/sambhav.php",
     "sourceUrl": "https://thenationaltrust.gov.in/content/scheme/sambhav.php",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "nhfdc-vishesh-microfinance-yojana",
@@ -3262,7 +3490,10 @@
     ],
     "applyUrl": "https://depwd.gov.in/",
     "sourceUrl": "https://depwd.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "maharashtra-mshfdc-seed-capital-subsidy-scheme",
@@ -3306,7 +3537,10 @@
     ],
     "applyUrl": "https://sjsa.maharashtra.gov.in/",
     "sourceUrl": "https://sjsa.maharashtra.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "rajasthan-anuprati-coaching-scheme-divyangjan",
@@ -3348,7 +3582,10 @@
     ],
     "applyUrl": "https://sjmsnew.rajasthan.gov.in/socialsecurity/",
     "sourceUrl": "https://sje.rajasthan.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "gujarat-sant-surdas-free-bus-pass-divyangjan",
@@ -3390,7 +3627,10 @@
     ],
     "applyUrl": "https://esamajkalyan.gujarat.gov.in/",
     "sourceUrl": "https://sje.gujarat.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "madhya-pradesh-sparsh-divyang-samman-yojana",
@@ -3432,7 +3672,10 @@
     ],
     "applyUrl": "http://sparsh.mp.gov.in/",
     "sourceUrl": "http://sparsh.mp.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "haryana-divyang-vivah-shagun-yojana",
@@ -3474,7 +3717,10 @@
     ],
     "applyUrl": "https://saralharyana.gov.in/",
     "sourceUrl": "https://haryanascbc.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "odisha-bheem-bhoi-bhinna-khyama-samarthya-abhijan",
@@ -3514,7 +3760,10 @@
     ],
     "applyUrl": "https://ssepd.odisha.gov.in/",
     "sourceUrl": "https://ssepd.odisha.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "assam-pranam-act-disabled-dependents-scheme",
@@ -3554,7 +3803,10 @@
     ],
     "applyUrl": "https://pranam.assam.gov.in/",
     "sourceUrl": "https://pranam.assam.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "kerala-swavalamban-health-insurance-top-up",
@@ -3594,7 +3846,10 @@
     ],
     "applyUrl": "https://socialsecuritymission.gov.in/",
     "sourceUrl": "https://socialsecuritymission.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "telangana-free-motorized-three-wheelers-vikalangula",
@@ -3636,7 +3891,10 @@
     ],
     "applyUrl": "https://wdsc.telangana.gov.in/",
     "sourceUrl": "https://wdsc.telangana.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   },
   {
     "slug": "andhra-pradesh-differently-abled-subsidy-trikes",
@@ -3678,6 +3936,9 @@
     ],
     "applyUrl": "https://apdascac.ap.gov.in/",
     "sourceUrl": "https://apdascac.ap.gov.in/",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-16",
+    "deadline": null,
+    "deadlineNote": "Ongoing",
+    "deadlineVerifiedAt": "2026-10-17"
   }
 ]
