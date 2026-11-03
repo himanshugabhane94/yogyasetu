@@ -481,8 +481,8 @@ async function main() {
       }
 
       // Links & Meta
-      const officialLink = (raw.applyUrl || raw.officialLink || raw.sourceUrl || 'https://myscheme.gov.in').trim();
-      const sourceUrl = (raw.sourceUrl || raw.officialLink || null);
+      const officialLink = (raw.applyUrl || raw.officialLink || '').trim();
+      const sourceUrl = (raw.sourceUrl || null);
       const departmentEn = (raw.department_en || raw.departmentEn || (level === 'STATE' ? 'Government of Maharashtra' : 'Government of India')).trim();
       const departmentHi = (raw.department_hi || raw.departmentHi || (level === 'STATE' ? 'महाराष्ट्र शासन' : 'भारत सरकार')).trim();
       const benefitType = raw.benefitType || raw.benefit_type || 'Financial';

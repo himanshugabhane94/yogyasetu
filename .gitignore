@@ -42,3 +42,4 @@ dev.db
 
 # scratch helper scripts
 scratch/
+data/schemes_backup/

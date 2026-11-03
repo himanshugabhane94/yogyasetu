@@ -12,8 +12,10 @@ export async function GET(
   try {
     const { id } = params;
 
-    const scheme = await prisma.scheme.findUnique({
-      where: { id },
+    const scheme = await prisma.scheme.findFirst({
+      where: {
+        OR: [{ id }, { slug: id }],
+      },
       include: {
         category: true,
       },
@@ -25,7 +27,7 @@ export async function GET(
 
     // Increment views count asynchronously
     prisma.scheme.update({
-      where: { id },
+      where: { id: scheme.id },
       data: { viewsCount: { increment: 1 } },
     }).catch((err) => console.error('Failed to increment views:', err));
 
@@ -39,12 +41,12 @@ export async function GET(
       const [bookmark, app] = await Promise.all([
         prisma.bookmark.findUnique({
           where: {
-            userId_schemeId: { userId, schemeId: id },
+            userId_schemeId: { userId, schemeId: scheme.id },
           },
         }),
         prisma.applicationTracker.findUnique({
           where: {
-            userId_schemeId: { userId, schemeId: id },
+            userId_schemeId: { userId, schemeId: scheme.id },
           },
         }),
       ]);

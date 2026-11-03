@@ -348,17 +348,27 @@ export default function SchemeCard({
           <ArrowRight className="w-3.5 h-3.5 text-slate-400" />
         </Link>
 
-        {/* Apply Now on Official Portal / Check Eligibility */}
-        {showMatchScore && scheme.officialLink ? (
-          <a
-            href={scheme.officialLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-full py-2.5 px-3 rounded-xl text-xs font-bold bg-saffron-500 hover:bg-saffron-600 active:bg-saffron-700 text-govNavy-950 text-center shadow-soft-sm transition-smooth flex items-center justify-center space-x-1.5"
-          >
-            <span>{language === 'en' ? 'Apply Now' : 'आवेदन करें'}</span>
-            <ExternalLink className="w-3.5 h-3.5" />
-          </a>
+        {/* Apply Now on Official Portal / Check Eligibility / Offline Notice */}
+        {showMatchScore ? (
+          scheme.officialLink && scheme.officialLink.trim() !== '' ? (
+            <a
+              href={scheme.officialLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full py-2.5 px-3 rounded-xl text-xs font-bold bg-saffron-500 hover:bg-saffron-600 active:bg-saffron-700 text-govNavy-950 text-center shadow-soft-sm transition-smooth flex items-center justify-center space-x-1.5"
+            >
+              <span>{language === 'en' ? 'Apply Now' : 'आवेदन करें'}</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+          ) : (
+            <div
+              className="w-full py-2.5 px-2 rounded-xl text-[11px] font-semibold bg-slate-100 text-slate-600 border border-slate-200 text-center flex items-center justify-center space-x-1 cursor-not-allowed select-none"
+              title={language === 'hi' ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या CSC से आवेदन करें' : 'Offline / Apply at Nearest Government Office or CSC'}
+            >
+              <Building2 className="w-3 h-3 text-slate-400 shrink-0" />
+              <span className="truncate">{language === 'hi' ? 'ऑफलाइन / CSC आवेदन' : 'Apply Offline / CSC'}</span>
+            </div>
+          )
         ) : (
           <Link
             href="/eligibility"

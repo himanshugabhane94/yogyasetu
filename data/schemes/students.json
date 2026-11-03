@@ -1057,7 +1057,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://sjsa.maharashtra.gov.in",
     "department_en": "Social Justice and Special Assistance Department, Maharashtra",
     "department_hi": "सामाजिक न्याय व विशेष सहाय्य विभाग, महाराष्ट्र शासन",
@@ -1128,7 +1128,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://tribal.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://tribal.maharashtra.gov.in",
     "department_en": "Tribal Development Department, Maharashtra",
     "department_hi": "आदिवासी विकास विभाग, महाराष्ट्र शासन",
@@ -1274,7 +1274,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://sjsa.maharashtra.gov.in",
     "department_en": "Social Justice and Special Assistance Department, Maharashtra",
     "department_hi": "सामाजिक न्याय व विशेष सहाय्य विभाग, महाराष्ट्र शासन",
@@ -1347,7 +1347,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://tribal.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://tribal.maharashtra.gov.in",
     "department_en": "Tribal Development Department, Maharashtra",
     "department_hi": "आदिवासी विकास विभाग, महाराष्ट्र शासन",
@@ -1622,7 +1622,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://socialjustice.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://socialjustice.gov.in",
     "department_en": "Ministry of Social Justice and Empowerment",
     "department_hi": "सामाजिक न्याय आणि अधिकारिता मंत्रालय",
@@ -1694,7 +1694,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://msrtc.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://msrtc.maharashtra.gov.in",
     "department_en": "Maharashtra State Road Transport Corporation (MSRTC) & School Education Dept",
     "department_hi": "महाराष्ट्र राज्य मार्ग परिवहन महामंडळ (एसटी) व शालेय शिक्षण विभाग",
@@ -1767,7 +1767,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "https://scholarships.gov.in/",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Department of School Education and Literacy, Ministry of Education",
     "department_hi": "शालेय शिक्षण व साक्षरता विभाग, शिक्षण मंत्रालय, भारत सरकार",
@@ -1837,7 +1837,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "https://scholarships.gov.in/",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Social Justice and Empowerment",
     "department_hi": "सामाजिक न्याय आणि अधिकारिता मंत्रालय, भारत सरकार",
@@ -2299,7 +2299,7 @@
       "राज्य छात्रवृत्ति पोर्टल पर ऑनलाइन या छात्रावास अधीक्षक कार्यालय में ऑफलाइन आवेदन भरें",
       "अंतिम आवंटन हेतु मूल प्रमाण पत्रों के साथ दस्तावेज सत्यापन में शामिल हों"
     ],
-    "applyUrl": "https://socialjustice.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://www.myscheme.gov.in/schemes/chobcbg",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -2930,7 +2930,7 @@
       "ऑनलाइन/ऑफलाइन स्क्रीनिंग परीक्षा में भाग लें",
       "सफल अभ्यर्थी जिला समाज कल्याण अधिकारी के माध्यम से आवासीय छात्रावास के लिए आवेदन करें"
     ],
-    "applyUrl": "http://abhyuday.up.gov.in",
+    "applyUrl": "https://abhyuday.up.gov.in/",
     "sourceUrl": "http://abhyuday.up.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -4639,7 +4639,7 @@
       "मुख्याध्यापकांच्या स्वाक्षरीसह पूर्ण भरलेला अर्ज सादर करा",
       "वसतिगृह सल्लागार समिती मंजूर क्षमतेनुसार विद्यार्थ्यांना प्रवेश देते"
     ],
-    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://sjsa.maharashtra.gov.in",
     "department_en": "Higher & Technical Education Department, Maharashtra",
     "department_hi": "उच्च व तंत्रशिक्षण विभाग, महाराष्ट्र शासन",
@@ -4698,7 +4698,7 @@
       "जात आणि उत्पन्न प्रमाणपत्र सादर करा",
       "वसतिगृह व्यवस्थापन समिती प्रवेश निश्चित करून जिल्हा समाज कल्याण अधिकाऱ्यांकडे यादी सादर करते"
     ],
-    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://sjsa.maharashtra.gov.in",
     "department_en": "Higher & Technical Education Department, Maharashtra",
     "department_hi": "उच्च व तंत्रशिक्षण विभाग, महाराष्ट्र शासन",
@@ -4757,7 +4757,7 @@
       "विशेष शिक्षक व डॉक्टरांद्वारे वैद्यकीय मूल्यमापन चाचणी",
       "थेट प्रवेश आणि वसतिगृह निवास व्यवस्था मंजूर"
     ],
-    "applyUrl": "https://sjsa.maharashtra.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://sjsa.maharashtra.gov.in",
     "department_en": "Higher & Technical Education Department, Maharashtra",
     "department_hi": "उच्च व तंत्रशिक्षण विभाग, महाराष्ट्र शासन",
@@ -5203,7 +5203,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "https://scholarships.gov.in/",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -5301,7 +5301,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "https://nosmsje.gov.in/",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -5399,7 +5399,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -5448,7 +5448,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -5497,7 +5497,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "https://abhyuday.up.gov.in/",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",
@@ -5644,7 +5644,7 @@
       "अर्ज भरा आणि कागदपत्रे अपलोड करा",
       "अर्ज सबमिट करा"
     ],
-    "applyUrl": "https://scholarships.gov.in",
+    "applyUrl": "",
     "sourceUrl": "https://scholarships.gov.in",
     "department_en": "Ministry of Education, Government of India",
     "department_hi": "शिक्षण मंत्रालय, भारत सरकार",

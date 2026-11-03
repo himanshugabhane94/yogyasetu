@@ -356,15 +356,29 @@ export default function SchemeDetailPage() {
 
           {/* Apply External CTA Button */}
           <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-            <a
-              href={scheme.officialLink}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex-1 py-3.5 px-6 rounded-xl bg-govNavy-900 hover:bg-govNavy-800 text-white font-bold text-sm text-center shadow-soft-sm hover:shadow-soft-md transition-smooth flex items-center justify-center space-x-2"
-            >
-              <span>{t('applyNowDirect')}</span>
-              <ExternalLink className="w-4 h-4" />
-            </a>
+            {scheme.officialLink ? (
+              <a
+                href={scheme.officialLink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-1 py-3.5 px-6 rounded-xl bg-govNavy-900 hover:bg-govNavy-800 text-white font-bold text-sm text-center shadow-soft-sm hover:shadow-soft-md transition-smooth flex items-center justify-center space-x-2"
+              >
+                <span>{t('applyNowDirect')}</span>
+                <ExternalLink className="w-4 h-4" />
+              </a>
+            ) : (
+              <div
+                className="flex-1 py-3.5 px-6 rounded-xl bg-slate-100 text-slate-700 font-bold text-xs sm:text-sm text-center border border-slate-300 flex items-center justify-center space-x-2 cursor-not-allowed select-none shadow-sm"
+                title={language === 'hi' ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या CSC से आवेदन करें' : 'Apply Offline / Visit Nearest Government Office or CSC Center'}
+              >
+                <Building2 className="w-4 h-4 text-slate-500 shrink-0" />
+                <span>
+                  {language === 'hi'
+                    ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या CSC से आवेदन करें'
+                    : 'Apply Offline / Visit Nearest Government Office or CSC Center'}
+                </span>
+              </div>
+            )}
 
             {scheme.sourceUrl && (
               <a
@@ -397,6 +411,25 @@ export default function SchemeDetailPage() {
               </div>
             )}
           </div>
+
+          {/* Offline Application Guidance Callout when Direct Apply URL is Unavailable */}
+          {!scheme.officialLink && (
+            <div className="mt-4 p-4 rounded-2xl bg-amber-50/90 border border-amber-200/90 text-amber-950 text-xs flex items-start space-x-3">
+              <Building2 className="w-5 h-5 text-amber-700 shrink-0 mt-0.5" />
+              <div>
+                <p className="font-bold text-sm mb-1 text-amber-900">
+                  {language === 'hi'
+                    ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या सीएससी (CSC) से आवेदन करें'
+                    : 'Apply Offline / Visit Nearest Government Office or CSC Center'}
+                </p>
+                <p className="text-amber-800 text-xs leading-relaxed">
+                  {language === 'hi'
+                    ? 'इस योजना के लिए सीधा ऑनलाइन आवेदन उपलब्ध नहीं है। नागरिक अपने नजदीकी ग्राम पंचायत, ब्लॉक/तहसील कार्यालय, जिला समाज कल्याण विभाग या नजदीकी सीएससी (CSC) केंद्र पर जाकर आवश्यक दस्तावेजों के साथ ऑफलाइन आवेदन कर सकते हैं।'
+                    : 'Direct online application is not available for this scheme. Citizens can apply offline by submitting their application along with required KYC documents at their nearest Gram Panchayat, Block/Tehsil office, District Welfare Department, or CSC (Common Service Center).'}
+                </p>
+              </div>
+            </div>
+          )}
         </div>
 
         {/* Security & Official Portal Redirect Disclaimer */}
