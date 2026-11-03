@@ -59,6 +59,7 @@ export interface SchemeItem {
   applicationProcess: string; // parsed to ApplicationStep[]
   officialLink: string;
   sourceUrl?: string | null;
+  infoUrl?: string | null;
   departmentEn: string;
   departmentHi: string;
   level: string;

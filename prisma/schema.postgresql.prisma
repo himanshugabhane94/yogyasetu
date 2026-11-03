@@ -65,6 +65,7 @@ model Scheme {
   applicationProcess String               @db.Text // Stringified JSON array of steps
   officialLink       String
   sourceUrl          String?              // Official source / notification reference link
+  infoUrl            String?              // Official information link (infoUrl)
   departmentEn       String
   departmentHi       String
   level              String               @default("CENTRAL") // CENTRAL or STATE

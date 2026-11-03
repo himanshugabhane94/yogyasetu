@@ -363,19 +363,19 @@ export default function SchemeDetailPage() {
                 rel="noopener noreferrer"
                 className="flex-1 py-3.5 px-6 rounded-xl bg-govNavy-900 hover:bg-govNavy-800 text-white font-bold text-sm text-center shadow-soft-sm hover:shadow-soft-md transition-smooth flex items-center justify-center space-x-2"
               >
-                <span>{t('applyNowDirect')}</span>
+                <span>{language === 'hi' ? 'आवेदन करें (Apply Now)' : 'Apply Now'}</span>
                 <ExternalLink className="w-4 h-4" />
               </a>
             ) : (
               <div
                 className="flex-1 py-3.5 px-6 rounded-xl bg-slate-100 text-slate-700 font-bold text-xs sm:text-sm text-center border border-slate-300 flex items-center justify-center space-x-2 cursor-not-allowed select-none shadow-sm"
-                title={language === 'hi' ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या CSC से आवेदन करें' : 'Apply Offline / Visit Nearest Government Office or CSC Center'}
+                title={language === 'hi' ? 'इस योजना के लिए ऑफलाइन आवेदन करें: नजदीकी सरकारी कार्यालय या सीएससी (CSC) से संपर्क करें' : 'Apply offline for this scheme: Visit nearest government office or CSC center'}
               >
                 <Building2 className="w-4 h-4 text-slate-500 shrink-0" />
                 <span>
                   {language === 'hi'
-                    ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या CSC से आवेदन करें'
-                    : 'Apply Offline / Visit Nearest Government Office or CSC Center'}
+                    ? 'इस योजना के लिए ऑफलाइन आवेदन करें: नजदीकी सरकारी कार्यालय या सीएससी (CSC) से संपर्क करें'
+                    : 'Apply offline for this scheme: Visit nearest government office or CSC center'}
                 </span>
               </div>
             )}
@@ -412,6 +412,22 @@ export default function SchemeDetailPage() {
             )}
           </div>
 
+          {/* Optional infoUrl: Official jaankari dekhein */}
+          {scheme.infoUrl && (
+            <div className="mt-3 flex items-center">
+              <a
+                href={scheme.infoUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center space-x-1.5 text-xs sm:text-sm font-semibold text-govNavy-700 hover:text-govNavy-900 bg-slate-50 hover:bg-slate-100 border border-slate-200 px-3.5 py-2 rounded-xl transition-smooth shadow-sm"
+              >
+                <FileText className="w-4 h-4 text-govNavy-600" />
+                <span>{language === 'hi' ? 'आधिकारिक जानकारी देखें' : 'Official jaankari dekhein'}</span>
+                <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
+              </a>
+            </div>
+          )}
+
           {/* Offline Application Guidance Callout when Direct Apply URL is Unavailable */}
           {!scheme.officialLink && (
             <div className="mt-4 p-4 rounded-2xl bg-amber-50/90 border border-amber-200/90 text-amber-950 text-xs flex items-start space-x-3">
@@ -419,8 +435,8 @@ export default function SchemeDetailPage() {
               <div>
                 <p className="font-bold text-sm mb-1 text-amber-900">
                   {language === 'hi'
-                    ? 'ऑफलाइन / नजदीकी सरकारी कार्यालय या सीएससी (CSC) से आवेदन करें'
-                    : 'Apply Offline / Visit Nearest Government Office or CSC Center'}
+                    ? 'इस योजना के लिए ऑफलाइन आवेदन करें: नजदीकी सरकारी कार्यालय या सीएससी (CSC) से संपर्क करें'
+                    : 'Apply offline for this scheme: Visit nearest government office or CSC center'}
                 </p>
                 <p className="text-amber-800 text-xs leading-relaxed">
                   {language === 'hi'

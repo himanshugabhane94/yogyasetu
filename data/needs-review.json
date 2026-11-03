@@ -39,7 +39,8 @@
     "slug": "income-tax-section-80u-deduction-for-pwd",
     "category": "divyangjan",
     "currentUrl": "https://www.incometax.gov.in/",
-    "reason": "Generic umbrella or department homepage (https://www.incometax.gov.in/) removed to prevent redirect mismatch"
+    "reason": "Direct online apply unavailable (apply offline). Official information available at: https://www.incometax.gov.in/",
+    "infoUrl": "https://www.incometax.gov.in/"
   },
   {
     "name": "Matoshree Divyang Swavalamban Yojana (Maharashtra)",
@@ -137,7 +138,8 @@
     "slug": "income-tax-section-80dd-dependent-disability",
     "category": "divyangjan",
     "currentUrl": "https://www.incometax.gov.in/",
-    "reason": "Generic umbrella or department homepage (https://www.incometax.gov.in/) removed to prevent redirect mismatch"
+    "reason": "Direct online apply unavailable (apply offline). Official information available at: https://www.incometax.gov.in/",
+    "infoUrl": "https://www.incometax.gov.in/"
   },
   {
     "name": "Maharashtra Free Residential Special Schools for Divyangjan",
@@ -222,13 +224,6 @@
     "category": "divyangjan",
     "currentUrl": "https://socialsecuritymission.gov.in/",
     "reason": "Generic umbrella or department homepage (https://socialsecuritymission.gov.in/) removed to prevent redirect mismatch"
-  },
-  {
-    "name": "National Career Service Portal (NCS - Free Job Matching & Career Guidance)",
-    "slug": "national-career-service-portal-ncs",
-    "category": "employment",
-    "currentUrl": "https://www.ncs.gov.in",
-    "reason": "Generic umbrella or department homepage (https://www.ncs.gov.in) removed to prevent redirect mismatch"
   },
   {
     "name": "Seekho Aur Kamao (Learn and Earn) Scheme",
@@ -364,29 +359,8 @@
     "reason": "Generic umbrella or department homepage (https://sjsa.maharashtra.gov.in) removed to prevent redirect mismatch"
   },
   {
-    "name": "Pradhan Mantri Krishi Sinchayee Yojana - Per Drop More Crop (Micro Irrigation Maha DBT)",
-    "slug": "mahadbt-drip-sprinkler-micro-irrigation",
-    "category": "farmers",
-    "currentUrl": "https://krishi.maharashtra.gov.in",
-    "reason": "Generic umbrella or department homepage (https://krishi.maharashtra.gov.in) removed to prevent redirect mismatch"
-  },
-  {
-    "name": "Bhausaheb Fundkar Horticulture Plantation Scheme (Maharashtra)",
-    "slug": "bhausaheb-fundkar-falbag-lagwad",
-    "category": "farmers",
-    "currentUrl": "https://krishi.maharashtra.gov.in",
-    "reason": "Generic umbrella or department homepage (https://krishi.maharashtra.gov.in) removed to prevent redirect mismatch"
-  },
-  {
     "name": "Namo Shetkari Mahasanman Nidhi Yojana (Maharashtra)",
     "slug": "namo-shetkari-mahasanman-nidhi",
-    "category": "farmers",
-    "currentUrl": "https://krishi.maharashtra.gov.in",
-    "reason": "Generic umbrella or department homepage (https://krishi.maharashtra.gov.in) removed to prevent redirect mismatch"
-  },
-  {
-    "name": "Dr. Babasaheb Ambedkar Krishi Swavalamban Yojana (Maharashtra)",
-    "slug": "dr-babasaheb-ambedkar-krushi-swavalamban",
     "category": "farmers",
     "currentUrl": "https://krishi.maharashtra.gov.in",
     "reason": "Generic umbrella or department homepage (https://krishi.maharashtra.gov.in) removed to prevent redirect mismatch"
@@ -669,7 +643,8 @@
     "slug": "ramai-awas-gharkul-yojana-maharashtra",
     "category": "housing",
     "currentUrl": "https://pmay-urban.gov.in/",
-    "reason": "Generic umbrella or department homepage (https://pmay-urban.gov.in/) removed to prevent redirect mismatch"
+    "reason": "Direct online apply unavailable (apply offline). Official information available at: https://myscheme.gov.in/schemes/rassnb",
+    "infoUrl": "https://myscheme.gov.in/schemes/rassnb"
   },
   {
     "name": "Shabari Adivasi Gharkul Yojana (Housing for Tribal Families - Maharashtra)",
@@ -998,14 +973,16 @@
     "slug": "income-tax-section-80ttb-interest-deduction",
     "category": "senior-citizens",
     "currentUrl": "https://www.incometax.gov.in/",
-    "reason": "Generic umbrella or department homepage (https://www.incometax.gov.in/) removed to prevent redirect mismatch"
+    "reason": "Direct online apply unavailable (apply offline). Official information available at: https://www.incometax.gov.in/",
+    "infoUrl": "https://www.incometax.gov.in/"
   },
   {
     "name": "Higher Health Insurance Tax Deduction for Senior Citizens (Section 80D)",
     "slug": "income-tax-section-80d-health-insurance-seniors",
     "category": "senior-citizens",
     "currentUrl": "https://www.incometax.gov.in/",
-    "reason": "Generic umbrella or department homepage (https://www.incometax.gov.in/) removed to prevent redirect mismatch"
+    "reason": "Direct online apply unavailable (apply offline). Official information available at: https://www.incometax.gov.in/",
+    "infoUrl": "https://www.incometax.gov.in/"
   },
   {
     "name": "Maharashtra Senior Citizen Day Care & Recreation Centres",
